@@ -1,0 +1,342 @@
+!
+!---------- Non-english Annoyances ----------
+!
+||img.mixi.net^$third-party,domain=~mixi.jp
+||odnoklassniki.ru^$~stylesheet,domain=~odnoklassniki.ru|~ok.ru
+||pusha.se^$third-party
+||share.gree.jp^$third-party
+||tweetbuzz.jp^$third-party
+||vk.com/images/$third-party
+!
+!---------- Latvian Specific Annoyances ----------
+!
+!
+!---------- Latvian Site Specific Hiding Rules ----------
+!
+miljons.com##div[style^="position:fixed; z-index:99999;"]
+!
+!---------- Non-english Generic Hiding Rules ----------
+!
+##.odkl-klass-stat
+!
+!---------- Non-enlish Site Specific Hiding Rules ----------
+!
+weltwoche.ch###alteAusgabenCovers
+boligliv.dk,rumid.dk###banner-floating
+abril.com.br###barra-mini-home
+mojkvart.hr###dcw1
+nbnews.com.ua###iosauth
+hrportfolio.hr###kolac
+goodtimes.dk###modalBackdrop
+goodtimes.dk###modalContent
+egmont.cz###nrlskswidget
+nooz.gr###right_popout
+delfi.lv###sbookmarks_left
+zena.hr###serviceBar
+blogdeputaria.net###sub
+delfi.lv##.after_body
+zaycev.net##.bookmarks
+weltwoche.ch##.navInner.fixed
+trazi.hr##.notification
+delfi.lv##.sbookmarks
+kp.ru##.seti
+uralpress.ru##.sticker
+naruto-grand.ru##div[id^="scbmr_"]
+boligliv.dk,rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
+!
+!---------- German Site Specific Hiding Rules ----------
+!
+nzz.ch###articleMore
+androidnext.de###c4a_box
+agynamix.de###cookie
+handelsblatt.com###divStickyLayerWrapper
+focus.de###flying_mbox
+androidnext.de###scrollbarbox
+computerwissen.de###simpleCatfish
+gmx.net###slideBox
+helpster.de###videoFlyin
+stern.de##.fixedHomeLink
+focus.de##.fixed_home_link
+ifun.de,iphone-ticker.de##.mail
+spiegel.de##.sticky-home-link
+||focus.de/fol/pics/special/informiert.gif
+||plista.com^$third-party
+!
+!---------- Polish Site Generic Hiding Rules ----------
+!
+###ciasteczka
+###ciasteczkaInfoContainer
+###ciasteczka_alert
+###ciastka
+###div-cookie-komunikat
+###pasek_ciasteczka
+###poityka-ciastek
+!
+!---------- Polish Site Specific Hiding Rules ----------
+!
+panasonic.pl###CP_Layer
+wtk.com.pl###TB_window
+cda.pl###box_info
+home.pl###box_policies
+kolejeslaskie.com###c_m
+lot.com###cc
+newseria.pl###cokPyt
+bstorun.pl###comm_info
+gov.pl,osnews.pl,xfutbol.pl###cookie
+dobreprogramy.pl,newsweek.pl,play.pl,tripolo.pl###cookies
+drony.net,gadzetomania.pl,komorkomania.pl###cop
+regenersis.pl###ctl00_cpanel
+pap.pl###divcook
+benchmark.pl###document_modal
+di.com.pl###floating-box
+komorkomania.pl###floatingbar
+atman.pl###gbpl_oba
+speedtest.pl###info_container
+webelite.pl###infobar
+gsmonline.pl###jGrowl
+wydawca.com.pl###kuki
+tripolo.pl###miastoszkolen
+mondeoklubpolska.pl###navbar_notice_12
+lovekrakow.pl###new-policy
+radiomerkury.pl###privacyPolicyBox
+totalmoney.pl###right_widget
+di.com.pl###slidebox
+gornikzabrze.pl###sliding-popup
+filmweb.pl###topBar
+goldenline.pl###topReminder
+skapiec.pl###uclaInfo
+votepush.com##.alert
+poznan.pl##.content-head-information
+bitbay.pl,telepolis.pl##.cookies
+mpolska24.pl##.infoBox
+policja.pl##.informationBar
+interia.pl##.inplCCA
+vectra.pl##.jqmAlertWindow
+filmweb.pl##.meterBottomBar
+gda.pl##.shotimoo
+naszamlawa.pl##.slide_button
+virginmobile.pl##.topPanelBlock
+pl.yahoo.com##.yom-wave3-generic
+gazetapolska.pl##div[style="border: 2px solid #900; clear: left; margin-left: auto; margin-right: auto; padding: 3px; width: 984px"]
+portel.pl##div[style="font-size:10px;text-align:left;background-color: #EAF6B4;padding: 2px 7px;width:906px;margin: 0 auto;"]
+atakklonow.pl,mistrzowie.org,wszechpolska.pl##div[style="position: fixed; left:0; right:0; bottom:0; height:120px; background-color:#eee; border-top: 1px solid black; z-index:1000; overflow: auto"]
+sportowybar.pl##div[style="width: 100%; background-color: #eee; color: #222;"]
+mamnewsa.pl##div[style="z-index: 100000; font-family:Arial; position: fixed; bottom: 0px; left: 0; background-color: #F4EFB4; color: #000000; text-align: center; font-weight: bold; padding: 20px 0px; width:100%;"]
+demotywatory.pl##div[style^="position: fixed; width: 750px; margin-left: -375px"]
+!
+!---------- Polish Site Specific Blocking Rules ----------
+!
+||4hifi.pl/scripts/jquery.cookie.js
+||animesub.info/skrypty/pierdolecookie.js
+||cookie.gazeta.pl^
+||cookies.fakt.pl^
+||cookies.forbes.pl^
+||gry-online.pl/js/cookie2.js
+||korwin-mikke.pl/js/cookies-legal-*.min.js
+||muzeumwp.pl/cookies/cookies.js
+||niewygodne.info.pl/pierwsza.htm
+||nowehoryzonty.pl/js/cookies.js
+||orange.pl/ocp-http/map/js/cookies.js
+||prideandglory.pl/polityka_cookies.js
+||skryptcookies.pl^$third-party
+||sycow.pl/a/cookie.js
+||wkd.com.pl/cookies/cookies.js
+!
+!---------- Finnish Site Specific Hiding Rules ----------
+!
+nyt.fi###next-teaser
+k-citymarket.fi,k-market.fi##.Pbox-sm
+!
+!---------- Dutch Site Specific Hiding Rules ----------
+!
+t-mobile.nl###exposeMask
+techzine.nl###scrollbuddy[style="top: -20px; position: fixed;"]
+3dtvmagazine.nl,gadgetsmagazine.nl,homecinemamagazine.nl,tabletsmagazine.nl##.opt-in
+t-mobile.nl##.overlay
+@@||cookiesv2.publiekeomroep.nl^$domain=cinema.nl|nos.nl
+@@||studentenwoningweb.nl/KRN/Scripts/jquery.cookiecuttr.js
+||cookiesv2.publiekeomroep.nl^
+!
+!---------- Norway Site Specific Hiding Rules ----------
+!
+dagbladet.no###db-inger
+bt.no##.flyout
+!
+!---------- Swedish Site Specific Hiding Rules ----------
+!
+sfv.se###cookies
+emol.com###slidebox
+sverigesradio.se###user-message
+aftonbladet.se##.abArticleToolbar
+aftonbladet.se##.abPremiumTeaserSalesPitch
+automotorsport.se,bamse.se,kalleanka.se,tidningenjulia.se##.alert
+polisen.se##.cookie
+gp.se##.gpsecGRCookieContainer
+emol.com##.social-tools-emol-g1
+google.se##div[style="min-width: 750px;"] > [style="behavior:url(#default#homePage) url(#default#userData);background-color:#5a5a5a"]
+!
+!---------- Russian Site Specific Hiding Rules ----------
+!
+rbc.ru###popup_box
+rbc.ru###popup_inner
+lenta.ru###up
+banki.ua##.b-fb-overlay
+banki.ua##.b-fb-popup
+ubr.ua##.job-block
+ntv.ru##.popup_overlay
+ubr.ua##.story-nav
+itc.ua##.verticalPageNav
+!
+!---------- French Site Specific Hiding Rules ----------
+!
+gentside.com###actionreceiver
+ladepeche.fr###alerte_tracking
+lemonde.fr###bandeau_bas
+canalplus.fr###bandeau_fb
+letelegramme.fr###barre_top_secondaire
+franceantilles.fr###bloc_rebond
+e-leclerc.com###bt_demo
+elpais.com###capaAvisoPoliticaCookies_superior_mensajes
+francetvsport.fr,pourquoidocteur.fr###cboxOverlay
+centerblog.net###centerbl
+pagesjaunes.fr###cgu
+nuits-sonores.com###cnil
+francetvsport.fr,pourquoidocteur.fr###colorbox
+gmf.fr,havas-voyages.fr,materiel.net,paris.fr,societe.com,sportetstyle.fr###cookie
+gentside.com,jules.com,laposte.fr,maxisciences.com,mybiclighter.com,ohmymag.com,showroomprive.com###cookies
+closermag.fr###fancybox-overlay
+closermag.fr###fancybox-wrap
+actu-environnement.com###footer_newsletter_content
+fronton.tv###ico_banner
+lepoint.fr###iframeForm
+bycontext.com###lcBar
+paperblog.fr###left-block
+priceminister.com###legalNotificationEltId
+solocalgroup.com###message-plugin
+elsevier-masson.fr###myModal
+nutrilifeshop.com###nlp_popup
+savi-france.fr###notifybar
+aol.fr###ooCont
+smile.fr###popup
+zara.com###popup-announcements
+ldlc-pro.com###privacy
+lequipe.fr###rebonds
+###sf-minisite-toolbar
+gentside.com###signup-holder
+boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,novaplanet.com###sliding-popup
+lequipe.fr###toasterQuoti
+lequipe.fr###toolbar
+letelegramme.fr###top_header
+jeuxvideo.fr###ubc
+hd1.tv,nt1.tv###upper
+virginmobile.fr##.TC
+radins.com##.abo-home
+ankama.com##.ak-notification
+dofus.com##.ak-notification-list-footer
+lesnumeriques.com##.alert
+20minutes.fr##.alerts_container
+rtl.fr##.article-mail-form
+mnt.fr##.banner
+commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##.ccmcss_oic
+pmu.fr,regionguadeloupe.fr##.cnil
+aso.fr##.confidentialite
+rueducommerce.fr##.confidentialite_header
+aquellefrequence.fr,midilibre.fr,sudouest.fr##.cookie
+118000.fr##.cookies
+jeuxvideo.fr##.fb-overlay
+mercialys.fr##.info-top
+lesechos.fr##.liennavigation
+minutebuzz.com##.likePopin
+lecho.be##.linkWithinBlock
+auchan.fr##.loi_hamon
+leroymerlin.fr##.nav-infos-wrapper
+silicon.fr##.nav-next
+silicon.fr##.nav-previous
+leparisien.fr,phonandroid.com##.newsletter
+20minutes.fr##.notice
+landrover.ch##.notificationBars
+nouvelobs.com##.obs-article-boutils
+nouvelobs.com##.obs-follow-nl
+leclercdrive.fr##.pWCTD609_BandeauCookies
+minutebuzz.com##.popinNl
+stihl.fr##.privacyTop
+ca-anjou-maine.fr,ca-cb.fr,ca-nord-est.fr##.recocliv2
+radins.com##.reveal-modal
+radins.com##.reveal-modal-bg
+vertbaudet.fr##.stickybar
+allocine.fr##.subscribe
+silicon.fr##.toaster
+publicsenat.fr##.top-message
+tetley.fr##.topFix
+e-leclerc.com##.top_banner
+le-dictionnaire.com##.topdisclaimer
+tf1.fr##div[id^="msgctrw"]
+video-buzz.eu##div[style="position:fixed;top:220px;left:0px;width:110px;-moz-border-radius:0px 5px 5px 0px;-webkit-border-radius:0px 5px 5px 0px;background-color:#ffffff;z-index:50;padding:10px;padding-left:0px;padding-top:50px;border:1px solid #000000;border-left:0px solid #000000;box-shadow: 1px 1px 4px #aaa;"]
+video-buzz.eu##div[style="position:relative;height:335px;background-color:#ebebeb;overflow:hidden;border:2px solid #222222;"]
+video-buzz.eu##div[style="position:relative;height:38px;background-color:#ebebeb;overflow:hidden;border:2px solid #222222;padding-top:15px;padding-left:56px;"]
+challenges.fr,nouvelobs.com,sciencesetavenir.fr##div[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
+buzger.com##div[style="z-index:10000000; position:fixed; padding:10px; top:0px; width:100%; background-color:#fff; color:#888; "]
+rtl.be##div[style^="display: block; position: fixed; bottom: 0px;"]
+||cookies.leadplace.fr^
+||pourquoidocteur.fr/img2/face.png
+||pourquoidocteur.fr/img2/in.png
+!
+!---------- Spanish/Portuguese Site Specific Hiding Rules ----------
+!
+record.xl.pt###MenuDinamico
+record.xl.pt###apDiv2
+diariolibre.com###bannerRight4
+eleconomista.es###barra-nav
+meristation.com###capaAvisoPoliticaCookies_superior_mensajes
+aristeguinoticias.com###comparte
+canaltech.com.br###floatBar
+uol.com.br###follow
+ingdirect.es###ico_banner
+sapo.pt###redesSociais
+terra.es###trr-root
+soychile.cl##.overli
+eleconomista.es##.tbot
+lanacion.com.ar##.twitter
+!
+!---------- Italian Site Specific Blocking Rules ----------
+!
+||js.adv.dadapro.net/collector.js/prcy.js?
+!
+!---------- Italian Site Specific Hiding Rules ----------
+!
+virgilio.it###bottom_chat
+ilgiornale.it,virgilio.it###bottombar
+gazzetta.it###multifunctionBar-container
+repubblica.it###related
+virgilio.it###shr_box
+meltybuzz.it###toastsWrapper
+!
+!---------- Korean Site Specific Hiding Rules ----------
+!
+etnews.com###wingBanner
+etnews.com##.sns_btn
+nnews.mk.co.kr##div[style="width: 525px; border:1px solid #ddd; border-radius: 3px; background: #fafafa; padding: 10px; margin-bottom: 20px; height: 62px;"]
+!
+!---------- Israeli Site Specific Hiding Rules ----------
+!
+calcalist.co.il###CornerPromotionDiv
+globes.co.il###GTV_VideoDetails
+tapuz.co.il###LikeTapuzImage
+ynet.co.il###activity_box
+mako.co.il###artipopup
+themarker.com###bottom_navigator
+holesinthenet.co.il###bottombar
+walla.co.il###inwise
+ynet.co.il###leftspacertable
+morfix.co.il###morfixInstallTB_main
+auto.co.il###openButton
+gadgety.co.il###subscribefield
+gadgety.co.il##.facelike
+mouse.co.il##.fbox_main
+globes.co.il##.footerN_box
+mouse.co.il##.hp_banners
+mouse.co.il##.mouseExtraContent
+auto.co.il##.searchbtn
+tapuz.co.il##.tapuzShareBar
+onlife.co.il##div[style="height:264px; background-color:white;width: 300px; float: left;margin-bottom:0px;"]
+walla.co.il##div[style="margin-top:10px;margin-bottom:10px;"]

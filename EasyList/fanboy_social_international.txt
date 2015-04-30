@@ -1,0 +1,251 @@
+!
+!---------- Non-English Social Media Elements ----------
+!
+||seitzeichen.de^$third-party
+||social-bookmarking-tools.de^$third-party
+||static.pe.studivz.net^*/library.js$third-party
+||trrsf.com/transversais/trr_bar/$script
+||werkenntwen.de/images/buttons/$third-party
+!
+!---------- Latvian Specific Social Media Elements ----------
+!
+tvnet.lv###fancybox-overlay
+tvnet.lv###fancybox-wrap
+||draugiem.lv/business/ext/fans/$third-party
+||draugiem.lv/business/ext/follow/$third-party
+||draugiem.lv/lapas/widgets/$third-party
+||draugiem.lv/say/ext/like.php$third-party
+||draugiem.lv/say/ext/recommend.php$third-party
+||draugiem.lv^*/js/fans/$third-party
+||sekomums.lv^$third-party
+!
+!---------- Chinese Generic Media Elements ----------
+!
+/jiathis_share.
+!
+!---------- Chinese Specific Media Elements ----------
+!
+||jiathis.com^$third-party
+||share.baidu.com^
+!
+!---------- Chinese Site Specific Hiding Rules ----------
+!
+newhua.com##.share
+vapee.com##a[href^="http://e.weibo.com/"]
+vapee.com##a[href^="http://t.qq.com/"]
+!
+!---------- Non-English Generic Hiding Rules ----------
+!
+!
+!---------- Non-enlish Site Specific Hiding Rules ----------
+!
+!
+!---------- German Site Specific Hiding Rules ----------
+!
+willhaben.at###bookmarks
+finanznachrichten.de###bookmarks_container
+clipfish.de###cf-player-googleplus
+clipfish.de###cf-player-twitter
+clipfish.de###cf-player-wkw-widget
+anjo.to###facebook
+kress.de###facebookbox-open
+sprachnudel.de###facebox
+sprachnudel.de###facebox_overlay
+moviepilot.de###fb-connect-dialog
+golem.de###followrss
+presseportal.de###iLike
+derstandard.at###infoslide
+netzwelt.de###sccf
+focus.de###singlepostSlideInBoxHoch
+focus.de###singlepostSlideInBoxQuer
+bild.de###smbChannelBlock
+myloc.de###social
+androidpit.de###swBar_1
+amazon.de###tafContainerDiv
+presseportal.de###toolbox_sm
+teltarif.de###ttSBM
+t-online.de##.Tfb_aktion
+driver.de##.Tlbvipr + .Tlbfkt
+t-online.de##.Tliveconnect
+t-online.de##.Ttwitter
+gulli.com##._bookmark
+onlinewelten.com##.action-initiator
+chip.de##.bookmark
+fnp.de,sport1.de,winfuture.de##.bookmarks
+chip.de##.col340-ri > .ad-ri + div[style="overflow:hidden; margin:0 0 22px 0;"]
+swr.de##.communityLinks
+gamestar.de##.content > .columnContent > .bottomservice
+model-kartei.de##.copyr
+heise.de,swr3.de,t3n.de##.facebook
+tape.tv##.facebook-prompt
+gutscheinsammler.de##.fancybox-overlay
+zentrum-der-gesundheit.de##.fbbox_overlay
+falk.de##.fbstatic
+myvideo.de##.globallike--fb-navi
+heise.de,t3n.de##.google
+n24.de##.google_interactivepos
+handelsblatt.com##.hcf-social-bookmark
+handelsblatt.com##.hcf-tbar-socials
+gmx.net##.head > #intro-aux
+rbb-online.de##.include_bookmarks
+swr3.de##.like-settings
+ardmediathek.de##.mt-player_bookmarks
+willhaben.at##.posttofacebook
+ndr.de##.recommendations
+t3n.de##.sbCombined
+welt.de##.share
+zeit.de##.show_smk
+amazon.de##.smTabCDiv
+playmassive.de,playnation.de##.sn
+heise.de##.soc-pos
+focus.de##.socBm
+focus.de##.socInfo
+n24.de,peugeot.de,prosieben.de##.social
+futurezone.at##.social > li > a > img
+schwaebische.de##.social_communities
+finanzen.net##.social_network
+playnation.de##.sos
+spiegel.de##.spHeaderFollow
+androidpit.de##.tile_Follow
+heise.de,ifun.de,iphone-ticker.de,swr3.de,t3n.de##.twitter
+neusprech.org##.wptwitter
+t3n.de##.youtube
+futurezone.at##a[class*="follow sm_"]
+presseportal.de##div[id^="facebook_fanbox_"]
+stadt-bremerhaven.de##div[style="background: #f8f8f8; padding:20px;margin:0 0 10px -20px;width: 593px;"]
+gmx.net,web.de##iframe[src^="https://www.facebook.com/plugins/like.php"]
+||apfel-faq.de/name.js
+||chip.de^*/fanconverter.js
+||chip.de^*/google_plus_statisch_$image
+||dict.cc/img/fbplus1.png
+||die-kopie.info/bilder/facebook.png
+||nibelungenkurier.de/t-ticker/
+||rtl.de/fb/
+!
+!---------- Polish Site Specific Hiding Rules ----------
+!
+gadzetomania.pl###floatingbar
+salon24.pl##.fsocBody
+!
+!---------- Dutch Site Specific Hiding Rules ----------
+!
+@@||pollland.nl^*/share/js/jquery
+@@||s7.addthis.com^*/addthis_widget.js$domain=carsom.nl|ticketmaster.nl
+@@||static.autojunk.nl/javascript/SocialMedia.js
+nu.nl#@#.social-button
+nu.nl#@#.social-buttons
+nu.nl#@#.socialbar
+welovemusthaves.com#@##socialContainer
+||sanoma.nl/media/static/images/icon_zienl.png
+!
+!---------- Swedish Site Specific Hiding Rules ----------
+!
+!
+!---------- Russian Site Specific Hiding Rules ----------
+!
+habrahabr.ru##.twitter
+exzerry.com##body > #links > div[align="center"]
+||spynews.ro/templates/default/img/face.png
+!
+!---------- French Site Specific Hiding Rules ----------
+!
+soluciones-libres.com###cajared
+nouvelobs.com###facebook_aime
+gentside.com###fixed-pop
+gamekult.com###follow
+jeuxvideo.com###partager_v2
+cowcotland.com###rezo
+lepoint.fr###share
+leforem.be###suivi
+gentside.com##.action
+leparisien.fr##.barrePartage
+##.blocSociaux
+sportetstyle.fr##.bttw
+rtl.be##.bulle_nombre
+rtl.be##.count
+buzzfil.com,clubic.com,lci.tf1.fr,lesoir.be,liberation.fr,pebkac.fr,silicon.fr##.facebook
+franceantilles.fr,rtl.fr##.fb
+radins.com##.fbMin
+lefigaro.fr##.fig-micronav-share-figures
+nouvelobs.com##.follobs
+francetvinfo.fr##.follow
+rtl.fr##.gg
+lci.tf1.fr,liberation.fr,silicon.fr##.google
+franceantilles.fr##.gplus
+rtl.fr##.ld
+viedemerde.fr##.likebox
+marmiton.org##.m_content_recette_share
+marmiton.org##.m_suivez_nous_btn
+tempsreel.nouvelobs.com##.obs-galerie-bp-share
+lemonde.fr##.partage
+jeuxvideo.fr,jeuxvideopc.com##.pictos
+leparisien.fr##.plusRecommande
+gamekult.com,nieuwsblad.be##.share
+rtl.fr##.shared-logo
+buyindz.com,gamergen.com,korben.info,methodelafayfemme.fr,sudouest.fr##.social
+fr.msn.com##.stbp-tbl
+telerama.fr##.t12-user-resoc
+franceantilles.fr,rtl.fr##.tw
+radins.com##.twiMin
+buzzfil.com,clubic.com,lci.tf1.fr,lesoir.be,pebkac.fr,silicon.fr##.twitter
+@@||nextinpact.com/js/socialbar.js
+blogs.dhnet.be##a[target="_blank"][href^="https://www.facebook.com/pages/"] > img
+||nioutaik.fr/themes/freshy/images/facedebouc.gif
+||nioutaik.fr/themes/freshy/images/googlepeuluss.gif
+||nioutaik.fr/themes/freshy/images/zoiseau.gif
+||nouvelobs.com/social/
+!
+!---------- Spanish/Portuguese Site Specific Hiding Rules ----------
+!
+soychile.cl###facebook
+yamaha-motor.com.br##.barra-midias
+starmedia.com##.fbk
+crea-mexico.com##.redes
+tn.com.ar##.shares
+diarioti.com##.social
+starmedia.com##.twt
+publicar.com##img[style="margin: 0px 10px; float: left; width: 26px;"]
+!
+!---------- Italian Site Specific Hiding Rules ----------
+!
+###boxOKnotizie
+gds.it###data[style="overflow:hidden; height: 246px; margin:10px 0px;"]
+mediaset.it###pinit
+meltybuzz.it###reactionsBox
+casertanews.it###script-bannOverLayer
+virginactive.it###social
+rai.it##.Facebook
+rai.it##.Invia
+rai.tv##.Mail
+rai.tv##.Opzioni
+barfuss.it##.barfuss-fblikebox
+##.condividi
+gazzetta.it##.embed-social-buttons
+corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.fumetti
+advicegroup.it##.google
+corriere.it##.player-email-ctn
+ilsecoloxix.it,ilsole24ore.com##.share
+ilsole24ore.com##.share-elements
+||gds.it/abbonamenti/img/diventa-fan.gif
+!
+!---------- Korean Site Specific Hiding Rules ----------
+!
+!
+!---------- Hebrew Site Specific Hiding Rules ----------
+!
+!---------- Arabic Site Specific Hiding Rules ----------
+||tn-sport.net/like/
+!
+!---------- Malay Site Specific Hiding Rules ----------
+!
+goal.com##table[style="background-color: #081f2c; border-color: #00ac77; border-width: 3px; border-style: solid; width: 100%;"]
+!
+!---------- Norway Site Specific Hiding Rules ----------
+!
+vg.no##.facebook
+budstikka.no##.np-videoInfo
+vg.no##.twitter
+!
+!---------- Afrikaans Site Specific Hiding Rules ----------
+!
+beeld.com,dieburger.com,volksblad.com##.social
