@@ -1,9 +1,11 @@
-[Adblock Plus 2.0]
+﻿[Adblock Plus 2.0]
 !  Title: Makani Private uBlock Incremental Update List
-!  Last Modified: Sun, 3 May 2015 17:15:00 +0400
+!  Last Modified: Sun, 17 May 2015 19:30:00 +0400
 !
 !  This is a private list,
 !  will not provide any technical support
+!  Russian support of https://github.com/rusingineer/uBlock
+! please create issues
 !  GNU GPL 2+ Licensed
 !  coding: utf-8, expires: 1 days
 http://magicplayer-s.acestream.net/stat.js
