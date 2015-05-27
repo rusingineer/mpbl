@@ -125,7 +125,8 @@
 ||affiliates.homestead.com^$third-party
 ||affiliates.lynda.com^$third-party
 ||affiliates.picaboocorp.com^$third-party
-||affiliation.filestube.com^
+||affiliatesmedia.sbobet.com^
+||affiliation.filestube.com^$third-party
 ||affiliation.fotovista.com^
 ||affutdmedia.com^$third-party
 ||afimg.liveperson.com^$third-party
@@ -279,6 +280,7 @@
 ||bluhostedbanners.blucigs.com^
 ||bo-videos.s3.amazonaws.com^$third-party
 ||boago.com^*_Takeover_
+||bollyrulez.net/media/adz/
 ||booking.com/general.html?$domain=timeout.com
 ||booking.com^*;tmpl=banner_
 ||bookingdragon.com^$subdocument,third-party
@@ -331,6 +333,7 @@
 ||cdn.cdncomputer.com/js/main.js
 ||cdn.ndparking.com/js/init.min.js
 ||cdn.offcloud.com^$third-party
+||cdn.pubexchange.com/modules/display/$script
 ||cdn.sweeva.com/images/$third-party
 ||cdnpark.com/scripts/js3.js
 ||cdnprk.com/scripts/js3.js
@@ -685,6 +688,7 @@
 ||gateways.s3.amazonaws.com^
 ||gawkerassets.com/assets/marquee/$object,third-party
 ||ge.tt/api/$domain=mhktricks.net
+||gemini.yahoo.com^*^syndication^
 ||generic4all.com^*?refid=$third-party
 ||geo.connexionsecure.com^
 ||geobanner.friendfinder.com^
@@ -1257,6 +1261,7 @@
 ||smartlinks.dianomi.com^$third-party
 ||smilepk.com/bnrsbtns/
 ||snacktools.net/bannersnack/
+||snapapp.com^$third-party,domain=bostonmagazine.com
 ||snapdeal.com^*.php$third-party
 ||sndkorea.nowcdn.co.kr^$third-party
 ||socialmonkee.com/images/$third-party
@@ -1289,7 +1294,6 @@
 ||stats.hosting24.com^
 ||stats.sitesuite.org^
 ||storage.to/affiliate/
-||store.lavasoft.com^$third-party
 ||streamtheworld.com/ondemand/ars?type=preroll$object-subrequest
 ||streamtheworld.com/ondemand/creative?
 ||strikeadcdn.s3.amazonaws.com^$third-party
@@ -1421,6 +1425,7 @@
 ||viagogo.co.uk/feeds/widget.ashx?
 ||videoweed.es/js/aff.js
 ||videozr.com^$third-party
+||vidible.tv/jsonp/pid=*.js$third-party
 ||vidible.tv/placement/vast/
 ||vidible.tv/prod/tags/$third-party
 ||vidyoda.com/fambaa/chnls/ADSgmts.ashx?

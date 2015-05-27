@@ -187,6 +187,7 @@
 ||bigstats.net^$third-party
 ||bigtracker.com^$third-party
 ||bionicclick.com^$third-party
+||bitrix.info^$third-party
 ||bizible.com^$third-party
 ||bizo.com^$third-party
 ||bizspring.net^$third-party
@@ -811,6 +812,7 @@
 ||komtrack.com^$third-party
 ||kontagent.net^$third-party
 ||kopsil.com^$third-party
+||krxd.net^$third-party
 ||ksyrium0014.com^$third-party
 ||l2.visiblemeasures.com^$object-subrequest,third-party
 ||landingpg.com^$third-party
@@ -985,6 +987,7 @@
 ||newscurve.com^$third-party
 ||newstatscounter.info^$third-party
 ||newtrackmedia.com^$third-party
+||nexeps.com^$third-party
 ||nextstat.com^$third-party
 ||ngmco.net^$third-party
 ||nicewii.com^$third-party
@@ -1296,6 +1299,7 @@
 ||smart-ip.net^$third-party
 ||smarterremarketer.net^$third-party
 ||smartracker.net^$third-party
+||smartzonessva.com^$third-party
 ||smfsvc.com^$third-party
 ||smileyhost.net^$third-party
 ||smrtlnks.com^$third-party
@@ -1621,7 +1625,6 @@
 ||wtstats.com^$third-party
 ||wundercounter.com^$third-party
 ||wunderloop.net^$third-party
-||wurfl.io^$third-party
 ||www-path.com^$third-party
 ||wwwstats.info^$third-party
 ||wzrk.co^$third-party
@@ -1645,7 +1648,6 @@
 ||yieldsoftware.com^$third-party
 ||your-counter.be^$third-party
 ||youramigo.com^$third-party
-||ywxi.net^$third-party
 ||zdbb.net^$third-party
 ||zdtag.com^$third-party
 ||zenlivestats.com^$third-party

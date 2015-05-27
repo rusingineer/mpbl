@@ -1,5 +1,5 @@
 /sendspace-pop.$popup,domain=sendspace.com
-^utm_source=$popup,domain=sex.com|thepiratebay.se
+^utm_source=$popup,domain=|sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
 |http:$popup,third-party,domain=allmyvideos.net|embed.videoweed.es|extreme-board.com|filepost.com|filmovizija.com|go4up.com|imagebam.com|imageporter.com|imgbox.com|imgmade.com|imgspice.com|load.to|mofunzone.com|putlocker.is|vidspot.net|watchcartoononline.com|xtshare.com
 ||4fuckr.com/api.php$popup
 ||adf.ly^$popup,domain=uploadcore.com|urgrove.com
@@ -10,7 +10,9 @@
 ||avalanchers.com/out/$popup
 ||bangstage.com^$popup,domain=datacloud.to
 ||bit.ly^$popup,domain=fastvideo.eu|rapidvideo.org
+||casino-x.com^*&promo$popup
 ||channel4.com/ad/$popup
+||click.aliexpress.com^$popup,domain=multiupfile.com
 ||cloudzilla.to/cam/wpop.php$popup
 ||comicbookmovie.com/plugins/ads/$popup
 ||conservativepost.com/pu/$popup
@@ -62,6 +64,7 @@
 ||nosteam.ro/pma/$popup
 ||oddschecker.com/clickout.htm?type=takeover-$popup
 ||pamaradio.com^$popup,domain=secureupload.eu
+||park.above.com^$popup
 ||photo4sell.com^$popup,domain=filmovizija.com
 ||plarium.com/play/*adCampaign=$popup
 ||playhd.eu/test$popup

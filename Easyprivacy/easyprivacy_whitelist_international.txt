@@ -9,6 +9,7 @@
 @@||billiger.de/js/emos2.js
 @@||btstatic.com/tag.js$domain=oralb.de
 @@||classistatic.de^*/hitcounter.js$domain=mobile.de
+@@||cloudfront.net/bugsnag-$script,domain=nowtv.de
 @@||code.etracker.com/t.js?et=$script,domain=apotheken-umschau.de|compo-hobby.de|diabetes-ratgeber.net|giz.de|kaguma.com|krombacher.de
 @@||count.rtl.de/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||css.ch/stats/tracker.js?$xmlhttprequest
@@ -23,6 +24,7 @@
 @@||hermesworld.com/tracking/urchin.js
 @@||heute.de/zdf/flash/eplayer/player.swf?*/cgi-bin/ivw/
 @@||hse24.de^*/emos2.js
+@@||imrworldwide.com/novms/*/ggcm*.js$domain=ndr.de
 @@||ing-diba.de^*/sitestat.js
 @@||iocdn.coremetrics.com^*.js?V=$script,domain=adidas.de
 @@||iocdn.coremetrics.com^*/io_config.js?ts=$domain=adidas.de
@@ -70,6 +72,7 @@
 @@||zeit.de/piwik/piwik.js$domain=schach.zeit.de
 ! French
 @@||actiris.be/urchin.js
+@@||actiris.be^*/urchin.js
 @@||adyoulike.omnitagjs.com^$script,domain=dl.free.fr
 @@||analytics.ladmedia.fr/parismatch/xtcore_mod2.js$domain=parismatch.com
 @@||api.mixpanel.com/engage/?data=$xmlhttprequest,domain=deezer.com
@@ -101,7 +104,6 @@
 @@||aolcdn.com/omniunih_int.js$domain=engadget.com
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
 @@||hk.on.cc/hk/bkn/hitcount/web/js/hitCount_$~third-party,xmlhttprequest
-@@||hm.baidu.com/h.js?$domain=weaku.com
 @@||ijinshan.com/static/js/analyse.js
 @@||imrworldwide.com/novms/js/2/ggcmb353.js$domain=nexttv.com.tw
 @@||itc.cn/v2/asset/*/pageView.js
@@ -111,6 +113,7 @@
 @@||s-msn.com^*/udctrack*.js$domain=ynet.com
 @@||streaming.cri.com.hk/geo.php?
 @@||uwants.com/include/*/swfaddress.js
+@@||v.blog.sohu.com/dostat.do?*&n=videoList_vids&$script
 @@||vanclimg.com/js.ashx?*/google-analytics.js$domain=vancl.com
 @@||wenxuecity.com/data/newscount/$image,domain=wenxuecity.com
 @@||wrating.com/a1.js$domain=tudou.com|ynet.com
@@ -165,7 +168,7 @@
 @@||chancro.jp/assets/lib/googleanalytics-$script
 ! Latvian
 @@/webtracking/*$domain=pasts.lv
-@@||google-analytics.com/analytics.js$domain=tv3play.lt|tvplay.lv
+@@||google-analytics.com/analytics.js$domain=skaties.lv
 ! Norwegian
 @@||google-analytics.com/analytics.js$domain=tv3play.no
 ! Polish

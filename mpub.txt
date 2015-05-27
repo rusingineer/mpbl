@@ -1,0 +1,38 @@
+[Adblock Plus 2.0]
+! Last modified: %timestamp%
+! Homepage: 
+!
+!  This is a private list,
+!  will not provide any technical support
+!  Russian support of https://github.com/rusingineer/uBlock
+! please create issues
+!  GNU GPL 2+ Licensed
+!  coding: utf-8, expires: 5 days
+!
+! = Сайты-попапы (самостоятельно открываются в новом окне) ====================
+%include advblock/popup.txt%
+!
+! = Общие CSS-фильтры =========================================================
+%include advblock/general_hide.txt%
+!
+! = Общие правила блокировки ==================================================
+%include advblock/general_block.txt%
+!
+! = Блокировка доменов ========================================================
+%include advblock/first_level.txt%
+! -----------------------------------------------------------------------------
+%include advblock/thirdparty.txt%
+! -----------------------------------------------------------------------------
+%include advblock/adservers.txt%
+!
+! = Частные правила для сайтов(блокировка и скрытие) ==========================
+%include advblock/specific_hide.txt%
+! -----------------------------------------------------------------------------
+%include advblock/specific_block.txt%
+! -----------------------------------------------------------------------------
+%include advblock/specific_special.txt%
+! -----------------------------------------------------------------------------
+%include advblock/specific_antisocial.txt%
+!
+! = Исключения ================================================================
+%include advblock/whitelist.txt%

@@ -123,6 +123,7 @@
 ###posterous_footerbar
 ###posts_link_back_box
 ###ppsPopupBgOverlay
+###prev-post-wrap
 ###privacypopup
 ###promotion-floater
 ###read-next-modal
@@ -247,6 +248,7 @@
 ##.btn__subscribe
 ##.btrss
 ##.cb_ads
+##.cfsnip-widget
 ##.circ-signup-form
 ##.circ-slider-module
 ##.cls_xswdg_feedburner
@@ -476,6 +478,7 @@
 ##.taboola-vertical
 ##.taboola-wrapper
 ##.taboolaDiv
+##.taboola_module
 ##.taboola_v8
 ##.targetAd
 ##.td-more-articles-box
@@ -568,6 +571,8 @@
 ##img[alt="Watch Us on You Tube"]
 ##img[alt="Watch us on YouTube"]
 ##img[title="Subscribe to Email Updates"]
+! Mobile Apps
+###mn-app-banner
 ! Gannett close buttons
 ###back-to-home > .back-to-home-button
 ###close-btn-wrapper > #close-back-btn
@@ -606,6 +611,7 @@
 ###blog_subscription-4
 ###boxes-box-newsletter
 ###bp-newsletter-5
+###category-specific-newsletter
 ###channel-subscriptions
 ###channelNewsletter
 ###column3_newsletter_signup
@@ -637,6 +643,7 @@
 ###footer-email-signup
 ###footer-newsletter
 ###footer-newsletter-signup
+###footer-newsletter-subscribe
 ###footer-subscribe
 ###footerEmailSignup
 ###footer__newsletter-signup
@@ -646,7 +653,9 @@
 ###formNewsLetters
 ###formNewsLetters-block
 ###free-signup-newsletter
+###fusion-email-signup-modal
 ###get-our-newsletter
+###header-newsletter-promo
 ###header-subscribe
 ###home-newsletter
 ###home-subscribe-icons
@@ -656,6 +665,7 @@
 ###leftcol_subscribe
 ###macro-leadership-newsletter-signup
 ###mc-embedded-subscribe-form
+###mc-signup
 ###mc_embed_signup
 ###mc_embed_signup1
 ###mc_embed_signup2
@@ -769,6 +779,7 @@
 ###offer-research-center-newsletter
 ###pcm-subscribe
 ###pnlFooterNewsletterSignup
+###popup-newsletter-software
 ###pp-subscribe
 ###pro_newsletter_signup
 ###promo-subscription
@@ -789,10 +800,12 @@
 ###sidebarnewsletter
 ###sidebarnewsletter_wrapper
 ###sidenewsletter
+###signUpPromoFooter
 ###signup_interstitial
 ###signup_interstitial_overlay
 ###signup_newsletter
 ###sssubscribe-wrapper
+###st-email-signup
 ###subscribe-index-div
 ###subscribe-like
 ###subscribe-menu
@@ -823,7 +836,9 @@
 ###subscriptionHeader
 ###subscriptionModal
 ###subscription_box
+###subscription_digest_hypepanel
 ###subsribe_right
+###tc_newsletter
 ###widget-newsletter-signup
 ###widgetNewsletter
 ##.ALS_IL_Holder
@@ -859,6 +874,7 @@
 ##.btn_newsletter
 ##.cS-newsletter
 ##.cambeywest-subscribe
+##.chive-newsletter
 ##.cm_newsletter
 ##.connect_newsletter
 ##.content-mod-newsletter-right
@@ -885,9 +901,11 @@
 ##.email_subscribe_box
 ##.email_subscribe_container
 ##.email_subscribe_option
+##.emailnewsletter_cmp
 ##.enewsletter
 ##.entry-footer-subscribe
 ##.entryNewsletter
+##.fixed-overlay-subscription
 ##.flyout-newsletter-rr
 ##.foo-newsletter
 ##.footer-email-signup-container
@@ -913,6 +931,7 @@
 ##.js-newsletter
 ##.js-newsletter-signup
 ##.lon-newsletter-tout
+##.m-newsletter-signup
 ##.m-rock-newsletter
 ##.m-subscribe
 ##.menu-newsletter-signup
@@ -1022,6 +1041,7 @@
 ##.subscrOptWide
 ##.subscribe-block
 ##.subscribe-blurb
+##.subscribe-newsl
 ##.subscribe-right
 ##.subscribe-to-magazine
 ##.subscribe2
@@ -1140,6 +1160,7 @@
 ###block-inf-eu-cookie-cookie-disclaimer
 ###blogger_cookie_notice
 ###boxZgodaNaCookie
+###box_cookie_info
 ###box_cookies_error
 ###c2g_cookie_dialog
 ###c_agrem
@@ -1302,6 +1323,8 @@
 ###cookie_box
 ###cookie_cnil
 ###cookie_consent
+###cookie_disclaimer
+###cookie_disclaimer_wrapper
 ###cookie_header
 ###cookie_info
 ###cookie_law
@@ -1433,6 +1456,7 @@
 ###divCookieMsg
 ###divCookiePolicy
 ###div_cookie
+###dvCookie
 ###eCookieMsg
 ###ePrivacyBanner
 ###ePrivacyDisclaimer
@@ -1779,6 +1803,7 @@
 ##.js-cookie-message
 ##.js-cookie-policy
 ##.js-cookie-widget
+##.js-cookieComply
 ##.js-cookies
 ##.js-message-cookies
 ##.layerCookie
@@ -1821,6 +1846,9 @@
 ##.warningCookieWrap
 ##.wrapper--cookies
 ##.wrapperCookies
+! Various uk Football splashes
+###splash_mask
+###splash_mask + #splash_box
 ! cartoonnetwork.es/cartoonnetwork.fr
 ##.front-page > #sliding-popup
 ! Ebay European Coookies
@@ -1910,6 +1938,7 @@
 ##.newsletterSignup-wrapper
 ##.os-back-to-top
 ##.pi-scroll-top-arrow
+##.rh-footer-back-to-top
 ##.s5_scrolltotop
 ##.scroll-back-to-top-wrapper
 ##.scroll-to-top

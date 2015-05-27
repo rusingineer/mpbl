@@ -81,6 +81,7 @@ hyperallergic.com###after-post-subscribe-options
 agein.com###agein-signup
 neowin.net###ajax-spinner
 neowin.net###ajax_loading
+artofgears.com###ajaxnav
 jobisjob.co.uk###alert-footer-box
 hostgator.com###alertBar
 latimes.com###alertSignUp
@@ -700,7 +701,6 @@ infoworld.com###it_job_module
 ixquick.com###ix_promo_box
 datacenterknowledge.com###jbb_widget_grey
 propertyobserver.com.au,smartcompany.com.au###jfconversion
-grooveshark.com###jh-feedback
 miamiherald.com###jobSearch
 airtet.in###joead2
 daniweb.com###join-notice
@@ -887,7 +887,7 @@ cheatcc.com###notice
 britannia.co.uk,co-operativebank.co.uk###noticePanel
 videobam.com###notice_bar
 bnpparibasfortis.be###notificationpanel
-digitalversus.com,grooveshark.com,ifixit.com###notifications
+digitalversus.com,ifixit.com###notifications
 wolframalpha.com###notifier
 boards.ie,thejournal.ie###notify-container
 spotify.com###now-playing-widgets
@@ -1278,6 +1278,7 @@ hometheater.com###sub_pop
 gamerant.com###subbox
 msn.com###subfoot
 motherjones.com###subform
+peerj.com###submit-announce-alert
 boostinspiration.com###subs
 buzzsugar.com,geeksugar.com,popsugar.com,yumsugar.com###sugar-post-cross-sell
 latina.com###suggested-reading-wrapper
@@ -1334,6 +1335,7 @@ fyiliving.com###text-9
 funtasticus.com###tfmBox
 hotair.com,townhall.com###th-pop
 theroot.com###theroot_mc_signup_cont
+allkpop.com###theshop_link
 bing.com###thp_notf_div
 time.com###time_connect-2
 time.com###time_text-6
@@ -1531,7 +1533,7 @@ afp.com##.afp_contact_block_contact
 chriskresser.com##.after-post
 vaildaily.com##.aggregatorlinksbottom
 vaildaily.com##.aggregatorlinkstop
-alternet.org,csicon.org,irishcentral.com,mediauk.com##.alert
+alternet.org,csicon.org,irishcentral.com,mediauk.com,techinasia.com##.alert
 g4tv.com##.alert-wrap
 kevinmd.com##.alignleftfp
 kevinmd.com##.alignrightfp
@@ -1539,7 +1541,7 @@ hollywoodreporter.com##.an-widget-done
 soundcloud.com##.announcement
 wow247.co.uk##.anonymousbarWrapper
 discountsstory.com##.app_banner_right
-mirror.co.uk##.app_container
+mirror.co.uk,walesonline.co.uk##.app_container
 msnbc.msn.com##.appopen
 huffingtonpost.com##.apps-feeds
 collegehumor.com,dorkly.com,goal.com##.arrow
@@ -1557,6 +1559,7 @@ pangeatoday.com##.article-navigation
 thenational.ae##.article-navigator
 benzinga.com##.article-prev-next
 itnews.com.au##.article-promo-link
+yougov.com##.article-register-box
 foreignaffairs.com##.article-sidebar-inner
 thescore.com##.article-social-header
 pinknews.co.uk##.article-sting
@@ -2170,7 +2173,7 @@ nytimes.com##.mobilePromo
 nola.com##.mobile_lrg
 espn.go.com##.mod-fb-opengraph
 atlasobscura.com,bournemouthecho.co.uk,deals.slashdot.org,jobomas.com,tuaw.com##.modal
-aplus.com,atlasobscura.com,bournemouthecho.co.uk,decalgirl.com,eurocheapo.com,jobomas.com,kevinmd.com,police.uk,upworthy.com##.modal-backdrop
+allkpop.com,aplus.com,atlasobscura.com,bournemouthecho.co.uk,decalgirl.com,eurocheapo.com,jobomas.com,kevinmd.com,police.uk,upworthy.com##.modal-backdrop
 popdust.com##.modal-close
 narrative.ly##.modal-content
 popdust.com##.modal-image
@@ -2185,6 +2188,7 @@ news.com.au##.module-promo-splash-01
 guardianbookshop.co.uk##.moduleBookmarkLinks
 time.com##.more-ways
 v3.co.uk##.more_jobs_block
+rightwingwatch.org##.mr_lightbox_background
 starpulse.com##.msFullBar
 nzherald.co.nz##.msn
 motortrend.com##.mt-fb
@@ -2483,6 +2487,7 @@ newsok.com##.section-nav-arrow
 back9network.com##.section-promotion
 e27.sg##.section.f
 snakkle.com##.send-box
+scribd.com##.seo_banner_spacer
 sciguru.com,voxy.co.nz##.service-links
 intomobile.com##.services
 haaretz.com##.services-list
@@ -2502,6 +2507,7 @@ diply.com##.sideNextPost
 diply.com##.sidePrevPost
 spacecast.com##.sidePromo
 medicaldaily.com##.side_box04
+cheatsheet.com##.sidebar
 msdn.com##.sidebar-tiles
 huffingtonpost.com,news.moviefone.ca##.sidebarHeader
 wolfram.com##.sidebarSubscribe
@@ -2579,7 +2585,7 @@ newsweek.com##.stay-connected
 trafficestimate.com##.stay-connected-wrapper
 now.msn.com##.stb2-tbl
 engadget.com,indiatvnews.com,thehollywoodgossip.com##.sticky
-ibtimes.com##.sticky-bar
+ibtimes.com,idigitaltimes.com##.sticky-bar
 airspacemag.com,smithsonianmag.com##.sticky-block
 laphamsquarterly.org##.sticky-issue
 aeon.co##.sticky-wrapper
@@ -2952,6 +2958,7 @@ the-line-up.com##.branded
 time.com##.cartoon-newsletter-container
 coconuts.co##.coconuts-newsletter-subscribe-container
 fiercecable.com##.content-subscribe
+forbes.com##.email-promo
 thoughtworks.com,washingtonblade.com##.email-signup
 fivethirtyeight.com##.fivethirtyeight-newsletter
 fitbit.com##.ftr-mail-me
@@ -2977,7 +2984,7 @@ screeninnovations.com,viralnova.com##.signup
 mrctv.org##.signup-block
 communitytable.com##.signup_module
 bizjournals.com##.smart-email
-alternet.org,android.gs,attn.com,bizjournals.com,businesstech.co.za,caloriesecrets.net,catonmat.net,cnet.com,dailycaller.com,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,fromthegrapevine.com,intomobile.com,labnol.org,list25.com,messynessychic.com,mybroadband.co.za,mygaming.co.za,nymag.com,pando.com,pandodaily.com,parentherald.com,pedestrian.tv,people.com,petapixel.com,phonearena.com,propertyobserver.com.au,readwriteweb.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,techeye.net,ted.com,teenchatdecoder.com,therichest.org,thinq.co.uk,tv.com,twice.com,udreview.com,usatoday.com,usnews.com,variety.com,wackymania.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
+alternet.org,android.gs,attn.com,bizjournals.com,businesstech.co.za,caloriesecrets.net,catonmat.net,chicagomag.com,cnet.com,dailycaller.com,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,fromthegrapevine.com,intomobile.com,labnol.org,list25.com,messynessychic.com,mybroadband.co.za,mygaming.co.za,nymag.com,pando.com,pandodaily.com,parentherald.com,pedestrian.tv,people.com,petapixel.com,phonearena.com,propertyobserver.com.au,readwriteweb.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,therichest.org,thinq.co.uk,tv.com,twice.com,udreview.com,usatoday.com,usnews.com,variety.com,wackymania.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
 financialbuzz.com,maclife.com##.subscribe-form
 pangeatoday.com##.subscribe-link
 joekraus.com##.subscribe-links
@@ -2988,6 +2995,7 @@ techshout.com##.subscribition
 healthboards.com,nymag.com,refinery29.com##.subscription
 matadornetwork.com##.subscription_options
 time.com##.time-newsletters
+billboard.com##.top-cover-image
 trustedreviews.com##.tr-newsletter-email-signup
 styleblazer.com##.widget_fashionblog_newsletter
 mommynoire.com##.widget_mmg_newsletter_two
@@ -3084,7 +3092,9 @@ bankofengland.co.uk##.container-notifications
 abta.com,cineworld.co.uk,here.com,natwest.com,roalddahl.com,virgin-atlantic.com##.cookie
 ets2mp.com,festicket.com,redbull.com,royalparks.org.uk,unity3d.com,unknownphone.com,viralnewschart.com##.cookies
 videojug.com##.cp-alert-message
+theartnewspaper.com##.fixed-panels
 change.org##.flash-message-announcement
+locatetv.com##.floatableBanner
 hattrick.org##.frontPage .container > .alert
 themeflood.com##.gatewayContainer
 play.com##.global-banner
@@ -3102,6 +3112,7 @@ youronlinechoices.com##.p15
 plymouth.ac.uk##.page-notification
 lg.com##.policyChk
 dubli.com##.popover
+bbc.co.uk##.pulse-banner
 layar.com##.remarketing-banner
 last.fm##.site-message
 gov.im##.site-warning

@@ -317,6 +317,7 @@
 ||cclickvidservgs.com/mattel/cclick.js
 ||cctv.com^*/SnoopStat?
 ||cd.musicmass.com^
+||cdnstats.tube8.com^
 ||cellstores.com/tracking/
 ||cert.org/images/1pxinv.gif
 ||cfr.org/js/ga.*js
@@ -425,7 +426,7 @@
 ||dailymail.co.uk/tracking/
 ||dailymotion.com/logger/$object-subrequest
 ||dailymotion.com/track-
-||dailymotion.com/track/$object-subrequest
+||dailymotion.com/track/
 ||dailymotion.com^*/tag.gif?
 ||data.ninemsn.com.au/*GetAdCalls
 ||datacollector.coin.scribol.com^
@@ -713,6 +714,7 @@
 ||harvester.hbpl.co.uk^
 ||haxx.ly/counter/
 ||healthcarejobsite.com/Common/JavaScript/functions.tracking.js
+||heapanalytics.com/h?$image
 ||helium.com/javascripts/helium-beacons.js
 ||heraldtimesonline.com/js/tk.js
 ||heroku.com/track.js
@@ -733,6 +735,7 @@
 ||hostels.com/includes/thing.php?
 ||hotelplanner.com/TT.cfm
 ||hothardware.com/stats/
+||houzz.com/js/log?
 ||hoverstock.com/boomerang?
 ||howcast.com/images/h.gif
 ||howtogeek.com/public/stats.php
@@ -829,6 +832,7 @@
 ||issuu.com/pixel.gif?
 ||itp.net/ga.js
 ||itv.com/_app/cmn/js/bcm.js
+||ixquick.com/do/avt?$image
 ||ixs1.net/s/
 ||jack.allday.com^
 ||jakpost.net/jptracker/
@@ -1260,9 +1264,11 @@
 ||radio.cz/assets/js/analytics.js
 ||radioplayer.co.uk/v3/analytics.html?
 ||rainbow-uk.mythings.com^
+||rakuten-static.com/com/rat/
 ||ralphlauren.com^*/icg.metrics.js
 ||rangers.co.uk^*/tracking.js
 ||rarefilmfinder.com^*/cnt-gif1x1.php
+||rat.rakuten.co.jp^
 ||razor.tv/site/servlet/tracker.jsp
 ||rbl.ms/spacer.gif?$image
 ||rd.meebo.com^
@@ -1450,6 +1456,7 @@
 ||squidoo.com/track/
 ||srt.pch.com^
 ||ssl-stats.wordpress.com^
+||startpage.com/do/avt?$image
 ||stat.alibaba.com^
 ||stat.dealtime.com^
 ||stat.ruvr.ru^
@@ -1680,6 +1687,7 @@
 ||tracking.resumecompanion.com^
 ||tracking.shoptogether.buy.com^
 ||tracking.softwareprojects.com^
+||tracking.tidalhifi.com^
 ||tracking.times247.com^
 ||tracking.ukwm.co.uk^
 ||tracking.ustream.tv^
@@ -1885,7 +1893,6 @@
 ||wwe.com/sites/all/modules/wwe/wwe_analytics/
 ||www.google.*/imgevent?$script
 ||www.google.*/imghover?$image
-||www.google.*/url?$image
 ||www.imdb.*/rd/?q=
 ||wzus.askkids.com^
 ||wzus1.ask.com^
@@ -1897,6 +1904,7 @@
 ||yahoo.com/__perf_log_
 ||yahoo.com/_td_api/beacon/
 ||yahoo.com/b?
+||yahoo.com/beacon/
 ||yahoo.com/neo/stat
 ||yahoo.com/neo/ygbeacon/
 ||yahoo.com/neo/ymstat

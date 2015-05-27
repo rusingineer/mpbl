@@ -1,7 +1,9 @@
 @@/followbutton.js$domain=instagram.com
 @@/share-sprite-$domain=askubuntu.com|mathoverflow.net|serverfault.com|stackapps.com|stackexchange.com|stackoverflow.com|superuser.com
+@@/wp-content/plugins/2-click-socialmedia-buttons/js/social_bookmarks-min.js?
 @@/wp-content/plugins/socialauth-wp/*~third-party
 @@/wp-content/plugins/wordpress-social-login/*
+@@||126.net/share/js/$script,domain=163.com
 @@||3dmark.com/proxycon/images/fb_icon.png
 @@||4shared.com/images/icons/social-connect-buttons.png
 @@||about.me^*/googleplus?
@@ -50,6 +52,7 @@
 @@||cbsistatic.com^*/js-build/fly/components/social-links-$domain=cbsnews.com|cnet.com
 @@||cdnslate.com^*/social/colored-social-$image
 @@||chesscomfiles.com/images/fb_logo.png$domain=chess.com
+@@||chrisblattman.com/wp/wp-content/plugins/social/assets/social.png
 @@||cinemablend.com/timthumb.php?src=/images/facebook/
 @@||cloudfront.net/assets/icons/gplus_icon-$domain=runtastic.com
 @@||cloudfront.net/assets/index/btn_facebook_$domain=myfitnesspal.com
@@ -172,6 +175,7 @@
 @@||nutshell.com/media/images-landing/integration-logo-$~third-party
 @@||nyt.com^*/sharetools.js$domain=nytimes.com
 @@||onesecond.designly.com/img/*.gif$~third-party
+@@||opendatacity.de/prism/assets/img/logos/logo_facebook_$image
 @@||panzi.github.io/SocialSharePrivacy/
 @@||passets-cdn.pinterest.com^
 @@||patreon.com/images/fb_login_large.png
@@ -240,6 +244,7 @@
 @@||style.aliunicorn.com/js/$script,domain=alibaba.com
 @@||symantec.com/content/*/about/images/social/b-$image
 @@||syndication.twitter.com/tweets.json?*&callback=$script
+@@||syndication.twitter.com/tweets.json?callback=$script
 @@||t3n.de/news/wp-content/uploads/*/social_media_
 @@||telia.se/tse/js/socialmedia/
 @@||theinterview-movie.com/images/btn_youtube.png
@@ -286,6 +291,7 @@
 @@||wsj.net^*/social_icons.png$domain=marketwatch.com
 @@||www.google.*/images/*google.png
 @@||www.google.*/images/*googleplus.png
+@@||www.google.*/landing/now/images/integrations/$image,~third-party
 @@||www.google.*/tv/images/*youtube.png
 @@||www.google.*/tv/images/youtube.jpg
 @@||xda-developers.com^*/google-plus-login-small.png

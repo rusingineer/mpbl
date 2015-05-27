@@ -1,6 +1,7 @@
 .info^$script,domain=pornhub.com
+/(?:[!"#$%&'()*+,:;<=>?@/\^_`{|}~-]).*[a-zA-Z0-9]{2,8}.*(?:[!"#$%&'()*+,:;<=>?@/\^_`{|}~-]).*[a-zA-Z0-9]{2,8}.*(?:[!"#$%&'()*+,:;<=>?@/\^_`{|}~-]).*[a-zA-Z0-9]{2,8}/$xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|tube8.es|tube8.fr|youporn.com
+/[a-z0-9A-Z]{6}/$xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|tube8.es|tube8.fr|youporn.com
 /\/[0-9].*\-.*\-[a-z0-9]{4}/$script,xmlhttprequest,domain=gaytube.com|keezmovies.com|spankwire.com|tube8.com|tube8.es|tube8.fr
-/http://.*[a-zA-Z0-9]{20}/$xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|tube8.es|tube8.fr|youporn.com
 /http://[a-zA-Z0-9]+\.[a-z]+\/.*(?:[!"#$%&'()*+,:;<=>?@/\^_`{|}~-]).*[a-zA-Z0-9]+/$script,third-party,domain=keezmovies.com|pornhub.com|redtube.com|tube8.com|tube8.es|tube8.fr|youporn.com
 ||109.201.146.142^$domain=xxxbunker.com
 ||213.174.140.38/bftv/js/msn-
@@ -157,6 +158,8 @@
 ||empireamateurs.com/images/*banner
 ||entensity.net/crap/
 ||epicwank.com/social/jquery.stp.min.js
+||eporner.com/cppb/
+||eporner.com/dot/$script
 ||eporner.com/pjsall-*.js
 ||eporner.com^$subdocument,~third-party
 ||eroprofile.com/js/pu*.js
@@ -512,8 +515,6 @@
 ||pornhub.com/front/alternative/
 ||pornhub.com/jpg/
 ||pornhub.com/pics/latest/$xmlhttprequest
-||pornhub.com^$script,domain=pornhub.com
-||pornhub.com^$subdocument,~third-party
 ||pornhub.phncdn.com/images/campaign-backgrounds/
 ||pornhub.phncdn.com/misc/xml/preroll.xml
 ||pornizer.com/_Themes/javascript/cts.js?
@@ -656,7 +657,7 @@
 ||submityourflicks.com/banner/
 ||svscomics.com^*/dtrotator.js
 ||sxx.com/js/lj.js
-||t8.*.com/?*_|$xmlhttprequest,domain=tube8.com
+||t8.*.com/?$xmlhttprequest,domain=tube8.com
 ||taxidrivermovie.com/mrskin_runner/
 ||teensanalfactor.com/best/
 ||teensexcraze.com/awesome/leader.html
@@ -701,6 +702,7 @@
 ||unoxxx.com/pages/en_player_video_right.html
 ||updatetube.com/js/adpupdatetube
 ||vibraporn.com/vg/
+||vid2c.com/js/atxpp.js?
 ||vid2c.com/js/pp.js
 ||vid2c.com/pap.js
 ||vid2c.com/pp.js
@@ -764,6 +766,7 @@
 ||yobt.tv/js/ttu.js
 ||yobt.tv/rec/
 ||youaresogay.com/*.html
+||youjizz.com/_special/
 ||youjizz.com/vivid/
 ||youngpornvideos.com/images/bangbros/
 ||youngpornvideos.com/images/glamglam/
