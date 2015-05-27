@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private uBlock Incremental Update List
-!  Last Modified: Sun, 17 May 2015 19:30:00 +0400
+!  Last Modified: Wed, 27 May 2015 12:20:00 +0400
 !
 !  This is a private list,
 !  will not provide any technical support
@@ -20,3 +20,16 @@ acint.net/aci.js
 ||xyya.net/ppp.js
 ||finmonitor.com.ua/freenet^
 /viewt.js
+||news4u.biz/js/out/^$script
+||ads.trafficjunky.net/ads^
+||ph.sy-do-ni-an.com
+||xiuuh.com
+||newbestslot.com^$popup
+||cmexota.ru/engine/min/59c330.js
+||fibrid.ru^$script
+||24smile.org^$script
+||cmexota.ru/uploads/kartinka/informers/^$script
+||toget.ru/informers/showinformer.php?id=^$script
+||js.ru.redtram.com/n4p/^$script
+||clicks.runews.radeant.com/informer/^$script
+||znews.su/user/^$script
