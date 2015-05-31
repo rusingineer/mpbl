@@ -8970,7 +8970,7 @@ internetsms.org##.fade[class^="modal"]
 @@||medialand.ru^*/inline.js?$script,domain=rbc.ru
 @@||medialand.ru^*/magna.js$domain=glav.su|kp.ru
 @@||premium.mbn.com.ua^$script,domain=ura-inform.com
-@@||rbc.magna.ru/xml_out/?$domain=utro.ru﻿!
+@@||rbc.magna.ru/xml_out/?$domain=utro.ru﻿
 ! = Социальные сети ===========================================================
 !
 ! - Общие правила блокировки --------------------------------------------------
@@ -22135,7 +22135,8 @@ loginza.ru#@#.vkontakte
 @@||yastatic.net/share/share.js
 kinokopilka.tv#@#img[alt="Facebook_32"]
 kinokopilka.tv#@#img[alt="Twitter_32"]
-||rusradio.ru^*/jquery.the-modal.js! *** easylist/easylist_adservers.txt ***
+||rusradio.ru^*/jquery.the-modal.js
+! *** easylist/easylist_adservers.txt ***
 ||007-gateway.com^$third-party
 ||0icep80f.com^$third-party
 ||101m3.com^$third-party
@@ -50124,7 +50125,7 @@ _popunder+$popup
 ! Non-English (instead of whitelisting ads)
 ! Mobile
 /sendspace-pop.$popup,domain=sendspace.com
-^utm_source=$popup,domain=|sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
+^utm_source=$popup,domain=sex.com,thepiratebay.am,thepiratebay.gd,thepiratebay.la,thepiratebay.mn,thepiratebay.vg
 ||4fuckr.com/api.php$popup
 ||adf.ly^$popup,domain=uploadcore.com|urgrove.com
 ||adyou.me/bug/adcash$popup
@@ -73530,7 +73531,8 @@ http://utm.
 @@||zaycev.net/m3_images/mp3player.swf?
 ag.ru##.newsbot.bbg + br + center
 ag.ru##.s2:first-child + .s[width="19%"][nowrap][align="center"]
-ag.ru##div[id="top_campaign"][class="top_s_bar"]
+ag.ru##div[class="top_s_bar"]
+ag.ru##top_campaign
 ag.ru##tr:first-child > td:first-child > .mt3[width="100%"]:first-child
 allbest4free.ru##noindex
 anime-zone.ru##.maintable + * + noindex
@@ -73567,9 +73569,9 @@ cyber39.ru###top:first-child
 cyber39.ru##.block:last-child
 cyberforum.ru##div[style="padding: 3px; border: 1px solid rgb(0, 51, 153);"]
 cyberinfo.ru##div[style="border: 1px solid rgb(127, 196, 255); padding: 10px 20px; background: rgb(228, 241, 252) none repeat scroll 0% 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; text-align: center;"]
-cyberinfo.ru#DIV(id=bl_05)
+cyberinfo.ru##DIV[id="bl_05"]
 demotivators.ru##table[style="border: 0px solid rgb(204, 204, 204); background: rgb(255, 255, 255) none repeat scroll 0% 0%; width: 100%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; border-collapse: separate; border-spacing: 4px; line-height: 1.2em;"]
-denwer.ru#IMG(src=i/ya_direct_sample2.gif)
+denwer.ru##IMG[src="i/ya_direct_sample2.gif"]
 depositfiles.com###download_url + div[style="margin: 2em auto 0pt; width: 300px;"]
 depositfiles.com##.dg_t1
 depositfiles.com##.zhMain
@@ -73626,7 +73628,7 @@ fullgames.ru###footer + table td#main > center:first-child
 fullgames.ru###footer + table td#main > index > center
 fullgames.ru###jbe_top
 fullgames.ru###up + table td#right
-fullz.ru#B
+fullz.ru##B
 gde.ru###main-content2 > #central-content-result:first-child > .search:first-child > li:first-child
 gelbooru.com##div[id^="note-box"]
 gismeteo.com,gismeteo.ru##div[class*="bnr"]
@@ -73682,8 +73684,8 @@ legalwarez.ru,soft-teleport.ru###table4,TABLE#table46,TABLE#table6,TABLE#table65
 lifehacker.ru###banner-column
 lifehacker.ru##img[alt="Ads"]
 liveinternet.ru##img[width="500"][height="45"][border="0"]
-liveinternet.ru#IMG(width=200)(height=60)(border=0)
-liveinternet.ru#IMG(width=476)(height=60)(border=0)
+liveinternet.ru##IMG[width="200"][height="60"][border="0"]
+liveinternet.ru##IMG[width="476"][height="60"][border="0"]
 livejournal.com##[class*="-adv"]
 livejournal.com##[class^="adv"]
 livejournal.com##div[class^="ljad"]
@@ -73698,7 +73700,7 @@ mail.ru##div[class^="ban"]
 mail.ru##div[id^="begunTable"]
 market.autoua.net###mabila-market:first-child
 maxnet.ua##a > img[width="88"]
-mirsofta.ru#IMG(src=650x80.jpg)
+mirsofta.ru##IMG[src="650x80.jpg"]
 mozilla-russia.org##div[id$="Col_advC"]
 mozilla-russia.org##span[id^="modex"][style="font-size: 80%;"]:last-child
 mp3hall.net##img:first-child:last-child
@@ -73710,8 +73712,8 @@ newestsoft.com##a[href="http://reviewsoft.ru/"]
 ngs.ru###advblock,[class*="adv-top"],[class*="banner"],[class*="ban-top"],DIV.adv
 ngs.ru##div > object > a > IMG,TABLE#nbs-block,TD.blank-td + .nb
 ngs.ru##div[align="center"] > noindex
-ngs.ru#div(class$=nb)
-nightmail.ru#TABLE(id=magnaInformer)
+ngs.ru##div[class$="nb"]
+nightmail.ru##TABLE[id="magnaInformer"]
 nnm-club.ru##center > table[id^="mc_"]
 nnm.ru###branding_link
 nnm.ru###rightMenu
@@ -73747,12 +73749,12 @@ pixshock.net##p[style="text-align: center;"]
 pochta.ru###tionline
 pochta.ru##.gamesBlock
 pochta.ru##.loveplanet
-pochta.ru#DIV(id=tionline)
-pochta.ru#TABLE(id=magnaInformer)
+pochta.ru##DIV[id="tionline"]
+pochta.ru##TABLE[id="magnaInformer"]
 poshalim.name^
 poshalim.net^
 powertracker.org##.post_body > .postLink[target="_blank"]
-powertracker.org#TD(height=100)(align=center)(width=100%)
+powertracker.org##TD[height="100"][align="center"][width="100%"]
 qwe.ru##.caption + .bodytable > table[width="100%"] td
 qwe.ru##body > table > tbody > tr > td > .border + * + * + * + * + * + * + * + .border
 qwe.ru##noindex > a
@@ -73768,7 +73770,7 @@ rbc.ru##[style="width: 234px; height: 200px; background-color: rgb(255, 255, 255
 rg-be.ru
 rl-team.net##.border_all.tiban
 rl-team.net##div[style="overflow: hidden; background-color: rgb(252, 247, 221); width: 100%; display: block; font-family: Tahoma,Arial,Helvetica,sans-serif; font-size: 13px; color: rgb(51, 102, 204); padding-bottom: 5px;"]
-rl-team.net#DIV(style=padding: 10px; overflow: hidden; float: left;)
+rl-team.net##DIV[style="padding: 10px; overflow: hidden; float: left;"]
 rpgcodex.net##center > iframe
 ruero.com###topbar
 runews.radeant.com###lamur
@@ -73801,15 +73803,15 @@ soft-free.ru##a[href="http://goldfin.ru"]
 soft-free.ru##td + * form + * + * + * + * + * + * td.modulecontent
 softall.com.ua##table[style="border: 0px solid rgb(204, 204, 204); width: 100%; background: none repeat scroll 0% 0% rgb(255, 255, 255); border-collapse: separate; border-spacing: 4px; line-height: 1.2em;"]
 softnavigator.ru###table11
-softnavigator.ru#DIV(style=text-align: left;)
+softnavigator.ru##DIV[style="text-align: left;"]
 softoroom.net##div[id^="fo_cblock"]
-softportal.com#IMG(border=0)
+softportal.com##IMG[border="0"]
 sport-express.ru##div[style*=".sport-express.ru/img/banners/"]
 sticker.yadro.ru##html
 styanulo.ru##.banner
 sudga.ru##.alt3
 tabulorasa.info##td[style="padding: 10px;"]
-tabulorasa.info#IMG(src=http://tabulorasa.info/img/11.jpg)
+tabulorasa.info##IMG[src="http://tabulorasa.info/img/11.jpg"]
 tehnosila.ru###banner_street
 terabit.biz##img[border="0"]:first-child:last-child
 terabit.biz##noindex
@@ -73857,7 +73859,7 @@ win.mail.ru##img[width="240"][height="400"][border="0"]
 win.mail.ru##span:first-child:last-child
 www.animenfo.com/radio/meganimedvd.swf
 x-console.com##a[href*="=banner&"]:not([href*=".x-console.com%2Fmagazine"]),[id*="banner"],[class*="banner"]
-xtreme.ws#TABLE(width=500)
+xtreme.ws##TABLE[width="500"]
 xuk.ru/dev/
 xuk.ru/img/*/
 xxl-zona.ru##table[style="border: 0px none;"]:last-child
@@ -73869,7 +73871,7 @@ zaycev.net###ibp
 zaycev.net##.advlinks
 zaycev.net##.menu1
 zaycev.net##:not([nowrap="nowrap"]) > a[href^="http:"]:not([href*="zaycev.net"])
-zaycev.net#IFRAME
+zaycev.net##IFRAME
 zhmak.info###fp_adv2
 zhmak.info##a[rel="nofollow"]
 zhmak.info##td[valign="top"] > noindex
@@ -75064,7 +75066,7 @@ _teasernet.
 !
 ! ---------- General blocking rules ----------
 !
-||/manwm.ru/power/
+||manwm.ru/power/
 ||1ps.ru^
 ||3dn.ru/Shapka/
 ||74mail.ru/Templates/Images/top-banner.swf
@@ -86446,7 +86448,6 @@ facebook.com##div#hoverZoomAd
 facebook.com##div[data-ad]
 facebook.com##span[id="egoRefreshAds"]
 fnnews.com##div#hotnews_list
-fnnews.com##div[class^="AD"-content]
 fnnews.com##div[id^="right_wing"]
 gall.dcinside.com##div[id^="adBookmark"]
 gall.dcinside.com##span#FvMainDiv0
