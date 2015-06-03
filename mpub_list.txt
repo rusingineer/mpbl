@@ -3268,7 +3268,7 @@ by,ru,ua##.banner_box
 /vendshow/*
 /video/?format=overroll&
 /videoadcode/*
-/viewt.js$third-party
+/viewt.js
 /viptizer.
 /volcano_banner
 /vse-pricheski.$third-party
@@ -3580,7 +3580,6 @@ _tizers.
 ||file-online.ru^$third-party
 ||filepost.ru^$third-party
 ||filmcool.ru^$third-party
-||finmonitor.com.ua/freenet/go.php?sid=
 ||fire-casino.com^$third-party
 ||flapoint.ru^
 ||fleshlight-russia.com/fbn/
@@ -3950,9 +3949,8 @@ _tizers.
 ||rb.sport-express.ru^
 ||realfuckdates.net^$third-party,image,object
 ||rec2000.at.ua^$third-party
-||recreativ.com.ua^
-||recreativ.com^
-||recreativ.ru^
+||recreativ.com.ua^$script
+||recreativ.com^$script
 ||redsurf.ru/bn/
 ||refer.ru^$third-party
 ||referalov.net^$third-party
@@ -74813,7 +74811,7 @@ zr.ru##.br
 /informer/*
 /informer_
 /informers.js
-/informers/*$script,subdocument
+! /informers/*$script,subdocument
 /main.fcgi?
 /marketgidnews.
 /nnmcinfo_banner.
