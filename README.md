@@ -5,5 +5,5 @@ Makani Private Block List
 
 Include EasyList + EasyPrivacy + RUS: BitBlock List + RUS: RU AdList + Gythialy's List + YousList and my modification and delete duplicates
 
-[F.A.Q.](http://rusingineer.github.io/ublock)
+[F.A.Q.](http://rusingineer.github.io/uBlock)
 =============================================
