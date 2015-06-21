@@ -95,7 +95,7 @@ nytimes.com###anchoredAd_module
 versus.com###android-message
 stv.tv###announcements
 tapiture.com###annoy-non-users
-booksnreview.com,classicalite.com,counselheal.com,designntrend.com,enstarz.com,gamenguide.com,hngn.com,kdramastars.com,kpopstarz.com,latinospost.com,latinpost.com,mobilenapps.com,musictimes.com,natureworldnews.com,parentherald.com,scienceworldreport.com,techtimes.com,universityherald.com,vcpost.com,yibada.com###anotherBox
+booksnreview.com,classicalite.com,counselheal.com,designntrend.com,enstarz.com,franchiseherald.com,gamenguide.com,hngn.com,kdramastars.com,kpopstarz.com,latinospost.com,latinpost.com,mobilenapps.com,musictimes.com,natureworldnews.com,parentherald.com,scienceworldreport.com,techtimes.com,universityherald.com,vcpost.com,yibada.com###anotherBox
 aol.co.uk###aol-snf-wrapper
 minus.com###app-promo-overlay
 huffingtonpost.co.uk,huffingtonpost.com,moviefone.com,news.moviefone.ca###apps-feeds
@@ -430,6 +430,7 @@ techtarget.com###emailUpdates
 diabetesforecast.org###email_promo
 thehill.com###emailalerts
 thedailyshow.com###embedcopy
+dissentmagazine.org###emodal-overlay
 brosome.com###enews
 latina.com###engage2-contain
 reference.com###enterleave
@@ -467,6 +468,8 @@ cracked.com###fb_sliver
 ugo.com###fb_userbox
 cnn.com###fbcStoryContainer
 slate.com###fbog_module
+fleshbot.com###fbot-gateway-container
+fleshbot.com###fbot-gateway-screen
 sulekha.com###fbpromosulekha_on
 videodetective.com###fbtopbar
 taipeitimes.com###fc
@@ -487,6 +490,7 @@ jkwebtalks.com###feednote
 filehippo.com###feeds
 upi.com###ffb_button_larger
 dailymail.co.uk###fff-banner
+dailymail.co.uk###fff-inline
 kansas.com###findjobs
 usatoday.com###finishedArticleLoader
 tunein.com###fix_it
@@ -595,6 +599,8 @@ fansshare.com###galemail
 usmagazine.com###gallery-subnav
 glennbeck.com###gbtv_embed_banner
 facebook.com###gear-balloon-promo
+forward.com###generic-popup-background
+forward.com###generic-popup-controller
 ginzametrics.com###get-email-updates
 maindevice.com###get-inspiredmagz
 people.com,peoplestylewatch.com###getPeopleEverywhere
@@ -976,6 +982,7 @@ hoterotic18.com,thinkprogress.org###popupContact
 bjs.com###popupDialog
 truthdig.com###popupLayerScreenLocker
 truthdig.com###popupLayer_myStaticPopup
+imagenimage.com,imagenpic.com,imageshimage.com,imagetwist.com,imgdiamond.com###popupOverlay
 shop4freebies.com###popup_bg
 getprice.com.au###popup_bkg
 ittoolbox.com###popupdiv
@@ -1769,6 +1776,7 @@ dlife.com##.contitle_content_actions_div
 pcmag.com##.control-side
 newsok.com##.couponKit
 cracked.com##.crackedStoreHeaderWrapper
+atavist.ibtimes.com##.creatavist-logo-icon
 techcrunch.com##.crunchdaily
 csmonitor.com##.csmAd
 fastcompany.com##.curr_issue_wrap
@@ -1834,6 +1842,7 @@ logicbuy.com,slate.com##.email_signup
 savedelete.com##.emailform
 blogspot.com##.emailsub
 msn.com##.embeddedSearch
+dissentmagazine.org##.emodal
 geekwire.com##.enews
 cbslocal.com##.entry-injected-block
 cbslocal.com##.entry-toolbar
@@ -1916,6 +1925,7 @@ pcpro.co.uk,the-line-up.com##.foobar-wrapper
 tv.com,washingtonian.com##.footer
 trust.org##.footer-base
 10news.dk##.footer-cta
+drugs.com##.footer-feature
 time.com##.footer-header
 life.com##.footerFanlinks
 quote.com##.footerFloat
@@ -2199,7 +2209,7 @@ worldofgnome.org##.mywell-blue
 washingtontimes.com##.nag
 screencrush.com##.nav-control
 gadgetify.com##.nav-image
-techweekeurope.co.uk##.nav-links
+techweekeurope.co.uk,turmericforhealth.com##.nav-links
 yourenergyblog.com##.nav-previous
 popdust.com##.nav-wrap
 tokyotimes.com##.navLeft
@@ -2782,6 +2792,7 @@ washingtonpost.com##.wp-float-bar
 fitbit.com##.wrapper-header-fma
 gearburn.com##.wwsgd
 planetivy.com,techsplurge.com##.xoxo
+cnet.com##.yad-magnet
 singularityhub.com##.yellow_block
 yahoo.com##.yom-blog-follow
 video.yahoo.com##.yom-embed-and-link
@@ -2901,6 +2912,7 @@ osnews.com##table[width="285"]
 finestdaily.com##table[width="642"]
 ! Newsletter/signup elements
 news.yahoo.com###Daily-Ticket-newsletter-promo-8U
+nextshark.com###FbridgeSGWidget
 alternet.org###author_signup_iframe
 advocate.com###block-advocate_general-advocate_general_enewsletter
 infoworld.com###block-infoworld-newsletter_subscribe
@@ -2915,6 +2927,7 @@ csmonitor.com###ezn-RightCol_Newsletter_and_TakeAction
 firstbiz.com###fpbiz_newsletter
 pbs.org###frontline_newsletter_over
 pbs.org###frontline_newsletter_please
+draxe.com###gclidua
 bidnessetc.com###inputerror
 ivn.us###ivnnewsletter_widget
 broadcastingcable.com###login_subscribe
@@ -2926,6 +2939,7 @@ hardware.info###newsletterForm
 newyorker.com###newsletter_form
 eweek.com###newsletterform
 bleacherreport.com,macworld.com,myjewishlearning.com,pcworld.com,techhive.com,theatlantic.com###newsletters
+draxe.com###optin-footer
 downeast.com###royal_sidebutton_tab
 si.com###si-com-newsletter-widget
 clarionproject.org###sign-up
@@ -2958,6 +2972,7 @@ the-line-up.com##.branded
 time.com##.cartoon-newsletter-container
 coconuts.co##.coconuts-newsletter-subscribe-container
 fiercecable.com##.content-subscribe
+codeclimate.com##.ctas
 forbes.com##.email-promo
 thoughtworks.com,washingtonblade.com##.email-signup
 fivethirtyeight.com##.fivethirtyeight-newsletter
@@ -2971,11 +2986,13 @@ lifeslittlemysteries.com##.llm_newsletter
 sbnation.com##.m-nba-newsletter
 ibtimes.com##.morning-insights
 newsbtc.com##.newsform
-9to5mac.com,autoguide.com,brooklynbased.com,clickhole.com,computerworld.com,consumerreports.org,csoonline.com,designntrend.com,emirates247.com,engadget.com,fashionotes.com,geek.com,gizchina.com,goodnet.org,grantland.com,graziadaily.co.uk,greatbritishchefs.com,greenbot.com,guyism.com,hdwallpapers.in,hightimes.com,huffingtonpost.com,infoq.com,infoworld.com,itworld.com,javaworld.com,jewishjournal.com,life.com,lifehack.org,maplin.co.uk,multichannel.com,nerve.com,networkworld.com,newrepublic.com,npr.org,nymag.com,out-law.com,paidcontent.org,pbs.org,piriform.com,pomade.com,psfk.com,redsharknews.com,rsf.org,rumorfix.com,screencrush.com,singularityhub.com,stylecaster.com,talkandroid.com,techbeat.com,thebaffler.com,thedailybeast.com,thedrinknation.com,themeshreport.com,theregister.co.uk,topdocumentaryfilms.com,twice.com,twitchy.com,variety.com,vulture.com,yahoo.com##.newsletter
+9to5mac.com,autoguide.com,brooklynbased.com,clickhole.com,computerworld.com,consumerreports.org,csoonline.com,designntrend.com,emirates247.com,engadget.com,fashionotes.com,geek.com,gizchina.com,goodnet.org,grantland.com,graziadaily.co.uk,greatbritishchefs.com,greenbot.com,guyism.com,hdwallpapers.in,hightimes.com,huffingtonpost.com,infoq.com,infoworld.com,investopedia.com,itworld.com,javaworld.com,jewishjournal.com,life.com,lifehack.org,maplin.co.uk,multichannel.com,nerve.com,networkworld.com,newrepublic.com,npr.org,nymag.com,out-law.com,paidcontent.org,pbs.org,piriform.com,pomade.com,psfk.com,redsharknews.com,rsf.org,rumorfix.com,screencrush.com,singularityhub.com,stylecaster.com,talkandroid.com,techbeat.com,thebaffler.com,thedailybeast.com,thedrinknation.com,themeshreport.com,theregister.co.uk,topdocumentaryfilms.com,twice.com,twitchy.com,variety.com,vulture.com,yahoo.com##.newsletter
 gizbot.com##.newsletter_form
 consumerreports.org##.newsletters
 health.com##.nl-healthy
 azcentral.com##.non-subscriber-item
+draxe.com##.optin-after
+draxe.com##.optin-sidebar
 benzinga.com##.pane-bz-email-campaign-bz-email-campaign-newsletter-block
 msnbc.com##.pane-msnbc-newsvine-subscribe
 playboy.com##.pb-newsletter
@@ -3004,6 +3021,7 @@ time.com##.widget_thepage_newsletter_widget
 adweek.com##a[href="/newsletter-signup"]
 eurweb.com##a[href="http://www.eurweb.com/newsletter"]
 mediaite.com##a[href="http://www.mediaite.com/email-newsletter/"]
+dailycaller.com##div[id^="dc_morning_email"]
 ! Scroll to top
 myinforms.com###arrow
 britishland.com###auto-top-link

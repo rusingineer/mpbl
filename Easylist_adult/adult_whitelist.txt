@@ -30,6 +30,7 @@
 @@||tjoob.com/go.php?ad=$script,~third-party
 @@||tnaflix.com/ad/$object-subrequest
 @@||tracking.hornymatches.com/track?type=unsubscribe&enid=$subdocument,third-party
+@@||ul.ehgt.org/ad/$image,domain=e-hentai.org
 @@||widget.plugrush.com^$subdocument,domain=amateursexy.net
 @@||xxxporntalk.com/images/xxxpt-chrome.jpg
 ! Pornhub network
@@ -39,6 +40,7 @@
 @@||pornhub.com/chat/$xmlhttprequest
 @@||pornhub.com/comment/$xmlhttprequest
 @@||pornhub.com/front/$xmlhttprequest
+@@||pornhub.com/gif/$xmlhttprequest
 @@||pornhub.com/insights/$xmlhttprequest
 @@||pornhub.com/pornstar/$xmlhttprequest
 @@||pornhub.com/svvt/add?$xmlhttprequest
@@ -47,10 +49,16 @@
 @@||pornhub.com/users/$xmlhttprequest
 @@||pornhub.com/video/$xmlhttprequest
 @@||redtube.com/addfavorite/$xmlhttprequest
+@@||redtube.com/comments/$xmlhttprequest
+@@||redtube.com/htmllogin$xmlhttprequest
+@@||redtube.com/logout$xmlhttprequest
 @@||redtube.com/message/$xmlhttprequest
 @@||redtube.com/rate$xmlhttprequest
+@@||redtube.com/recommended/$xmlhttprequest
 @@||redtube.com/starsuggestion/$xmlhttprequest
 @@||redtube.com/subscribe/$xmlhttprequest
+@@||redtube.com/videodetails/$xmlhttprequest
+@@||redtube.com/watched/$xmlhttprequest
 @@||tube8.com/ajax-$xmlhttprequest
 @@||tube8.com/ajax/$xmlhttprequest
 @@||tube8.com/ajax2/$xmlhttprequest

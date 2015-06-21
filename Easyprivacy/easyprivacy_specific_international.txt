@@ -194,13 +194,11 @@
 ||stargate-planet.de^*counter*/c$image,script
 ||stats.bmw.de^
 ||stats.daserste.de^
-||sueddeutsche.de/l.gif?
 ||suedkurier.de/al/analytics/
 ||suite101.de/tracking/
 ||superfunblog.com/stats/stats.php
 ||t-online.de^*/noresult.js?track=
 ||t-online.de^*/stats.js?track=
-||tagesanzeiger.ch^*/pixel.gif?
 ||tagesspiegel.de/analytics/
 ||talkline.de^*/count.talkline.js
 ||textundblog.de/powercounter.js
@@ -242,7 +240,6 @@
 ||wienerzeitung.at/__webtrends/
 ||wirtschaftspresse.biz/pshb?
 ||wiwo.de/analytics/
-||wohintipp.at/t.gif?
 ||xara.hse24.de^
 ||xtranews.de/counter/
 ||zdf.de^*/tracking?
@@ -481,6 +478,7 @@
 ||altervista.org/js_tags/contatore.js
 ||altervista.org/stats/
 ||altervista.org^*/tb_hits_
+||analytics.tio.ch^
 ||bachecaannunci.it/statins3.php?
 ||c-date.it/tracking?
 ||c-date.it^*/tracking2/tr.js
@@ -656,12 +654,14 @@
 ||tracking.melty.es^
 ||visitors.dooyoo.es^
 ! Swedish
+||analytics.codigo.se^
 ||beacon.mtgx.tv^
 ||blocket.se/js/trafikfonden.js
 ||ea.pixmania.se^
 ||fusion.bonniertidskrifter.se^
 ||microreporting.metro.se^
 ||prisjakt.nu/js.php?p=trafikfonden
+||prod-metro-collector.cloudapp.net^
 ||track.zalando.se^
 ! Ukrainian
 |http://r.i.ua/s?

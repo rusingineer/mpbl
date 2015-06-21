@@ -3,8 +3,8 @@
 ! License: https://github.com/yous/youslist#license
 ! Title: YousList
 ! Expires: 4 days
-! Checksum: jVyx/iEl9DQiCm6yDUN0Bw
-! Version: 20150523
+! Checksum: zKWrG32GOaR5ap4pqqgEMA
+! Version: 20150606
 
 ! General element hiding rules
 ###banner_ad
@@ -14,6 +14,8 @@
 ##div#adbay_adExpandIframe
 ##div#adya_area
 ##div#div_ad
+##div#mobitree
+##div#mobitreeP
 ##div#quick_adon_bizon
 ##div#real_pop_bnr_adop32
 ##div#uniqubeAd_area
@@ -61,6 +63,7 @@
 ##iframe[src^="http://ads.mangouni.com/mad/"]
 ##iframe[src^="http://ads.mncmedia.co.kr/"]
 ##iframe[src^="http://adserver.sbtrustmedia.com/"]
+##iframe[src^="http://adsvc2.wisenut.co.kr/"]
 ##iframe[src^="http://adtg.widerplanet.com/"]
 ##iframe[src^="http://adv.imadrep.co.kr/"]
 ##iframe[src^="http://adx.naonmedia.net/adx/"]
@@ -92,6 +95,7 @@
 */RealMedia/ads/
 */about_*_shopbox.*
 */ad/realclick*.html
+*/mobitree_*.js
 */nad/media/*
 */naon_*.html
 */naon_*.jsp
@@ -150,6 +154,7 @@ adexview.new-star.co.kr/adimage.php
 adf.send.microad.jp/
 adget.co.kr/
 adimg.nateimg.co.kr/
+adimg.wisenut.co.kr/common/js/amc/wiseAdSvc.pj
 adimg1.adinc.co.kr/
 adin.ad4980.kr/
 adinc.co.kr/
@@ -171,6 +176,7 @@ ads1.playforum.net:8080/
 ads3.adinc.co.kr/
 adserver.sbtrustmedia.com/
 adserver.uniqube.tv/
+adsvc2.wisenut.co.kr/
 adtg.widerplanet.com/
 adv.imadrep.co.kr/
 adv.mediaharbor.co.kr/nad/
@@ -222,7 +228,6 @@ eto.co.kr/Data/Xml/localuser/adv/
 eto.co.kr/adv/
 ex.mdtoday.co.kr/
 feeltong.hani.co.kr/common/banner.html
-file.osen.co.kr/web2/js/mobitree_osen*.js
 file.thisisgame.com/inc/PBPage*.js
 fnnews.com/control
 fnnews.com/include2011/section/google.jsp
@@ -518,6 +523,9 @@ economy.hankooki.com##div[id^="adtive_"]
 economy.hankooki.com##iframe#frm_StockNewsSearch
 economy.hankooki.com##iframe#frm_ThemeSpecial
 economy.hankooki.com##span#AD_GISA_PHOTO_LINE
+econovill.com##td#articleBody>div[style="float:right; margin-left: 10px; margin-bottom: 5px;"]
+econovill.com##ul#floating_banner_left
+econovill.com##ul#floating_banner_right
 edaily.co.kr##div.topbanner
 edaily.co.kr##div[class^="viewcontent_ad"]
 edaily.co.kr##iframe[src^="/adview/"]
@@ -650,8 +658,6 @@ mediatoday.co.kr##div#adbnFloating
 mediatoday.co.kr##iframe[src*="/adItem/"]
 mediaus.co.kr##div[style="position:relative;width:250px;height:139px;overflow:hidden;"]
 mediaus.co.kr##iframe[src^="/banner/"]
-mosen.mt.co.kr##div#mobitree
-mosen.mt.co.kr##div#mobitreeP
 mosen.mt.co.kr##div[id^="adList"]
 mt.co.kr##div#art_ad_top1
 mt.co.kr##div#news_banner1
@@ -801,8 +807,6 @@ seoul.co.kr##iframe[src^="/ad/"]
 seoul.co.kr##table#googleAdTable
 sisainlive.com##div#TopBanners2
 sisainlive.com##div#layerBanner
-sisainlive.com##div#mobitree
-sisainlive.com##div#mobitreeP
 sisainlive.com##td#articleBody>table[align="right"][width="320"][height="265"]
 skyscanner.co.kr##div.mpu-advert
 sportalkorea.com##div#topAdBox

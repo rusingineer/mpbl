@@ -36,6 +36,7 @@
 ||77tracking.com^$third-party
 ||79.125.117.123^$third-party,domain=~amazon.cdn.ip.seen.on.cheapflight
 ||7bpeople.com^$third-party
+||7eer.net^$third-party
 ||8020solutions.net^$third-party
 ||99counters.com^$third-party
 ||99stats.com^$third-party
@@ -163,6 +164,7 @@
 ||basilic.io^$third-party
 ||baynote.net^$third-party
 ||beacon.kmi-us.com^$third-party
+||beanstock.com^$third-party
 ||bebj.com^$third-party
 ||beemrdwn.com^$third-party
 ||beencounter.com^$third-party
@@ -183,6 +185,7 @@
 ||bfoleyinteractive.com^$third-party
 ||bhs4.com^$third-party
 ||bidswitch.net^$third-party
+||bigcattracks.com^$third-party
 ||bigmir.net^$third-party
 ||bigstats.net^$third-party
 ||bigtracker.com^$third-party
@@ -248,6 +251,7 @@
 ||callisto.fm^$third-party
 ||callmeasurement.com^$third-party
 ||callrail.com^$third-party
+||calltrackingmetrics.com^$third-party
 ||campaigncog.com^$third-party
 ||caphyon-analytics.com^$third-party
 ||cashburners.com^$third-party
@@ -342,6 +346,7 @@
 ||coremetrics.com^$third-party
 ||coremotives.com^$third-party
 ||cormce.com^$third-party
+||cost1action.com^$third-party
 ||countby.com^$third-party
 ||counter.gd^$third-party
 ||counter.top.kg^$third-party
@@ -471,7 +476,6 @@
 ||eloqua.com^$third-party
 ||emediatrack.com^$third-party
 ||emltrk.com^$third-party
-||en25.com^$third-party
 ||enecto.com^$third-party
 ||enectoanalytics.com^$third-party
 ||engine212.com^$third-party
@@ -745,6 +749,7 @@
 ||inside-graph.com^$third-party
 ||insightera.com^$third-party
 ||insightgrit.com^$third-party
+||insigit.com^$third-party
 ||insitemetrics.com^$third-party
 ||inspectlet.com^$third-party
 ||instadia.net^$third-party
@@ -805,6 +810,7 @@
 ||killerwebstats.com^$third-party
 ||kissmetrics.com^$third-party
 ||kisstesting.com^$third-party
+||kitbit.net^$third-party
 ||kitcode.net^$third-party
 ||klert.com^$third-party
 ||klldabck.com^$third-party
@@ -1267,6 +1273,7 @@
 ||sessioncam.com^$third-party
 ||sexcounter.com^$third-party
 ||sexystat.com^$third-party
+||sf14g.com^$third-party
 ||shinystat.com^$third-party
 ||shippinginsights.com^$third-party
 ||shrinktheweb.com^$third-party
@@ -1376,7 +1383,6 @@
 ||strs.jp^$third-party
 ||sub2tech.com^$third-party
 ||submitnet.net^$third-party
-||sumome.com^$third-party
 ||sundaysky.com^$third-party
 ||supercounters.com^$third-party
 ||superstats.com^$third-party
@@ -1400,6 +1406,7 @@
 ||targetfuel.com^$third-party
 ||tcactivity.net^$third-party
 ||tcimg.com^$third-party
+||tctm.co^$third-party
 ||tdstats.com^$third-party
 ||tealiumiq.com^$third-party
 ||telemetrytaxonomy.net^$third-party
@@ -1421,6 +1428,7 @@
 ||thespecialsearch.com^$third-party
 ||tinycounter.com^$third-party
 ||tiser.com.au^$third-party
+||tl813.com^$third-party
 ||tmpjmp.com^$third-party
 ||tmvtp.com^$third-party
 ||tns-cs.net^$third-party
@@ -1460,7 +1468,9 @@
 ||tracktrk.net^$third-party
 ||trackword.biz^$third-party
 ||trackyourstats.com^$third-party
+||tradedoubler.com^$third-party
 ||tradescape.biz^$third-party
+||trafex.net^$third-party
 ||trafficby.net^$third-party
 ||trafficengine.net^$third-party
 ||trafficfacts.com^$third-party
@@ -1648,6 +1658,8 @@
 ||yieldsoftware.com^$third-party
 ||your-counter.be^$third-party
 ||youramigo.com^$third-party
+||zanox-affiliate.de^$third-party
+||zanox.com^$third-party
 ||zdbb.net^$third-party
 ||zdtag.com^$third-party
 ||zenlivestats.com^$third-party

@@ -68,7 +68,6 @@
 ###footerrss
 ###frss
 ###fsd_signup
-###g-outbrain
 ###gc_message_bar
 ###gmm-panel-promo
 ###headerMenuRSS
@@ -82,7 +81,6 @@
 ###jPopUp
 ###janrain-botcap
 ###jbb_widget_customizable
-###js-outbrain-under-article
 ###kf_toolbar
 ###lean_overlay
 ###live-intent-module
@@ -110,9 +108,6 @@
 ###ody-nextstoryslider
 ###orkut-button
 ###ouibounce-modal
-###outbrain1
-###outbrainWidget
-###outbrain_widget_0
 ###page-end-slidebox
 ###page-header-rss
 ###persistNotif
@@ -198,6 +193,7 @@
 ###taboola-right-rail
 ###taboola-right-rail-text-right
 ###taboola-right-rail-thumbnails
+###taboola-right-rail-thumbnails-2nd
 ###taboola-text-2-columns-mix
 ###taboola-vid-container
 ###taboola-widget-wrapper
@@ -220,10 +216,8 @@
 ###wpfront-notification-bar-spacer
 ###wpl-likebox
 ###xetv-top-links
-##.ArticleOutbrainLocal
 ##.IN-widget
 ##.MultiColorSubscribeWidget
-##.OUTBRAIN
 ##.Sailthru_Subscribe
 ##.SocialRSS
 ##.abicon-feed
@@ -358,16 +352,6 @@
 ##.omniWidget-article-signup-large
 ##.oo_tab_right
 ##.optin-monster-overlay
-##.outbrain
-##.outbrain-ads
-##.outbrain-group
-##.outbrain-recommended
-##.outbrain-widget
-##.outbrain-wrapper
-##.outbrainWidget
-##.outbrain_container
-##.outbrain_skybox
-##.outbrainbox
 ##.overlay-content-arrows
 ##.overlay-content-promotion
 ##.paginator-x
@@ -505,7 +489,6 @@
 ##.widget_feedburnerformwidget
 ##.widget_feeds
 ##.widget_ione-jobs_v2
-##.widget_ione-outbrain
 ##.widget_ione-taboola
 ##.widget_mailchimpsf_widget
 ##.widget_mc4wp_widget
@@ -519,7 +502,6 @@
 ##.widget_wysija
 ##.wpFootSuscrip
 ##.wp_email_capture_widget
-##.yom-outbrain
 ##.youtubelink
 ##.zem_rp_content
 ##[original-title="Toggle to share your comment"]
@@ -571,6 +553,27 @@
 ##img[alt="Watch Us on You Tube"]
 ##img[alt="Watch us on YouTube"]
 ##img[title="Subscribe to Email Updates"]
+! Outbrain
+###around-the-web
+###g-outbrain
+###js-outbrain-under-article
+###outbrain1
+###outbrainWidget
+###outbrain_widget_0
+##.ArticleOutbrainLocal
+##.OUTBRAIN
+##.outbrain
+##.outbrain-ads
+##.outbrain-group
+##.outbrain-recommended
+##.outbrain-widget
+##.outbrain-wrapper
+##.outbrainWidget
+##.outbrain_container
+##.outbrain_skybox
+##.outbrainbox
+##.widget_ione-outbrain
+##.yom-outbrain
 ! Mobile Apps
 ###mn-app-banner
 ! Gannett close buttons
@@ -609,6 +612,7 @@
 ###block-sailthru-newsletters
 ###block-simple-subscription-subscribe
 ###blog_subscription-4
+###bottomMailingListWrapper
 ###boxes-box-newsletter
 ###bp-newsletter-5
 ###category-specific-newsletter
@@ -662,6 +666,7 @@
 ###injected-newsletter
 ###instory_newsletter_signup
 ###it_newsletters
+###js-newslettermodal
 ###leftcol_subscribe
 ###macro-leadership-newsletter-signup
 ###mc-embedded-subscribe-form
@@ -785,6 +790,7 @@
 ###promo-subscription
 ###promo-subscription-overlay
 ###relatedNavNewsletter
+###responsive-newletter-signup-form
 ###rhs_newsletter
 ###rightNavNewsletter
 ###sailthru-basic-newsletter-form
@@ -804,6 +810,7 @@
 ###signup_interstitial
 ###signup_interstitial_overlay
 ###signup_newsletter
+###singlesignup
 ###sssubscribe-wrapper
 ###st-email-signup
 ###subscribe-index-div
@@ -826,6 +833,7 @@
 ###subscribe_notification
 ###subscribe_overlay_container
 ###subscribe_popup
+###subscribe_widget-3
 ###subscribebox
 ###subscribediv
 ###subscribepopup
@@ -839,6 +847,7 @@
 ###subscription_digest_hypepanel
 ###subsribe_right
 ###tc_newsletter
+###topMailingListWrapper
 ###widget-newsletter-signup
 ###widgetNewsletter
 ##.ALS_IL_Holder
@@ -995,6 +1004,7 @@
 ##.newsletterSignup
 ##.newsletterSignupBox
 ##.newsletterThurii_rdr
+##.newsletterWidget
 ##.newsletter_bar
 ##.newsletter_box
 ##.newsletter_callout_box
@@ -1009,12 +1019,15 @@
 ##.newsletterbg
 ##.newsletterbox
 ##.newsletterdiv
+##.newslettermodal
 ##.newsletters-signup
 ##.newslettersignup
 ##.newslettersrssbox
 ##.newsletterwidget
 ##.nlSubscribe
 ##.nls-subscribe
+##.nw_form_newsletters
+##.nw_icon_newsletter
 ##.pane-bonnier-newsletter-0
 ##.pane-hp-newsletter
 ##.pane-newsletter-newsletter-subscribe
@@ -1033,10 +1046,12 @@
 ##.sidebar-subscribe-box
 ##.sidebarNewsletterAd
 ##.sidebar_newsletter_sign_up
+##.sidebar_subscribe
 ##.signup-email
 ##.signup-form--header
 ##.slidedown-newsletter
 ##.small-newsletter
+##.social-link-mail
 ##.social_newsletter_box
 ##.subscrOptWide
 ##.subscribe-block
@@ -1457,6 +1472,7 @@
 ###divCookiePolicy
 ###div_cookie
 ###dvCookie
+###eCookieConsentDialog
 ###eCookieMsg
 ###ePrivacyBanner
 ###ePrivacyDisclaimer
@@ -1815,6 +1831,7 @@
 ##.notice-cookie
 ##.notice_notice_cookies
 ##.om-cookie-agreement
+##.p-cookiebar
 ##.panel-cookies
 ##.panel_cookie
 ##.pea_cook_more_info_popover
@@ -1921,6 +1938,8 @@
 ##.btn-return-top
 ##.btn2top
 ##.btn_gototop
+##.cScrollIndicatorContainer
+##.dc-go-top
 ##.et_pb_scroll_top
 ##.fa-arrow-circle-o-up
 ##.fk-ui-goTop

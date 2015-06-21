@@ -46,8 +46,11 @@ onbeing.org#@#.addthisbuttons
 kino-vorschau.com#@#.arqam-widget-counter
 neowin.net#@#.article-share
 opposingviews.com#@#.block-socialmedia
-crowdin.net,deezer.com,magine.com,spotify.com,younow.com#@#.btn-facebook
+crowdin.net,deezer.com,foodit.com,magine.com,spotify.com,younow.com#@#.btn-facebook
+techinasia.com#@#.btn-fb
+foodit.com#@#.btn-google-plus
 younow.com#@#.btn-instagram
+foodit.com#@#.btn-linkedin
 crowdin.net,magine.com,qz.com,younow.com#@#.btn-twitter
 rockstargames.com#@#.btnFacebook
 rockstargames.com#@#.btnTwitter
@@ -59,9 +62,9 @@ wired.com#@#.custom-social
 delicious.com#@#.delicious
 digg.com#@#.digg-button
 digg.com#@#.digg_button
-academia.edu,magine.com,sendspace.com#@#.fa-facebook
+academia.edu,foodit.com,magine.com,sendspace.com#@#.fa-facebook
 bandsintown.com#@#.fa-facebook-square
-academia.edu,magine.com,sendspace.com#@#.fa-google-plus
+academia.edu,foodit.com,magine.com,sendspace.com#@#.fa-google-plus
 magine.com,sendspace.com#@#.fa-twitter
 azurewebsites.net#@#.facebook-btn
 bitbucket.org,ebuddy.com,geekli.st,musixmatch.com,plug.dj#@#.facebook-button
@@ -91,12 +94,13 @@ facebook.com#@#.fb_share
 facebook.com#@#.fblike
 twitter.com#@#.follow-bar
 twitter.com#@#.follow-btn
-academia.edu,twitch.tv,twitter.com,zhihu.com#@#.follow-button
+academia.edu,stream.me,twitch.tv,twitter.com,zhihu.com#@#.follow-button
 medium.com#@#.follow-label
 linkedin.com#@#.follow-widget
 norisbank.de#@#.followBox
 weibo.com#@#.follow_box
 about.me#@#.follow_twitter
+expresstools.co.uk#@#.footer-social
 google.com#@#.g-plus
 google.com#@#.g-plusone
 academia.edu#@#.google-btn
@@ -127,6 +131,7 @@ pan.baidu.com#@#.list-share
 theverge.com#@#.m-article__share-buttons
 renren.com#@#.photo-share
 pinterest.com#@#.pin-it-button
+feedly.com#@#.pinButton
 llbean.com#@#.pinit-overlay
 pinterest.com#@#.pinit_btn
 hemmings.com,hollywoodreporter.com#@#.pinterest-button
@@ -187,7 +192,7 @@ youtube.com#@#.show-share
 dallascowboys.com,golem.de#@#.social-bar
 wat.tv#@#.social-block
 golem.de,moviehole.net,newdaily.info,thedroidreview.com#@#.social-bottom
-bitbucket.org,paypal.com,tvspielfilm.de#@#.social-box
+bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 buzzerie.com,gog.com,udemy.com#@#.social-btn
 fastcompany.com,golem.de#@#.social-button
 airbnb.cat,airbnb.com,airbnb.de,cheezburger.com,musixmatch.com#@#.social-buttons
@@ -271,7 +276,7 @@ twitter.com#@#a[href^="https://twitter.com/intent/follow?"]
 pewinternet.org,yellosoft.us#@#a[href^="https://twitter.com/intent/tweet?"]
 facebook.com#@#a[href^="https://www.facebook.com/sharer.php?"]
 stumbleupon.com#@#a[href^="https://www.stumbleupon.com/submit?url="]
-allestörungen.de,facebook.com,google.com,jetpack.wordpress.com,ludins.fr,maxthon.com,opendatacity.de,twitter.com,wikipedia.org#@#a[title="Facebook"]
+allestörungen.de,facebook.com,foodit.com,google.com,jetpack.wordpress.com,ludins.fr,maxthon.com,opendatacity.de,twitter.com,wikipedia.org#@#a[title="Facebook"]
 google.com,wikipedia.org#@#a[title="Google Plus"]
 google.com,wikipedia.org#@#a[title="Google+"]
 allestörungen.de,google.com,linkedin.com,wikipedia.org#@#a[title="LinkedIn"]
@@ -281,16 +286,16 @@ allestörungen.de,google.com,heise.de,maxthon.com,opendatacity.de,wikipedia.org#
 aliexpress.com#@#a[title="facebook"]
 digg.com#@#div[id^="digg-widget-"]
 disqus.com,facebook.com,google.com,heise.de,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,maxthon.com,opendatacity.de,t3n.de,twitter.com,whatthetech.com#@#img[alt="Facebook"]
-google.com,youtube.com#@#img[alt="Google+"]
+google.com,xkcd.com,youtube.com#@#img[alt="Google+"]
 google.com,whatculture.com#@#img[alt="Instagram"]
 google.com,linkedin.com#@#img[alt="LinkedIn"]
 breakoutlist.com,facebook.com,google.com#@#img[alt="Pinterest"]
 acceptableads.org,breakoutlist.com,easyicon.net#@#img[alt="Reddit"]
 breakoutlist.com,disqus.com,google.com,hackerone.com,incgamers.com,maxthon.com,opendatacity.de,twitter.com,whatculture.com,whatthetech.com#@#img[alt="Twitter"]
-theverge.com,twitter.com#@#img[alt="Vine"]
+mezzacotta.net,theverge.com,twitter.com#@#img[alt="Vine"]
 maxthon.com,opendatacity.de,whatculture.com#@#img[alt="Youtube"]
 uservoice.com#@#img[alt="facebook"]
 allestörungen.de,marketplace.firefox.com#@#img[title="Facebook"]
 allestörungen.de#@#img[title="LinkedIn"]
-allestörungen.de,marketplace.firefox.com#@#img[title="Twitter"]
-marketplace.firefox.com#@#img[title="YouTube"]
+allestörungen.de,fark.com,marketplace.firefox.com#@#img[title="Twitter"]
+fark.com,marketplace.firefox.com#@#img[title="YouTube"]

@@ -117,7 +117,7 @@
 -social-instagram.
 -social-linked-
 -social-linkedin.
--social-media-$~script,~stylesheet
+-social-media-$~script,~stylesheet,~xmlhttprequest
 -social-media.
 -social-pinterest-
 -social-popup-
@@ -181,6 +181,7 @@
 .shareaholic-
 .sharebar.js
 .social.png
+.sociallocker.
 /16x16-delicious.
 /16x16-digg.
 /16x16-mixx.
@@ -1100,6 +1101,7 @@
 /like_bttn_
 /like_button.
 /likebox.
+/likegate.js
 /likeus-fb.
 /link-delicious.
 /link-digg.
@@ -1890,6 +1892,7 @@
 /twit-icon.
 /twit_icon.
 /twitbadge.
+/twitbutton.
 /twiter-icon.
 /Twiticon.
 /twitt2.gif

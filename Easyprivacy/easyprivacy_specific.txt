@@ -484,6 +484,7 @@
 ||ebay.com/op/t.do?event
 ||ebayobjects.com/*;dc_pixel_url=$image
 ||ec2-prod-tracker.babelgum.com^
+||economist.com/geoip.php
 ||ectnews.com/shared/missing.gif?
 ||edgecastcdn.net^*/ehow_am.js$domain=ehow.com
 ||edgecastcdn.net^*/pixel_1.png?
@@ -521,7 +522,6 @@
 ||esure.com/cgi-bin/rr.cgi/images/blank.gif?
 ||et.nytimes.com^
 ||etonline.com/media/*/ctvconviva.swf
-||etrk.asus.com^
 ||etui.fs.ml.com^
 ||eulerian.splendia.com/ea.js
 ||euroleague.tv^*/tracking.js
@@ -652,6 +652,7 @@
 ||geo.perezhilton.com^
 ||geo.play.it^
 ||geo.yahoo.com^
+||geobeacon.ign.com^
 ||geoip.al.com^
 ||geoip.cleveland.com^
 ||geoip.gulflive.com^
@@ -681,7 +682,7 @@
 ||go.com/globalelements/utils/tracking
 ||go.com/stat/
 ||go.com^*/analytics.js
-||go.theregister.com^
+||go.theregister.com^$image
 ||godaddy.com/image.aspx?
 ||godaddy.com/pageevents.aspx
 ||golfsmith.com/ci/
@@ -1141,6 +1142,7 @@
 ||optimizely.com/js/geo.js
 ||optimum.net^*=pageview&
 ||optionsxpress.com^*/tracking.js
+||orain.org/w/index.php/Special:RecordImpression?
 ||orange.co.uk/jsincludes/webtrends*.js
 ||origin-tracking.trulia.com^
 ||origin.chron.com^
@@ -1549,6 +1551,7 @@
 ||surveys.cnet.com^
 ||sysomos.com/track/
 ||t-ak.hulu.com^
+||t.9gag.com^
 ||t.dailymail.co.uk^
 ||t.eharmony.com^
 ||t.hulu.com/beacon/
@@ -1690,6 +1693,7 @@
 ||tracking.tidalhifi.com^
 ||tracking.times247.com^
 ||tracking.ukwm.co.uk^
+||tracking.unrealengine.com^
 ||tracking.ustream.tv^
 ||tracking.we7.com^
 ||tracking.yourfilehost.com^
@@ -1857,6 +1861,7 @@
 ||webmd.com^*/tools/dsppixels.js
 ||webmonkey.com/js/stats/
 ||webring.com/cgi-bin/logit?
+||webssearches.com/__kl.gif?
 ||webstats.perfectworld.com^
 ||webyclip.com/WebyClipAnalytics.html
 ||weeklyblitz.net/tracker.js
@@ -2012,7 +2017,7 @@
 ||mnginteractive.com/live/omniture/custom_scripts/omnicore-blogs.js$domain=mercurynews.com
 ||mnginteractive.com/live/omniture/sccore.js$domain=denverpost.com
 ||mnginteractive.com/live/omniture/sccore_NEW.js$domain=pasadenastarnews.com
-||mnginteractive.com/live/omniture/sccore_NEW_JRC.js$domain=delcotimes.com
+||mnginteractive.com/live/omniture/sccore_NEW_JRC.js$domain=delcotimes.com|trentonian.com
 ||navyfederal.org/js/s_code.js
 ||nwsource.com/shared/js/s_code.js?$domain=seattletimes.com
 ||nyteknik.se/ver02/javascript/2012_s_code_global.js

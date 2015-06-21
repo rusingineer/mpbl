@@ -15,13 +15,13 @@
 ||ad-emea.doubleclick.net^$popup,third-party
 ||ad-feeds.com^$popup,third-party
 ||ad.doubleclick.net^$popup,third-party
-||ad.zanox.com/ppv/$popup,third-party
 ||ad131m.com^$popup,third-party
 ||ad2387.com^$popup,third-party
 ||ad2games.com^$popup,third-party
 ||ad4game.com^$popup,third-party
 ||adbma.com^$popup,third-party
 ||adcash.com^$popup,third-party
+||adcdnx.com^$popup,third-party
 ||adfarm.mediaplex.com^$popup,third-party
 ||adform.net^$popup,third-party
 ||adimps.com^$popup,third-party
@@ -103,6 +103,7 @@
 ||easykits.org^$popup,third-party
 ||ebzkswbs78.com^$popup,third-party
 ||epicgameads.com^$popup,third-party
+||eroanalysis.com^$popup,third-party
 ||euromillionairesystem.me^$popup,third-party
 ||ewebse.com^$popup,third-party
 ||exoclick.com^$popup,third-party
@@ -200,6 +201,7 @@
 ||ratari.ru^$popup,third-party
 ||rdsrv.com^$popup,third-party
 ||rehok.km.ua^$popup,third-party
+||retkow.com^$popup,third-party
 ||rgadvert.com^$popup,third-party
 ||rikhov.ru^$popup,third-party
 ||ringtonepartner.com^$popup,third-party
@@ -236,6 +238,7 @@
 ||topshelftraffic.com^$popup,third-party
 ||toroadvertisingmedia.com^$popup,third-party
 ||totrack.ru^$popup,third-party
+||tracki112.com^$popup,third-party
 ||trafficforce.com^$popup,third-party
 ||traffichaus.com^$popup,third-party
 ||trklnks.com^$popup,third-party

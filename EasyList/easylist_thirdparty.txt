@@ -47,6 +47,7 @@
 ||ad.accessmediaproductions.com^
 ||ad.adriver.ru^$domain=firstrownow.eu|kyivpost.com|uatoday.tv|unian.info
 ||ad.aquamediadirect.com^$third-party
+||ad.bitmedia.io^
 ||ad.e-kolay.net^$third-party
 ||ad.flux.com^
 ||ad.foxnetworks.com^
@@ -309,6 +310,7 @@
 ||buy.com^*/affiliate/
 ||buzznet.com^*/showpping-banner-$third-party
 ||byzoo.org/script/tu*.js
+||cachefly.net/cricad.html
 ||cal-one.net/ellington/deals_widget.php?
 ||cal-one.net/ellington/search_form.php?
 ||camelmedia.net^*/banners/
@@ -361,6 +363,7 @@
 ||clipdealer.com/?action=widget&*&partner=
 ||cloudfront.net/nimblebuy/
 ||cloudfront.net/scripts/js3caf.js
+||cloudfront.net/st.js
 ||cloudzer.net/ref/
 ||cloudzer.net^*/banner/$third-party
 ||cngroup.co.uk/service/creative/
@@ -557,6 +560,7 @@
 ||droidnetwork.net/img/vendors/
 ||dropbox.com^*/aff-resources/$domain=gramfeed.com
 ||dttek.com/sponsors/
+||duct5ntjian71.cloudfront.net^
 ||dvdfab.com/images/fabnewbanner/$third-party
 ||dvf2u7vwmkr5w.cloudfront.net^
 ||dx.com/affiliate/$third-party
@@ -693,6 +697,7 @@
 ||geo.connexionsecure.com^
 ||geobanner.friendfinder.com^
 ||geobanner.passion.com^
+||get.*.website/static/get-js?stid=$third-party
 ||get.2leep.com^$third-party
 ||get.box24casino.com^$third-party
 ||get.davincisgold.com^$third-party
@@ -735,6 +740,7 @@
 ||graboid.com/affiliates/
 ||graduateinjapan.com/affiliates/
 ||grammar.coursekey.com/inter/$third-party
+||grindabuck.com/img/skyscraper.jpg
 ||groupon.com/javascripts/common/affiliate_widget/$third-party
 ||grouponcdn.com^*/affiliate_widget/$third-party
 ||gsniper.com/images/$third-party
@@ -951,6 +957,7 @@
 ||megalivestream.net/pub.js
 ||memepix.com/spark.php?
 ||meraad2.blogspot.com^$third-party
+||merdb.org/js/$script,third-party
 ||metaboli.fr^*/adgude_$third-party
 ||metroland.com/wagjag/
 ||mfcdn.net/store/spotlight/
@@ -1448,6 +1455,7 @@
 ||vuvuplaza.com^$subdocument,third-party
 ||vxite.com/banner/
 ||vze.com^$domain=uploadlw.com
+||wagital.com/Wagital-Ads.html
 ||walmartimages.com^*/HealthPartner_
 ||warezhaven.org/warezhavenbann.jpg
 ||warrantydirect.co.uk/widgets/

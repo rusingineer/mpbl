@@ -71,6 +71,7 @@
 -ad-24x24.
 -ad-300x250.
 -ad-313x232.
+-ad-336x280-
 -ad-340x400-
 -ad-400.
 -ad-banner.
@@ -191,6 +192,7 @@
 -affiliates/img_
 -article-ads-
 -article-advert-
+-banner-768.
 -banner-ad-
 -banner-ad.
 -banner-ads-
@@ -504,6 +506,7 @@
 .php?ad_
 .php?adsid=
 .php?adv=
+.php?adv_
 .php?affid=
 .php?clicktag=
 .php?nats=
@@ -684,10 +687,11 @@
 /ad-left.
 /ad-letter.
 /ad-lil.
+/ad-link/*
 /ad-loader-
 /ad-loader.
 /ad-loading.
-/ad-local.
+/ad-local.$domain=~ad-local.de
 /ad-logger/*
 /ad-manager/*
 /ad-managment/*
@@ -738,6 +742,7 @@
 /ad-vertical-
 /ad-verticalbar.
 /ad-view-
+/ad.ams.
 /ad.ashx?
 /ad.asp?
 /ad.aspx?
@@ -858,11 +863,11 @@
 /ad/top3.
 /ad/top_
 /ad/view/*
-/ad0.
+/ad0.$domain=~vereinslinie.de
 /ad000/*
 /ad02/background_
 /ad1-728-
-/ad1.
+/ad1.$domain=~vereinslinie.de
 /ad1/index.
 /ad12.
 /ad120x60.
@@ -883,7 +888,7 @@
 /ad1r.
 /ad1x1home.
 /ad2-728-
-/ad2.
+/ad2.$domain=~vereinslinie.de
 /ad2/index.
 /ad2/res/*
 /ad2010.
@@ -898,7 +903,7 @@
 /ad2gather.
 /ad2push.
 /ad2you/*
-/ad3.
+/ad3.$domain=~vereinslinie.de
 /ad300.
 /ad300f.
 /ad300f2.
@@ -912,7 +917,7 @@
 /ad350.
 /ad3_ima.
 /ad3i.
-/ad4.
+/ad4.$domain=~vereinslinie.de
 /ad41_
 /ad468.
 /ad468x60.
@@ -1452,7 +1457,7 @@
 /adhomepage.
 /adhomepage2.
 /adhood.
-/adhost.
+/adhost.$domain=~adhost.dk
 /adhref.
 /adhtml/*
 /adhub.
@@ -2074,6 +2079,7 @@
 /ads9.
 /ads9/*
 /ads?apid
+/ads?callback
 /ads?id=
 /ads?spaceid
 /ads?zone=
@@ -2097,6 +2103,7 @@
 /ads_codes/*
 /ads_config.
 /ads_controller.
+/ads_dfp/*
 /ads_display.
 /ads_event.
 /ads_files/*
@@ -2734,6 +2741,7 @@
 /adw2.shtml
 /adweb.
 /adweb2.
+/adwidget/*
 /adwidgets/*
 /adwise/*
 /adWiseShopPlus1.
@@ -3175,7 +3183,6 @@
 /catfishads/*
 /cb.php?sub$script,third-party
 /cci-ads-
-/cdn-cgi/pe/bag?r[]=*cpalead.com
 /cdn.ads.
 /centerads.
 /central/ads/*
@@ -3231,7 +3238,7 @@
 /common/ads/*
 /common/adv_
 /common/dart_wrapper_
-/common/js/caf.js|$~third-party
+/common/results.htm?block=*[colorAdSeparator]$subdocument,~third-party
 /common_ad.
 /commons/ad/*
 /commspace_ad.
@@ -3240,6 +3247,7 @@
 /companionAdFunc.
 /compban.html?
 /components/ads/*
+/components/ads_
 /conad.
 /conad_
 /configspace/ads/*
@@ -3425,7 +3433,6 @@
 /dns_ad/*
 /dnsads.
 /domainads/*
-/doodads/*
 /door/ads/*
 /doors/ads/*
 /doubleclick.aspx
@@ -3827,6 +3834,7 @@
 /guardianleader.
 /guardrailad_
 /gujAd.
+/gutterAd.
 /hads-
 /Handlers/Ads.
 /hcm_ads/*
@@ -3860,6 +3868,7 @@
 /homepageadvertright.
 /homeslideadtop/*
 /HomeStaticAds/*
+/HompageStickyAd.
 /horizontal_advert_
 /horizontalAd.
 /hostedads.
@@ -4330,6 +4339,7 @@
 /MTA-Ad-
 /mtvi_ads_
 /multiad/*
+/my-ad-injector/*
 /my-ad-integration.
 /myads/*
 /mydirtyhobby.$domain=~mydirtyhobby.com|~mydirtyhobby.de
@@ -4572,6 +4582,7 @@
 /plus/ad_
 /poker-ad.
 /poll-ad-
+/polopoly_fs/ad-
 /pool.ads.
 /pool/ad/*
 /pop-under.
@@ -5383,6 +5394,7 @@
 /virtual_girl_
 /virtualgirl/*
 /virtualgirlhd-
+/vision/ads/*
 /visitoursponsors.
 /vnads.
 /vnads/*
@@ -5519,7 +5531,6 @@
 /z/ads/*
 /zagcookie_
 /zalando-ad-
-/zanox.js
 /zanox/banner/*
 /zanox_ad/*
 /zedo_
@@ -5584,6 +5595,7 @@
 =DisplayAd&
 =displayAds&
 =dynamicads&
+=dynamicwebad&
 =GetSponsorAds&
 =half-page-ad&
 =iframe_adv&
@@ -5591,6 +5603,7 @@
 =searchadslider|
 =showsearchgoogleads&
 =simpleads/
+=textads&
 =tickerReportAdCallback_
 =web&ads=
 =webad2&
@@ -6157,6 +6170,14 @@ takeover_banner_
 ||serve.*/promoload?
 ! linkbucks.com script
 /webservices/jsparselinks.aspx?$script
+! CDN-based filters
+/cdn-cgi/pe/bag2?r[]=*adblade.com
+/cdn-cgi/pe/bag2?r[]=*ads.exoclick.com
+/cdn-cgi/pe/bag2?r[]=*content.ad
+/cdn-cgi/pe/bag2?r[]=*juicyads.com
+/cdn-cgi/pe/bag2?r[]=*revcontent.com
+/cdn-cgi/pe/bag?r[]=*cpalead.com
+/cdn-cgi/pe/bag?r[]=*pubads.g.doubleclick.net
 ! Common adserver string
 /mediahosting.engine$script,third-party
 /Tag.engine$script,third-party
@@ -6167,6 +6188,7 @@ takeover_banner_
 ! Anti-Adblock
 /ad-blocker.js
 /adb_detector.
+/adblock-alerter/*
 /adblock-blocker/*
 /adblock_detector.
 /adblock_detector2.

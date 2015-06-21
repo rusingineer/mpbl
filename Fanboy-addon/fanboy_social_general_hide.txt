@@ -111,8 +111,10 @@
 ###article-social
 ###article-social-bottom
 ###article-social-buttons
+###article-social-facebook
 ###article-social-shares
 ###article-social-top
+###article-social-twitter
 ###articleShare
 ###articleSocialFooter
 ###article_actions_socialmedia
@@ -349,6 +351,7 @@
 ###facebook-likebox
 ###facebook-link
 ###facebook-module
+###facebook-page-plugin
 ###facebook-panel
 ###facebook-share
 ###facebook-share-bot
@@ -440,6 +443,7 @@
 ###fb-lk-bx
 ###fb-rec-box
 ###fb-recommend
+###fb-scroll-popup
 ###fb-share-counter-link
 ###fb-social-callout-div
 ###fb-social-top-buttonOFF
@@ -831,6 +835,7 @@
 ###mm-like-facebook
 ###mm-share-twitter
 ###mobile-share-button
+###mobile-social
 ###mobileShareBottom
 ###mobileShareTop
 ###mod-socialhub
@@ -1317,6 +1322,7 @@
 ###social-links-big
 ###social-links-facebook
 ###social-links-foot
+###social-links-toggle
 ###social-links-twitter
 ###social-loop
 ###social-media
@@ -1846,6 +1852,7 @@
 ###wktwitter
 ###wp-share-wrap
 ###wp_fb_like_button
+###wp_social_popup_and_get_traffic
 ###wp_twitter_goodies_profile_widgets
 ###yahooBuzzBadge-form
 ###yan-share
@@ -2090,11 +2097,14 @@
 ##.article-shares-links
 ##.article-sharing
 ##.article-sharing-top
+##.article-sidebar-action-facebook
+##.article-sidebar-action-twitter
 ##.article-social
 ##.article-social-bar
 ##.article-social-bar-floating
 ##.article-social-bookmark
 ##.article-social-bottom
+##.article-social-btn
 ##.article-social-buttons
 ##.article-social-overlay
 ##.article-social-sharing
@@ -2103,6 +2113,7 @@
 ##.article-sticky-nav__shares
 ##.article-title-share
 ##.article-twitter-experiment
+##.article-v2-rail__social
 ##.articleShare
 ##.articleShareBar
 ##.articleSocialBar
@@ -2428,6 +2439,7 @@
 ##.deatil_social_liks
 ##.delicious-blogbadge
 ##.delicious_icon
+##.desktop-sharrre-bar
 ##.detailShareBlock
 ##.details-share-bar
 ##.details-share-but
@@ -2607,6 +2619,7 @@
 ##.facebook-share-bottom
 ##.facebook-share-btn
 ##.facebook-share-button
+##.facebook-share-link
 ##.facebook-share-story
 ##.facebook-sharer
 ##.facebook-sharetool
@@ -2623,6 +2636,7 @@
 ##.facebook2
 ##.facebookActivity
 ##.facebookBloc_png
+##.facebookBox
 ##.facebookBtn
 ##.facebookButtonDiv
 ##.facebookConnect
@@ -2726,11 +2740,13 @@
 ##.fb-like-box-wrapper
 ##.fb-like-buttons
 ##.fb-like-container
+##.fb-like-container-text
 ##.fb-like-holder
 ##.fb-like-widget
 ##.fb-like2
 ##.fb-likebox
 ##.fb-link
+##.fb-msg
 ##.fb-outer
 ##.fb-page
 ##.fb-pageFeed
@@ -2790,6 +2806,7 @@
 ##.fb_like_box
 ##.fb_like_cont
 ##.fb_like_container
+##.fb_mobile
 ##.fb_plug
 ##.fb_promoBox
 ##.fb_recommendations_container
@@ -3147,6 +3164,7 @@
 ##.gallery-share
 ##.gallery-sharing
 ##.gallery-social
+##.gallery__share
 ##.gc_social_floating
 ##.gdhp-share
 ##.geShareTool
@@ -3192,6 +3210,7 @@
 ##.google-plus-icon
 ##.google-plus-link
 ##.google-plus_icn
+##.google-share
 ##.google-shareButton
 ##.google-sharetool
 ##.googlePlus
@@ -3441,6 +3460,7 @@
 ##.icon-facebook-circle
 ##.icon-facebook-circled
 ##.icon-facebook-encircled
+##.icon-facebook-official
 ##.icon-facebook-round
 ##.icon-facebook-sharing
 ##.icon-facebook-sign
@@ -3508,6 +3528,8 @@
 ##.icon-plusone
 ##.icon-plusone-mini
 ##.icon-reddit
+##.icon-s-facebook
+##.icon-s-twitter
 ##.icon-share
 ##.icon-share-facebook
 ##.icon-share-instagram
@@ -3681,6 +3703,7 @@
 ##.js-share-button-twitter
 ##.js-share-count
 ##.js-sharecount
+##.js-social-bar
 ##.js-socialise
 ##.js-socialise-wrapper
 ##.js-tweet-button
@@ -3961,6 +3984,7 @@
 ##.node-share-buttons
 ##.node-share-sm
 ##.node-social
+##.node-social-buttons
 ##.node-social-media
 ##.npStoryShare
 ##.nw-bottom-social
@@ -3970,6 +3994,7 @@
 ##.om-social-links
 ##.omc-social-small
 ##.oneall_social_login
+##.onp-sociallocker-overlap-box
 ##.ont-social-networks
 ##.open_share_box
 ##.opju_socialmedia_widget
@@ -4105,6 +4130,7 @@
 ##.postshare
 ##.prettySocial
 ##.primary-share-buttons
+##.prl-header-social
 ##.promo-linkedin
 ##.promote-facebook
 ##.promote-twitter
@@ -4280,6 +4306,7 @@
 ##.share-event
 ##.share-facebook
 ##.share-facebook-like
+##.share-facebook-twitter
 ##.share-fb
 ##.share-feed
 ##.share-float-panel
@@ -4294,6 +4321,7 @@
 ##.share-gp
 ##.share-gplus
 ##.share-group
+##.share-head
 ##.share-header
 ##.share-help
 ##.share-horiz
@@ -4344,6 +4372,7 @@
 ##.share-reddit
 ##.share-reddit-icon
 ##.share-save
+##.share-scanning
 ##.share-section
 ##.share-section-mini
 ##.share-section-pink
@@ -4376,6 +4405,7 @@
 ##.share-toolbar-container
 ##.share-tools
 ##.share-tools-container
+##.share-tools-curated
 ##.share-tools-footer
 ##.share-tools-wrapper
 ##.share-top
@@ -4582,6 +4612,8 @@
 ##.sharebox-outer
 ##.sharebox_new
 ##.sharebutdrop
+##.sharebutt
+##.sharebutt__wrapper
 ##.sharebutton
 ##.sharebuttons
 ##.sharecontainer
@@ -4986,6 +5018,7 @@
 ##.social-link-gplus
 ##.social-link-pinterest
 ##.social-link-top
+##.social-link-tw
 ##.social-link-twitter
 ##.social-linkedin
 ##.social-links
@@ -5304,6 +5337,7 @@
 ##.social_fb_like
 ##.social_fix
 ##.social_float_panel
+##.social_flyout
 ##.social_follow
 ##.social_follow_icons_bottom
 ##.social_follow_us
@@ -5620,6 +5654,7 @@
 ##.talk-sharing__facebook
 ##.talk-sharing__other
 ##.talk-sharing__twitter
+##.talksShareSpan
 ##.tbt_social
 ##.td-post-sharing
 ##.td-social-sharing
@@ -5635,7 +5670,9 @@
 ##.text-m-join-us-on-facebook
 ##.text_list_inline
 ##.th-sharecounts
+##.theChampSharing
 ##.the_champ_sharing_container
+##.the_champ_sharing_ul
 ##.theme-icon-facebook
 ##.theme-icon-pinterest
 ##.theme-icon-twitter
@@ -5846,6 +5883,7 @@
 ##.twitter_link
 ##.twitter_logo
 ##.twitter_logo_small_footer
+##.twitter_mobile
 ##.twitter_net
 ##.twitter_share
 ##.twitter_sm

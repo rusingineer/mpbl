@@ -19,6 +19,7 @@
 -tracking.js?
 -xtcore.js
 .asis?Log=
+.at/t.gif?
 .au/1x1.gif?
 .au/c.gif?
 .au/t.ashx?
@@ -87,6 +88,7 @@
 .com/www.gif?
 .com/x.gif?
 .core.tracking-min-
+.de/l.gif?
 .do_tracking&
 .eloqua.js
 .gatracker.
@@ -259,6 +261,7 @@
 /analytics.php?
 /analytics.swf?
 /analytics/cms/*
+/analytics/eventTrack
 /analytics/ga?
 /Analytics/Google.
 /analytics/gw.
@@ -1421,6 +1424,7 @@
 /ping/show?
 /ping?h=
 /ping?spacedesc
+/ping_g.jsp?
 /pingd?
 /pinger.cgi?
 /PingPixel.
@@ -1431,6 +1435,7 @@
 /piwik.php
 /piwik/js/*$domain=~piwik.org
 /piwik1.
+/piwik2.js
 /piwik_
 /piwikapi.js
 /piwikC_
@@ -1443,6 +1448,7 @@
 /pixel.gif?b=
 /pixel.gif?d=
 /pixel.gif?key=
+/pixel.gif?nocache=
 /pixel.jsp?
 /pixel.php?
 /pixel.swf?
@@ -1466,6 +1472,7 @@
 /pixy.gif?
 /pladtrack.
 /planetstat.
+/player_counter.ashx?
 /PlayerDashboardLoggingService.svc/json/StartSession?
 /playertracking/*
 /plgtrafic.
@@ -1715,6 +1722,7 @@
 /stat.php?
 /stat.tiff?
 /stat/count
+/stat/inserthit.
 /stat/track.php?mode=js
 /stat2.aspx?
 /stat2.js
@@ -1736,6 +1744,7 @@
 /statistics.aspx?profile
 /statistics/getcook.php?
 /statistics/logging/*
+/statistics?eventType=
 /statlogger.
 /stats-js.cgi?
 /stats.asp?id
@@ -1747,6 +1756,7 @@
 /stats/?js
 /stats/collector.js
 /stats/counter.
+/stats/CounterPage.
 /stats/dlcount_
 /stats/et_track.asp?
 /stats/impression
@@ -1938,6 +1948,7 @@
 /tracking/tag_commander.php?
 /tracking/track.jsp?
 /tracking/track.php?
+/tracking/tracking.js
 /tracking/tracking_
 /tracking/tynt_
 /tracking/views/*
@@ -2242,6 +2253,7 @@
 /zag.gif?
 /zagcookie.
 /ZagUser.js
+/zanox.js
 /zdgurgler.min.js
 /zemtracker.
 /zonapixel.
@@ -2354,6 +2366,15 @@ _zag_cookie.
 cgi-bin/counter
 http://utm.
 ||meetrics.netbb-
+! CDN-based filters
+/cdn-cgi/pe/bag2?*dnn506yrbagrg.cloudfront.net
+/cdn-cgi/pe/bag2?*geoiplookup
+/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js
+/cdn-cgi/pe/bag2?*newrelic.com
+/cdn-cgi/pe/bag2?*nr-data.net
+/cdn-cgi/pe/bag2?*optimizely.com
+/cdn-cgi/pe/bag2?*piwik.js
+/cdn-cgi/pe/bag2?*scorecardresearch.com
 ! Russian rating sites
 /img.php?id=*&page=
 ://ivw.*/get?referrer=

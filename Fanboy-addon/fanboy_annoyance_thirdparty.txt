@@ -100,6 +100,7 @@
 ||hnbutton.appspot.com^$third-party
 ||hnlike.com^$third-party
 ||honcode.ch^$third-party
+||hpr.outbrain.com^$third-party
 ||identi.ca/js/identica-badge.js$third-party
 ||images.hitwise.co.uk^$third-party
 ||img.fark.net/pub/$third-party
@@ -135,6 +136,7 @@
 ||mozo.com.au/widgets/$third-party
 ||my.leadpages.net^$third-party
 ||newsgator.com^$third-party
+||newsletter.outbrain.com^$third-party
 ||newswhip.com^$third-party
 ||nrcdn.com/custom-script/$third-party
 ||nrelate.com^$third-party
@@ -148,8 +150,6 @@
 ||plugin.me2day.net^$third-party
 ||powerjobs.com^$third-party
 ||pressly.com^$third-party
-||printfriendly.com/pf-button.gif$third-party
-||printfriendly.com/printfriendly.js$third-party
 ||promoshq.wildfireapp.com^$third-party
 ||promotion.monster.com^$third-party
 ||promotions.newegg.com^$third-party
@@ -157,6 +157,7 @@
 ||publisher.monster.com^$third-party
 ||punchtab.com^$third-party
 ||qeryz.com^$third-party
+||qmerce.com^$third-party
 ||qrius.me^$third-party
 ||quote.fm/services/button/$third-party
 ||rankdirectory.org^$third-party
@@ -190,6 +191,7 @@
 ||statictapcdn-a.akamaihd.net^$third-party
 ||storystack.com^$third-party
 ||styld-by.com^$third-party
+||sumome.com^$third-party
 ||surfingbird.ru^$third-party
 ||survey.constantcontact.com^$third-party
 ||survey.io^$third-party

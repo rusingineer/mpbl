@@ -328,6 +328,7 @@
 ||cloudapp.net/l/
 ||cloudfront-labs.amazonaws.com^
 ||cloudfront.net*/sp.js
+||cloudfront.net*/tracker.js
 ||cloudfront.net*/trk.js
 ||cloudfront.net/analytics.js
 ||cloudfront.net/analyticsengine/
@@ -432,6 +433,7 @@
 ||d2d5uvkqie1lr5.cloudfront.net^*/analytics.
 ||d2gfi8ctn6kki7.cloudfront.net^
 ||d2kmrmwhq7wkvs.cloudfront.net^
+||d2nq0f8d9ofdwv.cloudfront.net/track.js
 ||d2oh4tlt9mrke9.cloudfront.net^
 ||d2ry9vue95px0b.cloudfront.net^
 ||d2so4705rl485y.cloudfront.net^
@@ -595,6 +597,7 @@
 ||gcion.com/gcion.ashx?
 ||geckofoot.com/gfcounterimg.aspx?
 ||geckofoot.com/gfvisitormap.aspx?
+||geo.ertya.com^
 ||geo.gexo.com/geo.js$third-party
 ||geo.kontagent.net^
 ||geo.ltassrv.com^
@@ -718,6 +721,7 @@
 ||kiwari.com^*/impressions.asp?
 ||l-host.net/etn/omnilog?
 ||l.coincident.tv^
+||l.fairblocker.com^$third-party
 ||l.ooyala.com^
 ||l.player.ooyala.com^
 ||l.sharethis.com^
@@ -742,6 +746,7 @@
 ||link.informer.com^
 ||linkbucks.com/visitScript/
 ||linkedin.com/emimp/$image
+||linkedin.com/lite/rum-track?$image,third-party
 ||linkwithin.com/pixel.png
 ||list-manage.com/track/
 ||list.fightforthefuture.org/mpss/o/*/o.gif
@@ -768,6 +773,7 @@
 ||log.pinterest.com^
 ||log000.goo.ne.jp^$third-party
 ||log1.survey.io^
+||logger.logidea.info^
 ||logger.sociablelabs.com^
 ||loggingapi.spingo.com^
 ||logs.vmixcore.com^
@@ -1015,6 +1021,7 @@
 ||returnpath.net/pixel.gif?
 ||reverbnation.com/widgets/trk/
 ||rhapsody.com^*/pixel?
+||ria.ru/js/counter.js
 ||rich-agent.s3.amazonaws.com^
 ||richrelevance.com/rrserver/tracking?
 ||rodalenl.com/imp?$third-party
@@ -1060,6 +1067,7 @@
 ||skysa.com/tracker/
 ||sli-spark.com/b.png$third-party
 ||slidedeck.com^$image,third-party
+||slidesharecdn.com/images/1x1.gif?
 ||smartertravel.com/ext/pixel/
 ||snaps.vidiemi.com^$third-party
 ||snazzyspace.com/generators/viewer-counter/counter.php$third-party
@@ -1154,6 +1162,9 @@
 ||su.pr/hosted_js$third-party
 ||sugarops.com/w?action=impression$third-party
 ||sulia.com/papi/sulia_partner.js/$third-party
+||sumome.com/api/event/?
+||sumome.com/apps/contentanalytics/
+||sumome.com/apps/heatmaps/
 ||supert.ag^*/supertag-async.js
 ||survey.g.doubleclick.net^
 ||survey.interquest.com^
@@ -1389,6 +1400,7 @@
 ||vms.boldchat.com/aid/$third-party
 ||vmss.boldchat.com^$third-party
 ||voss.collegehumor.com^
+||vra.outbrain.com^$third-party
 ||vtnlog-*.elb.amazonaws.com^
 ||vtracking.in.com^
 ||vvhp.net/read/view.gif
