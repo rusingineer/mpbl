@@ -9,6 +9,7 @@
 ||12dayswidget.com/widgets/
 ||173.199.120.7/delivery/$domain=~p2p.adserver.ip
 ||173.225.186.54^$third-party,domain=~apps.su.ip
+||178.17.164.58^$script,third-party
 ||178.238.233.242/open.js
 ||1page.co.za/affiliate/
 ||1stag.com/main/img/banners/
@@ -298,7 +299,6 @@
 ||broadbandgenie.co.uk/widget?$third-party
 ||bruteforceseo.com/affiliates/
 ||bruteforcesocialmedia.com/affiliates/
-||bsrv.adohana.com^$third-party
 ||btguard.com/images/$third-party
 ||btr.domywife.com^
 ||btrd.net/assets/interstitial$script
@@ -360,6 +360,7 @@
 ||click.eyk.net^
 ||clickstrip.6wav.es^
 ||clicksure.com/img/resources/banner_
+||clicktripz.com/scripts/js/ct.js
 ||clipdealer.com/?action=widget&*&partner=
 ||cloudfront.net/nimblebuy/
 ||cloudfront.net/scripts/js3caf.js
@@ -807,8 +808,10 @@
 ||img.servint.net^$third-party
 ||imgdino.com/gsmpop.js
 ||imgehost.com^*/banners/$third-party
+||imgpop.googlecode.com^$third-party
 ||imgur.com^$image,domain=talksport.com
 ||imptestrm.com/rg-main.php?
+||imshopping.com/nimblebuy/
 ||indeed.fr/ads/
 ||indian-forex.com^*/banners/$third-party
 ||indieclick.3janecdn.com^
@@ -839,7 +842,6 @@
 ||jalbum.net/widgetapi/js/dlbutton.js?
 ||jenningsforddirect.co.uk/sitewide/extras/$third-party
 ||jeysearch.com^$subdocument,third-party
-||jimdo.com/s/img/aff/
 ||jinx.com/content/banner/$third-party
 ||jivox.com/jivox/serverapis/getcampaignbyid.php?$object-subrequest
 ||joblet.jp/javascripts/$third-party
@@ -869,6 +871,7 @@
 ||ladbrokes.com^*&aff_id=
 ||lapi.ebay.com^$third-party
 ||lastlocation.com/images/banner
+||lawdepot.com/affiliate/$third-party
 ||leadintelligence.co.uk/in-text.js$third-party
 ||leadsleap.com/images/banner_
 ||leadsleap.com/widget/
@@ -934,6 +937,7 @@
 ||mantra.com.au^*/campaigns/$third-party
 ||marinejobs.gr/images/marine_adv.gif
 ||marketing.888.com^
+||masqforo.com^$third-party,domain=linkbucks.com
 ||mastiway.com/webimages/$third-party
 ||match.com^*/prm/$third-party
 ||matchbin.com/javascripts/remote_widget.js
@@ -1046,6 +1050,7 @@
 ||o2live.com^$third-party
 ||oasap.com/images/affiliate/
 ||obox-design.com/affiliate-banners/
+||oclasrv.comindex-2.htmlapu.php^
 ||ocp.cbs.com/pacific/request.jsp?
 ||odin.goo.mx^
 ||offers-service.cbsinteractive.com^$third-party
@@ -1207,6 +1212,7 @@
 ||s3.amazonaws.com/draftset/banners/
 ||safarinow.com/affiliate-zone/
 ||sailthru.com^*/horizon.js
+||salefile.googlecode.com^$third-party
 ||salemwebnetwork.com/Stations/images/SiteWrapper/
 ||sat-shop.co.uk/images/$third-party
 ||satshop.tv/images/banner/$third-party
@@ -1231,6 +1237,7 @@
 ||service.smscoin.com/js/sendpic.js
 ||serving.portal.dmflex.com^$domain=thisdaylive.com
 ||settleships.com^$third-party
+||sfcdn.in/sailfish/$script
 ||sfimg.com/images/banners/
 ||sfimg.com/SFIBanners/
 ||sfm-offshore.com/images/banners/
@@ -1258,7 +1265,9 @@
 ||sisters-magazine.com/iframebanners/$third-party
 ||site5.com/creative/$third-party
 ||site5.com/creative/*/234x60.gif
+||sitegiant.my/affiliate/$third-party
 ||sitegrip.com^*/swagbucks-
+||sitescout-video-cdn.edgesuite.net^
 ||skydsl.eu/banner/$third-party
 ||slickdeals.meritline.com^$third-party
 ||slot.union.ucweb.com^
@@ -1350,7 +1359,6 @@
 ||theselfdefenseco.com/?affid=$third-party
 ||thetechnologyblog.net^*/bp_internet/
 ||thirdpartycdn.lumovies.com^$third-party
-||ti.tradetracker.net^
 ||ticketkai.com/banner/
 ||ticketmaster.com/promotionalcontent/
 ||tickles.co.uk^$subdocument,third-party
@@ -1432,9 +1440,8 @@
 ||viagogo.co.uk/feeds/widget.ashx?
 ||videoweed.es/js/aff.js
 ||videozr.com^$third-party
-||vidible.tv/jsonp/pid=*.js$third-party
 ||vidible.tv/placement/vast/
-||vidible.tv/prod/tags/$third-party
+||vidible.tv/prod/tags/
 ||vidyoda.com/fambaa/chnls/ADSgmts.ashx?
 ||viglink.com/api/batch^$third-party
 ||viglink.com/api/insert^$third-party
@@ -1549,3 +1556,4 @@
 ! Mobile
 ||iadc.qwapi.com^
 ! Anti-Adblock
+||chronophotographie.science^$third-party

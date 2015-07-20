@@ -1,6 +1,7 @@
 answers.microsoft.com#@##SocialIcons
 google.com#@##\5f __plus_0
 google.com#@##\5f __plusone_0
+beautifulplanet4u.com#@##advancedsocialwidget
 digg.com#@##digg-widget
 digg.com#@##digg_module
 digg.com#@##digg_upcoming_content
@@ -43,8 +44,10 @@ onbeing.org#@#.addthis_32x32_style
 onbeing.org#@#.addthis_default_style
 gadgetlove.com,nrc.gov,onbeing.org,rapgenius.com,tmz.com#@#.addthis_toolbox
 onbeing.org#@#.addthisbuttons
+beautifulplanet4u.com#@#.advanced-social-widget
 kino-vorschau.com#@#.arqam-widget-counter
 neowin.net#@#.article-share
+nbcnews.com#@#.article_share
 opposingviews.com#@#.block-socialmedia
 crowdin.net,deezer.com,foodit.com,magine.com,spotify.com,younow.com#@#.btn-facebook
 techinasia.com#@#.btn-fb
@@ -55,6 +58,7 @@ crowdin.net,magine.com,qz.com,younow.com#@#.btn-twitter
 rockstargames.com#@#.btnFacebook
 rockstargames.com#@#.btnTwitter
 nationalgeographic.com#@#.btn_fb
+pinterest.com#@#.button-pinterest
 terravision.eu#@#.button-share
 smzdm.com#@#.comment_share
 si.com#@#.custom-sharing-link
@@ -99,6 +103,7 @@ medium.com#@#.follow-label
 linkedin.com#@#.follow-widget
 norisbank.de#@#.followBox
 weibo.com#@#.follow_box
+douyutv.com#@#.follow_btn
 about.me#@#.follow_twitter
 expresstools.co.uk#@#.footer-social
 google.com#@#.g-plus
@@ -129,6 +134,7 @@ forum.albiononline.com,kat.cr,katproxy.com,kickassunblock.net#@#.likeButton
 linkedin.com#@#.linkedin.icon
 pan.baidu.com#@#.list-share
 theverge.com#@#.m-article__share-buttons
+latimes.com#@#.mod-socialmedia
 renren.com#@#.photo-share
 pinterest.com#@#.pin-it-button
 feedly.com#@#.pinButton
@@ -178,6 +184,7 @@ nytimes.com#@#.shareToolsItem
 webmd.com#@#.share_bar
 idrive.com#@#.share_container
 gomiso.com#@#.share_panel
+wsj.com#@#.share_tools
 infoworld.com#@#.share_wrapper
 mozillamessaging.com,thebrowser.com#@#.sharebox
 join.me#@#.sharebutton
@@ -189,9 +196,9 @@ slate.com#@#.sharing-buttons
 nextinpact.com#@#.sharrre
 youtube.com#@#.show-share
 500px.com#@#.show_social
-dallascowboys.com,golem.de#@#.social-bar
+dallascowboys.com,golem.de,top.de#@#.social-bar
 wat.tv#@#.social-block
-golem.de,moviehole.net,newdaily.info,thedroidreview.com#@#.social-bottom
+egyptianstreets.com,golem.de,moviehole.net,newdaily.info,thedroidreview.com#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 buzzerie.com,gog.com,udemy.com#@#.social-btn
 fastcompany.com,golem.de#@#.social-button
@@ -199,7 +206,8 @@ airbnb.cat,airbnb.com,airbnb.de,cheezburger.com,musixmatch.com#@#.social-buttons
 cheezburger.com#@#.social-container
 github.com#@#.social-count
 golem.de#@#.social-counter
-4players.de,chrisblattman.com#@#.social-facebook
+4players.de,chrisblattman.com,deadspin.com,gawker.com,io9.com,jezebel.com,kotaku.com,lifehacker.com#@#.social-facebook
+deadspin.com,gawker.com,io9.com,jezebel.com,kotaku.com,lifehacker.com#@#.social-google
 4players.de#@#.social-gplus
 attn.com,wonderhowto.com#@#.social-header
 udemy.com#@#.social-icon
@@ -212,7 +220,7 @@ last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,last
 golem.de#@#.social-sidebar
 tv-kino.net#@#.social-tab
 gamesrepublic.com#@#.social-top
-4players.de,chrisblattman.com#@#.social-twitter
+4players.de,chrisblattman.com,deadspin.com,gawker.com,io9.com,jezebel.com,kotaku.com,lifehacker.com#@#.social-twitter
 viralnova.com#@#.social-wrap
 coub.com#@#.socialBlock
 runescape.com,study.163.com#@#.socialBox
@@ -231,6 +239,7 @@ wuala.com#@#.socialboxp
 clientsfromhell.net#@#.socialbuttons
 heise.de,thenextweb.com#@#.socialmedia
 chaturbate.com,gog.com#@#.socials
+vorarlberg.orf.at#@#.socialshare
 stumbleupon.com#@#.stumble-button
 geekgamer.tv#@#.subscribe-widget
 twitter.com#@#.tweet-btn

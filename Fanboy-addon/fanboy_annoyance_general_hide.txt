@@ -160,6 +160,8 @@
 ###stFB
 ###stay_connected_float
 ###sticky_nav-subscribe_btn
+###storyFeednext
+###storyFeedprev
 ###storytools-bottom
 ###storytools-top
 ###storytools_ad_top
@@ -284,6 +286,7 @@
 ##.follow-email
 ##.follow-rss
 ##.follow-subscribe
+##.follow-us-component
 ##.followEmail
 ##.followRSS
 ##.fontawesome-rss
@@ -457,6 +460,7 @@
 ##.subscription-toaster
 ##.taboola
 ##.taboola-bottom-adunit
+##.taboola-inbetweener
 ##.taboola-list-mod
 ##.taboola-sidebar-container
 ##.taboola-vertical
@@ -504,6 +508,7 @@
 ##.wp_email_capture_widget
 ##.youtubelink
 ##.zem_rp_content
+##.zocial-rss
 ##[original-title="Toggle to share your comment"]
 ##[title="Bookmark using any bookmark manager!"]
 ##[title="Email this page to a friend"]
@@ -638,6 +643,8 @@
 ###email-widget-wrapper
 ###emailSignupOverlay
 ###email_sub_popover
+###email_subscribe_1
+###email_subscribe_2
 ###email_to_a_friend_button
 ###emailsubscribe
 ###enewsletter
@@ -663,6 +670,7 @@
 ###header-subscribe
 ###home-newsletter
 ###home-subscribe-icons
+###iframe-newsletter
 ###injected-newsletter
 ###instory_newsletter_signup
 ###it_newsletters
@@ -690,6 +698,7 @@
 ###newsletter-ad
 ###newsletter-background
 ###newsletter-below-post
+###newsletter-block
 ###newsletter-box
 ###newsletter-button
 ###newsletter-container
@@ -778,6 +787,8 @@
 ###newspopup_popup
 ###newsubscribe
 ###nl_signup_rr
+###nm-subscribe-box
+###nm-subscribe-wrapper
 ###nmSignUpContainer
 ###node-basic-newsletter
 ###node-email-widget
@@ -796,6 +807,7 @@
 ###sailthru-basic-newsletter-form
 ###sdac_subscribe_widget-3
 ###se-subscribe
+###sectionEmailAlerts
 ###share-newsletter
 ###sidebar-block-newsletters
 ###sidebar-newsletter
@@ -850,6 +862,7 @@
 ###topMailingListWrapper
 ###widget-newsletter-signup
 ###widgetNewsletter
+###wp-subscribe
 ##.ALS_IL_Holder
 ##.DFNewsletterSignup
 ##.NewsletterColumn
@@ -865,6 +878,7 @@
 ##.article_page_right_subscribe
 ##.bar_newsletter
 ##.be-newsletter-widget
+##.bg-emailshare
 ##.bg-newsletter-signup
 ##.bl_newsletter
 ##.blocSubscribeRight
@@ -885,6 +899,7 @@
 ##.cambeywest-subscribe
 ##.chive-newsletter
 ##.cm_newsletter
+##.component-newsletter-subscribe
 ##.connect_newsletter
 ##.content-mod-newsletter-right
 ##.content-well-newsletter
@@ -943,6 +958,7 @@
 ##.m-newsletter-signup
 ##.m-rock-newsletter
 ##.m-subscribe
+##.markato-form-wrapper-tall
 ##.menu-newsletter-signup
 ##.mf-subscribe-widget
 ##.mod-newsletters
@@ -954,6 +970,7 @@
 ##.moduletablenewsletter_signup
 ##.mt-subscribe
 ##.newletter-sidebar
+##.news-letter-signup-wrapper
 ##.newsSignupRR
 ##.news_form_wraper
 ##.newsletter-advertisement
@@ -962,8 +979,11 @@
 ##.newsletter-article-footer
 ##.newsletter-bar-right
 ##.newsletter-block
+##.newsletter-bottom-article
 ##.newsletter-box
+##.newsletter-fixed
 ##.newsletter-flyout-wrap
+##.newsletter-footer
 ##.newsletter-icon-footer
 ##.newsletter-lightbox
 ##.newsletter-mini-banner
@@ -977,6 +997,7 @@
 ##.newsletter-sidebar
 ##.newsletter-sign-up
 ##.newsletter-signup
+##.newsletter-signup-article-wrapper
 ##.newsletter-signup-bait
 ##.newsletter-signup-box
 ##.newsletter-signup-container
@@ -993,6 +1014,7 @@
 ##.newsletter-subscription-inline
 ##.newsletter-tease
 ##.newsletter-topimg
+##.newsletter-trigger
 ##.newsletter-widget
 ##.newsletter-wrapper
 ##.newsletter1
@@ -1024,10 +1046,12 @@
 ##.newslettersignup
 ##.newslettersrssbox
 ##.newsletterwidget
+##.newsmail-signup
 ##.nlSubscribe
 ##.nls-subscribe
 ##.nw_form_newsletters
 ##.nw_icon_newsletter
+##.optin-monster
 ##.pane-bonnier-newsletter-0
 ##.pane-hp-newsletter
 ##.pane-newsletter-newsletter-subscribe
@@ -1038,6 +1062,7 @@
 ##.right-subscribe
 ##.right-subscribe-top
 ##.rr_newsletter
+##.sb-signup-container
 ##.sc-newsletter
 ##.shortcode-inline-newsletter
 ##.sidebar-email
@@ -1053,6 +1078,7 @@
 ##.small-newsletter
 ##.social-link-mail
 ##.social_newsletter_box
+##.story-follow-module
 ##.subscrOptWide
 ##.subscribe-block
 ##.subscribe-blurb
@@ -1099,6 +1125,7 @@
 ##.widget_subscribe
 ##.widget_subscribe-form
 ##.widget_subscribe_box
+##.widget_text_newsletter
 ##.widget_woo_customsubscribewidget
 ##.widget_woo_subscribe
 ! Cookie,privacy,legal Messages
@@ -1123,6 +1150,7 @@
 ###CookieMessaging
 ###CookieNotification
 ###CookieNotificationBar
+###CookieOK
 ###CookiePanel
 ###CookiePolicy
 ###CookieQBanner
@@ -1137,6 +1165,7 @@
 ###EUDirectiveCookiePanel
 ###FT_Cookies
 ###Footer_cookieLawBox
+###GlobalCookieBanner
 ###PaveCookies
 ###Row1_Column1_Cell1_CookieSettings_CookieSettings
 ###SiteMasterPage_updCookieDisclaimer
@@ -1155,6 +1184,8 @@
 ###alertCookies
 ###alerte_cnil
 ###all4nav-cookie-component
+###allowCookiesPopup
+###aoCookiePolicy
 ###arte-cookie-banner
 ###asterix_cookie_widget
 ###avertissement_cookies
@@ -1204,6 +1235,7 @@
 ###cookie-accept
 ###cookie-acceptation-popup
 ###cookie-alert
+###cookie-allow
 ###cookie-banner
 ###cookie-bar
 ###cookie-bar-main
@@ -1249,6 +1281,7 @@
 ###cookie-policy-notice
 ###cookie-policy-strap
 ###cookie-popup
+###cookie-prompt-fixed
 ###cookie-regle
 ###cookie-ribbon
 ###cookie-statement
@@ -1261,8 +1294,10 @@
 ###cookieAcknowledgement
 ###cookieAlert
 ###cookieAlertBoxID
+###cookieAlertMessage
 ###cookieBanner
 ###cookieBar
+###cookieBlock
 ###cookieBox
 ###cookieChoiceInfo
 ###cookieCompliance
@@ -1274,6 +1309,8 @@
 ###cookieCookieBar
 ###cookieDisc
 ###cookieDisclaimer
+###cookieDiv
+###cookieDivContent
 ###cookieDough
 ###cookieDropDown
 ###cookieFixed
@@ -1293,6 +1330,7 @@
 ###cookieLawBox
 ###cookieLawHeader
 ###cookieLayer
+###cookieLine
 ###cookieMessage
 ###cookieMessageContainer
 ###cookieMgn
@@ -1347,6 +1385,7 @@
 ###cookie_message
 ###cookie_message_container
 ###cookie_notice
+###cookie_notification_bar
 ###cookie_policies
 ###cookie_policy
 ###cookie_policy_alert
@@ -1360,6 +1399,7 @@
 ###cookie_warn
 ###cookie_warning
 ###cookie_widget
+###cookieaccept
 ###cookiealert
 ###cookiealert_content
 ###cookiebanner
@@ -1367,8 +1407,10 @@
 ###cookiebar-container
 ###cookiebnr
 ###cookiebox-wrapper
+###cookiecnil
 ###cookieconsent
 ###cookiecontrol
+###cookiediv
 ###cookieinfo-container
 ###cookielaw
 ###cookielaw2
@@ -1381,12 +1423,14 @@
 ###cookiemonster
 ###cookiemonster_popup
 ###cookiemsg
+###cookienotice
 ###cookienotice-container
 ###cookienotif
 ###cookieoverlay
 ###cookiepolicy
 ###cookiepolicybg
 ###cookiepolicydiv
+###cookiepop
 ###cookiepopup
 ###cookierBayer
 ###cookiereports-badge
@@ -1442,6 +1486,7 @@
 ###cookies_notifier
 ###cookies_policy
 ###cookies_warning
+###cookiescript_injected
 ###cookiesdirective
 ###cookieshit
 ###cookiespolicy
@@ -1497,6 +1542,7 @@
 ###front-no-cookies-warn
 ###fs-cookiewarning
 ###future-cookie-bar
+###gel-cookie-banner
 ###gh-cookieb
 ###global-cookie-message
 ###have-a-cookie
@@ -1509,6 +1555,7 @@
 ###id_cookieconsent
 ###ietCookiePanel
 ###imPolicycookiemessage
+###infoCookie
 ###info_cookie
 ###informations-cookies
 ###infos_cookie
@@ -1526,9 +1573,11 @@
 ###layer_cookie
 ###lc_cookies-main
 ###legal_policy_cookies
+###lscookiesMax
 ###m_cookie_popup
 ###mainDivLegacyCookie
 ###message_cookie
+###mktg_Cookie
 ###mktg_Cookie_Wrap
 ###mmmmm-cookies
 ###modalCookieContainer
@@ -1536,11 +1585,13 @@
 ###mssg-cookies-warning
 ###mycookie
 ###nav_cookie
+###new-cookie
 ###no-cookie
 ###notificacio-cookies
 ###nuk-cookieMessage
 ###o-cookie
 ###okcookies
+###pc-cookie-notice
 ###pecr-compliance-banner
 ###phrase_notification_cookies
 ###pl_cookies
@@ -1569,6 +1620,7 @@
 ###spartooCookies
 ###sun-cookieMessage
 ###svtCookieInformationContainer
+###tarteaucitronAlertBig
 ###tc_privacy
 ###tescoCookieNotification
 ###tesco_cookie_widget
@@ -1590,6 +1642,7 @@
 ##.CNIL
 ##.CookieAcceptPanel
 ##.CookieChoiceContainer
+##.CookieConsent
 ##.CookieDirectiveDisplay
 ##.CookieDirectiveHeight
 ##.CookieNotification
@@ -1599,6 +1652,7 @@
 ##.CookiesBar
 ##.CookiesMessageContainer
 ##.EUCookie
+##.ModThomasCookiesC
 ##.PortletGestionDesCookiesCNIL
 ##.accept-cookies
 ##.acceptCookies
@@ -1636,6 +1690,7 @@
 ##.container-cookie-notice
 ##.container_cookies
 ##.coockie
+##.coockie_banner
 ##.cookie-accept-container
 ##.cookie-accept-overlay
 ##.cookie-alert
@@ -1645,6 +1700,7 @@
 ##.cookie-box
 ##.cookie-check
 ##.cookie-compliance
+##.cookie-confirm
 ##.cookie-consent
 ##.cookie-container
 ##.cookie-content
@@ -1657,6 +1713,8 @@
 ##.cookie-information-wrapper
 ##.cookie-law
 ##.cookie-law-overlay
+##.cookie-layer
+##.cookie-layer-visible
 ##.cookie-message
 ##.cookie-message-container
 ##.cookie-monster
@@ -1692,6 +1750,8 @@
 ##.cookieBar
 ##.cookieBarContainer
 ##.cookieBox
+##.cookieConsentPanel
+##.cookieContainer
 ##.cookieDisclaimer
 ##.cookieDisclaimerContainer
 ##.cookieDisclaimerContainerWrapper
@@ -1711,6 +1771,9 @@
 ##.cookiePolicy
 ##.cookiePolicyBannerOuter
 ##.cookiePopup
+##.cookiePopupContainer
+##.cookiePrompt
+##.cookieToast
 ##.cookieTooltip
 ##.cookieTooltipKontener
 ##.cookieWarning
@@ -1718,12 +1781,14 @@
 ##.cookie__show
 ##.cookie_accept
 ##.cookie_bar
+##.cookie_consent
 ##.cookie_content
 ##.cookie_info
 ##.cookie_message
 ##.cookie_notice
 ##.cookie_notification
 ##.cookie_optin_box
+##.cookie_panel
 ##.cookie_policy
 ##.cookie_policy_message
 ##.cookie_popup
@@ -1746,7 +1811,9 @@
 ##.cookies-alert-wider-wrap
 ##.cookies-banner
 ##.cookies-bar
+##.cookies-container
 ##.cookies-dialog
+##.cookies-eu
 ##.cookies-info
 ##.cookies-info-static
 ##.cookies-msg
@@ -1848,6 +1915,7 @@
 ##.sd_cookiespolicy
 ##.sets-cookie
 ##.sgsCookies
+##.site-cookie-panel
 ##.storm-cookie
 ##.sys_cc-cookies
 ##.tcCookiesDialogWrapper
@@ -1862,6 +1930,7 @@
 ##.v2_cookies_container
 ##.warningCookieWrap
 ##.wrapper--cookies
+##.wrapper--cookies-disclaimer
 ##.wrapperCookies
 ! Various uk Football splashes
 ###splash_mask

@@ -923,7 +923,7 @@
 /IconoYT.
 /icons-share-
 /icons-social-
-/icons-social.
+/icons-social.$~stylesheet
 /icons.social.
 /icons/delicious-
 /icons/delicious_
@@ -1441,7 +1441,7 @@
 /Sharefb.
 /sharefrom/*
 /ShareG+.
-/shareIcons.
+/shareIcons.$~stylesheet
 /ShareOnMySpace/*
 /sharePost/*
 /sharethis.js
@@ -1520,7 +1520,7 @@
 /social-bookmarks/*
 /social-box.
 /social-btm-
-/social-buttons-
+/social-buttons-$~stylesheet
 /social-buttons.
 /social-buttons/*
 /social-delicious.

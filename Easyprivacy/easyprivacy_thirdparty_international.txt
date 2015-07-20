@@ -15,6 +15,7 @@
 ||bt.ilsemedia.nl^
 ||captcha-ad.com/stats/
 ||cgicounter.onlinehome.de^
+||clipkit.de/metrics?
 ||collect.finanzen.net^
 ||com.econa.com^
 ||computerfrage.net^*/blank.gif?
@@ -153,6 +154,7 @@
 ||shofonline.org/javashofnet/ti.js
 ! French
 ||01net.com/track/
+||abs.proxistore.com^
 ||affiliation.planethoster.info^$third-party
 ||analytics.ladmedia.fr^
 ||bbtrack.net^$third-party
@@ -206,6 +208,7 @@
 ||baidu.com/hm.gif?
 ||baidu.com/js/m.js
 ||baidu.com/js/o.js
+||beacon.sina.com.cn^
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
 ||bzclk.baidu.com^
@@ -231,6 +234,7 @@
 ||mlt01.com/cmp.htm$third-party
 ||n.yunshipei.com^
 ||pos.baidu.com^
+||r.sax.sina.com.cn^
 ||rs.sinajs.cn^
 ||sinajs.cn/open/analytics/
 ||sitemaji.com/nownews.php?
@@ -275,6 +279,8 @@
 ||counter.top.ge^$third-party
 ||links.boom.ge^
 ! Greek
+||analytics.dol.gr^
+||analyticsv2.dol.gr^
 ||stats.e-go.gr^
 ! Hebrew
 ||62.219.24.238^$domain=~globes-il.ip
@@ -308,6 +314,7 @@
 ||forebase.com/r.gif?
 ||gazzettaobjects.it^*/tracking/
 ||glomera.com/stats
+||httdev.it/e/c?
 ||livestats.matrix.it^
 ||log.superweb.ws^
 ||mibatech.com/track/

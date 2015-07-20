@@ -39,6 +39,7 @@
 ||ads.xxxbunker.com^
 ||adult-profit-files.com/banner
 ||adult-sex-games.com/images/promo/
+||adultdvdtalk.com/studios/
 ||adultfilmdatabase.com/graphics/banners/
 ||adultfyi.com/images/banners/
 ||adultwork.com/images/AWBanners/
@@ -127,6 +128,7 @@
 ||creatives.cliphunter.com^
 ||creatives.pichunter.com^
 ||creepshots.com^*/250x250_
+||damimage.com^*/DocaWedrOJPPx.png
 ||data18.com^*/banners/
 ||definebabe.com/db/images/leftnav/webcams2.png
 ||definebabe.com/db/js/pcme.js
@@ -169,6 +171,7 @@
 ||exit.macandbumble.com^
 ||extreme-board.com/bannrs/
 ||extremetube.com/player_related?
+||fantasti.cc/_special/
 ||fapdick.com/uploads/fap_
 ||fastpic.ru/js_f2.jpg
 ||fastpic.ru/js_h2.jpg
@@ -321,6 +324,7 @@
 ||imgflare.com/exo.html
 ||imgflare.com^*/splash.php
 ||imghost.us.to/xxx/content/system/js/iframe.html
+||imgwet.com/aa/
 ||imperia-of-hentai.net/banner/
 ||indexxx.com^*/banners/
 ||intporn.com^*/21s.js
@@ -564,6 +568,7 @@
 ||pornup.me/js/pp.js
 ||pornvideoxo.com^$subdocument,~third-party
 ||pornwikileaks.com/adultdvd.com.jpg
+||pornxs.com/js/files/jasminNew
 ||pr-static.empflix.com^
 ||pr-static.tnaflix.com^
 ||pureandsexy.org/banner/
@@ -768,8 +773,8 @@
 ||yobt.tv/js/ttu.js
 ||yobt.tv/rec/
 ||youaresogay.com/*.html
-||youjizz.com/_special/
 ||youjizz.com/vivid/
+||youjizz.com^*/LiveWebCams.php?
 ||youngpornvideos.com/images/bangbros/
 ||youngpornvideos.com/images/glamglam/
 ||youngpornvideos.com/images/mofoscash/
@@ -796,3 +801,10 @@
 ||yumymilf.com^*/banners/
 ||yuvutu.com^*/banners/
 ||zazzybabes.com/misc/virtuagirl-skin.js
+! Pornhub network
+@@||image.keezmovies.phncdn.com^$image,third-party,domain=pornhub.com
+@@||image.pornhub.phncdn.com^$image,third-party,domain=pornhub.com
+@@||limg.pornhub.phncdn.com^$image,third-party,domain=pornhub.com
+@@||static.pornhub.phncdn.com^$image,third-party,domain=pornhub.com
+|http://$image,third-party,domain=pornhub.com
+|https://$image,third-party,domain=pornhub.com

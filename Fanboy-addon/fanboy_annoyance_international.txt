@@ -193,6 +193,7 @@ gentside.com###actionreceiver
 ladepeche.fr###alerte_tracking
 lemonde.fr###bandeau_bas
 canalplus.fr###bandeau_fb
+ruralidays.fr,serveto.com###barraaceptacion
 letelegramme.fr###barre_top_secondaire
 franceantilles.fr###bloc_rebond
 e-leclerc.com###bt_demo
@@ -249,6 +250,7 @@ lesechos.fr##.liennavigation
 minutebuzz.com##.likePopin
 lecho.be##.linkWithinBlock
 auchan.fr##.loi_hamon
+kioskabo.fr##.messages
 leroymerlin.fr##.nav-infos-wrapper
 silicon.fr##.nav-next
 silicon.fr##.nav-previous
@@ -259,6 +261,7 @@ nouvelobs.com##.obs-article-boutils
 nouvelobs.com##.obs-follow-nl
 leclercdrive.fr##.pWCTD609_BandeauCookies
 minutebuzz.com##.popinNl
+metairie.fr##.popup-notification
 korben.info##.post-subscribe
 stihl.fr##.privacyTop
 ca-anjou-maine.fr,ca-cb.fr,ca-nord-est.fr##.recocliv2
@@ -277,6 +280,7 @@ video-buzz.eu##div[style="position:relative;height:335px;background-color:#ebebe
 video-buzz.eu##div[style="position:relative;height:38px;background-color:#ebebeb;overflow:hidden;border:2px solid #222222;padding-top:15px;padding-left:56px;"]
 challenges.fr,nouvelobs.com,sciencesetavenir.fr##div[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 buzger.com##div[style="z-index:10000000; position:fixed; padding:10px; top:0px; width:100%; background-color:#fff; color:#888; "]
+hsbc.fr##div[style^="display: block; margin: 20px 0px 0px 0px;"]
 rtl.be##div[style^="display: block; position: fixed; bottom: 0px;"]
 ||cookies.leadplace.fr^
 ||pourquoidocteur.fr/img2/face.png
@@ -293,11 +297,13 @@ aristeguinoticias.com###comparte
 canaltech.com.br###floatBar
 uol.com.br###follow
 ingdirect.es###ico_banner
+iubenda.com###iubenda-cs-banner
 sapo.pt###redesSociais
 terra.es###trr-root
 soychile.cl##.overli
 eleconomista.es##.tbot
 lanacion.com.ar##.twitter
+iubenda.com##a[style="padding-top: 10px; display: block;"]
 !
 !---------- Italian Site Specific Blocking Rules ----------
 !

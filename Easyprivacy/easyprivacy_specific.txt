@@ -2,6 +2,7 @@
 /viewtrack/track?$domain=hulu.com
 ||123greetings.com/usr-bin/view_sent.pl?
 ||123rf.com/j/ga.js
+||123rf.com/tk/
 ||192.com/log/
 ||198.105.253.2/lvl3/$image,domain=searchguide.level3.com
 ||1e400.net/tracking.js
@@ -229,6 +230,7 @@
 ||beacon.lycos.com^
 ||beacon.nuskin.com^
 ||beacon.search.yahoo.com^
+||beacon.walmart.com^
 ||beacon.www.theguardian.com^
 ||beacons.helium.com^
 ||bermudasun.bm/stats/
@@ -355,6 +357,7 @@
 ||cloudfront.net/1x1.gif?
 ||cloudfront.net/amznUrchin.js
 ||cloudfront.net/bbc-filter.js
+||cloudfront.net/dm.js$domain=dailymotion.com
 ||cloudfront.net/m/princess/ae.js
 ||cloudfront.net/m/princess/ae.live.js
 ||cloudfront.net/optimizely/
@@ -646,6 +649,7 @@
 ||geico.com/vs/track2.js?
 ||general-files.com/stat
 ||general-search.com/stat
+||geo.hltv.org^
 ||geo.homepage-web.com^
 ||geo.metronews.ca^
 ||geo.mozilla.org^
@@ -771,6 +775,7 @@
 ||hwscdn.com^*/brands_analytics.js
 ||i-am-bored.com/cad.asp
 ||i-am-bored.com/cah.asp
+||i.s-microsoft.com^
 ||i.walmartimages.com/i/icon/
 ||i365.com^*/pv.aspx?
 ||iafrica.com/php-bin/iac/readcnt.php?
@@ -804,6 +809,7 @@
 ||indeed.com/rpc/preccount?
 ||independentmail.com/metrics/
 ||indiatimes.com/trackjs10.
+||influxer.onion.com^
 ||infogr.am/js/metrics.js
 ||infomine.com/imcounter.js
 ||infoq.com/scripts/tracker.js
@@ -896,6 +902,7 @@
 ||linguee.com*/white_pixel.gif?
 ||link.codeyear.com/img/
 ||link.ex.fm/img/*.gif
+||linkbucks.com/clean.aspx?task=record$image
 ||linkbucks.com/track/
 ||linkedin.com/analytics/
 ||linkedin.com^*/tracker.gif?
@@ -943,6 +950,7 @@
 ||manta.com/sbb?
 ||maps.nokia.com^*/tracking.c.js
 ||marketing.kalahari.net^
+||marketing.nodesource.com^
 ||marketwire.com/accesstracking/
 ||marriott.com^*/mi_customer_survey.js
 ||mashable.com/pv.xml
@@ -1029,6 +1037,7 @@
 ||msnbc.msn.com^*/analytics.js
 ||msxml.excite.com/*.gif?
 ||mto.mediatakeout.com/viewer?
+||mtoza.vzaar.com^
 ||multiply.com/common/dot_clear.gif
 ||multiupload.com/extreme/?*&ref=$subdocument
 ||musicstack.com/livezilla/server.php?request=track
@@ -1484,6 +1493,7 @@
 ||stats.christianpost.com^
 ||stats.clear-media.com^
 ||stats.ebay.com^
+||stats.europe.newsweek.com^
 ||stats.eyeviewdigital.com^
 ||stats.farfetch.com^
 ||stats.firedrive.com^
@@ -1751,6 +1761,7 @@
 ||u.tv/utvplayer/everywhere/tracking.aspx?
 ||ucoz.com/stat/
 ||ui-portal.com/1and1/mailcom/s?
+||ulogin.ru/stats.html
 ||ultimedia.com/deliver/statistiques/
 ||ultra-gamerz-zone.cz.cc/b/stats?
 ||unicornapp.com^*/Metrics/
@@ -1830,6 +1841,7 @@
 ||vstat.vidigy.com^
 ||vty.dailymotion.com^
 ||vulture.com/eiilmu/pixel.gif?
+||vzaar.com/libs/stats/
 ||w88.go.com^
 ||wa.metro.co.uk^
 ||wa.ui-portal.de^
@@ -1871,6 +1883,7 @@
 ||whatcar.com/Client/Stats/
 ||whoson.smcorp.com^
 ||whstatic.com^*/ga.js?
+||wikihow.com/x/collect?
 ||wikimedia.org/wiki/Special:RecordImpression?
 ||wikinvest.com/plugin/api.php?*=metricld&
 ||wikio.com/shopping/tracking/hit.jsp?
@@ -2016,8 +2029,8 @@
 ||mnginteractive.com/live/js/omniture/SiteCatalystCode_H_22_1_NC.js
 ||mnginteractive.com/live/omniture/custom_scripts/omnicore-blogs.js$domain=mercurynews.com
 ||mnginteractive.com/live/omniture/sccore.js$domain=denverpost.com
-||mnginteractive.com/live/omniture/sccore_NEW.js$domain=pasadenastarnews.com
-||mnginteractive.com/live/omniture/sccore_NEW_JRC.js$domain=delcotimes.com|trentonian.com
+||mnginteractive.com/live/omniture/sccore_NEW.js$domain=pasadenastarnews.com|presstelegram.com
+||mnginteractive.com/live/omniture/sccore_NEW_JRC.js$domain=delcotimes.com|oneidadispatch.com|trentonian.com
 ||navyfederal.org/js/s_code.js
 ||nwsource.com/shared/js/s_code.js?$domain=seattletimes.com
 ||nyteknik.se/ver02/javascript/2012_s_code_global.js

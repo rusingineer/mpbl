@@ -10,7 +10,7 @@
 ||avalanchers.com/out/$popup
 ||bangstage.com^$popup,domain=datacloud.to
 ||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
-||bit.ly^$popup,domain=fastvideo.eu|rapidvideo.org
+||bit.ly^$popup,domain=fastvideo.eu|rapidvideo.org|sh.st
 ||casino-x.com^*&promo$popup
 ||channel4.com/ad/$popup
 ||click.aliexpress.com^$popup,domain=multiupfile.com
@@ -20,6 +20,7 @@
 ||damoh.muzu.tv^$popup
 ||deb.gs^*?ref=$popup
 ||edomz.com/re.php?mid=$popup
+||exashare.com^*&h=$popup,~third-party
 ||f-picture.net/Misc/JumpClick?$popup
 ||fashionsaga.com^$popup,domain=putlocker.is
 ||filepost.com/default_popup.html$popup
@@ -57,7 +58,7 @@
 ||kalemaro.com^$popup,domain=filatak.com
 ||leaderdownload.com^$popup,domain=fiberupload.net
 ||limbohost.net^$popup,domain=tusfiles.net
-||linkbucks.com^*?ref=$popup
+||linkbucks.com^*/?*=$popup
 ||military.com/data/popup/new_education_popunder.htm$popup
 ||miniurls.co^*?ref=$popup
 ||multiupload.nl/popunder/$popup
@@ -84,6 +85,7 @@
 ||subs4free.com/_pop_link.php$popup
 ||thebestbookies.com^$popup,domain=fırstrowsports.eu
 ||thesource.com/magicshave/$popup
+||thevideo.me/script/$popup
 ||titanbrowser.com^$popup,domain=amaderforum.com
 ||titanshare.to/download-extern.php?type=*&n=$popup
 ||tny.cz/red/first.php$popup
@@ -91,6 +93,8 @@
 ||torrentz.*/mgidpop/$popup
 ||torrentz.*/wgmpop/$popup
 ||torrentz.eu/p/$popup
+||tozer.youwatch.org^$popup
+||trans.youwatch.org^$popup
 ||tripadvisor.*/rulebasedpopunder?$popup
 ||tripadvisor.*/SimilarHotelsPopunder?$popup
 ||vibeo.to^$popup,domain=flashx.tv
@@ -102,6 +106,9 @@
 ||watchclip.tv^$popup,domain=hipfile.com
 ||wegrin.com^$popup,domain=watchfreemovies.ch
 ||yasni.ca/ad_pop.php$popup
+||youwatch.org/vids*.html$popup
+||youwatch.org^*^ban^$popup
+||youwatch.org^*^crr^$popup
 ||zanox.com^$popup,domain=pregen.net
 ||ziddu.com/onclickpop.php$popup
 ||zmovie.tv^$popup,domain=deditv.com|vidbox.net

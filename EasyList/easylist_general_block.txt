@@ -153,7 +153,9 @@
 -ads.php?
 -ads.swf
 -ads/728x
+-ads/ad-
 -ads/oas/
+-ads/static-
 -Ads_728x902.
 -ads_9_3.
 -Ads_Billboard_
@@ -196,6 +198,7 @@
 -banner-ad-
 -banner-ad.
 -banner-ads-
+-banner-ads/
 -banner.swf?
 -banner468x60.
 -bannerads/
@@ -439,6 +442,8 @@
 .info/ads-
 .info/ads/
 .initdoubleclickadselementcontent?
+.intad.
+.intad/
 .internads.
 .is/ads/
 .jp/ads/
@@ -581,6 +586,7 @@
 /250x250_advert_
 /300-ad-
 /300250_ad-
+/300ad.
 /300by250ad.
 /300x250ad.
 /300x250adbg.
@@ -624,6 +630,7 @@
 /about-these-ads.
 /absolutebm.aspx?
 /acc_random=
+/active-ad-
 /ad%20banners/*
 /ad%20images/*
 /ad-125.
@@ -682,7 +689,7 @@
 /ad-label-
 /ad-label.
 /ad-layering-
-/ad-layout/*
+/ad-layout/*$~script,~stylesheet
 /ad-leaderboard.
 /ad-left.
 /ad-letter.
@@ -703,6 +710,7 @@
 /ad-nytimes.
 /ad-offer1.
 /ad-openx.
+/ad-page/*
 /ad-plate/*
 /ad-point/*
 /ad-position-
@@ -907,6 +915,7 @@
 /ad300.
 /ad300f.
 /ad300f2.
+/ad300home.
 /ad300s.
 /ad300ws.
 /ad300x.
@@ -932,6 +941,7 @@
 /ad728.
 /ad728f.
 /ad728f2.
+/ad728home.
 /ad728s.
 /ad728t.
 /ad728w.
@@ -1369,7 +1379,7 @@
 /adfactor/*
 /adfactor_
 /adfactory-
-/adfactory.
+/adfactory.$domain=~adfactory.rocks
 /adfactory_
 /adfarm.$domain=~watchever.de
 /adfeed.
@@ -1577,7 +1587,7 @@
 /admatcher.$~object-subrequest,~xmlhttprequest
 /admatcherclient.
 /admatik.
-/admax.$domain=~admax.cn|~admax.co|~admax.eu|~admax.info|~admax.net|~admax.nu|~admax.org|~admax.se|~admax.us
+/admax.$domain=~admax.cn|~admax.co|~admax.eu|~admax.fi|~admax.info|~admax.net|~admax.nu|~admax.org|~admax.se|~admax.us
 /admax/*
 /admaxads.
 /admeasure.
@@ -1612,7 +1622,7 @@
 /ADNet/*
 /adnet2.
 /adnetmedia.
-/adnetwork.
+/adnetwork.$domain=~adnetwork.ie
 /adnetwork/*
 /adnetwork300.
 /adnetwork468.
@@ -1928,6 +1938,7 @@
 /ads/marketing/*
 /ads/masthead_
 /ads/menu_
+/ads/middle/*
 /ads/motherless.
 /ads/mpu/*
 /ads/mpu2?
@@ -2588,6 +2599,7 @@
 /advaluewriter.
 /advault.
 /advbanner/*
+/advbanners/*
 /advcontents.
 /advcounter.
 /advdoc/*
@@ -2649,10 +2661,10 @@
 /advertisements_
 /AdvertisementShare.
 /advertisementview/*
-/advertiser.$domain=~advertiser.growmobile.com
+/advertiser.$domain=~advertiser.growmobile.com|~panel.rightflow.com
 /advertiser/*$domain=~bingads.microsoft.com|~mobileapptracking.com|~trialpay.com
-/advertisers.$image,script,subdocument
-/advertisers/*
+/advertisers.$image,script,subdocument,domain=~panel.rightflow.com
+/advertisers/*$domain=~panel.rightflow.com
 /advertiserwidget.
 /advertises/*
 /advertisewithus_
@@ -2669,6 +2681,7 @@
 /advertisingbanner1.
 /advertisingbanner_
 /advertisingcontent/*
+/advertisingimageexte/*
 /AdvertisingIsPresent6?
 /advertisinglinks_
 /advertisingmanual.
@@ -2741,6 +2754,7 @@
 /adw2.shtml
 /adweb.
 /adweb2.
+/adweb33.
 /adwidget/*
 /adwidgets/*
 /adwise/*
@@ -2867,7 +2881,7 @@
 /amazon/widget/*
 /amzn_omakase.
 /anchorad.
-/annonse.
+/annonse.$domain=~annonse.nu
 /annonse/*
 /annonser.
 /annonser/*
@@ -2886,6 +2900,7 @@
 /article_ad.
 /articleSponsorDeriv_
 /artimediatargetads.
+/as/gb?stid=
 /as3overstreamplatformadapter.
 /as_u/ads/*
 /aseadnshow.
@@ -2899,6 +2914,7 @@
 /assets/ads_
 /assets/adv/*
 /assets/doubleclick/*
+/assets/sponsored/*
 /ast/ads/*
 /athena/tag/?
 /atnads/*
@@ -3342,6 +3358,7 @@
 /dartcall.
 /dartfunctions.
 /data/ads/*
+/data/init?site_id=
 /dateads.
 /dblclick.
 /dblclickad.
@@ -4515,6 +4532,7 @@
 /parts/ad/*
 /pauseadextension.
 /payperpost.
+/pb-ads/*
 /pc/ads.
 /pcad.js?
 /peel.js
@@ -4849,6 +4867,7 @@
 /script/ad.
 /script/ads.
 /script/ads_
+/script/banniere_*.php?id=*&ref=$script,third-party
 /script/oas/*
 /scripts/ad-
 /scripts/ad.
@@ -5147,7 +5166,6 @@
 /sugarads-
 /superads_
 /supernorthroomad.
-/survey_monkey.
 /svnad/*
 /swf/ad-
 /swf/ads/*
@@ -5370,7 +5388,9 @@
 /video_ad_
 /video_ads.
 /videoad.
+/VideoAd/*
 /videoad_new.
+/VideoAdContent?
 /videoadrenderer.
 /videoads.
 /videoads/*
@@ -5457,6 +5477,7 @@
 /wp-content/plugins/banner-manager/*
 /wp-content/plugins/bhcb/lock.js
 /wp-content/plugins/fasterim-optin/*
+/wp-content/plugins/m-wp-popup/*$~stylesheet
 /wp-content/plugins/platinumpopup/*
 /wp-content/plugins/useful-banner-manager/*
 /wp-content/plugins/wp-bannerize/*
@@ -5539,7 +5560,7 @@
 ://ad.*/jstag^
 ://adcl.
 ://ads.
-://adv.$domain=~forex-tv-online.com
+://adv.$domain=~adv.ru|~forex-tv-online.com
 ://affiliate.$third-party
 ://affiliates.$third-party
 ://ax-d.*/jstag^
@@ -5580,6 +5601,7 @@
 =adslot&
 =adspremiumplacement&
 =adtech_
+=adunit&
 =advert/
 =advertiser.
 =advertiser/
@@ -5637,10 +5659,11 @@
 ?adunitid=
 ?adunitname=
 ?adv/id=
+?adv_type=
 ?adversion=
 ?advertisement=
 ?advertiser=
-?advertiser_id=
+?advertiser_id=$domain=~panel.rightflow.com
 ?advertiserid=$domain=~outbrain.com
 ?advertising=
 ?advideo_
@@ -5838,6 +5861,7 @@ _admanager/
 _admarking_
 _admin/ads/
 _adminka/
+_adnetwork.
 _adobjects.
 _adpage=
 _adpartner.
@@ -5970,6 +5994,7 @@ _banner_ad.
 _banner_ad_
 _banner_ads.
 _Banner_Ads_
+_banner_adv300x250px.
 _banner_adv_
 _bannerad.
 _BannerAd_
@@ -6201,6 +6226,7 @@ takeover_banner_
 /anti_ab.
 /antiadblock.
 /blockblock/blockblock.jquery.js
+/fuckadb.js
 /FuckAdBlock-$script
 /fuckadblock.
 /no-adblock/*

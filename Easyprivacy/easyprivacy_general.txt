@@ -84,6 +84,7 @@
 .com/traffic/?t=*&cb=
 .com/v.gif?
 .com/vanity/?
+.com/vtrack|
 .com/w.gif?
 .com/www.gif?
 .com/x.gif?
@@ -107,6 +108,7 @@
 .net/ping.php?
 .net/t.gif?
 .net/trck/
+.net/vtrack|
 .ntpagetag.
 .nz/t.gif?
 .org/?js|
@@ -597,6 +599,7 @@
 /count.fcgi?
 /count.fgi?
 /count/?ad=
+/count/count.cgi?
 /count?pid=
 /count_DB/*
 /count_js.
@@ -624,6 +627,7 @@
 /countercollector/*
 /counterFooterFlash.
 /countHits.
+/countinj.cgi?
 /countpixel.
 /countstat.php?
 /countus.php
@@ -1037,6 +1041,7 @@
 /inetlog.ru/*
 /info/picksel/*
 /informerStat?
+/inpl.measure.
 /insightXe.js
 /insitemetrics/*
 /InstantTracking.
@@ -1151,6 +1156,7 @@
 /log_e.php?id=
 /log_hit.
 /log_impression/*
+/log_interaction?
 /log_presence/*
 /log_stats.php?
 /log_syndication.
@@ -1172,6 +1178,7 @@
 /logextrastats.
 /logger.ashx?
 /logger.dll/*
+/logger.pageperf?
 /logger/p.gif?
 /logger?d=
 /logging-code.
@@ -1370,6 +1377,7 @@
 /ordertrack/*
 /osGoogleAnalytics.
 /ot_e404.gif?
+/ovstats.
 /ow_analytics.
 /owa.tracker-combined-min.js
 /ox_stats.
@@ -1660,12 +1668,12 @@
 /showcounter.
 /showhits.php?
 /si-tracking.
-/sidecar.js
 /sidtracker.
 /sikcomscore_
 /sikquantcast_
 /SilverPop.
 /silverpop/*
+/simple_reach.js
 /simplereach_counts/*
 /simtracker.min.js
 /site-tracker-
@@ -1767,6 +1775,7 @@
 /stats/track.asp?
 /stats/tracker.gif?
 /stats/tracker.js
+/stats?aid=
 /stats?blog_
 /stats?callback=
 /stats?ev=
@@ -1787,6 +1796,7 @@
 /statstracker?
 /statsupdater.
 /stattracker-
+/StatV1?
 /stcollection.
 /store-uniq-client-id?bomuuid=
 /stt/track.
@@ -1900,6 +1910,7 @@
 /tracker/referrer/*
 /tracker/story.jpg?
 /tracker/t.php?
+/tracker/track.php?
 /tracker/tracker.js
 /tracker2.js
 /tracker?*=
@@ -2370,11 +2381,16 @@ http://utm.
 /cdn-cgi/pe/bag2?*dnn506yrbagrg.cloudfront.net
 /cdn-cgi/pe/bag2?*geoiplookup
 /cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js
+/cdn-cgi/pe/bag2?*log.outbrain.com
+/cdn-cgi/pe/bag2?*mc.yandex.ru
 /cdn-cgi/pe/bag2?*newrelic.com
 /cdn-cgi/pe/bag2?*nr-data.net
 /cdn-cgi/pe/bag2?*optimizely.com
 /cdn-cgi/pe/bag2?*piwik.js
+/cdn-cgi/pe/bag2?*radarurl.com
 /cdn-cgi/pe/bag2?*scorecardresearch.com
+/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs
+/cdn-cgi/pe/bag2?*yieldbot.intent.js
 ! Russian rating sites
 /img.php?id=*&page=
 ://ivw.*/get?referrer=

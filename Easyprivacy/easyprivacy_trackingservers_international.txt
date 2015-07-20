@@ -311,6 +311,7 @@
 ||livestats.fr^$third-party
 ||mmtro.com^$third-party
 ||netquattro.com/stats/
+||ownpage.fr^$third-party
 ||reseau-pub.com^$third-party
 ||stats.fr^$third-party
 ||titag.com^$third-party
@@ -344,6 +345,7 @@
 ||eyeota.net^$third-party
 ||gostats.cn^$third-party
 ||gridsum.com^$third-party
+||gtags.net^$third-party
 ||hotrank.com.tw^$third-party
 ||irs01.$third-party
 ||irs09.com^$third-party
@@ -353,6 +355,7 @@
 ||oadz.com^$third-party
 ||phpstat.com^$third-party
 ||pixanalytics.com^$third-party
+||sagetrc.com^$third-party
 ||sitebot.cn^$third-party
 ||top-bloggers.com^$third-party
 ||topsem.com^$third-party
@@ -362,6 +365,7 @@
 ||vdoing.com^$third-party
 ||wrating.com^$third-party
 ||yigao.com^$third-party
+||zampda.net^$third-party
 ||ztcadx.com^$third-party
 ! Croatian
 ||dotmetrics.net^$third-party
@@ -534,6 +538,7 @@
 ||clickonometrics.pl^$third-party
 ||gemius.pl^$third-party
 ||gostats.pl^$third-party
+||hub.com.pl^$third-party
 ||legenhit.com^$third-party
 ||ngacm.com^$third-party
 ||ngastatic.com^$third-party
@@ -607,6 +612,7 @@
 ||tns-counter.ru^$third-party
 ||toptracker.ru^$third-party
 ||uarating.com^$third-party
+||uptolike.com^$third-party
 ||uralweb.ru^$third-party
 ||uzrating.com^$third-party
 ||vidigital.ru^$third-party

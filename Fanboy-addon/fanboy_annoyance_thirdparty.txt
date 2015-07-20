@@ -1,4 +1,5 @@
 ||123cursors.com^$third-party
+||1worldonline.com^$third-party
 ||2kurl.com^$third-party
 ||2leep.com^$third-party
 ||37signals.com^$third-party
@@ -51,12 +52,14 @@
 ||cookieconsent.silktide.com^$third-party
 ||cookieq.com^$third-party
 ||cookiereports.com^$third-party
+||cookies.innershed.co.uk^
 ||curiyo.com^$third-party
 ||cursors-4u.net^$third-party
 ||d1uh1a7az90pt0.cloudfront.net^
 ||digsby.com^$third-party
 ||diigo.com/images/diigo-icon/$third-party
 ||disqus.com/api/*/listRelated.json?
+||dotmailer-surveys.com^$third-party
 ||dotnetkicks.com^$third-party
 ||dotnetshoutout.com^$third-party
 ||download.skype.com/share/$third-party
@@ -89,7 +92,6 @@
 ||getmailcounter.com^$third-party
 ||getsmily.com^$third-party
 ||githubbadge.appspot.com^$third-party
-||globalsign.com^$third-party
 ||google.com/uds/?file=orkut&
 ||goroost.com^$third-party
 ||gravity.com^$third-party
@@ -135,6 +137,7 @@
 ||moreshare.com^$third-party
 ||mozo.com.au/widgets/$third-party
 ||my.leadpages.net^$third-party
+||myvoicenation.com^$third-party
 ||newsgator.com^$third-party
 ||newsletter.outbrain.com^$third-party
 ||newswhip.com^$third-party
@@ -142,6 +145,7 @@
 ||nrelate.com^$third-party
 ||odb.outbrain.com^$third-party
 ||optinmonster.com^$third-party
+||optkit.com^$third-party
 ||parse.ly^$third-party
 ||parsely.com^$third-party
 ||pinddeals.com^$third-party
@@ -191,7 +195,6 @@
 ||statictapcdn-a.akamaihd.net^$third-party
 ||storystack.com^$third-party
 ||styld-by.com^$third-party
-||sumome.com^$third-party
 ||surfingbird.ru^$third-party
 ||survey.constantcontact.com^$third-party
 ||survey.io^$third-party

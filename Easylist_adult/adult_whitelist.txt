@@ -1,3 +1,4 @@
+@@||ad.thisav.com/player/config.xml$object-subrequest
 @@||ad.thisav.com/player/jw.swf
 @@||ads.fuckingmachines.com^$image,~third-party
 @@||ads.ultimatesurrender.com^$image,~third-party
@@ -43,6 +44,7 @@
 @@||pornhub.com/gif/$xmlhttprequest
 @@||pornhub.com/insights/$xmlhttprequest
 @@||pornhub.com/pornstar/$xmlhttprequest
+@@||pornhub.com/premium/$xmlhttprequest
 @@||pornhub.com/svvt/add?$xmlhttprequest
 @@||pornhub.com/uploading/$xmlhttprequest
 @@||pornhub.com/user/$xmlhttprequest
@@ -55,6 +57,7 @@
 @@||redtube.com/message/$xmlhttprequest
 @@||redtube.com/rate$xmlhttprequest
 @@||redtube.com/recommended/$xmlhttprequest
+@@||redtube.com/relatedvideos/$xmlhttprequest
 @@||redtube.com/starsuggestion/$xmlhttprequest
 @@||redtube.com/subscribe/$xmlhttprequest
 @@||redtube.com/videodetails/$xmlhttprequest
@@ -69,22 +72,30 @@
 @@||youporn.com/notifications/$xmlhttprequest
 @@||youporn.com/subscriptions/$xmlhttprequest
 ! Anti-Adblock
-@@.png#$domain=indiangilma.com|lfporn.com
+@@.jpg#$domain=hentaienespañol.net|palaotog.net
+@@.png#$domain=indiangilma.com|lfporn.com|thisav.com|you-fap.com|youngmodelsclub.net
 @@||adultadworld.com/adhandler/$subdocument
+@@||desihoes.com/advertisement.js
 @@||fapxl.com^$elemhide
 @@||fuqer.com^*/advertisement.js
 @@||gaybeeg.info/wp-content/plugins/blockalyzer-adblock-counter/$image,domain=gaybeeg.info
 @@||google.com/ads/$domain=hinduladies.com
+@@||hentaienespañol.net^$elemhide
 @@||hentaimoe.com/js/advertisement.js
 @@||imgadult.com/js/advertisement.js
 @@||indiangilma.com^$elemhide
 @@||jamo.tv^$script,domain=jamo.tv
+@@||jav4.me^$script,domain=jav4.me
+@@||javfee.com^$script,domain=javfee.com
 @@||javpee.com/eroex.js
+@@||jkhentai.tv^$script,domain=jkhentai.tv
+@@||jporn4u.com/js/ads.js
 @@||lfporn.com^$elemhide
 @@||mongoporn.com^*/adframe/$subdocument
 @@||n4mo.org/wp-content/*/ads/
 @@||n4mo.org^$elemhide
 @@||nightchan.com/advertisement.js
+@@||palaotog.net^$elemhide
 @@||phncdn.com/js/advertisement.js
 @@||phncdn.com/v2/js/adblockdetect.js$domain=keezmovies.com
 @@||phncdn.com^*/ads.js
@@ -94,10 +105,13 @@
 @@||sexvidx.tv/js/eroex.js
 @@||submityourflicks.com/player/player-ads.swf$object
 @@||syndication.exoclick.com/ads.php?type=728x90&$script,domain=dirtstyle.tv
+@@||thisav.com^$elemhide
 @@||tmoncdn.com/scripts/advertisement.js$domain=tubemonsoon.com
 @@||trafficjunky.net/js/ad*.js
 @@||tube8.com/js/advertisement.js
 @@||xibitnet.com/check/advertisement.js
 @@||xibitnet.com/check/advertisements.js
+@@||you-fap.com^$elemhide
+@@||youngmodelsclub.net^$elemhide
 ! Non-English
 @@||ads.b10f.jp/flv/$~third-party

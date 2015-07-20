@@ -5,6 +5,7 @@
 -icon-newsletter.
 -icon-rss.
 -job-widget.
+-newsletter-subscription-
 -rss-24x24.
 -rss-64.
 -rss-icon.
@@ -119,10 +120,12 @@
 /img/*rss.gif
 /img/*rss.png
 /interstitial.js
+/interstitial_overlay*.js
 /iphoneapp-icon.
 /itpsocialbuttons/*
 /jquery.androidbanner.js
 /jquery.snow.js
+/js-mobile-*/header_$script
 /leadin-subscribe.
 /logo_eskup.
 /mobile_top_icon.
@@ -239,6 +242,7 @@
 /w/index.php?title=*:bannercontroller
 /wp-content/plugins/popover/*$script
 /wp-content/plugins/tab-slide/*
+/wp-content/plugins/thrive-leads/*$script
 /wp-content/plugins/vto_plus/*
 /yammer_16.
 _backToTop.
@@ -264,6 +268,8 @@ _social_rss.
 -cookiePolicy.
 -eucookie.
 -privacy-cookie-
+.cookie_law.
+.cookiebar.js
 .cookiecuttr.js
 .cookielaw.js
 .cookienotice.
@@ -278,6 +284,7 @@ _social_rss.
 /aws-cookie/*
 /bandeaucookie.
 /checkCookie?
+/cipr-cookie-opt-out/*
 /cnil-cookies_
 /coCookiesDisclaimer.
 /cookie-alert.
@@ -295,11 +302,13 @@ _social_rss.
 /cookie-manager.min.js
 /cookie-message.
 /cookie-notice.
+/cookie-notice/*
 /cookie-notification.
 /cookie-notifications.
 /cookie-policy-
 /cookie-policy.js
 /Cookie-popup-
+/cookie-prompt.
 /cookie-terms.
 /cookie.policy.
 /cookie.response.
@@ -356,13 +365,17 @@ _social_rss.
 /cookies_directive.
 /cookies_komunikat.
 /cookies_policy.js
+/Cookies_Pro/*
+/cookiescontrol-
 /CookieSettingsManager?
+/cookieslegal.
 /cookiespolicy.
 /cookiesPopup.
 /cookiewarning.
 /ecookie_check/*
 /ee-cookies-min.
 /eu-cookie-
+/EU-cookielaw.
 /eu_cookies.
 /eu_rp_cookie.
 /euc_cookie.js
@@ -372,6 +385,7 @@ _social_rss.
 /eucookienotice_
 /eucookies.
 /fp_cookie.
+/g4cookies.
 /icit-cookie-law/*
 /ico_cookies.
 /icocookies.
@@ -382,6 +396,7 @@ _social_rss.
 /lma-cookie.
 /ocgcookie?
 /plugins/CookieInfo/*
+/plugins/EuCookie/*
 /rbicookiepolicy.
 /SetConsentCookie.
 /tm.cookie.js
