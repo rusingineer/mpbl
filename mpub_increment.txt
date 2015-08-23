@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private Block List Incremental Update
-!  Last Modified: Sun, 21 Jun 2015 13:00:00 +0400
+!  Last Modified: Sun, 23 Aug 2015 13:00:00 +0400
 !
 !  This is a private list,
 !  will not provide any technical support
@@ -11,7 +11,7 @@
 @@||fishki.^
 st.top100.ru/top100/top100.js
 ||block.s5block.com^$third-party
-||znews.su^$script
+||znews.su/user/^$script
 ||xiuuh.com^$third-party
 ||v.spdnipdp.pw^$script
 ||rabotka-legko.info^popup
@@ -24,3 +24,41 @@ st.top100.ru/top100/top100.js
 ||gawxf.com^$third-party
 ||volisa.ru^$third-party
 tmserver-1.com^$third-party
+||w.uptolike.com
+||cache.betweendigital.com/sections/
+||ddnk.advertur.ru/v1/code.js?id=
+cdn.dumedia.ru/js/dumedia.js
+||cukcopo.ru
+kolyan.net/cl1.js
+||elevemoney.ru
+w.uptolike.com/widgets/v1/uptolike.js
+jsc.marketgid.com
+||zba.kbllskkwvp.pw/v?s&b=^$popup
+||v2mlamber.com^third-party
+! 18.08.2015, 22:56:26 mail.ru Yandex.Search video
+@@||imgsmail.ru/mail/ru/images/js/myjs/mm/out/min/audio-player/track.js$domain=videoapi.my.mail.ru
+advrush.com/9n9d/6/77/e40b.js
+viewclc.com/54qf9/59d0a54f.js
+domertb.com/67c7/f1/84/844cac718f978.js
+domertb.com/81/0e51b98/089e80d6f6.js
+forum.adult-torrent.com/90k6u4gfifw6xorvykgu1g11uez0omdx
+hopilos.com/static/tds.js
+coolsor.ru/862o44246cf660zh5tkr9wvlx8fbvit
+code.ahahahah.ru/include/region.php/?id=*
+dirtix.com/i.php?id=*
+vdevkah.com/f9db6e.js
+i.lichenz.ru/v/*
+cyku.su/a75ddc.js
+skratche.com/js/main.js
+joomla.ru/images/banners/kisa-314x314.swf*
+advertom.com/34hb/77/d91b24.js
+advertom.com/f5m7c23a51e4357/f940a094.js
+advertom.com/d9xde10f339/1a190.js
+advertom.com/26ac2/0ef698b0c048ad/08.js
+@@||nikita359.narod.ru^$document
+@@||camgirlsonline.com^$document
+@@|http://psevdotorrent.ru/readme.html|$document
+@@|http://psevdotorrent.ru/neos.html|$document
+@@||edk.peerates.net^$document
+@@||sale-promo.ru^$document
+@@||siliconrus.com^$document
