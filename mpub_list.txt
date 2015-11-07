@@ -58696,7 +58696,7 @@ http://utm.
 @@||reseguiden.se^*.siteCatalyst.js
 ! Turkey
 @@||turkcelltvplus.com.tr^*/google_analytics/main.js?
-&referer=$script,image,xmlhttprequest,~domain=myvi.ru
+&referer=$~domain=myvi.ru,script,image,xmlhttprequest
 -coremetrics-
 -CoreMetrics.
 -elqImg.
