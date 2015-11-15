@@ -79,6 +79,7 @@
 -pinterest-icon-
 -pinterest-logo.
 -pinterest.
+-pinterest_icon.
 -pintrest-icon.
 -plus_social.
 -redes-facebook.
@@ -124,7 +125,7 @@
 -social-post-sharer/$~stylesheet
 -social-profiles-
 -social-share-$~script,~stylesheet
--social-share.
+-social-share.$~stylesheet
 -social-share/
 -social-share_
 -social-sidebar.
@@ -247,6 +248,7 @@
 /btn-twitter-
 /btn-twitter.
 /btn-youtube-
+/btn/follow?
 /btn_facebook.
 /btn_facebook_
 /btn_fb.
@@ -506,6 +508,7 @@
 /fblikefp.
 /fbook-share-
 /fbook.png
+/fbpop.js
 /fbpromo.
 /fbshare.
 /fbshare2.
@@ -705,6 +708,7 @@
 /gplusrp.
 /graphics/twitter.
 /guys_social.
+/Handlers/Sharrre.ashx?
 /head-social.
 /head_facebook.
 /head_twitter.
@@ -962,10 +966,10 @@
 /images/*/delicious.jpg
 /images/*/social_
 /images/*_share.png
-/images/*facebook-
-/images/*facebook.gif
-/images/*facebook.jpg
-/images/*facebook.png
+/images/*facebook-$domain=~facebook.com
+/images/*facebook.gif$domain=~facebook.com
+/images/*facebook.jpg$domain=~facebook.com
+/images/*facebook.png$domain=~facebook.com
 /images/*flickr.jpg
 /images/*flickr.png
 /images/*flipboard.png
@@ -1585,7 +1589,7 @@
 /social.png
 /social/bar?
 /social/facebook-
-/social/facebook.
+/social/facebook.$~xmlhttprequest
 /social/facebook/*
 /social/facebook_
 /social/flickr.
@@ -1614,7 +1618,7 @@
 /social/top/*$~stylesheet
 /social/tumblr.
 /social/twitter-
-/social/twitter.
+/social/twitter.$~xmlhttprequest
 /social/twitter_
 /social/vimeo.
 /social1.
@@ -2069,6 +2073,7 @@
 /wp-content/*Twitter.png
 /wp-content/*youtube.gif
 /wp-content/*youtube.png
+/wp-content/plugins/advanced-facebook-content-locker/*
 /wp-followme/*
 /wp-images/facebook.png
 /wp-images/twitter.png
@@ -2139,8 +2144,8 @@ _delicious_btn.
 _digg.gif
 _email_social_
 _facebook-
-_facebook.gif
-_facebook.png
+_facebook.gif$domain=~facebook.com
+_facebook.png$domain=~facebook.com
 _facebook01.
 _facebook14.
 _facebook_24.

@@ -7,6 +7,7 @@
 ||adserving.unibet.com^$popup,third-party
 ||affiliates.galapartners.co.uk^$popup,third-party
 ||affportal-lb.bevomedia.com^$popup,third-party
+||aliexpress.com/?af=$popup,third-party
 ||amazing-offers.co.il^$popup,third-party
 ||babylon.com/redirects/$popup,third-party
 ||babylon.com/welcome/index.html?affID=$popup,third-party
@@ -14,12 +15,14 @@
 ||bet365.com^*affiliate=$popup
 ||binaryoptions24h.com^$popup,third-party
 ||bovada.lv^$popup,third-party
+||casino-x.com^*?partner=$popup,third-party
 ||casino.com^*?*=$popup,third-party
 ||casinoadviser.net^$popup
 ||cdn.optmd.com^$popup,third-party
 ||chatlivejasmin.net^$popup
 ||chatulfetelor.net/$popup
 ||chaturbate.com/affiliates/$popup,third-party
+||click.aliexpress.com^$popup,third-party
 ||click.scour.com^$popup,third-party
 ||clickansave.net^$popup,third-party
 ||ctcautobody.com^$popup,third-party
@@ -48,6 +51,7 @@
 ||hdvidcodecs.com^$popup
 ||hetu.in^$popup,third-party
 ||homemadecelebrityporn.com/track/$popup,third-party
+||house-rent.us^$popup,third-party
 ||hyperlinksecure.com/back?token=$popup
 ||hyperlinksecure.com/go/$popup
 ||i2casting.com^$popup,third-party
@@ -57,6 +61,7 @@
 ||lovepoker.de^*/?pid=$popup
 ||lp.ilivid.com/?$popup,third-party
 ||lp.imesh.com/?$popup,third-party
+||lp.musicboxnewtab.com^$popup,third-party
 ||lp.titanpoker.com^$popup,third-party
 ||lsbet.com/bonus/$popup,third-party
 ||lumosity.com/landing_pages/$popup
@@ -68,6 +73,7 @@
 ||megacloud.com/signup?$popup,third-party
 ||meme.smhlmao.com^$popup,third-party
 ||mgid.com^$popup,third-party
+||mp3ger.com^$popup,third-party
 ||mypromocenter.com^$popup
 ||noowmedia.com^$popup
 ||opendownloadmanager.com^$popup,third-party
@@ -96,7 +102,7 @@
 ||stargames.com/bridge.asp?idr=$popup
 ||stargames.com/web/*&cid=*&pid=$popup,third-party
 ||sunmaker.com^*^a_aid^$popup,third-party
-||thebestbookies.com^$popup,domain=firstrow1us.eu
+||thebestbookies.com^$popup,third-party
 ||theseforums.com^*/?ref=$popup
 ||thetraderinpajamas.com^$popup,third-party
 ||tipico.com^*?affiliateid=$popup,third-party
@@ -115,6 +121,7 @@
 ||virtuagirl.com/landing/$popup,third-party
 ||wealth-at-home-millions.com^$popup,third-party
 ||weeklyprizewinner.com-net.info^$popup
+||widget.yavli.com^$popup,third-party
 ||with-binaryoption.com^$popup,third-party
 ||withbinaryoptions.com^$popup,third-party
 ||wptpoker.com^$popup

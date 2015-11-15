@@ -18,6 +18,7 @@
 ||andyhoppe.com^$third-party
 ||anormal-tracker.de^$third-party
 ||atsfi.de^$third-party
+||audiencemanager.de^$third-party
 ||avencio.de^$third-party
 ||backlink-test.de^$third-party
 ||backlink-umsonst.de^$third-party
@@ -100,6 +101,7 @@
 ||exapxl.de^$third-party
 ||exmarkt.de^$third-party
 ||faibl.org^$third-party
+||fastcounter.de^$third-party
 ||fixcounter.com^$third-party
 ||free-counters.net^$third-party
 ||freetracker.biz^$third-party
@@ -246,7 +248,9 @@
 ||tamedia.ch^$third-party
 ||tausch-link.de^$third-party
 ||teriotracker.de^$third-party
+||tisoomi-services.com^$third-party
 ||tophits4u.de^$third-party
+||toplist100.org^$third-party
 ||topstat.com^$third-party
 ||trackfreundlich.de^$third-party
 ||trafficmaxx.de^$third-party
@@ -291,6 +295,7 @@
 ||antvoice.com^$third-party
 ||atraxio.com^$third-party
 ||canalstat.com^$third-party
+||casualstat.com^$third-party
 ||compteur-gratuit.org^$third-party
 ||compteur.com^$third-party
 ||count.fr^$third-party
@@ -303,12 +308,15 @@
 ||ezakus.net^$third-party
 ||ferank.fr^$third-party
 ||geocompteur.com^$third-party
+||goyavelab.com^$third-party
 ||graphinsider.com^$third-party
 ||hit-parade.com^$third-party
 ||kameleoon.com^$third-party
 ||leadium.com^$third-party
 ||libstat.com^$third-party
 ||livestats.fr^$third-party
+||mastertag.effiliation.com^$third-party
+||megast.at^$third-party
 ||mmtro.com^$third-party
 ||netquattro.com/stats/
 ||ownpage.fr^$third-party
@@ -497,10 +505,8 @@
 ||research-artisan.com^$third-party
 ||rtoaster.jp^$third-party
 ||trackfeed.com^$third-party
-||yjtag.jp^$third-party
 ||ziyu.net^$third-party
 ! Korean
-||acecounter.com^$third-party
 ||logger.co.kr^$third-party
 ! Latvian
 ||cms.lv^$third-party
@@ -559,6 +565,7 @@
 ||top-ro.ro^$third-party
 ||trafic.ro^$third-party
 ||trafix.ro^$third-party
+||zontera.com^$third-party
 ! Russian
 ||24log.ru^$third-party
 ||a-counter.com.ua^$third-party
@@ -577,11 +584,14 @@
 ||hitmir.ru^$third-party
 ||hotlog.ru^$third-party
 ||hsdn.org^$third-party
+||idntfy.ru^$third-party
+||imrk.net^$third-party
 ||infostroy.nnov.ru^$third-party
 ||intergid.ru^$third-party
 ||iryazan.ru^$third-party
 ||jetcounter.ru^$third-party
 ||kmindex.ru^$third-party
+||lentainform.com^$third-party
 ||listtop.ru^$third-party
 ||logger.su^$third-party
 ||logua.com^$third-party
@@ -591,6 +601,7 @@
 ||lugansk-info.ru^$third-party
 ||mediametrics.ru^$third-party
 ||mediaplan.ru^$third-party
+||mediatoday.ru^$third-party
 ||mokuz.ru^$third-party
 ||musiccounter.ru^$third-party
 ||mystat-in.net^$third-party
@@ -605,11 +616,9 @@
 ||serating.ru^$third-party
 ||site-submit.com.ua^$third-party
 ||skylog.kz^$third-party
-||spylog.com^$third-party
 ||stat24.ru^$third-party
 ||stattds.club^$third-party
 ||tbex.ru^$third-party
-||tns-counter.ru^$third-party
 ||toptracker.ru^$third-party
 ||uarating.com^$third-party
 ||uptolike.com^$third-party
@@ -638,24 +647,26 @@
 ||contadorgratis.com^$third-party
 ||contadorgratis.es^$third-party
 ||contadorweb.com^$third-party
+||delidatax.net^$third-party
 ||eresmas.net^$third-party
 ||estadisticasgratis.com^$third-party
 ||estadisticasgratis.es^$third-party
 ||hit.copesa.cl^$third-party
 ||hits.e.cl^$third-party
 ||intrastats.com^$third-party
+||mabaya.com^$third-party
 ||micodigo.com^$third-party
 ! Swedish
 ||adsettings.com^$third-party
 ||adtraction.com^$third-party
 ||prospecteye.com^$third-party
 ||research-int.se^$third-party
+||spklw.com^$third-party
 ||webserviceaward.com^$third-party
 ||webstat.se^$third-party
 ! Thai
 ||d-stats.com^$third-party
 ||tracker.stats.in.th^$third-party
-||truehits.in.th^$third-party
 ||truehits.net^$third-party
 ||truehits3.gits.net.th^$third-party
 ! Turkish

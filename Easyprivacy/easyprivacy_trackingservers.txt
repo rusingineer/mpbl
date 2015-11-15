@@ -50,9 +50,11 @@
 ||abcstats.com^$third-party
 ||abmr.net^$third-party
 ||absolstats.co.za^$third-party
+||acc-hd.de^$third-party
 ||access-analyze.org^$third-party
 ||access-traffic.com^$third-party
 ||accessintel.com^$third-party
+||acecounter.com^$third-party
 ||acestats.net^$third-party
 ||acetrk.com^$third-party
 ||acint.net^$third-party
@@ -80,6 +82,7 @@
 ||adprotraffic.com^$third-party
 ||adsensedetective.com^$third-party
 ||adtarget.me^$third-party
+||adtelligence.de^$third-party
 ||adultblogtoplist.com^$third-party
 ||advanced-web-analytics.com^$third-party
 ||advconversion.com^$third-party
@@ -99,6 +102,7 @@
 ||airpr.com^$third-party
 ||akstat.com^$third-party
 ||alenty.com^$third-party
+||alexacdn.com^$third-party
 ||alexametrics.com^$third-party
 ||alltagcloud.info^$third-party
 ||alltracked.com^$third-party
@@ -123,13 +127,16 @@
 ||anametrix.com^$third-party
 ||anametrix.net^$third-party
 ||anatid3.com^$third-party
+||anexia-it.com^$third-party
 ||angelfishstats.com^$third-party
+||angsrvr.com^$third-party
 ||anonymousdmp.com^$third-party
 ||anti-cheat.info^$third-party
 ||apexstats.com^$third-party
 ||apextwo.com^$third-party
 ||apicit.net^$third-party
 ||apollofind.com^$third-party
+||appboycdn.com^$third-party
 ||aqtracker.com^$third-party
 ||arcadeweb.com^$third-party
 ||arch-nicto.com^$third-party
@@ -141,6 +148,7 @@
 ||arturtrack.com^$third-party
 ||assoctrac.com^$third-party
 ||astro-way.com^$third-party
+||atatus.com^$third-party
 ||athenainstitute.biz^$third-party
 ||atoshonetwork.com^$third-party
 ||attracta.com^$third-party
@@ -152,6 +160,7 @@
 ||authorinsights.com^$third-party
 ||auto-ping.com^$third-party
 ||autoaffiliatenetwork.com^$third-party
+||autoaudience.com^$third-party
 ||avantlink.com^$third-party
 ||avastats.com^$third-party
 ||avazudsp.net^$third-party
@@ -160,12 +169,14 @@
 ||awesomelytics.com^$third-party
 ||awmcounter.de^$third-party
 ||axf8.net^$third-party
+||azera-s014.com^$third-party
 ||baptisttop1000.com^$third-party
 ||barilliance.net^$third-party
 ||basicstat.com^$third-party
 ||basilic.io^$third-party
 ||baynote.net^$third-party
 ||beacon.kmi-us.com^$third-party
+||beanstalkdata.com^$third-party
 ||beanstock.com^$third-party
 ||bebj.com^$third-party
 ||beemrdwn.com^$third-party
@@ -215,6 +226,7 @@
 ||bm324.com^$third-party
 ||bmlmedia.com^$third-party
 ||bmmetrix.com^$third-party
+||bnc.lt^$third-party
 ||boomerang.com.au^$third-party
 ||boomtrain.com^$third-party
 ||botsvisit.com^$third-party
@@ -242,6 +254,7 @@
 ||bytemgdd.com^$third-party
 ||c-o-u-n-t.com^$third-party
 ||c-webstats.de^$third-party
+||c1exchange.com^$third-party
 ||c3metrics.com^$third-party
 ||c3tag.com^$third-party
 ||c4tracking01.com^$third-party
@@ -254,7 +267,10 @@
 ||callmeasurement.com^$third-party
 ||callrail.com^$third-party
 ||calltrackingmetrics.com^$third-party
+||calltracks.com^$third-party
 ||campaigncog.com^$third-party
+||canddi.com^$third-party
+||canopylabs.com^$third-party
 ||caphyon-analytics.com^$third-party
 ||cashburners.com^$third-party
 ||cashcount.com^$third-party
@@ -275,6 +291,7 @@
 ||christmalicious.com^$third-party
 ||chrumedia.com^$third-party
 ||circular-counters.com^$third-party
+||clarifyingquack.com^$third-party
 ||claritytag.com^$third-party
 ||cleananalytics.com^$third-party
 ||clearviewstats.com^$third-party
@@ -324,6 +341,7 @@
 ||cognitivematch.com^$third-party
 ||collarity.com^$third-party
 ||collserve.com^$third-party
+||commander1.com^$third-party
 ||company-target.com^$third-party
 ||compteur.cc^$third-party
 ||confirmational.com^$third-party
@@ -372,6 +390,8 @@
 ||craftkeys.com^$third-party
 ||craktraffic.com^$third-party
 ||crazyegg.com^$third-party
+||criteo.com^$third-party
+||criteo.net^$third-party
 ||crmmetrix.fr^$third-party
 ||crmmetrixwris.com^$third-party
 ||crosspixel.net^$third-party
@@ -419,9 +439,11 @@
 ||did-it.com^$third-party
 ||didit.com^$third-party
 ||diffusion-tracker.com^$third-party
+||digitaloptout.com^$third-party
 ||digits.com^$third-party
 ||dignow.org^$third-party
 ||dimestore.com^$third-party
+||dimml.io^$third-party
 ||dinkstat.com^$third-party
 ||directrdr.com^$third-party
 ||discover-path.com^$third-party
@@ -438,6 +460,7 @@
 ||doclix.com^$third-party
 ||dominocounter.net^$third-party
 ||domodomain.com^$third-party
+||dotomi.com^$third-party
 ||doubleclick.net/activity$third-party
 ||doubleclick.net/imp%$third-party
 ||doubleclick.net/imp;$third-party
@@ -451,6 +474,7 @@
 ||dsply.com^$third-party
 ||dstrack2.info^$third-party
 ||dti-ranker.com^$third-party
+||dtscout.com^$third-party
 ||dummy-domain-do-not-change.com^$third-party
 ||dv0.info^$third-party
 ||dwin1.com^$third-party
@@ -472,6 +496,7 @@
 ||edgeadx.net^$third-party
 ||ekmpinpoint.co.uk^$third-party
 ||ekmpinpoint.com^$third-party
+||ela-3-tnk.com^$third-party
 ||electusdigital.com^$third-party
 ||elite-s001.com^$third-party
 ||elitics.com^$third-party
@@ -524,7 +549,6 @@
 ||evyy.net^$third-party
 ||ewebanalytics.com^$third-party
 ||ewebcounter.com^$third-party
-||exacttarget.com^$third-party
 ||exclusiveclicks.com^$third-party
 ||exelator.com^$third-party
 ||exitintel.com^$third-party
@@ -532,6 +556,7 @@
 ||explore-123.com^$third-party
 ||extole.com^$third-party
 ||extreme-dm.com^$third-party
+||eyein.com^$third-party
 ||ezec.co.uk^$third-party
 ||ezytrack.com^$third-party
 ||fabricww.com^$third-party
@@ -547,6 +572,7 @@
 ||feedjit.com^$third-party
 ||feedperfect.com^$third-party
 ||fetchback.com^$third-party
+||fiksu.com^$third-party
 ||filitrac.com^$third-party
 ||finalid.com^$third-party
 ||find-ip-address.org^$third-party
@@ -614,12 +640,12 @@
 ||gemtrackers.com^$third-party
 ||genieesspv.jp^$third-party
 ||geobytes.com^$third-party
-||geoplugin.net^$third-party
 ||getbackstory.com^$third-party
 ||getclicky.com^$third-party
 ||getfreebl.com^$third-party
 ||getsmartcontent.com^$third-party
 ||getstatistics.se^$third-party
+||gez.io^$third-party
 ||gigcount.com^$third-party
 ||glanceguide.com^$third-party
 ||glbtracker.com^$third-party
@@ -651,6 +677,7 @@
 ||govmetric.com^$third-party
 ||grapheffect.com^$third-party
 ||grepdata.com^$third-party
+||gsecondscreen.com^$third-party
 ||gsimedia.net^$third-party
 ||gsspat.jp^$third-party
 ||gssprt.jp^$third-party
@@ -784,6 +811,7 @@
 ||ipro.com^$third-party
 ||ipstat.com^$third-party
 ||ipv6monitoring.eu^$third-party
+||iqfp1.com^$third-party
 ||iraiser.eu^$third-party
 ||irelandmetrix.ie^$third-party
 ||ist-track.com^$third-party
@@ -796,6 +824,7 @@
 ||izearanks.com^$third-party
 ||jimdo-stats.com^$third-party
 ||jirafe.com^$third-party
+||jotform.com^$third-party
 ||jscounter.com^$third-party
 ||jsid.info^$third-party
 ||jsonip.com^$third-party
@@ -842,6 +871,7 @@
 ||lexity.com^$third-party
 ||lfov.net^$third-party
 ||liadm.com^$third-party
+||lijit.com^$third-party
 ||linezing.com^$third-party
 ||link-smart.com^$third-party
 ||linkpulse.com^$third-party
@@ -871,6 +901,7 @@
 ||luckyorange.com^$third-party
 ||lumatag.co.uk^$third-party
 ||lxtrack.com^$third-party
+||lymantriacypresdoctrine.biz^$third-party
 ||lypn.com^$third-party
 ||lypn.net^$third-party
 ||lytics.io^$third-party
@@ -884,6 +915,7 @@
 ||marinsm.com^$third-party
 ||market015.com^$third-party
 ||market2lead.com^$third-party
+||marketizator.com^$third-party
 ||marketo.net^$third-party
 ||martianstats.com^$third-party
 ||masterstats.com^$third-party
@@ -895,6 +927,7 @@
 ||mb4a.com^$third-party
 ||mbotvisit.com^$third-party
 ||mbsy.co^$third-party
+||mbww.com^$third-party
 ||md-ia.info^$third-party
 ||mdotlabs.com^$third-party
 ||measure.ly^$third-party
@@ -904,6 +937,7 @@
 ||mediabong.net^$third-party
 ||mediaforgews.com^$third-party
 ||mediagauge.com^$third-party
+||mediaplex.com^$third-party
 ||mediaseeding.com^$third-party
 ||mega-stats.com^$third-party
 ||memecounter.com^$third-party
@@ -948,6 +982,7 @@
 ||mstracker.net^$third-party
 ||mtracking.com^$third-party
 ||mtrics.cdc.gov^$third-party
+||mucocutaneousmyrmecophaga.com^$third-party
 ||mvilivestats.com^$third-party
 ||mvtracker.com^$third-party
 ||mxcdn.net^$third-party
@@ -957,6 +992,7 @@
 ||mybloglog.com^$third-party
 ||myfastcounter.com^$third-party
 ||mynewcounter.com^$third-party
+||myntelligence.com^$third-party
 ||myomnistar.com^$third-party
 ||mypagerank.net^$third-party
 ||myreferer.com^$third-party
@@ -985,6 +1021,8 @@
 ||nestedmedia.com^$third-party
 ||net-filter.com^$third-party
 ||netaffiliation.com^$script,third-party
+||netapplications.com^$third-party
+||netclickstats.com^$third-party
 ||netflame.cc^$third-party
 ||netgraviton.net^$third-party
 ||netmining.com^$third-party
@@ -1008,13 +1046,16 @@
 ||nprove.com^$third-party
 ||nr-data.net^$third-party
 ||nr7.us^$third-party
+||ns1p.net^$third-party
 ||nstracking.com^$third-party
 ||nuconomy.com^$third-party
+||nudatasecurity.com^$third-party
 ||nuggad.net^$third-party
 ||numerino.cz^$third-party
 ||nytlog.com^$third-party
 ||observerapp.com^$third-party
 ||od.visiblemeasures.com^$object-subrequest,third-party
+||odesaconflate.com^$third-party
 ||odoscope.com^$third-party
 ||offermatica.com^$third-party
 ||offerpoint.net^$third-party
@@ -1025,10 +1066,13 @@
 ||ojrq.net^$third-party
 ||omeda.com^$third-party
 ||ometria.com^$third-party
+||omgpm.com^$third-party
+||omguk.com^$third-party
 ||omkt.co^$third-party
 ||omnitagjs.com^$third-party
 ||omtrdc.net^$third-party
 ||onefeed.co.uk^$third-party
+||onelink-translations.com^$third-party
 ||onestat.com^$third-party
 ||onetag-sys.com^$third-party
 ||ongsono.com^$third-party
@@ -1077,6 +1121,7 @@
 ||pcspeedup.com^$third-party
 ||peerius.com^$third-party
 ||percentmobile.com^$third-party
+||perfdrive.com^$third-party
 ||perfectaudience.com^$third-party
 ||perfiliate.com^$third-party
 ||performancerevenues.com^$third-party
@@ -1091,8 +1136,11 @@
 ||ping-fast.com^$third-party
 ||pingagenow.com^$third-party
 ||pingdom.net^$third-party
+||pingil.com^$third-party
 ||pingomatic.com^$third-party
+||pixel.ad^$third-party
 ||pixel.parsely.com^$third-party
+||pixel.watch^$third-party
 ||pixeleze.com^$third-party
 ||pixelinteractivemedia.com^$third-party
 ||pixelrevenue.com^$third-party
@@ -1119,6 +1167,7 @@
 ||predicta.net^$third-party
 ||predictivedna.com^$third-party
 ||predictiveresponse.net^$third-party
+||prfct.co^$third-party
 ||prnx.net^$third-party
 ||proclivitysystems.com^$third-party
 ||profilertracking3.com^$third-party
@@ -1132,6 +1181,7 @@
 ||prtracker.com^$third-party
 ||pstats.com^$third-party
 ||psyma-statistics.com^$third-party
+||ptengine.com^$third-party
 ||pto-slb-09.com^$third-party
 ||ptp123.com^$third-party
 ||ptrk-wn.com^$third-party
@@ -1148,6 +1198,7 @@
 ||qbaka.net^$third-party
 ||qbop.com^$third-party
 ||qdtracking.com^$third-party
+||qoijertneio.com^$third-party
 ||qsstats.com^$third-party
 ||quantserve.com/api/
 ||quantserve.com/pixel/$object-subrequest,third-party
@@ -1204,6 +1255,7 @@
 ||reson8.com^$third-party
 ||responsetap.com^$third-party
 ||retags.us^$third-party
+||revdn.net^$third-party
 ||revenuepilot.com^$third-party
 ||revenuescience.com^$third-party
 ||revenuewire.net^$third-party
@@ -1220,6 +1272,7 @@
 ||rkdms.com^$third-party
 ||rktu.com^$third-party
 ||rlcdn.com^$third-party
+||rmtag.com^$third-party
 ||rnengage.com^$third-party
 ||rng-snp-003.com^$third-party
 ||rnlabs.com^$third-party
@@ -1236,10 +1289,13 @@
 ||rs6.net^$third-party
 ||rsvpgenius.com^$third-party
 ||rtfn.net^$third-party
+||rtrk.co.nz^$third-party
+||ru4.com^$third-party
 ||rumanalytics.com^$third-party
 ||rztrkr.com^$third-party
 ||s3s-main.net^$third-party
 ||sageanalyst.net^$third-party
+||sajari.com^$third-party
 ||saletrack.co.uk^$third-party
 ||sapha.com^$third-party
 ||sarevtop.com^$third-party
@@ -1253,8 +1309,10 @@
 ||scorecardresearch.com^$third-party
 ||scoutanalytics.net^$third-party
 ||scrippscontroller.com^$third-party
+||script.ag^$third-party
 ||scripts21.com^$third-party
 ||scriptshead.com^$third-party
+||sddan.com^$third-party
 ||searchfeed.com^$third-party
 ||searchignite.com^$third-party
 ||searchplow.com^$third-party
@@ -1266,6 +1324,7 @@
 ||segment-analytics.com^$third-party
 ||segment.com^$third-party
 ||segment.io^$third-party
+||segmentify.com^$third-party
 ||selaris.com^$third-party
 ||sellpoints.com^$third-party
 ||semanticverses.com^$third-party
@@ -1285,9 +1344,11 @@
 ||sharpspring.com^$third-party
 ||shinystat.com^$third-party
 ||shippinginsights.com^$third-party
+||showroomlogic.com^$third-party
 ||shrinktheweb.com^$third-party
 ||siftscience.com^$third-party
 ||signup-way.com^$third-party
+||silkenthreadiness.info^$third-party
 ||silverpop.com^$third-party
 ||silverpush.co^$third-party
 ||simplehitcounter.com^$third-party
@@ -1309,6 +1370,7 @@
 ||sitetagger.co.uk^$third-party
 ||sitetracker.com^$third-party
 ||sitetraq.nl^$third-party
+||skimresources.com^$third-party
 ||skyglue.com^$third-party
 ||slingpic.com^$third-party
 ||smallseotools.com^$third-party
@@ -1319,6 +1381,7 @@
 ||smfsvc.com^$third-party
 ||smileyhost.net^$third-party
 ||smrtlnks.com^$third-party
+||sniperlog.ru^$third-party
 ||sniphub.com^$third-party
 ||snoobi.com^$third-party
 ||snowsignal.com^$third-party
@@ -1348,10 +1411,12 @@
 ||sptag2.com^$third-party
 ||sptag3.com^$third-party
 ||spycounter.net^$third-party
+||spylog.com^$third-party
 ||spylog.ru^$third-party
 ||spywords.com^$third-party
 ||squidanalytics.com^$third-party
 ||srpx.net^$third-party
+||startstat.ru^$third-party
 ||stat08.com^$third-party
 ||stat24.com^$third-party
 ||statcount.com^$third-party
@@ -1393,14 +1458,17 @@
 ||strs.jp^$third-party
 ||sub2tech.com^$third-party
 ||submitnet.net^$third-party
+||summitemarketinganalytics.com^$third-party
 ||sundaysky.com^$third-party
 ||supercounters.com^$third-party
 ||superstats.com^$third-party
+||supert.ag^$third-party
 ||surfcounters.com^$third-party
 ||surfertracker.com^$third-party
 ||surveyscout.com^$third-party
 ||surveywriter.com^$third-party
 ||survicate.com^$third-party
+||swcs.jp^$third-party
 ||swfstats.com^$third-party
 ||swiss-counter.com^$third-party
 ||swoopgrid.com^$third-party
@@ -1440,8 +1508,10 @@
 ||tinycounter.com^$third-party
 ||tiser.com.au^$third-party
 ||tl813.com^$third-party
+||tm1-001.com^$third-party
 ||tmpjmp.com^$third-party
 ||tmvtp.com^$third-party
+||tns-counter.ru^$third-party
 ||tns-cs.net^$third-party
 ||top100bloggers.com^$third-party
 ||top100webshops.com^$third-party
@@ -1453,6 +1523,7 @@
 ||topofblogs.com^$third-party
 ||torbit.com^$third-party
 ||touchclarity.com^$third-party
+||tracc.it^$third-party
 ||trace-2000.com^$third-party
 ||tracelytics.com^$third-party
 ||tracemyip.org^$third-party
@@ -1502,6 +1573,7 @@
 ||trkjmp.com^$third-party
 ||trovus.co.uk^$third-party
 ||tru.am^$third-party
+||truehits.in.th^$third-party
 ||truehits1.gits.net.th^$third-party
 ||tscapeplay.com^$third-party
 ||tscounter.com^$third-party
@@ -1552,6 +1624,7 @@
 ||verticalsearchworks.com^$third-party
 ||vertster.com^$third-party
 ||videostat.com^$third-party
+||vigo.ru^$third-party
 ||vinlens.com^$third-party
 ||viralninjas.com^$third-party
 ||virool.com^$third-party
@@ -1605,9 +1678,11 @@
 ||webglstats.com^$third-party
 ||webiqonline.com^$third-party
 ||webleads-tracker.com^$third-party
+||weblytics.io^$third-party
 ||webmasterplan.com^$third-party
 ||website-hit-counters.com^$third-party
 ||websiteceo.com^$third-party
+||websiteonlinecounter.com^$third-party
 ||websiteperform.com^$third-party
 ||websitewelcome.com^$third-party
 ||webspectator.com^$third-party
@@ -1626,13 +1701,16 @@
 ||whackedmedia.com^$third-party
 ||whitepixel.com^$third-party
 ||whoaremyfriends.com^$third-party
+||whoaremyfriends.net^$third-party
 ||whoisonline.net^$third-party
+||whoisvisiting.com^$third-party
 ||whosclickingwho.com^$third-party
 ||whoson.com^$third-party
 ||wikia-beacon.com^$third-party
 ||wikiodeliv.com^$third-party
 ||wildxtraffic.com^$third-party
 ||wiredminds.de^$third-party
+||wishloop.com^$third-party
 ||woopra-ns.com^$third-party
 ||woopra.com^$third-party
 ||worldgravity.com^$third-party
@@ -1642,12 +1720,15 @@
 ||wpdstat.com^$third-party
 ||wredint.com^$third-party
 ||wt-eu02.net^$third-party
+||wt-safetag.com^$third-party
 ||wtp101.com^$third-party
 ||wtstats.com^$third-party
 ||wundercounter.com^$third-party
 ||wunderloop.net^$third-party
 ||www-path.com^$third-party
 ||wwwstats.info^$third-party
+||wywy.com^$third-party
+||wywyuserservice.com^$third-party
 ||wzrk.co^$third-party
 ||wzrkt.com^$third-party
 ||x-stat.de^$third-party
@@ -1667,6 +1748,8 @@
 ||yieldbot.com^$third-party
 ||yieldify.com^$third-party
 ||yieldsoftware.com^$third-party
+||yjtag.jp^$third-party
+||youmetrix.co.uk^$third-party
 ||your-counter.be^$third-party
 ||youramigo.com^$third-party
 ||zanox-affiliate.de^$third-party

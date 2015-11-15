@@ -81,9 +81,11 @@
 -ad-category-
 -ad-choices.
 -ad-column-
+-ad-cube.
 -ad-data/
 -ad-ero-
 -ad-exo-
+-ad-gif-
 -ad-gif1-
 -ad-home.
 -ad-hrule-
@@ -101,6 +103,7 @@
 -ad-rotators/
 -ad-server/
 -ad-sidebar-
+-ad-switcher.
 -ad-tile.
 -ad-top.
 -ad-unit.
@@ -115,6 +118,7 @@
 -ad.php?
 -ad/main.
 -ad/right_
+-ad03.
 -ad1.
 -ad2.
 -ad3.
@@ -144,6 +148,7 @@
 -ads-init&
 -ads-management/
 -ads-manager/
+-ads-ns.
 -ads-placement.
 -ads-right.
 -ads-widget?
@@ -154,6 +159,7 @@
 -ads.swf
 -ads/728x
 -ads/ad-
+-ads/img/
 -ads/oas/
 -ads/static-
 -Ads_728x902.
@@ -181,7 +187,8 @@
 -advert1.
 -advert2.
 -advert3.
--advertise.
+-advert_August.
+-advertise.$domain=~mb-advertise.gr
 -advertise/
 -advertise01.
 -advertisement-icon.
@@ -197,9 +204,11 @@
 -banner-768.
 -banner-ad-
 -banner-ad.
+-banner-ad/
 -banner-ads-
 -banner-ads/
 -banner.swf?
+-banner300x250.
 -banner468x60.
 -bannerads/
 -bg_ads.
@@ -213,10 +222,11 @@
 -contest-ad.
 -cpm-ad.
 -cpm-ads.
--criteo.
 -dfp-ads/
 -euads.
 -fe-ads/
+-featured-ads.
+-featured-ads/
 -feed-ads.
 -fleshlight2.
 -floater_ads_
@@ -303,12 +313,14 @@
 .ad.json?
 .ad.page.
 .ad.premiere.
+.ad/script/
 .ad1.nspace
 .adbanner.
 .adbutler-
 .adcenter.
 .adforge.
 .adframesrc.
+.adgearpubs.
 .adlabs.$domain=~adlabs.ru
 .admarvel.
 .adnetwork.$domain=~adnetwork.ie
@@ -327,7 +339,10 @@
 .ads.darla.
 .ads.loader-
 .ads.zones.
+.ads1-
+.ads1.
 .ads2-
+.ads3-
 .ads_clickthru.
 .adsbox.
 .adsense.
@@ -335,7 +350,7 @@
 .adserver.
 .adserver01.
 .adserver1.
-.adService.
+.adService.$domain=~adservice.com
 .adspace.
 .adsremote.
 .adtech_
@@ -354,8 +369,10 @@
 .aspx?adid=
 .at/ads/
 .au/ads/
+.az/adv/
 .banner%20ad.
 .bbn.by/
+.be/ads/
 .biz/ad.
 .biz/ad/
 .biz/ad2/
@@ -363,6 +380,7 @@
 .bns1.net/
 .box.ad.
 .br/ads/
+.bz/ads/
 .ca/ads/
 .cc/ads/
 .cfm?ad=
@@ -378,7 +396,8 @@
 .com/a?pagetype
 .com/a?size
 .com/ad.$domain=~ad-tuning.de
-.com/ad/$domain=~channel4.com|~watchever.de
+.com/ad/$~image,third-party,domain=~mediaplex.com
+.com/ad/$~third-party,domain=~channel4.com|~mediaplex.com
 .com/ad2/
 .com/ad6/
 .com/ad?
@@ -424,6 +443,7 @@
 .eg/ads/
 .eu/ads/
 .eu/adv/
+.exp_ad-
 .fm/ads/
 .gg/ads/
 .gif?ad=
@@ -555,6 +575,7 @@
 .uk/ads/
 .uk/adv/
 .us/ads/
+.utils.ads.
 .vert.ad.
 .widgets.ad?
 .ws/ads/
@@ -569,9 +590,11 @@
 /1/ads/*
 /120ad.
 /120ads/*
+/125x125_ADS/*
 /125x125_banner.
 /125x125ad.
 /126_ad.
+/160_ad_
 /17/ads/*
 /1912/ads/*
 /1afr.php?
@@ -586,6 +609,7 @@
 /250x250_advert_
 /300-ad-
 /300250_ad-
+/300_ad_
 /300ad.
 /300by250ad.
 /300x250ad.
@@ -615,6 +639,7 @@
 /_scripts/_oas/*
 /_svc/ad/*
 /a/ads/*
+/a/display.php?
 /a1/*?sub=$third-party
 /a2/?sub=$third-party
 /a2/ads/*
@@ -638,10 +663,12 @@
 /ad-300x250.
 /ad-300x254.
 /ad-350x350-
+/ad-410x300.
 /ad-468-
 /ad-600-
 /ad-amz.
 /ad-audit.
+/ad-background.
 /ad-banner-
 /ad-banner.
 /ad-bckg.
@@ -663,6 +690,7 @@
 /ad-exchange.
 /ad-feature-
 /ad-feedback.
+/ad-fix-
 /ad-flashgame.
 /ad-format.
 /ad-frame.
@@ -774,8 +802,12 @@
 /ad.valary?
 /ad.view?
 /ad.ytn.
+/ad/130-
 /ad/600-
 /ad/728-
+/ad/938-
+/ad/940-
+/ad/960x60.
 /ad/?host=
 /ad/?section=
 /ad/?site=
@@ -798,6 +830,7 @@
 /ad/card-
 /ad/common/*
 /ad/common_
+/ad/commons/*
 /ad/content/*
 /ad/cpmstar/*
 /ad/css/*
@@ -806,6 +839,7 @@
 /ad/extra/*
 /ad/extra_
 /ad/files/*
+/AD/Footer_
 /ad/frame1.
 /ad/framed?
 /ad/generate?
@@ -820,11 +854,13 @@
 /ad/img/*
 /ad/index.
 /ad/index/*
+/ad/index_
 /ad/inline?
 /ad/integral-
 /ad/inventory/*
 /ad/jsonp/*
 /ad/leaderboard.
+/ad/listing-
 /ad/live-
 /ad/load_
 /ad/loading.
@@ -855,6 +891,7 @@
 /ad/skin_
 /ad/skyscraper.
 /ad/skyscrapper.
+/ad/small-
 /ad/spacer.
 /ad/sponsored-
 /ad/sponsors/*
@@ -873,6 +910,7 @@
 /ad/view/*
 /ad0.$domain=~vereinslinie.de
 /ad000/*
+/ad01.
 /ad02/background_
 /ad1-728-
 /ad1.$domain=~vereinslinie.de
@@ -1050,6 +1088,7 @@
 /ad_h.css?
 /ad_hcl_
 /ad_hcr_
+/ad_head_
 /ad_header.
 /ad_header_
 /ad_height/*
@@ -1087,6 +1126,7 @@
 /ad_legend_
 /ad_link.
 /ad_links/*
+/ad_listpage.
 /ad_load.
 /ad_loader.
 /ad_loader2.
@@ -1120,6 +1160,7 @@
 /ad_pics/*
 /ad_pop.
 /ad_pop1.
+/ad_popup_
 /ad_pos=
 /ad_position=
 /ad_position_
@@ -1136,6 +1177,7 @@
 /ad_rentangle.
 /ad_req.
 /ad_request.
+/ad_resize.
 /ad_right.
 /ad_right_
 /ad_rotation.
@@ -1167,6 +1209,7 @@
 /ad_square_
 /ad_squares.
 /ad_srv.
+/ad_status.
 /ad_stem/*
 /ad_styling_
 /ad_supertile/*
@@ -1216,6 +1259,7 @@
 /adarena/*
 /adasset/*
 /adasset4/*
+/adb.js?tag=
 /adback.
 /adback?
 /adban.
@@ -1231,8 +1275,10 @@
 /adbars.
 /adbase.
 /adbeacon.
+/adbebi_
 /adbetween/*
 /adbg.jpg
+/adblade-publisher-tools/*
 /adblob.
 /adblock.ash
 /adblock.js
@@ -1349,6 +1395,7 @@
 /addelivery/*
 /addeliverymodule/*
 /addisplay.
+/addon/ad/*
 /adds_banner/*
 /addyn/3.0/*
 /addyn|*;adtech;
@@ -1381,7 +1428,9 @@
 /adfactory-
 /adfactory.$domain=~adfactory.rocks
 /adfactory_
-/adfarm.$domain=~watchever.de
+/adfarm.$~image,third-party,domain=~mediaplex.com
+/adfarm.$~third-party,domain=~mediaplex.com
+/adfarm/*
 /adfeed.
 /adfeedback/*
 /adfeedtestview.
@@ -1442,6 +1491,9 @@
 /adgallery3|
 /adgalleryheader.
 /adgear.js
+/adgear/*
+/adgear1-
+/adgear2-
 /adgearsegmentation.
 /adgenerator.
 /adgeo/*
@@ -1513,13 +1565,14 @@
 /adinsertjuicy.
 /adinterax.
 /adiquity.
-/adiro.
+/adiro.$domain=~adiro.se
 /adition.
 /adixs.
 /adj.php?
 /adjk.
 /adjs.
 /adjs/*
+/adjs?
 /adjs_
 /adjsmp.
 /adjug.
@@ -1537,6 +1590,7 @@
 /adlargefooter2.
 /adlayer.
 /adlayer/*
+/adlead.
 /adleader.
 /adleaderboardtop.
 /adleft.
@@ -1544,6 +1598,7 @@
 /adleftsidebar.
 /adlens-
 /adlesse.
+/adlib.
 /adlift4.
 /adlift4_
 /adline.$domain=~adline.co.il
@@ -1612,6 +1667,7 @@
 /admin/banners/*
 /admin/sponsors/*
 /adminibanner2.
+/admixer-
 /admixer_
 /admob.
 /admonitor-
@@ -1631,7 +1687,7 @@
 /adnews.
 /AdNewsclip14.
 /AdNewsclip15.
-/adnext.
+/adnext.$domain=~adnext.pl
 /adnexus-
 /adng.html
 /adnl.
@@ -1645,6 +1701,7 @@
 /adonly468.
 /adops.
 /adops/*
+/AdOptimizer.
 /adoptionicon.
 /adoptions.
 /adorika300.
@@ -1683,6 +1740,7 @@
 /adpicture2|
 /adpictures/*
 /adping.
+/adpix/*
 /adplace/*
 /adplace5_
 /adplacement.
@@ -1696,6 +1754,7 @@
 /adpolestar/*
 /adpool/*
 /adpop.
+/adpop32.
 /adpopup.
 /adpositionsizein-
 /AdPostInjectAsync.
@@ -1705,6 +1764,7 @@
 /adprovider.
 /adproxy.
 /adproxy/*
+/AdPub/*
 /adratio.
 /adrawdata/*
 /adreactor/*
@@ -1749,6 +1809,7 @@
 /adrotator.
 /adrotator/*
 /adrotator2.
+/adrotator_
 /adrotv2.
 /adrun.
 /adruptive.
@@ -1776,6 +1837,7 @@
 /ads-holder.
 /ads-leader|
 /ads-min.
+/ads-net.
 /ads-new.
 /ads-nodep.
 /ads-pd.
@@ -1785,6 +1847,7 @@
 /ads-reviews-
 /ads-right.
 /ads-sa.
+/ads-screen.
 /ads-scroller-
 /ads-segmentjs.
 /ads-service.
@@ -1842,6 +1905,7 @@
 /ads/aff-
 /ads/as_header.
 /ads/assets/*
+/ads/async/*
 /ads/b/*
 /ads/banner-
 /ads/banner.
@@ -1849,18 +1913,23 @@
 /ads/banner01.
 /ads/banner_
 /ads/banners/*
+/ads/base.
 /ads/beacon.
 /ads/behicon.
 /ads/bilar/*
 /Ads/Biz_
 /ads/blank.
 /ads/bottom.
+/ads/bottom/*
 /ads/box/*
 /ads/branding/*
 /ads/bt/*
 /ads/btbuckets/*
+/Ads/Builder.
+/ads/cbr.
 /ads/center-
 /ads/center.
+/ads/checkViewport.
 /ads/click_
 /ads/cnvideo/*
 /ads/common/*
@@ -1899,7 +1968,10 @@
 /ads/google_
 /ads/gpt/*
 /ads/gpt_
+/ads/gray/*
+/ads/head.
 /ads/header-
+/ads/header/*
 /ads/header_
 /ads/home/*
 /ads/homepage/*
@@ -1917,6 +1989,7 @@
 /ads/index-
 /ads/index.
 /ads/indexsponsors/*
+/Ads/InFullScreen.
 /ads/inline.
 /ads/inner_
 /ads/interstitial.
@@ -1973,7 +2046,9 @@
 /ads/preroll-
 /ads/preroll/*
 /ads/preroll_
+/ads/profile/*
 /ads/promo_
+/ads/proximic.
 /ads/proxy-
 /AdS/RAD.
 /ads/rail-
@@ -1981,6 +2056,7 @@
 /ads/real_
 /ads/rect_
 /ads/rectangle_
+/Ads/Refresher.
 /ads/request.
 /ads/reskins/*
 /ads/right.
@@ -2009,12 +2085,17 @@
 /ads/storysponsors/*
 /ads/sub/*
 /ads/swfobject.
+/ads/syndicated/*
 /ads/takeovers/*
+/ads/targeting.
 /ads/third-
 /ads/tile-
 /ads/top-
+/ads/top.
+/ads/tr_
 /ads/tracker/*
 /ads/triggers/*
+/ads/txt_
 /ads/vertical/*
 /ads/vg/*
 /ads/video/*
@@ -2118,12 +2199,14 @@
 /ads_display.
 /ads_event.
 /ads_files/*
+/Ads_Fix.
 /ads_footer.
 /ads_frame.
 /ads_gallery/*
 /ads_global.
 /ads_gnm/*
 /ads_google.
+/ads_home_
 /ads_ifr.
 /ads_iframe.
 /ads_image/*
@@ -2150,8 +2233,10 @@
 /ads_start.
 /ads_text_
 /ads_top_
+/ads_topbar_
 /ads_ui.
 /ads_view.
+/Ads_WFC.
 /ads_yahoo.
 /adsa468.
 /adsa728.
@@ -2171,6 +2256,7 @@
 /adsbannerjs.
 /adsbox.
 /adsby.
+/adsbycurse.
 /adsbygoogle.
 /adscale.
 /adscale1.
@@ -2182,6 +2268,7 @@
 /adscluster.
 /adscontent.
 /adscontent2.
+/adscpv/*
 /adscript.
 /adscript1.
 /adscript_
@@ -2194,7 +2281,9 @@
 /adsdaqbanner_
 /adsdaqbox_
 /adsdaqsky_
+/adsDateValidation.
 /adsdelivery.
+/adsdfp/*
 /adsdm.
 /adsdyn160x160.
 /adsDynLoad/*
@@ -2351,6 +2440,7 @@
 /adspan.
 /adspeeler/*
 /adsplay.
+/Adsplex-
 /adsponsor.
 /adspot.
 /adspot/*
@@ -2422,9 +2512,11 @@
 /adsvariables.
 /adsvo.
 /adsvr.
+/adsvr2.
 /adswap-
 /adswap.
 /adswap/*
+/adsweb.
 /adswide.
 /adswidejs.
 /adsword.
@@ -2538,13 +2630,13 @@
 /adv.png
 /adv/adriver
 /adv/ads/*
-/adv/adv.
 /adv/adv_
 /adv/background/*
 /adv/banner/*
 /adv/banner1/*
 /adv/bottomBanners.
 /adv/box-
+/adv/interstitial.
 /adv/kelkoo/*
 /adv/kelkoo_
 /adv/lrec_
@@ -2597,11 +2689,13 @@
 /advalue/*
 /advalue_
 /advaluewriter.
+/advanced-ads-
 /advault.
 /advbanner/*
 /advbanners/*
 /advcontents.
 /advcounter.
+/advdl.
 /advdoc/*
 /advengine.
 /adver-left.
@@ -2610,6 +2704,8 @@
 /adverfisement.
 /adverfisement2.
 /adverserve.
+/adversting/*
+/adversting?
 /advert-
 /advert.
 /advert/*
@@ -2651,6 +2747,7 @@
 /advertisement2.
 /advertisement3.
 /advertisement_
+/advertisementAPI/*
 /advertisementheader.
 /advertisementmapping.
 /advertisementrotation.
@@ -2746,6 +2843,7 @@
 /advt.
 /advt/*
 /advt2.
+/advtarget/*
 /advtemplate/*
 /advtemplate_
 /advweb.
@@ -2776,7 +2874,7 @@
 /adwrapper/*
 /adwrapperiframe.
 /adwriter2.
-/adx.
+/adx.$domain=~adx.uk.com
 /adx/ads?
 /adx160.
 /adx2.
@@ -2790,6 +2888,7 @@
 /adyea.
 /adzbotm.
 /adzerk2_
+/adzilla/*
 /adzone.
 /adzone/*
 /adzone4.
@@ -2824,6 +2923,7 @@
 /affbeat/banners/*
 /affclick/*
 /affilatebanner.
+/Affiliate-Banner-
 /affiliate-content/*
 /affiliate/ad/*
 /affiliate/ads/*
@@ -2848,6 +2948,7 @@
 /affiliates/*/show_banner.
 /affiliates/ban
 /affiliates/contextual.
+/affiliateserver.
 /affiliatetags/*
 /affiliatewiz/*
 /affiliation/*
@@ -2871,6 +2972,7 @@
 /ajrotator/*
 /ajs.php?
 /ajs?auid=
+/ak-ads-
 /ak/ads/*
 /all/ad/*
 /all_ads/*
@@ -2879,6 +2981,7 @@
 /am/ads.
 /amazon/iframeproxy-
 /amazon/widget/*
+/amzn_ads.
 /amzn_omakase.
 /anchorad.
 /annonse.$domain=~annonse.nu
@@ -2900,6 +3003,7 @@
 /article_ad.
 /articleSponsorDeriv_
 /artimediatargetads.
+/as/gb2?stid=
 /as/gb?stid=
 /as3overstreamplatformadapter.
 /as_u/ads/*
@@ -2916,6 +3020,9 @@
 /assets/doubleclick/*
 /assets/sponsored/*
 /ast/ads/*
+/asyncadload.
+/asyncjs.$domain=~asyncjs.com
+/asyncspc.
 /athena/tag/?
 /atnads/*
 /AttractiveAds/*
@@ -3020,6 +3127,7 @@
 /banneradviva.
 /bannercode.php
 /bannerconduit.
+/bannerdeliver.php
 /bannerexchange/*
 /bannerfarm.
 /bannerfarm/*
@@ -3134,6 +3242,7 @@
 /bnrimg.
 /bnrsrv.
 /bodyads/*
+/BOM/Ads/*
 /bookad/*
 /bookads.
 /bookads2.
@@ -3189,6 +3298,7 @@
 /camaoadsense.
 /camaoAdsenseHomepage.
 /camfuzeads/*
+/campaign/advertiser_
 /campus/ads/*
 /carbonads-
 /carbonads/*
@@ -3202,6 +3312,7 @@
 /cdn.ads.
 /centerads.
 /central/ads/*
+/centralresource/ad_
 /ceoads/*
 /cgi-bin/ad/*
 /cgi-bin/ads.
@@ -3223,6 +3334,7 @@
 /ClassAds/*
 /classifieds/banners/*
 /click/ads_
+/click/creative/*
 /clickboothad.
 /clicksor.
 /clickunder.
@@ -3314,13 +3426,10 @@
 /cpx_ads.
 /cpxads.
 /cramitin/ads_
-/criteo.
-/Criteo/*
-/criteo_
-/criteoRTA.
 /crossoverad-
 /csp/ads?
 /css/ad.
+/css/ads-
 /css/ads.
 /css/adsense
 /css/adv.
@@ -3358,6 +3467,7 @@
 /dartcall.
 /dartfunctions.
 /data/ads/*
+/data/init2?site_id=
 /data/init?site_id=
 /dateads.
 /dblclick.
@@ -3407,7 +3517,13 @@
 /design/ads/*
 /develop/ads_
 /devicead/*
+/dfp-custom/*
+/dfp.js
+/dfp/async.
 /dfp/dc.js
+/dfp/jquery.
+/dfp_ads/*
+/dfp_delivery.js
 /dfpads.
 /dfpsds.
 /dfpsearchads.
@@ -3495,6 +3611,7 @@
 /dynamicvideoad?
 /dynanews/ad-
 /dynbanner/flash/*
+/e-advertising/*
 /e-vertising/*
 /eas-fif.htm
 /eas?*^easformat=
@@ -3512,6 +3629,7 @@
 /eco_ads/*
 /ecom/magnet.
 /editable/ads/*
+/eht.js?site_
 /emailads/*
 /embed_ad.
 /emediatead.
@@ -3535,7 +3653,6 @@
 /eroadvertorial2.
 /eroadvertorial3.
 /erobanner.
-/eroex.
 /eros.htm
 /eshopoffer.
 /esi/ads/*
@@ -3616,6 +3733,7 @@
 /flesh_banner
 /fleshlight.
 /fleshlightcash_
+/flexads?
 /fliionosadcapture-
 /flirt4free.
 /float-ads/*
@@ -3631,6 +3749,7 @@
 /flv-ad-
 /flvad_
 /flvads/*
+/flyad.
 /flyad/*
 /flyads/*
 /flyers/ads/*
@@ -3702,6 +3821,7 @@
 /generate_ad.
 /generate_ads.
 /generateadtag.
+/generated/key.js?
 /generateplayerads.
 /genericrichmediabannerad/*
 /geo-ads_
@@ -3722,6 +3842,7 @@
 /get_ads/*
 /get_banner.asp?
 /getad.
+/getad/*
 /getad?
 /getadcontent.
 /getadds.
@@ -3733,6 +3854,7 @@
 /getads?
 /getadserver.
 /getadsettingsjs?
+/getAdsForClient?
 /getads|
 /getadvertimageservlet?
 /getAdvertisement^
@@ -3848,9 +3970,12 @@
 /grid-ad.
 /groupon/ads/*
 /gt6skyadtop.
+/gtags/pin_tag.
+/gtv_ads.
 /guardianleader.
 /guardrailad_
 /gujAd.
+/GujAd/*
 /gutterAd.
 /hads-
 /Handlers/Ads.
@@ -3879,6 +4004,7 @@
 /home30/ad.
 /home_adv.
 /homeoutside/ads/*
+/homepage-ads/*
 /homepage/ads/*
 /homepage_ad_
 /homepage_ads/*$domain=~swedishbeauty.com
@@ -3907,6 +4033,7 @@
 /houseads?
 /hoverad.
 /hpcwire/ads/*
+/ht.js?site_
 /html.ng/*
 /html/ad.
 /html/ad/*
@@ -3918,6 +4045,7 @@
 /hubxt.*/js/eht.js?
 /hubxt.*/js/ht.js
 /i/ads/*
+/i/adv/*
 /i_ads.
 /ia/ads/*
 /iabadvertisingplugin.swf
@@ -4054,6 +4182,7 @@
 /incmpuad.
 /index-ad-
 /index-ad.
+/index_ad/*
 /index_ads.
 /inhouse_ads/*
 /initdefineads.
@@ -4069,17 +4198,20 @@
 /inner-ads/*
 /innerads.
 /inquirer/ads/*
+/insertAd.
 /insertads.
 /instreamad/*
 /intelliad.
 /intellitext.
 /interad.
+/interface/ads/*
 /internAds.
 /internal-ad-
 /internet_ad_
 /internetad/*
 /interstitial-ad.
 /interstitial-ad/*
+/interstitial-ad?
 /interstitial_ad.
 /intextadd/*
 /intextads.
@@ -4117,6 +4249,7 @@
 /jquery-ads.
 /jquery.adx.
 /jquery/ad.
+/jquery_FOR_AD/*
 /jqueryadvertising.
 /js.ad/size=
 /js.ng/cat=
@@ -4154,12 +4287,14 @@
 /jtcashbanners/*
 /juicyads_
 /jumpstartunpaidad.
+/k_ads/*
 /kaksvpopup.
 /KalahariAds.
 /kampyle.js
 /kantarmedia.
 /keyade.js
 /keyword_ad.
+/kogeePopupAd.
 /kredit-ad.
 /kskads.
 /landerbanners/*
@@ -4176,7 +4311,7 @@
 /layer_ad?
 /layerad-
 /layerad.
-/layerAd/*
+/LayerAd^
 /layerads-
 /layerads.
 /layerads_
@@ -4201,8 +4336,8 @@
 /leftad.
 /leftad_
 /leftads.
-/leftbanner/*
 /leftsidebarads.
+/lg.php?adid=
 /lib/ad.js
 /library/ads/*
 /lifeshowad/*
@@ -4235,6 +4370,7 @@
 /loadadsparam.
 /loadadwiz.
 /loading_ads.
+/loadTargetUrl?
 /local_ads_
 /localAd/*
 /LocalAd_
@@ -4262,6 +4398,7 @@
 /main/ads/*
 /main_ad.
 /main_ad/*
+/main_ad_
 /mainad.
 /mainpagepopupadv1.
 /mapquest/Ads/*
@@ -4322,6 +4459,7 @@
 /mobile_ad.
 /mobile_ad/*
 /mobileads.
+/mobileads/*
 /mobilephonesad/*
 /mod_ad/*
 /mod_pagepeel_banner/*
@@ -4424,6 +4562,7 @@
 /oas/banners/*
 /oas/iframe.
 /oas/oas-
+/OAS/show?
 /oas_ad.
 /oas_ad/*
 /oas_ad_
@@ -4454,6 +4593,7 @@
 /omb-ad-
 /ome.ads.
 /onead.
+/onecam4ads.
 /onesheet-ad-
 /online/ads/*
 /online_ads/*
@@ -4553,6 +4693,7 @@
 /performance_ads/*
 /performancingads/*
 /permanent/ads/*
+/persadpub/*
 /pfpadv.
 /pgad.
 /pgrightsideads.
@@ -4679,9 +4820,11 @@
 /product-ads/*
 /production/ads/*
 /projectwonderful_
+/promo-ads/*
 /promo/ad_
 /promo/ads/*
 /promo/affiframe.
+/promo/banners/*
 /promo300by250.
 /promo300x250.
 /promoads/*
@@ -4751,6 +4894,7 @@
 /rawtubelivead.
 /rcolads1.
 /rcolads2.
+/rcom-ads-
 /rcom-ads.
 /rcom-video-ads.
 /realmedia/ads/*
@@ -4783,6 +4927,7 @@
 /remove-ads.
 /remove_ads.
 /render-ad/*
+/renderBanner.do?
 /repeat_adv.
 /report_ad.
 /report_ad_
@@ -4792,6 +4937,8 @@
 /resources/ads/*
 /resources/ads_
 /responsive-ads.
+/responsive_dfp.
+/responsive_dfp_
 /restorationad-
 /retrad.
 /retrieve-ad.
@@ -4875,11 +5022,13 @@
 /scripts/ad_
 /scripts/ads.
 /scripts/ads/*
+/scripts/AdService_
 /scripts/adv.
 /scripts/afc/*
 /scripts/feedmeCaf.php?q=*&d=*&ron=$script
 /scripts/zanox-
 /scrollads/*
+/scrpads.
 /search-ads?
 /search.php?uid=*.*&src=
 /search/ad/*
@@ -4899,10 +5048,12 @@
 /servead/*
 /ServeAd?
 /serveads.
+/Server/AD/*
 /server/ads/*
 /servewebads/*
 /service/ads/*
 /services/ads/*
+/servlet/view/*
 /settings/ad.
 /sevenads.
 /sevenl_ad.
@@ -4940,6 +5091,7 @@
 /showmarketingmaterial.
 /showpost-ad-
 /showsidebar-ad-
+/showSp.php?
 /side-ad-
 /side-ad.
 /side-ads-
@@ -4984,6 +5136,7 @@
 /siteads/*
 /siteadvert.
 /siteafs.txt?
+/siteimages/ads-
 /sitemanagement/ads/*
 /sites/ad_
 /sitewide/ads/*
@@ -5036,6 +5189,7 @@
 /smb/ads/*
 /smeadvertisement/*
 /smedia/ad/*
+/smoozed-ad/*
 /SmpAds.
 /socialads.
 /socialads/*
@@ -5057,6 +5211,7 @@
 /specialfeatureads/*
 /spiderad/*
 /splash_ads_
+/SplashAd_
 /spo_show.asp?
 /sponlink.
 /spons/banners/*
@@ -5068,12 +5223,14 @@
 /sponslink_
 /sponsor%20banners/*
 /sponsor-ad
+/sponsor-banner.
 /sponsor-box?
 /sponsor-links.
 /sponsor/click.
 /sponsor_ads.
 /sponsor_select.
 /sponsorad.
+/sponsorad2.
 /sponsoradds/*
 /sponsorads.
 /sponsorads/*
@@ -5127,6 +5284,7 @@
 /srec_ad_
 /srv/ad/*
 /ss3/ads/*
+/ssc_ad.
 /standard_ads.
 /static.ad.
 /static/ad-
@@ -5137,6 +5295,7 @@
 /static/js/4728ba74bc.js$~third-party
 /static_ads/*
 /staticadslot.
+/stats/?t_sid=
 /sticker_ad.
 /sticky_ad.
 /stickyad.
@@ -5187,9 +5346,9 @@
 /t.php?uid=*.*&src=
 /tabads/*
 /tableadnorth.
-/taboola-
 /tag-adv.
 /tag_adv/*
+/tag_sys.
 /tagadv_
 /talkads/*
 /taxonomy-ads.
@@ -5236,6 +5395,7 @@
 /tidaladplugin.
 /tii_ads.
 /tikilink?
+/TILE_ADS/*
 /tileads/*
 /tinlads.
 /tinyad.
@@ -5302,6 +5462,7 @@
 /tradead_
 /TradeAds/*
 /tradedoubler.
+/trafficadpdf02.
 /trafficads.
 /trafficengineads.
 /trafficsynergysupportresponse_
@@ -5311,6 +5472,7 @@
 /triadshow.
 /tribalad.
 /tripplead/*
+/tsc.php?*&ses=
 /ttz_ad.
 /turbo_ad.
 /tvgdartads.
@@ -5342,6 +5504,7 @@
 /uplimg/ads/*
 /upload/ads/*
 /uploaded/ads/*
+/UploadedAds/*
 /uploads/ads/*
 /uploads/adv/*
 /uploads/adv_
@@ -5422,8 +5585,11 @@
 /vpaidad3.
 /vpaidadrenderer.
 /vplayerad.
+/vrdinterads-
 /vtextads.
+/VXLayerAd-
 /w/ads/*
+/w/d/capu.php?z=$script,third-party
 /wahoha.
 /wallpaper_ads/*
 /wallpaperads/*
@@ -5451,6 +5617,7 @@
 /webadverts/*
 /webmailad.
 /webmaster_ads/*
+/weborama.js
 /weeklyAdsLabel.
 /welcome_ad.
 /welcomead.
@@ -5473,6 +5640,7 @@
 /work.php?n=*&size=*&c=
 /wp-content/ads/*
 /wp-content/mbp-banner/*
+/wp-content/plugins/amazon-product-in-a-post-plugin/*
 /wp-content/plugins/automatic-social-locker/*
 /wp-content/plugins/banner-manager/*
 /wp-content/plugins/bhcb/lock.js
@@ -5488,8 +5656,10 @@
 /wp-srv/ad/*
 /wp_ad_250.
 /wp_ad_250_
+/wp_pro_ad_system/*
 /wpads/iframe.
 /wpbanners_show.php
+/wpproadds.
 /wpproads.
 /wrapper/ads/*
 /writelayerad.
@@ -5501,6 +5671,7 @@
 /www/delivery/*
 /www/js/ad/*
 /x5advcorner.
+/xads.php
 /xadvertisement.
 /xbanner.php?
 /xclicks.
@@ -5513,6 +5684,7 @@
 /xnxx-ads.
 /xpiads.
 /xtendmedia.$domain=~xtendmedia.dk
+/xwords.
 /xxxmatch_
 /yads-
 /yads.
@@ -5529,6 +5701,7 @@
 /yahooadsobject.
 /yahoofeedproxy.
 /yellowpagesads/*
+/yesbaby.
 /yhs/ads?
 /yieldads.
 /yieldlab.
@@ -5560,7 +5733,7 @@
 ://ad.*/jstag^
 ://adcl.
 ://ads.
-://adv.$domain=~adv.ru|~forex-tv-online.com
+://adv.$domain=~adv.ru|~adv.vg|~advids.co|~farapp.com|~forex-tv-online.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
 ://affiliates.$third-party
 ://ax-d.*/jstag^
@@ -5587,6 +5760,7 @@
 =ad320x50-
 =ad_iframe&
 =ad_iframe_
+=adbanner_
 =adcenter&
 =adcode&
 =adexpert&
@@ -5594,6 +5768,7 @@
 =admeld&
 =adMenu&
 =admodeliframe&
+=adreplacementWrapperReg.
 =adsCallback&
 =adscripts&
 =adsfinal.
@@ -5639,6 +5814,7 @@
 ?adarea=
 ?adclass=
 ?adcontext=
+?adCount=
 ?adflashid=
 ?adfox_
 ?adloc=
@@ -5661,10 +5837,11 @@
 ?adv/id=
 ?adv_type=
 ?adversion=
+?advert_key=
 ?advertisement=
 ?advertiser=
 ?advertiser_id=$domain=~panel.rightflow.com
-?advertiserid=$domain=~outbrain.com
+?advertiserid=$domain=~outbrain.com|~seek.co.nz|~seek.com.au
 ?advertising=
 ?advideo_
 ?advsystem=
@@ -5695,7 +5872,7 @@
 ?wm=*&prm=rev&
 ?wpproadszoneid=
 ?ZoneID=*&PageID=*&SiteID=
-?ZoneID=*&Task=*&SiteID=
+?ZoneID=*&SiteID=*&PageID=
 ^fp=*&prvtof=
 ^mod=wms&do=view_*&zone=
 ^pid=Ads^
@@ -5714,6 +5891,7 @@ _ad.php?
 _ad.png?
 _ad/display?
 _ad/full_
+_AD/jquery.
 _ad/public/
 _ad/section_
 _ad01.
@@ -5721,6 +5899,7 @@ _ad01_
 _ad1.$~stylesheet
 _ad103.
 _ad120x120_
+_Ad125.
 _ad1a.
 _ad1b.
 _ad2.
@@ -5738,6 +5917,7 @@ _ad_2012.
 _ad_300.
 _ad_350x250.
 _ad_actron.
+_ad_article_
 _ad_background.
 _ad_banner.
 _ad_banner_
@@ -5757,6 +5937,7 @@ _ad_controller.
 _ad_count.
 _ad_count=
 _ad_courier.
+_ad_desktop_
 _ad_div=
 _ad_domain_
 _ad_end_
@@ -5856,6 +6037,7 @@ _adjug.
 _adlabel_
 _adlesse.
 _adlib.
+_adlinkbar.
 _adlog.
 _admanager/
 _admarking_
@@ -5875,6 +6057,7 @@ _ads.cgi
 _ads.html
 _ads.js?
 _ads.php?
+_ads/css/
 _ads/horiz/
 _ads/horiz_
 _ads/iframe.
@@ -5883,9 +6066,13 @@ _ads/ip/
 _ads/js/
 _ads/square/
 _ads1.
+_ads12.
 _ads2.
 _ads3.
+_ads8.
+_ads9.
 _ads?
+_ads_async.
 _ads_cached.
 _ads_contextualtargeting_
 _ads_Home.
@@ -5925,6 +6112,7 @@ _adsrv?
 _adssource.
 _adstat.
 _adsys.
+_adsys_
 _adsystem/
 _adtags.
 _adtech&
@@ -6049,6 +6237,7 @@ _gads_bottom.
 _gads_footer.
 _gads_top.
 _gallery_ads.
+_genads/
 _generic_ad.
 _geobanner.
 _google_ad.
@@ -6073,6 +6262,7 @@ _images/ad.
 _images/ad_
 _images/ads/
 _index_ad.
+_inline_advert&
 _inlineads.
 _js/ads.js
 _jtads/
@@ -6138,6 +6328,7 @@ _search/ads.js
 _sectionfront_ad.
 _show_ads.
 _show_ads=
+_show_ads_
 _sidead.
 _sidebar_ad.
 _sidebar_ad_
@@ -6146,9 +6337,12 @@ _site_sponsor
 _skinad.
 _skybannerview.
 _skyscraper160x600.
+_Slot_Adv_
 _small_ad.
 _smartads_
+_sponsor/css/
 _sponsoredlinks_
+_Spot-Ad_
 _square_ad.
 _static/ads/
 _static_ads.
@@ -6193,28 +6387,45 @@ takeover_banner_
 ||online.*/promoredirect?key=
 ||ox-d.*^auid=
 ||serve.*/promoload?
+! Doubleclick
+/jquery.dfp.js$script
+/jquery.dfp.min.js$script
 ! linkbucks.com script
 /webservices/jsparselinks.aspx?$script
 ! CDN-based filters
 /cdn-cgi/pe/bag2?r[]=*adblade.com
+/cdn-cgi/pe/bag2?r[]=*adk2.co
 /cdn-cgi/pe/bag2?r[]=*ads.exoclick.com
+/cdn-cgi/pe/bag2?r[]=*az708531.vo.msecnd.net
 /cdn-cgi/pe/bag2?r[]=*content.ad
+/cdn-cgi/pe/bag2?r[]=*cpx.to
+/cdn-cgi/pe/bag2?r[]=*eclkmpbn.com
+/cdn-cgi/pe/bag2?r[]=*eclkspsa.com
+/cdn-cgi/pe/bag2?r[]=*googleadservices.com
+/cdn-cgi/pe/bag2?r[]=*intellitxt.com
 /cdn-cgi/pe/bag2?r[]=*juicyads.com
+/cdn-cgi/pe/bag2?r[]=*linksmart.com
+/cdn-cgi/pe/bag2?r[]=*popads.net
+/cdn-cgi/pe/bag2?r[]=*popcash.net
 /cdn-cgi/pe/bag2?r[]=*revcontent.com
+/cdn-cgi/pe/bag2?r[]=*srvpub.com
 /cdn-cgi/pe/bag?r[]=*cpalead.com
 /cdn-cgi/pe/bag?r[]=*pubads.g.doubleclick.net
 ! Common adserver string
 /mediahosting.engine$script,third-party
-/Tag.engine$script,third-party
+/Tag.eng$script,third-party
 ! White papers insert
 /sl/assetlisting/?
 ! Peel script
 /jquery.peelback.js
 ! Anti-Adblock
+-adblocker-detection/
 /ad-blocker.js
 /adb_detector.
 /adblock-alerter/*
 /adblock-blocker/*
+/adblock-detect.
+/adblock-notify-by-bweb/*
 /adblock_detector.
 /adblock_detector2.
 /adblock_logger.
@@ -6226,6 +6437,7 @@ takeover_banner_
 /anti_ab.
 /antiadblock.
 /blockblock/blockblock.jquery.js
+/Disable%2BAdblock.
 /fuckadb.js
 /FuckAdBlock-$script
 /fuckadblock.

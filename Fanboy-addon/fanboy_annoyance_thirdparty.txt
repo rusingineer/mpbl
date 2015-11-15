@@ -11,9 +11,11 @@
 ||alluremedia.com.au/s/au.js$third-party
 ||amazonaws.com/fby.js
 ||amazonaws.com/fby/
+||amazonaws.com/mailmunch/static/popover.js
 ||amazonaws.com/mailmunch/widgets/$script,third-party
 ||amazonaws.com^*/feedback-v2.js
 ||antenna.is^$third-party
+||api.branch.io^$third-party
 ||api.flattr.com^$third-party
 ||api.search.live.net^$third-party,domain=~bing.com
 ||apture.com^$script,third-party
@@ -40,6 +42,7 @@
 ||buzz-stats.com^$third-party
 ||care2.com/petitions/$third-party,domain=~thepetitionsite.com
 ||celebjihad.com^$third-party
+||civiccomputing.com^*=cookie$script,third-party
 ||civicscience.com/widget/jspoll/$third-party
 ||cloudfront.net/js/slide.js
 ||cmpmedica.com/ssonp/networkbar.js$third-party
@@ -49,7 +52,10 @@
 ||convertsocial.com^$third-party
 ||cookie-script.com^$third-party
 ||cookieassistant.com^$third-party
+||cookiebot.com^$third-party
 ||cookieconsent.silktide.com^$third-party
+||cookieinformation.com^$third-party
+||cookielaw.org^$third-party
 ||cookieq.com^$third-party
 ||cookiereports.com^$third-party
 ||cookies.innershed.co.uk^
@@ -65,6 +71,7 @@
 ||download.skype.com/share/$third-party
 ||dukecms.com/deals2/$third-party
 ||eff.org/bloggers/badges/$third-party
+||embed.e2ma.net^$third-party
 ||engage.gsfn.us^$third-party
 ||evernote.com^$third-party
 ||facebookicon.net^$third-party
@@ -141,11 +148,13 @@
 ||newsgator.com^$third-party
 ||newsletter.outbrain.com^$third-party
 ||newswhip.com^$third-party
+||nonissue.com^$third-party
 ||nrcdn.com/custom-script/$third-party
 ||nrelate.com^$third-party
 ||odb.outbrain.com^$third-party
 ||optinmonster.com^$third-party
 ||optkit.com^$third-party
+||optnmnstr.com^$third-party
 ||parse.ly^$third-party
 ||parsely.com^$third-party
 ||pinddeals.com^$third-party
@@ -164,6 +173,7 @@
 ||qmerce.com^$third-party
 ||qrius.me^$third-party
 ||quote.fm/services/button/$third-party
+||r42tag.com^$third-party
 ||rankdirectory.org^$third-party
 ||readability.com/embed.js$third-party
 ||recommendedbookies.co.uk^$third-party
@@ -186,6 +196,7 @@
 ||skysa.com^$third-party
 ||slashdot.org^$third-party
 ||sleeknoteboxcontent.sleeknote.com^$third-party
+||smartcookies.it^$third-party
 ||snapwidget.com^$third-party
 ||sociallist.org^$third-party
 ||socialoomph.com^$third-party
@@ -220,6 +231,7 @@
 ||tweetup.com^$third-party
 ||uatu.newsquestdigital.co.uk^$third-party
 ||vhmengine.com^$third-party
+||vrt.outbrain.com^$third-party
 ||wahwahnetworks.com^$third-party
 ||weebly.com/*_signup.php$third-party
 ||weworkremotely.com^$third-party

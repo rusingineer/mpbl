@@ -17,7 +17,6 @@
 @@||bettermarks.com/media$~third-party
 @@||bizquest.com^*_img/_franchise/*_120x60.$image
 @@||canada.com/news/*-300-250.gif
-@@||cdn.vidible.tv/prod/*_300x250_*.mp4|
 @@||cinemanow.com/images/banners/300x250/
 @@||consumerist-com.wpengine.netdna-cdn.com/assets/*300x250
 @@||crowdignite.com/img/upload/*300x250
@@ -37,8 +36,10 @@
 @@||freetvhub.com/ad1_300x250.html
 @@||google.com/uds/modules/elements/newsshow/iframe.html?*=300x250&
 @@||harpers.co.uk/pictures/300x250/
+@@||heathceramics.com/media/300x250/$image,~third-party
 @@||hortifor.com/images/*120x60$~third-party
 @@||imagehost123.com^*_300x250_$image,domain=wealthymen.com
+@@||images*.roofandfloor.com^$image,domain=roofandfloor.com
 @@||images.itreviews.com/*300x250_$domain=itreviews.com
 @@||images.outbrain.com/imageserver/*-120x60.$image
 @@||imawow.weather.com/web/wow/$image
@@ -60,10 +61,13 @@
 @@||opposingviews.com^*/300x250/
 @@||player.grabnetworks.com^*/vox_300x250_inline.xml$domain=mavrixonline.com
 @@||quisqualis.com/QBanner_760x100.jpg
+@@||rackcdn.com/LN_AH_Sweep_300x250_$image,domain=accesshollywood.com
 @@||rehabs.com^*/xicons_social_sprite_400x60.png
 @@||roofandfloor.com/listing_$image,~third-party
+@@||russia-direct.org/custom_ajax/widget?*=300x250&$script
 @@||static-origin.openedition.org^*-120x240.jpg
 @@||stickam.com/wb/www/category/300x250/$image
+@@||swansuk.co.uk^*/300x250/$image,~third-party
 @@||target.122.2o7.net/b/ss/*_300x250_$image,domain=target.com
 @@||techpakistani.com/wp-content/uploads/*-300x100.$image
 @@||tribune.com.ng/news2013/cache/mod_yt_k2megaslider/images/*_120_60.jpg

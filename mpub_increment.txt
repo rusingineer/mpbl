@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private Block List Incremental Update
-!  Last Modified: Fri, 6 Nov 2015 10:00:00 +0400
+!  Last Modified: Sun, 15 Nov 2015 17:00:00 +0400
 !
 !  This is a private list,
 !  will not provide any technical support
@@ -166,3 +166,13 @@ web.imgbum.net^$script
 best.imgbum.net^$script
 tizru.com/tizer/^$script
 myuniques.biz^$script
+ads.advelogy.ru/getcode/ads.php?id=^$script
+zaebaladblock.ru^$script
+cholaga.ru^$script
+ckqby.com^$script
+v.cuioj.com^$script
+v.ksdnf.com^$script
+v.vvvsd.space^$script
+gnezdo.ru/show/
+xawab.com/static/foobar.js
+fpmef.com^$script
