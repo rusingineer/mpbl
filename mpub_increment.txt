@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private Block List Incremental Update
-!  Last Modified: Sun, 15 Nov 2015 17:00:00 +0400
+!  Last Modified: Thu, 10 Dec 2015 10:00:00 +0400
 !
 !  This is a private list,
 !  will not provide any technical support
@@ -100,7 +100,6 @@ advertom.com/34hb/77/d91b24.js
 advertom.com/f5m7c23a51e4357/f940a094.js
 advertom.com/d9xde10f339/1a190.js
 advertom.com/26ac2/0ef698b0c048ad/08.js
-@@||nikita359.narod.ru^$document
 @@||camgirlsonline.com^$document
 @@|http://psevdotorrent.ru/readme.html|$document
 @@|http://psevdotorrent.ru/neos.html|$document
@@ -176,3 +175,12 @@ v.vvvsd.space^$script
 gnezdo.ru/show/
 xawab.com/static/foobar.js
 fpmef.com^$script
+newsriver.net/load/^$script
+byuop.com/inc/angular.js
+nyyed.com^$script
+nvjqm.com^$script
+v.qpovpaways.pw^$script
+bjpwv.com^$script
+vogorana.ru/rotator/^$script
+xawab.com^$script
+v.vxqpomwum.pw^$script
