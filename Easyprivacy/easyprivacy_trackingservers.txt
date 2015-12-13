@@ -65,6 +65,7 @@
 ||activeprospects.com^$third-party
 ||actnx.com^$third-party
 ||acxiom-online.com^$third-party
+||ad-score.com^$third-party
 ||adchemix.com^$third-party
 ||adchemy-content.com^$third-party
 ||adchemy.com^$third-party
@@ -254,6 +255,7 @@
 ||bytemgdd.com^$third-party
 ||c-o-u-n-t.com^$third-party
 ||c-webstats.de^$third-party
+||c.adroll.com^$third-party
 ||c1exchange.com^$third-party
 ||c3metrics.com^$third-party
 ||c3tag.com^$third-party
@@ -348,6 +350,7 @@
 ||confirmit.com^$third-party
 ||contactmonkey.com^$third-party
 ||contemporaryceremonies.ca^$third-party
+||contentexchange.me^$third-party
 ||contentspread.net^$third-party
 ||contextly.com^$third-party
 ||continue.com^$third-party
@@ -397,6 +400,7 @@
 ||crosspixel.net^$third-party
 ||crosswalkmail.com^$third-party
 ||crowdscience.com^$third-party
+||crowdskout.com^$third-party
 ||crowdtwist.com^$third-party
 ||crsspxl.com^$third-party
 ||crwdcntrl.net^$third-party
@@ -440,7 +444,6 @@
 ||didit.com^$third-party
 ||diffusion-tracker.com^$third-party
 ||digitaloptout.com^$third-party
-||digits.com^$third-party
 ||dignow.org^$third-party
 ||dimestore.com^$third-party
 ||dimml.io^$third-party
@@ -502,6 +505,7 @@
 ||elitics.com^$third-party
 ||eloqua.com^$third-party
 ||emediatrack.com^$third-party
+||emjcd.com^$third-party
 ||emltrk.com^$third-party
 ||enecto.com^$third-party
 ||enectoanalytics.com^$third-party
@@ -629,6 +633,7 @@
 ||friendbuy.com^$third-party
 ||fruitflan.com^$third-party
 ||fshka.com^$third-party
+||ftbpro.com^$third-party
 ||fueldeck.com^$third-party
 ||funneld.com^$third-party
 ||funstage.com^$third-party
@@ -640,6 +645,7 @@
 ||gemtrackers.com^$third-party
 ||genieesspv.jp^$third-party
 ||geobytes.com^$third-party
+||georiot.com^$third-party
 ||getbackstory.com^$third-party
 ||getclicky.com^$third-party
 ||getfreebl.com^$third-party
@@ -676,6 +682,7 @@
 ||gostats.ro^$third-party
 ||govmetric.com^$third-party
 ||grapheffect.com^$third-party
+||gravity4.com^$third-party
 ||grepdata.com^$third-party
 ||gsecondscreen.com^$third-party
 ||gsimedia.net^$third-party
@@ -710,6 +717,7 @@
 ||hitfarm.com^$third-party
 ||hitmatic.com^$third-party
 ||hitmaze-counters.net^$third-party
+||hits.io^$third-party
 ||hits2u.com^$third-party
 ||hitslink.com^$third-party
 ||hitslog.com^$third-party
@@ -739,6 +747,7 @@
 ||hyperactivate.com^$third-party
 ||hypestat.com^$third-party
 ||i-stats.com^$third-party
+||i.ligatus.com^$third-party
 ||ib-ibi.com^$third-party
 ||ibpxl.com^$third-party
 ||ibpxl.net^$third-party
@@ -900,6 +909,7 @@
 ||lucidel.com^$third-party
 ||luckyorange.com^$third-party
 ||lumatag.co.uk^$third-party
+||luminate.com^$third-party
 ||lxtrack.com^$third-party
 ||lymantriacypresdoctrine.biz^$third-party
 ||lypn.com^$third-party
@@ -1168,6 +1178,7 @@
 ||predictivedna.com^$third-party
 ||predictiveresponse.net^$third-party
 ||prfct.co^$third-party
+||primetag.net^$third-party
 ||prnx.net^$third-party
 ||proclivitysystems.com^$third-party
 ||profilertracking3.com^$third-party
@@ -1303,6 +1314,7 @@
 ||sayutracking.co.uk^$third-party
 ||sbdtds.com^$third-party
 ||scaledb.com^$third-party
+||scarabresearch.com^$third-party
 ||scastnet.com^$third-party
 ||schoolyeargo.com^$third-party
 ||sciencerevenue.com^$third-party
@@ -1375,6 +1387,7 @@
 ||slingpic.com^$third-party
 ||smallseotools.com^$third-party
 ||smart-ip.net^$third-party
+||smarterhq.io^$third-party
 ||smarterremarketer.net^$third-party
 ||smartracker.net^$third-party
 ||smartzonessva.com^$third-party
@@ -1537,6 +1550,7 @@
 ||trackcmp.net^$third-party
 ||trackconsole.com^$third-party
 ||trackdiscovery.net^$third-party
+||trackeame.com^$third-party
 ||trackedlink.net^$third-party
 ||trackedweb.net^$third-party
 ||tracking100.com^$third-party
@@ -1548,6 +1562,7 @@
 ||trackset.com^$third-party
 ||tracksy.com^$third-party
 ||tracktrk.net^$third-party
+||trackvoluum.com^$third-party
 ||trackword.biz^$third-party
 ||trackyourstats.com^$third-party
 ||tradedoubler.com^$third-party
@@ -1567,6 +1582,7 @@
 ||treehousei.com^$third-party
 ||trekmedia.net^$third-party
 ||trendcounter.com^$third-party
+||trhnt.com^$third-party
 ||triggeredmessaging.com^$third-party
 ||triggertag.gorillanation.com^$third-party
 ||triggit.com^$third-party
@@ -1603,6 +1619,7 @@
 ||usabilla.com^$third-party
 ||userchecker.info^$third-party
 ||usercycle.com^$third-party
+||userdmp.com^$third-party
 ||userlook.com^$third-party
 ||userneeds.dk^$third-party
 ||useronlinecounter.com^$third-party

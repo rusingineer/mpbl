@@ -66,6 +66,7 @@
 ||ad.mesomorphosis.com^
 ||ad.mygamesol.com^$third-party
 ||ad.netcommunities.com^$third-party
+||ad.openmultimedia.biz^
 ||ad.outsidehub.com^
 ||ad.pickple.net^
 ||ad.premiumonlinemedia.com^$third-party
@@ -177,6 +178,7 @@
 ||amazonaws.com/streetpulse/ads/
 ||amazonaws.com/widgets.youcompare.com.au/
 ||amazonaws.com/youpop/
+||amazonaws.com^*&dontMissWithoutHeader=$script,domain=ndtv.com
 ||amazonaws.com^*=taboola-$script,domain=ndtv.com
 ||analytics.disneyinternational.com^
 ||ancestrydata.com/widget.html?$domain=findagrave.com
@@ -324,6 +326,7 @@
 ||byzoo.org/script/tu*.js
 ||c.netu.tv^
 ||cachefly.net/cricad.html
+||cactusvpn.com/images/affiliates/
 ||cal-one.net/ellington/deals_widget.php?
 ||cal-one.net/ellington/search_form.php?
 ||camelmedia.net^*/banners/
@@ -334,7 +337,7 @@
 ||careerjunction.co.za^*/widget?$third-party
 ||carfax.com/img_myap/$third-party
 ||cars.fyidriving.com^$subdocument,third-party
-||cas.*.criteo.com^third-party
+||cas.*.criteo.com^$third-party
 ||cas.clickability.com^
 ||cas.criteo.com^$third-party
 ||cash.neweramediaworks.com^
@@ -344,8 +347,8 @@
 ||castasap.com/publi2.html
 ||casti.tv/adds/
 ||catholicweb.com^*/banners/
-||caw.*.criteo.com^third-party
-||caw.criteo.com^third-party
+||caw.*.criteo.com^$third-party
+||caw.criteo.com^$third-party
 ||cbpirate.com/getimg.php?
 ||cccam.co/banner_big.gif
 ||cdn.assets.gorillanation.com^$third-party
@@ -371,7 +374,7 @@
 ||choices.truste.com^$third-party
 ||chriscasconi.com/nostalgia_ad.
 ||cimg.in/images/banners/
-||circularhub.com^*/circularhub_module.js$third-party
+||circularhub.com^$third-party
 ||citygridmedia.com/ads/
 ||cjmooter.xcache.kinxcdn.com^
 ||clarity.abacast.com^
@@ -425,6 +428,7 @@
 ||cuteonly.com/banners.php$third-party
 ||d-l-t.com^$subdocument,third-party
 ||d13czkep7ax7nj.cloudfront.net^
+||d140sbu1b1m3h0.cloudfront.net^
 ||d15565yqt7pv7r.cloudfront.net^
 ||d15gt9gwxw5wu0.cloudfront.net^
 ||d17f2fxw547952.cloudfront.net^
@@ -593,6 +597,7 @@
 ||duct5ntjian71.cloudfront.net^
 ||dvdfab.com/images/fabnewbanner/$third-party
 ||dvf2u7vwmkr5w.cloudfront.net^
+||dvt4pepo9om3r.cloudfront.net^
 ||dx.com/affiliate/$third-party
 ||dx5qvhwg92mjd.cloudfront.net^
 ||dxq6c0tx3v6mm.cloudfront.net^
@@ -754,7 +759,6 @@
 ||globalprocash.com/banner125.gif
 ||gmstatic.net^*/amazonbadge.png
 ||gmstatic.net^*/itunesbadge.png
-||go2cloud.org/aff_i?
 ||goadv.com^*/ads.js
 ||gogousenet.com^*/promo.cgi
 ||gogousenet.com^*/promo2.cgi
@@ -836,8 +840,8 @@
 ||images-amazon.com^$domain=cloudfront.net
 ||images-pw.secureserver.net/images/100yearsofchevy.gif
 ||images-pw.secureserver.net^*_*.$image,third-party
-||images.*.criteo.net^third-party
-||images.criteo.net^third-party
+||images.*.criteo.net^$third-party
+||images.criteo.net^$third-party
 ||images.dreamhost.com^$third-party
 ||images.mylot.com^$third-party
 ||images.youbuy.it/images/$third-party
@@ -955,6 +959,7 @@
 ||longtailvideo.com^*/yume.swf
 ||loopnet.com^*/searchwidget.htm$third-party
 ||loot.co.za/shop/product.jsp?$third-party
+||loot.co.za^*/banners/$third-party
 ||lottoelite.com/banners/$third-party
 ||lowbird.com/random/$third-party
 ||lowcountrymarketplace.com/widgets/$third-party
@@ -994,6 +999,7 @@
 ||mcclatchyinteractive.com/creative/
 ||mdpcdn.com^*/gpt/
 ||media-toolbar.com^$third-party
+||media.complex.com/videos/prerolls/
 ||media.domainking.ng/media/$third-party
 ||media.enimgs.net/brand/files/escalatenetwork/
 ||media.myspace.com/play/*/featured-videos-$third-party
@@ -1061,6 +1067,7 @@
 ||mybdhost.com/imgv2/$third-party
 ||mydirtyhobby.com^$third-party,domain=~my-dirty-hobby.com|~mydirtyhobby.de
 ||mydownloader.net/banners/$third-party
+||myezbz.com/marketplace/widget/$third-party
 ||myfreepaysite.info^*.gif$third-party
 ||myfreeresources.com/getimg.php?$third-party
 ||myfreeshares.com/120x60b.gif
@@ -1169,6 +1176,7 @@
 ||player.screenwavemedia.com^*/ova-jw.swf$object-subrequest
 ||playfooty.tv/jojo.html
 ||plexidigest.com/plexidigest-300x300.jpg
+||plista.com/async.js$domain=mirror.co.uk
 ||plus.net/images/referrals/*_banner_$third-party
 ||pm.web.com^$third-party
 ||pokerjunkie.com/rss/
@@ -1245,7 +1253,7 @@
 ||regnow.com/vendor/
 ||rehost.to/?ref=
 ||relink.us/images/$third-party
-||rentalcars.com/affxml/$third-party
+||rentalcars.com/affxml/$domain=news-headlines.co.za
 ||res3.feedsportal.com^
 ||resources.heavenmedia.net/selection.php?
 ||revealads.appspot.com^
@@ -1368,18 +1376,18 @@
 ||stacksocial.com^*?aid=$third-party
 ||stalliongold.com/images/*x$third-party
 ||stargames.com/bridge.asp?$third-party
-||static.*.criteo.net/design^third-party
-||static.*.criteo.net/flash^third-party
-||static.*.criteo.net/images^third-party
-||static.*.criteo.net/js/duplo^third-party
-||static.criteo.com/design^third-party
-||static.criteo.com/flash^third-party
-||static.criteo.com/images^third-party
-||static.criteo.com/js/duplo^third-party
-||static.criteo.net/design^third-party
-||static.criteo.net/flash^third-party
-||static.criteo.net/images^third-party
-||static.criteo.net/js/duplo^third-party
+||static.*.criteo.net/design^$third-party
+||static.*.criteo.net/flash^$third-party
+||static.*.criteo.net/images^$third-party
+||static.*.criteo.net/js/duplo^$third-party
+||static.criteo.com/design^$third-party
+||static.criteo.com/flash^$third-party
+||static.criteo.com/images^$third-party
+||static.criteo.com/js/duplo^$third-party
+||static.criteo.net/design^$third-party
+||static.criteo.net/flash^$third-party
+||static.criteo.net/images^$third-party
+||static.criteo.net/js/duplo^$third-party
 ||static.multiplayuk.com/images/w/w-
 ||static.tradetracker.net^$third-party
 ||static.tumblr.com/dhqhfum/WgAn39721/cfh_header_banner_v2.jpg
@@ -1474,6 +1482,7 @@
 ||tremormedia.com/embed/js/*_ads.js
 ||tremormedia.com^*/tpacudeoplugin46.swf
 ||tremormedia.com^*_preroll_
+||trhnt.com/sx.tr.js
 ||trialfunder.com/banner/
 ||trialpay.com^*&dw-ptid=$third-party
 ||tribktla.files.wordpress.com/*-639x125-sponsorship.jpg?

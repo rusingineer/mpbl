@@ -1,4 +1,5 @@
 ! German
+||adc-srv.net/retargeting.php
 ||adm24.de/hp_counter/$third-party
 ||aftonbladet.se/trafikfonden/
 ||agitos.de/content/track?
@@ -251,7 +252,6 @@
 ||sohu.com/pvpb.gif?
 ||stat.ws.126.net^
 ||t.hypers.com.cn^
-||tanx.com/ex?
 ||tanx.com/t/tanxclick.js
 ||tanx.com/t/tanxcollect.js
 ||tns.simba.taobao.com^
@@ -413,6 +413,7 @@
 ||hitserver.ibope.com.br^
 ||jsuol.com/rm/clicklogger_
 ||lomadee.com/loc/$third-party
+||statig.com.br/pub/setCookie.js?
 ||terra.com.br/metrics/
 ||track.e7r.com.br^
 ||webstats.sapo.pt^
@@ -535,6 +536,7 @@
 ||stats.lnol.com.ar^
 ||stats.miarroba.info^
 ||track.bluecompany.cl^
+||tracker.lgcontent.cl^
 ! Swedish
 ||aftonbladet.se/blogportal/view/statistics?$third-party
 ||cis.schibsted.com^

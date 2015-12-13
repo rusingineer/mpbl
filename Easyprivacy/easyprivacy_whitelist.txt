@@ -1,11 +1,11 @@
 @@/cdn-cgi/pe/bag2?*geoiplookup$xmlhttprequest,domain=orain.org
-@@/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js$domain=amypink.de|cryptospot.me|droid-life.com|forwardprogressives.com|fpif.org|fullpotentialma.com|goldsday.com|is-arquitectura.es|mmanews.com|orain.org|xrussianteens.com|youngcons.com
+@@/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js$domain=amypink.de|biznews.com|cryptospot.me|droid-life.com|forwardprogressives.com|fpif.org|fullpotentialma.com|goldsday.com|imageupload.co.uk|is-arquitectura.es|mmanews.com|orain.org|unilad.co.uk|xrussianteens.com|youngcons.com
 @@/cdn-cgi/pe/bag2?*googleadservices.com$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*googlesyndication.com%2Fpagead%2Fosd.js$domain=forwardprogressives.com
 @@/cdn-cgi/pe/bag2?*histats.com$domain=xrussianteens.com
 @@/cdn-cgi/pe/bag2?*nr-data.net$domain=realhardwarereviews.com
 @@/cdn-cgi/pe/bag2?*piwik.js$domain=orain.org
-@@/cdn-cgi/pe/bag2?*scorecardresearch.com$xmlhttprequest,domain=amypink.de|droid-life.com|mmanews.com
+@@/cdn-cgi/pe/bag2?*scorecardresearch.com$xmlhttprequest,domain=amypink.de|droid-life.com|mmanews.com|unilad.co.uk
 @@/cdn-cgi/pe/bag2?*skimlinks.js$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs$domain=amazingpics.net
 @@/cdn-cgi/pe/bag2?*yieldbot.intent.js$domain=droid-life.com
@@ -169,6 +169,7 @@
 @@||eircomphonebook.ie/js/wt_capi.js?
 @@||eloqua.com/include/livevalidation_standalone.compressed.js$domain=pbs.org
 @@||eloqua.com/visitor/v200/svrgp.aspx?$domain=itworld.com|juniper.net
+@@||emjcd.com^$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@||ensighten.com/crossdomain.xml$object-subrequest
 @@||ensighten.com/libs/flowplayer/ensightenplugin.swf$object-subrequest
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|caranddriver.com|citizensbank.com|dell.com|homedepot.com|staples.com|target.com
@@ -204,6 +205,7 @@
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=m.flickr.com
 @@||geoplugin.net/javascript.gp$script,domain=christianhouseshare.com.au|gamemazing.com|soundsonline.com|support.netgear.com|support.netgear.de|support.netgear.es|support.netgear.fr|support.netgear.it|support.netgear.ru
 @@||geoplugin.net/json.gp?jsoncallback=$script,domain=worldc.am
+@@||georiot.com/snippet.js$domain=bound2hiphop.com
 @@||getclicky.com/ajax/marketshare?$script
 @@||getsmartcontent.com/gateway/?callback$domain=visitpa.com
 @@||getsmartcontent.com/gsc.js$domain=visitpa.com
@@ -283,9 +285,11 @@
 @@||loadus.exelator.com/load/?p=$script,domain=rrstar.com
 @@||localytics.com^*/localytics.min.js$domain=ciscospark.com|citymapper.com
 @@||logging.apache.org^
+@@||logmein.com/scripts/Tracking/Tracking.js
 @@||lp.longtailvideo.com/5/yourlytics/yourlytics-1.js$domain=indiedb.com|indieroyale.com|moddb.com
 @@||lsi.com^*/google-analytics.js
 @@||lufthansa.com^*/mmcore.js
+@@||luminate.com/order/$subdocument
 @@||lynda.com^*/px.gif?$image
 @@||magnify.net^*/magnify_stats.js
 @@||mail-www.baynote.net^$domain=mail.com
@@ -341,6 +345,7 @@
 @@||mycommunitynow.com/includes/JI_trafficTracking.js$domain=mycommunitynow.com
 @@||narf-archive.com^*/clickstream.js
 @@||nationaljournal.com/js/bizo.js
+@@||nationalreview.com^*/chartbeat.js
 @@||nationwide.co.uk/_/js/webAnalytics.js
 @@||ncbi.nlm.nih.gov/stat?
 @@||netdna-ssl.com/lib/jquery-google-analytics/jquery.google-analytics.js$domain=homepath.com
@@ -368,6 +373,7 @@
 @@||optimost.com/counter/*/event.js?$domain=bebo.com
 @@||optimost.com^*/content.js?$domain=bebo.com
 @@||optimost.com^*/FT_live.js$domain=ft.com
+@@||partner.googleadservices.com/gpt/pubads_impl_$domain=wired.com
 @@||pastebin.com/etc/geo.php?
 @@||patrick-wied.at/static/heatmapjs/src/heatmap.js
 @@||paypalobjects.com^*/opinionLab.js$domain=paypal.com
@@ -499,6 +505,8 @@
 @@||viamichelin.*/ntpagetag_vm.js
 @@||vice.com^*/vmp_analytics.js
 @@||videos.nbcolympics.com/beacon?$object-subrequest,domain=nbcolympics.com
+@@||vidible.tv^*/ComScore.StreamSense.js
+@@||vidible.tv^*/ComScore.Viewability.js
 @@||vidtech.cbsinteractive.com^*/AkamaiAnalytics.swf$domain=kuathletics.com|mutigers.com|okstate.com
 @@||view.atdmt.com^*/iview/$domain=starwoodhotels.com
 @@||view.atdmt.com^*/view/$domain=starwoodhotels.com

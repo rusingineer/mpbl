@@ -124,6 +124,37 @@ gmx.net,web.de##iframe[src^="https://www.facebook.com/plugins/like.php"]
 ||die-kopie.info/bilder/facebook.png
 ||nibelungenkurier.de/t-ticker/
 ||rtl.de/fb/
+! Specific hiding filters necessary for sites whitelisted with $generichide filter option
+! Spiegel.de
+spiegel.de##.social-bar
+! Focus.de
+focus.de##.socFbLikeShare
+focus.de##a[href="http://twitter.com/share"]
+! Specific blocking filters necessary for sites whitelisted with $genericblock filter option
+! Gamestar.de
+||facebook.com/plugins/like.php?$domain=gamestar.de
+||facebook.com^*/plugins/like.php?$domain=gamestar.de
+||google.com^*/fastbutton?$domain=gamestar.de
+||platform.twitter.com*/widgets/$domain=gamestar.de
+! Focus.de
+||assets.pinterest.com/js/pinit.js$domain=focus.de
+||facebook.com/plugins/like.php?$domain=focus.de
+||google.com^*/fastbutton?$domain=focus.de
+||pinterest.com/images/$domain=focus.de
+||platform.twitter.com/js/button.$domain=focus.de
+||xing-share.com^$domain=focus.de
+! tvspielfilm.de
+||facebook.com^*/plugins/like.php?$domain=tvspielfilm.de
+||google.com^*/fastbutton?$domain=tvspielfilm.de
+! Wetter.com
+/addthis_widget.$domain=wetter.com
+! Woxikon.de
+||facebook.com/plugins/likebox.php$domain=woxikon.de
+! Finanzen.net
+||facebook.com^*/plugins/like.php?$domain=finanzen.net
+||platform.twitter.com/js/button.$domain=finanzen.net
+! comunio.de
+||facebook.com/connect/connect.*connections$domain=comunio.de
 !
 !---------- Polish Site Specific Hiding Rules ----------
 !

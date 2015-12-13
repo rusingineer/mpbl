@@ -295,6 +295,7 @@
 -top-ad.
 -top-ads.
 -us/ads/
+-video-ads/
 -web-ad-
 -Web-Ad.
 -Web-Ads.
@@ -313,7 +314,11 @@
 .ad.json?
 .ad.page.
 .ad.premiere.
+.ad/content/
+.ad/positions/
 .ad/script/
+.ad/scripts/
+.ad/tag.
 .ad1.nspace
 .adbanner.
 .adbutler-
@@ -334,6 +339,7 @@
 .ads-lazy.
 .ads-min.
 .ads-tool.
+.ads.controller.
 .ads.core.
 .ads.css
 .ads.darla.
@@ -654,6 +660,8 @@
 /abnl/?narodads^
 /about-these-ads.
 /absolutebm.aspx?
+/abvAds_
+/AbvProductAds/*
 /acc_random=
 /active-ad-
 /ad%20banners/*
@@ -730,6 +738,7 @@
 /ad-logger/*
 /ad-manager/*
 /ad-managment/*
+/ad-maven-
 /ad-methods.
 /ad-minister-
 /ad-minister.
@@ -862,6 +871,7 @@
 /ad/leaderboard.
 /ad/listing-
 /ad/live-
+/ad/load.
 /ad/load_
 /ad/loading.
 /ad/log/*
@@ -1756,6 +1766,7 @@
 /adpop.
 /adpop32.
 /adpopup.
+/adPositions.
 /adpositionsizein-
 /AdPostInjectAsync.
 /adprime.
@@ -1933,6 +1944,7 @@
 /ads/click_
 /ads/cnvideo/*
 /ads/common/*
+/ads/configuration/*
 /ads/contextual.
 /ads/contextual_
 /ads/contextuallinks/*
@@ -1950,6 +1962,7 @@
 /ads/directory/*
 /ads/display/*
 /ads/displaytrust.
+/ads/elementViewability.
 /ads/empty.
 /ads/exit.
 /ads/fb-
@@ -2152,8 +2165,11 @@
 /ads468.
 /ads468x60.
 /ads468x60_
+/ads4j.
+/ads4n.
 /ads5.
 /ads5/*
+/ads5t.
 /ads6.
 /ads6/*
 /ads600-
@@ -2226,6 +2242,7 @@
 /ads_premium.
 /ads_pro/*
 /ads_r.
+/ads_redirect.
 /ads_reporting/*
 /ads_server_
 /ads_show_
@@ -2441,6 +2458,7 @@
 /adspeeler/*
 /adsplay.
 /Adsplex-
+/adsplupu.
 /adsponsor.
 /adspot.
 /adspot/*
@@ -2777,6 +2795,7 @@
 /advertisingbanner/*
 /advertisingbanner1.
 /advertisingbanner_
+/advertisingbutton.
 /advertisingcontent/*
 /advertisingimageexte/*
 /AdvertisingIsPresent6?
@@ -2847,6 +2866,7 @@
 /advtemplate/*
 /advtemplate_
 /advweb.
+/AdvWindow/*
 /advzones/*
 /adw.shtml
 /adw2.shtml
@@ -2916,6 +2936,7 @@
 /aff_ad?
 /aff_banners/*
 /aff_frame.
+/aff_i?offer_id=
 /affad?
 /affads/*
 /affbanner/*
@@ -3520,7 +3541,9 @@
 /dfp-custom/*
 /dfp.js
 /dfp/async.
+/dfp/blocks/*
 /dfp/dc.js
+/dfp/head/*
 /dfp/jquery.
 /dfp_ads/*
 /dfp_delivery.js
@@ -3558,6 +3581,7 @@
 /displayads2.
 /displayads3.
 /displayadsiframe.
+/displaybanner/*
 /div-ads.
 /divad/*
 /dlfeatads.
@@ -3637,6 +3661,7 @@
 /ems/ads.
 /en/ads/*
 /eng/ads/*
+/eplanningv4.
 /eporner-banner-
 /ept_in.php?
 /ero-1.
@@ -3823,6 +3848,7 @@
 /generateadtag.
 /generated/key.js?
 /generateplayerads.
+/generic.ads.
 /genericrichmediabannerad/*
 /geo-ads_
 /geo/ads.
@@ -4239,6 +4265,7 @@
 /javascript/ads/*
 /javascript/oas.
 /javascript/oas?
+/javascripts/ads.
 /javascripts/ads/*
 /jcorner.php?partner=
 /jitads.
@@ -4353,6 +4380,7 @@
 /linkedads/*
 /links_sponsored_
 /live_ad.
+/livead-
 /liveads.
 /livejasmin.
 /livejasmin/*&id=
@@ -4549,6 +4577,7 @@
 /nflads.
 /no_ads.
 /nonrotatingads/*
+/noodleAdFramed.
 /noticead.
 /nsfw/sponsors/*
 /nymag_ads.
@@ -4628,6 +4657,8 @@
 /ovt_show.asp?
 /ox/www/*
 /ox_ultimate/www/*
+/p2-header-ad-
+/p2-header-ad/*
 /p2/ads/*
 /p2ads/*
 /p8network.js
@@ -4700,6 +4731,7 @@
 /photo728ad.
 /photoad.
 /photoads/*
+/photoflipper/ads/*
 /photogallaryads.
 /php/ad/*
 /php/ads/*
@@ -4747,6 +4779,7 @@
 /pop-under.
 /pop.js|
 /pop2.js|
+/pop?tid=
 /pop_ad.
 /pop_adfy.
 /pop_camgirlcity.
@@ -4864,6 +4897,7 @@
 /pullads.
 /punder.js
 /punder.php
+/pushdownAd.
 /qandaads/*
 /qd_ads/*
 /qpon_big_ad
@@ -5348,6 +5382,7 @@
 /tableadnorth.
 /tag-adv.
 /tag_adv/*
+/tag_oas.
 /tag_sys.
 /tagadv_
 /talkads/*
@@ -5511,6 +5546,7 @@
 /upsellingads/*
 /us-ads.
 /usenext16.
+/user/ads?
 /user_ads/*
 /userad.
 /userad/*
@@ -5527,6 +5563,7 @@
 /valueclickvert.
 /vast_ads_
 /VASTAdPlugin.
+/vastads.
 /vb/ads/*
 /vboard/ads/*
 /vbvua.js
@@ -5550,6 +5587,7 @@
 /video_ad.
 /video_ad_
 /video_ads.
+/video_ads/*
 /videoad.
 /VideoAd/*
 /videoad_new.
@@ -5797,6 +5835,7 @@
 =half-page-ad&
 =iframe_adv&
 =js_ads&
+=oas_tag.
 =searchadslider|
 =showsearchgoogleads&
 =simpleads/
@@ -5816,6 +5855,7 @@
 ?adcontext=
 ?adCount=
 ?adflashid=
+?adformat=
 ?adfox_
 ?adloc=
 ?adlocation=
@@ -6237,6 +6277,7 @@ _gads_bottom.
 _gads_footer.
 _gads_top.
 _gallery_ads.
+_gallery_image_ads_$~stylesheet
 _genads/
 _generic_ad.
 _geobanner.
@@ -6414,6 +6455,7 @@ takeover_banner_
 ! Common adserver string
 /mediahosting.engine$script,third-party
 /Tag.eng$script,third-party
+/Tag.rb$script,third-party
 ! White papers insert
 /sl/assetlisting/?
 ! Peel script

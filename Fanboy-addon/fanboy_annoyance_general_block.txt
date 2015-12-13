@@ -142,6 +142,7 @@
 /newsletter-signup.
 /newslettericon2.
 /newslettersignup.
+/NewsletterSubscription.
 /no-right-click-images-plugin/*$script
 /norightclick.
 /nrelate-flyout/*$script
@@ -216,6 +217,7 @@
 /rssicon_
 /rssred.
 /sailthru-
+/sailthru/*
 /sc_rss.
 /sendtofriend.gif
 /share-email.
@@ -263,6 +265,7 @@ _social_rss.
 /plugin/banner/videos/*$subdocument
 ! Cookie Messages
 -cookie-banner-
+-cookie-filter/$script
 -cookie-law.js
 -cookie-message.js
 -cookie-msg-bar.
@@ -308,6 +311,7 @@ _social_rss.
 /cookie-bar.
 /cookie-compliance.
 /cookie-consent.
+/cookie-consent/*
 /cookie-control.
 /cookie-disclaimer.
 /cookie-disclaimer/*
@@ -363,6 +367,8 @@ _social_rss.
 /cookiecompliancy.
 /cookieConsent-
 /cookieconsent.
+/cookieconsent/*
+/cookieconsent_
 /cookiecontrol-
 /cookiecontrol.js
 /cookiecontroller.js
@@ -375,7 +381,7 @@ _social_rss.
 /CookieInfo.
 /cookieinfo/*$script
 /cookiejar/*
-/cookielaw.js
+/cookielaw.
 /cookielawinfo.
 /cookielex/*
 /cookiemanagement.js
@@ -411,6 +417,7 @@ _social_rss.
 /cookies_komunikat.
 /cookies_policy.js
 /Cookies_Pro/*
+/CookiesAgreement/*
 /cookiescontrol-
 /cookiesdisclaimer.
 /CookieSettingsManager?
@@ -418,6 +425,7 @@ _social_rss.
 /cookiespolicy.
 /cookiesPopup.
 /cookiewarning.
+/cookiewet.
 /divascookies_
 /dotbandeaucookie/*
 /ecookie_check/*
@@ -438,6 +446,7 @@ _social_rss.
 /eucookienotice.
 /eucookienotice_
 /eucookies.
+/eucookiesk.
 /eucookieslaw/*$script
 /EUCookieUtility.
 /fp_cookie.
@@ -470,6 +479,7 @@ _social_rss.
 /warnCookies.
 /widgets/cookies-
 /wkp_cookies.js
+/wp-cookie-allow/*$script
 _cookie_cnil.
 _cookie_compliance.
 _cookie_consent/
@@ -483,3 +493,4 @@ _cookies_disclosure/
 _cookiewarn.
 _eu_cookie_
 _eucookie_compliance_
+_europecookielaw.

@@ -586,8 +586,10 @@
 ||rek.www.wp.pl^
 ||squid.gazeta.pl/bdtrck/
 ||stats.teledyski.info^
+||wp.pl/?rid=
 ! Portuguese
 ||dejavu.mercadolivre.com.br^
+||iol.pt/js/analytics.js
 ||lancenet.com.br/pw.js
 ||log.r7.com^
 ||metrics.uol.com.br^
@@ -600,8 +602,11 @@
 ||uv.terra.com.br^
 ! Russian
 ||ad7.bigmir.net^
+||kiks.yandex.ru^
 ||kommersant.ru/a.asp?p=
+||mail.ru/count/
 ||mail.ru/counter?
+||montblanc.lenta.ru^
 ||rbc.ru/click?
 ||rbc.ru/count/
 ||rutube.ru/counters.html?
@@ -610,23 +615,28 @@
 ||stat.lenta.ru^
 ||stats.lifenews.ru^
 ||vedomosti.ru/boom?
+||yandex.ru/clck/
 ||yast.rutube.ru^
 ! Serbian
 ||trak-analytics.blic.rs^
 ! Slovene
 ||24ur.com/bin/player/?mod=statistics&
 ! Spanish
+||analytics.infobae.com^
+||coletor.terra.com^
 ||esmas.com/scripts/esmas_stats.js
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^
 ||fls-eu.amazon.es^
 ||hits.antena3.com^
 ||stats.milenio.com^
-||terra.com.mx/js/metricspar_end.js
+||t13.cl/hit/
+||terra.com.mx/js/metricspar_
 ||terra.com.mx^*/metrics_begin.js
 ||terra.com.mx^*/metrics_end.js
 ||terra.com/js/metrics/
 ||terra.com^*/td.asp?bstat
+||trrsf.com/metrics/
 ! Swedish
 ||analytics.codigo.se^
 ||beacon.mtgx.tv^
@@ -640,6 +650,100 @@
 ! Ukrainian
 |http://r.i.ua/s?
 ||at.ua/stat/
+||counter.ukr.net^
 ||hit.meta.ua^
+||meta.ua/c.asp?
 ||piccy.info/c?
 ||piccy.org.ua/c?
+||target.ukr.net^
+! Specific blocking filters necessary for sites whitelisted with $genericblock filter option
+! Spiegel.de
+/chartbeat.js$domain=spiegel.de
+/nm_trck.gif?$domain=spiegel.de
+||criteo.com^$domain=spiegel.de
+||google-analytics.com/analytics.js$domain=spiegel.de|veeseo.com
+||ioam.de/?$domain=spiegel.de
+||ioam.de/tx.io?$domain=spiegel.de
+||meetrics.net^$domain=spiegel.de
+||met.vgwort.de^$domain=spiegel.de
+||mxcdn.net^$domain=spiegel.de
+||tracking-rce.veeseo.com^$domain=veeseo.com
+||visualrevenue.com^$domain=spiegel.de
+! Gamestar.de
+/ping.gif?$domain=gamestar.de
+||gamestar.de/_misc/tracking/$domain=gamestar.de
+||google-analytics.com/analytics.js$domain=gamestar.de
+||googletagmanager.com/gtm.js?$third-party$domain=gamestar.de
+||ioam.de/tx.io?$domain=gamestar.de
+||scorecardresearch.com^$domain=gamestar.de
+! Focus.de
+/pagedot.gif?$domain=focus.de
+||clicktale.net^$domain=focus.de
+||googletagmanager.com^$domain=focus.de
+||ioam.de/tx.io?$domain=focus.de
+||krxd.net^$domain=focus.de
+||log.outbrain.com^$domain=focus.de
+||lp4.io^$domain=focus.de
+||met.vgwort.de^$domain=focus.de
+||optimizely.com^$domain=focus.de
+||scorecardresearch.com^$domain=outbrain.com
+||visualrevenue.com^$domain=focus.de
+||xplosion.de^$domain=focus.de
+! tvspielfilm.de
+||facebook.com/tr?$domain=tvspielfilm.de
+||googletagmanager.com/gtm.js?$domain=tvspielfilm.de
+||intelliad.de^$domain=tvspielfilm.de
+||ioam.de/?$domain=tvspielfilm.de
+||ioam.de/tx.io?$domain=tvspielfilm.de
+||vinsight.de^$domain=tvspielfilm.de
+! Prosieben
+||chartbeat.com^$domain=prosieben.at|prosieben.ch|prosieben.de
+||contentspread.net^$domain=prosieben.at|prosieben.ch|prosieben.de
+||google-analytics.com/analytics.js$domain=prosieben.at|prosieben.ch|prosieben.de
+||imrworldwide.com^$domain=prosieben.at|prosieben.ch|prosieben.de
+||movad.de/c.ount?$domain=prosieben.at|prosieben.ch|prosieben.de
+||nuggad.net^$domain=prosieben.at|prosieben.ch|prosieben.de
+||pixel.facebook.com^$domain=facebook.com
+||semasio.net^$domain=prosieben.at|prosieben.ch|prosieben.de
+||theadex.com^$domain=prosieben.at|prosieben.ch|prosieben.de
+||visualrevenue.com^$domain=prosieben.at|prosieben.ch|prosieben.de
+||webtrekk.net^$domain=prosieben.at|prosieben.ch|prosieben.de
+||xplosion.de^$domain=prosieben.at|prosieben.ch|prosieben.de
+! Wetter.com
+/__utm.gif?$domain=wetter.com
+/chartbeat.js$domain=wetter.com
+/piwik.$domain=wetter.com
+||ioam.de/tx.io?$domain=wetter.com
+||mouseflow.com^$domain=wetter.com
+||theadex.com^$domain=wetter.com
+||visualwebsiteoptimizer.com^$domain=wetter.com
+! Woxikon.de
+/__utm.gif$domain=woxikon.de
+||ioam.de/?$domain=woxikon.de
+||ioam.de/tx.io?$domain=woxikon.de
+! Fanfiktion.de
+||criteo.com^$domain=fanfiktion.de
+||google-analytics.com/analytics.js$domain=fanfiktion.de
+! Finanzen.net
+/__utm.gif?$domain=finanzen.net
+/ping.gif?$domain=finanzen.net
+||googleadservices.com^$domain=finanzen.net
+||googletagmanager.com^$domain=finanzen.net
+||ioam.de/?$domain=finanzen.net
+||ioam.de/tx.io?$domain=finanzen.net
+||newrelic.com^$domain=finanzen.net
+! boote-forum.de
+||google-analytics.com/analytics.js$domain=boote-forum.de
+! comunio.de
+||analytics.comunio.de^$domain=comunio.de
+||analytics.comunio.net^$domain=comunio.de
+||criteo.com^$domain=comunio.de
+||ioam.de/?$domain=comunio.de
+||ioam.de/tx.io?$domain=comunio.de
+||xplosion.de^$domain=comunio.de
+! planetsnow.de
+||google-analytics.com/analytics.js$domain=planetsnow.de
+||ioam.de/?$domain=planetsnow.de
+||ioam.de/tx.io?$domain=planetsnow.de
+||plista.com/iframeShowItem.php$domain=planetsnow.de
+||stroeerdigitalmedia.de^$domain=planetsnow.de

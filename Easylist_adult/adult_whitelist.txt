@@ -1,3 +1,6 @@
+@@/cdn-cgi/pe/bag2?r[]=*ads.exoclick.com$xmlhttprequest,domain=hd-porn.me
+@@/cdn-cgi/pe/bag2?r[]=*juicyads.com$xmlhttprequest,domain=glamourbabe.eu
+@@/cdn-cgi/pe/bag2?r[]=*popads.net$xmlhttprequest,domain=hd-porn.me
 @@||ad.thisav.com/player/config.xml$object-subrequest
 @@||ad.thisav.com/player/jw.swf
 @@||ads.fuckingmachines.com^$image,~third-party
@@ -160,11 +163,16 @@
 @@||phncdn.com/www-static/*/widgets-$script
 @@||phncdn.com/www-static/js/create-account.js?$script
 @@||phncdn.com/www-static/js/footer.js$script
+@@||phncdn.com/www-static/js/front-index.js?$script
 @@||phncdn.com/www-static/js/front-login.js$script
 @@||phncdn.com/www-static/js/gif-$script
+@@||phncdn.com/www-static/js/header-menu.js?$script
 @@||phncdn.com/www-static/js/header.js$script
 @@||phncdn.com/www-static/js/html5Player/$script
 @@||phncdn.com/www-static/js/lib/$script
+@@||phncdn.com/www-static/js/mg-modal.js$script
+@@||phncdn.com/www-static/js/mg-utils.js$script
+@@||phncdn.com/www-static/js/mg_flipbook-$script
 @@||phncdn.com/www-static/js/ph-footer.js$script
 @@||phncdn.com/www-static/js/ph-networkbar.js$script
 @@||phncdn.com/www-static/js/phub.$script
@@ -172,6 +180,7 @@
 @@||phncdn.com/www-static/js/pornstars.js?$script
 @@||phncdn.com/www-static/js/premium/$script
 @@||phncdn.com/www-static/js/profile/$script
+@@||phncdn.com/www-static/js/promo-banner.js$script
 @@||phncdn.com/www-static/js/quality-$script
 @@||phncdn.com/www-static/js/show_image.js?$script
 @@||phncdn.com/www-static/js/signin.js$script
@@ -220,6 +229,7 @@
 @@||pornhub.com/front/$xmlhttprequest
 @@||pornhub.com/gif/$xmlhttprequest
 @@||pornhub.com/insights/$image,xmlhttprequest
+@@||pornhub.com/oauth2/authorize?$popup
 @@||pornhub.com/pornstar/$xmlhttprequest
 @@||pornhub.com/pornstars/$xmlhttprequest
 @@||pornhub.com/premium/$xmlhttprequest
@@ -263,6 +273,7 @@
 @@||redtube.com/watched/$xmlhttprequest
 @@||redtubefiles.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||s7.addthis.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+@@||spankwire.phncdn.com^$image,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||static.tube8.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||tube8.com/_Incapsula_Resource?$image,subdocument,xmlhttprequest
 @@||tube8.com/ajax-$xmlhttprequest
@@ -282,13 +293,15 @@
 @@||youporn.com/esi_home/$xmlhttprequest
 @@||youporn.com/mycollections.json$xmlhttprequest
 @@||youporn.com/notifications/$xmlhttprequest
+@@||youporn.com/searchapi/$xmlhttprequest
 @@||youporn.com/subscriptions/$xmlhttprequest
+@@||youporn.com/watch/$xmlhttprequest
 @@||youporn.com/watch_postroll/$xmlhttprequest
 @@||youporn.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||youporngay.com/_Incapsula_Resource?$image,subdocument,xmlhttprequest
 ! Anti-Adblock
 @@.jpg#$domain=hellojav.com|hentaienespañol.net|palaotog.net
-@@.png#$domain=indiangilma.com|lfporn.com|thisav.com|you-fap.com|youngmodelsclub.net
+@@.png#$domain=indiangilma.com|lfporn.com|thisav.com|you-fap.com|youfreeporntube.com|youngmodelsclub.net
 @@||ad.thisav.com/player/swfobject.js
 @@||adultadworld.com/adhandler/$subdocument
 @@||desihoes.com/advertisement.js
@@ -317,6 +330,7 @@
 @@||n4mo.org/wp-content/*/ads/
 @@||n4mo.org^$elemhide
 @@||nightchan.com/advertisement.js
+@@||ooporn.com/ads.js
 @@||openload.io/Ads.png
 @@||palaotog.net^$elemhide
 @@||phncdn.com/js/advertisement.js
@@ -337,6 +351,7 @@
 @@||xibitnet.com/check/advertisement.js
 @@||xibitnet.com/check/advertisements.js
 @@||you-fap.com^$elemhide
+@@||youfreeporntube.com^$generichide
 @@||youngmodelsclub.net^$elemhide
 ! Non-English
 @@||ads.b10f.jp/flv/$~third-party

@@ -26,6 +26,7 @@
 @@||google.com/friendconnect/$script,domain=blogspot.com
 @@||hp.com^*/caas-privacy-cookie-$script
 @@||huffpost.com/images/social/benefits/signup/
+@@||indema.si/wp-content/plugins/cookie-law-info/js/cookielawinfo.js
 @@||inglenookproductions.com/css/website-disclaimer---cookies-policy.css
 @@||jamendo.com/images/libs/social/
 @@||klout.com/static/images/*icon
@@ -35,6 +36,7 @@
 @@||livefyre.com/site_media/images/auth/$image
 @@||makeuseoflimited.netdna-cdn.com/pages/*/images/social.png$domain=makeuseof.com
 @@||newsgator.com/ngbuzz/load.ashx/$script,domain=cbsnews.com
+@@||nova24tv.si^*/cookielawinfo.js
 @@||odnoklassniki.ru/share/odkl_share.js$domain=ivi.ru
 @@||outbrain.com/outbrain.js$domain=cnn.com|damnyouautocorrect.com|ninemsn.com.au
 @@||overkillsoftware.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js

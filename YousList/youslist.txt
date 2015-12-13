@@ -3,8 +3,8 @@
 ! License: https://github.com/yous/youslist#license
 ! Title: YousList
 ! Expires: 4 days
-! Checksum: Tzu2v2v3CzwvctwQoPEiHw
-! Version: 20151113
+! Checksum: QevjbaIkat77KeO9rYCXCw
+! Version: 20151210
 
 ! General element hiding rules
 ###banner_ad
@@ -30,7 +30,7 @@
 ~fnnews.com,~sports.news.naver.com##div[class$="_ad"]
 ##div[class$="_ads"]
 ##div[class^="AD_"]
-~daum.net,~donga.com,~sports.news.naver.com##div[class^="ad_"]
+~daum.net,~donga.com,~news.mk.co.kr,~sports.news.naver.com##div[class^="ad_"]
 ##div[class^="ads"]
 ##div[class^="imagead-"]
 ##div[id$="_AD"]
@@ -131,6 +131,7 @@
 ||ad.ad-ya.net^
 ||ad.ad4989.co.kr^
 ||ad.adinc.kr^
+||ad.adkova.com/media/
 ||ad.adlike.co.kr^
 ||ad.adnmore.co.kr^
 ||ad.adop.co.kr/mad/
@@ -315,6 +316,7 @@
 ||js.ad4989.co.kr/etc/tjtune/toast/m_common.js^
 ||js.ad4989.co.kr/etc/tjtune/toast/m_tost_common2.js^
 ||js.keywordsconnect.com^
+||js.theprimead.co.kr^
 ||js2.keywordsconnect.com^
 ||jshoppingbox.joinsmsn.com^
 ||khan.co.kr/ad/
@@ -357,6 +359,7 @@
 ||nate.com/main/srv/shop_11st/
 ||new.jshopbox.com/sbox/box/
 ||news.chosun.com/chosun/chosunad.html^
+||news.chosun.com/dhtm/js/art/*/cs_art_ad_*.js^
 ||news.chosun.com/dhtm/js/common/ad_news.js^
 ||news.hankooki.com/ad/
 ||news.hankooki.com/service/v04/frm_photoScroll.htm^
@@ -426,7 +429,10 @@
 ||sports.chosun.com/banner/subr/r_baseball.htm^
 ||sports.chosun.com/banner/subr/r_osearch.htm^
 ||sports.chosun.com/banner/subr/r_tv.htm^
+||sports.chosun.com/js/scrollBanner*.js^
+||sports.chosun.com/js2/popup_ad.js^
 ||sports.chosun.com/lphoto3.htm^
+||sports.chosun.com/news/sports_chosun_hns.js^
 ||sports.hankooki.com/ad/
 ||st.keywordsconnect.com^
 ||static.joinsmsn.com/common/ui/ad/
@@ -647,6 +653,7 @@ hani.co.kr##div[class^="hani-advertise"]
 hani.co.kr##iframe[src^="/section-adv/"]
 hankookilbo.com##div.article-ad-align-left
 hankookilbo.com##div.side-ad
+hankyung.com##aside.ad-top-wide
 hankyung.com##div#scrollDiv
 hankyung.com##div.adinfo
 hankyung.com##div.bizlink
@@ -660,6 +667,7 @@ hankyung.com##div.r_adinfo
 hankyung.com##div.r_adinfo_img
 hankyung.com##div.shoppingBox
 hankyung.com##div.todayProduct
+hankyung.com##div[class^="article-ad-"]
 hankyung.com##div[class^="r_adfrm"]
 hankyung.com##div[class^="viewRight_AD"]
 hankyung.com##iframe.viewTopAD
@@ -671,6 +679,8 @@ ibabynews.com##div#divContentBanner
 ibabynews.com##div.LeftDiv>div[style="zoom:1; border:1px solid #DDD; height:150px; padding-top:10px;"]
 ibabynews.com##div.TopDiv>div[style="position:absolute; top: 40px; right:0px; width:230px; height:55px;"]
 ibabynews.com##div.TotalDiv>div[style="right: 50%; margin-right: 500px; top:110px; position:absolute; z-index:3; width:85px ; height:140px; text-align:center"]
+insight.co.kr##div.masthead-adv
+insight.co.kr##div.specific>div[style="display: inline-block;width: 300px;height: 300px;margin-bottom: 20px;"]
 instiz.net##div#sidead
 instiz.net##div#sidead2
 instiz.net##div.board_img_foot
@@ -700,6 +710,7 @@ joinsmsn.com##div#shopping_area
 joinsmsn.com##div#shoppingnews
 joinsmsn.com##div.brandtext_area
 joinsmsn.com##div[class$="ad_link_area"]
+joongang.joins.com##div[data-widget-type="Ad"]
 joongdo.co.kr##div#id_header_R
 joynews.inews24.com##iframe[name^="rollingFrameTop"]
 kookje.co.kr##div#bnr_newsmiddleArea
@@ -791,6 +802,9 @@ news.hankooki.com##div[id^="adText"]
 news.inews24.com##div#divrightbiz
 news.inews24.com##div.main_top_banner
 news.inews24.com##iframe#ifrmTopTotal
+news.joins.com##div#criteo_network
+news.joins.com##div.ab_adtxt
+news.joins.com##div[data-widget-type="Ad"]
 news.jtbc.joins.com##div.ad
 news.jtbc.joins.com##div.articleadnetworkbanner
 news.jtbc.joins.com##div.netizen_link_area
@@ -818,6 +832,7 @@ news.kukinews.com##div.bnr_370_60
 news.kukinews.com##div.vw_ad_700
 news.maxmovie.com##ul.news_right_ad
 news.mk.co.kr##div#viewShopDiv
+news.mk.co.kr##div.ad_viewrolling
 news.mk.co.kr##div.container_left>table>tbody>tr>td>table[style="margin-bottom:30px"]
 news.mt.co.kr##div#banner_big
 news.mt.co.kr##div#mjDiv
@@ -931,7 +946,13 @@ sisainlive.com##td#articleBody>table[align="right"][width="320"][height="265"]
 skyscanner.co.kr##div.mpu-advert
 sportalkorea.com##div#topAdBox
 sportalkorea.com##p.ad_240
+sports.chosun.com##div#rad
+sports.chosun.com##div.bn
+sports.chosun.com##div.f_ad2
 sports.chosun.com##div.f_ad3
+sports.chosun.com##div.fly_ad02
+sports.chosun.com##div.gisa_banner
+sports.chosun.com##div.thum8_box
 sports.chosun.com##div.top_banner
 sports.chosun.com##p.ad
 sports.chosun.com##p.m_btn
@@ -949,6 +970,8 @@ sports.khan.co.kr##div[class="subAside view"]>iframe[src^="http://adv.khan.co.kr
 sports.mk.co.kr##div[id^="slidemenu"]
 sports.mk.co.kr##iframe[id^="sptb_"]
 sports.mk.co.kr##iframe[id^="spttb_"]
+sportsseoul.com##div#aside>div[style="width:250px;height:60px;"]
+sportsseoul.com##div#article_viewWrap>div[style="margin-bottom:20px;width: 100%; height: 23px;font-family:맑은 고딕,Malgun Gothic,굴림; font-size:16px; font-weight:bold; padding-top:5px;"]
 sportsseoul.com##iframe[src^="http://ad1.sportsseoul.com/"]
 stackoverflow.com##div#adviza-box
 star.mk.co.kr##div#top_ad_area

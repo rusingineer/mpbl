@@ -6,6 +6,8 @@
 @@||addicted-sports.com/piwik/piwik.js
 @@||alternate.de/js/emos2.js
 @@||analytics.edgesuite.net/html5/akamaihtml5-min.js?$domain=ardmediathek.de
+@@||belboon.de/adtracking/$subdocument,domain=gutscheindoktor.de|preis-vergleich.tv|preismafia.com
+@@||belboon.de/clickout.php?$subdocument,domain=preis-vergleich.tv
 @@||billiger.de/js/emos2.js
 @@||btstatic.com/tag.js$domain=oralb.de
 @@||classistatic.de^*/hitcounter.js$domain=mobile.de
@@ -14,6 +16,7 @@
 @@||count.rtl.de/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||css.ch/stats/tracker.js?$xmlhttprequest
 @@||cxense.com/cx.js$domain=tagesanzeiger.ch
+@@||darmstadt.ui-traffic.de/mobile/webapp/bower_components/heatmap.js$domain=darmstadt.ui-traffic.de
 @@||eltern.de/min.php?*/clickTracking.js
 @@||email.1und1.de/appsuite/api/*/1and1_integration/tracking/tracking.js$domain=email.1und1.de
 @@||getgoods.de^*/emstrack.js
@@ -160,6 +163,7 @@
 @@||player.flix.co.il/scripts/GoogleAnalytics.js
 @@||stats.g.doubleclick.net/dc.js$domain=reshet.tv
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
+@@||trc.taboola.com/inncoil/log/3/available$subdocument,domain=inn.co.il
 ! Italian
 @@||adobetag.com/d2/telecomitalia/live/Aggregato119TIM.js$domain=tim.it
 @@||androidgalaxys.net/wp-content/plugins/*/google-analyticator/$script

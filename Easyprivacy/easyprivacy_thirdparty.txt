@@ -40,6 +40,7 @@
 ||88.208.248.58/tracking/
 ||93.93.53.198^$third-party,domain=~awempire.ip
 ||99widgets.com/counters/
+||9fine.ru/js/counter.
 ||9msn.com.au^*/tracking/
 ||a.mobify.com^$third-party
 ||a.unanimis.co.uk^
@@ -123,6 +124,7 @@
 ||amazonaws.com/wgntrk/
 ||amazonaws.com^*.kissinsights.com/
 ||amazonaws.com^*.kissmetrics.com/
+||amazonaws.com^*/track.js$domain=hitfix.com
 ||amplifypixel.outbrain.com^
 ||ams.addflow.ru^
 ||an.yandex.ru^
@@ -505,6 +507,7 @@
 ||dfdbz2tdq3k01.cloudfront.net^
 ||dialglobal.com^*/Log.aspx?
 ||digimedia.com/pageviews.php?
+||digitalgov.gov/Universal-Federated-Analytics-Min.js
 ||directnews.co.uk/feedtrack/
 ||dirt.dennis.co.uk^
 ||discoverymail.com/a/*/spacer.gif
@@ -690,7 +693,6 @@
 ||i-stats.ieurop.net^
 ||i.s-microsoft.com/wedcs/ms.js
 ||icbdr.com/images/pixel.gif
-||identity.newscdn.com.au^
 ||ihstats.cloudapp.net^$third-party
 ||imagedoll.com^$subdocument,third-party
 ||imagepix.okoshechka.net^*/?sid=
@@ -811,6 +813,7 @@
 ||logger.logidea.info^
 ||logger.sociablelabs.com^
 ||loggingapi.spingo.com^
+||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.vmixcore.com^
 ||logssl.enquisite.com^
@@ -832,6 +835,7 @@
 ||magnify360-cdn.s3.amazonaws.com^
 ||mail-app.com/pvtracker/
 ||mail.ebay.com/img/*.gif
+||mail.ru/k?
 ||mailmax.co.nz/login/open.php$third-party
 ||manager.tagcommander.com/utils/privacyHit.php?$third-party
 ||mandrillapp.com/track/
@@ -862,6 +866,7 @@
 ||metrics.brightcove.com^
 ||metrics.chmedia.com^
 ||metrics.ctvdigital.net^
+||metrics.el-mundo.net^
 ||metrics.feedroom.com^
 ||metrics.loomia.com^
 ||metrics.scribblelive.com^
@@ -932,6 +937,7 @@
 ||oogala.com/impression.php?
 ||ooyala.com/3rdparty/comscore_
 ||ooyala.com/authorized?analytics
+||ooyala.com/sas/analytics?
 ||ooyala.com/verify?
 ||ooyala.com^*/report?log
 ||open.delivery.net^
@@ -956,6 +962,8 @@
 ||passport.pfn.bz^
 ||paypal.com^*/pixel.gif$third-party
 ||paypalobjects.com^*/pixel.gif
+||pcrl.co/js/jstracker.min.js
+||petitionermaster.appspot.com^
 ||pf.aclst.com^$third-party
 ||pg.buzzfeed.com^
 ||phncdn.com/js/ssig_helper.js
@@ -975,6 +983,7 @@
 ||pix.impdesk.com^
 ||pix.speedbit.com^$third-party
 ||pixel.colorupmedia.com^
+||pixel.condenastdigital.com^
 ||pixel.fanbridge.com^
 ||pixel.indieclicktv.com/annonymous/
 ||pixel.newscred.com^
@@ -1020,6 +1029,7 @@
 ||pswec.com/px/$third-party
 ||pt.crossmediaservices.com^
 ||ptsc.shoplocal.com^
+||pub.sheknows.com^
 ||publicbroadcasting.net/analytics/
 ||publish.pizzazzemail.com^$third-party
 ||purevideo.com^*/pvshim.gif?
@@ -1140,6 +1150,7 @@
 ||stat.ed.cupidplc.com^
 ||stat.itp-nyc.com^
 ||stat.php-d.com^
+||stat.pladform.ru^
 ||stat.segitek.hu^
 ||stat.to.cupidplc.com^$third-party
 ||stat.web-regie.com^
@@ -1153,6 +1164,7 @@
 ||statm.the-adult-company.com^
 ||stats-newyork1.bloxcms.com^
 ||stats.24.com^
+||stats.adm-vids.com^
 ||stats.big-boards.com^
 ||stats.bitgravity.com^
 ||stats.bluebillywig.com^
@@ -1293,6 +1305,7 @@
 ||track.gridlockparadise.com^
 ||track.juno.com^
 ||track.leadin.com^
+||track.linksynergy.com^$third-party
 ||track.mybloglog.com^
 ||track.mycliplister.com^
 ||track.omg2.com^
@@ -1531,6 +1544,7 @@
 ||yellowbrix.com/images/content/cimage.gif?
 ||yellowpages.com^*.gif?tid$third-party
 ||yext.com/plpixel?
+||yimg.com/wi/ytc.js
 ||yimg.com^*/l?ig=$image
 ||yospace.com/csm/analytics;
 ||ypcdn.com/*/webyp?
