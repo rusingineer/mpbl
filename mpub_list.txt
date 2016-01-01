@@ -1,5 +1,6 @@
-﻿!  Title: Makani Private Block List
-!  Last Modified: Wed, 16 Dec 2015 18:00:00 +0400
+﻿[Adblock Plus 2.0]
+!  Title: Makani Private Block List
+!  Last Modified: Fri, 1 Jan 2016 14:00:00 +0400
 ! Homepage: https://github.com/rusingineer/mpbl
 !  This is a private list,
 !  will not provide any technical support
@@ -60900,7 +60901,7 @@ http://utm.
 /ping.gif?$domain=gamestar.de
 ||gamestar.de/_misc/tracking/$domain=gamestar.de
 ||google-analytics.com/analytics.js$domain=gamestar.de
-||googletagmanager.com/gtm.js?$third-party$domain=gamestar.de
+||googletagmanager.com/gtm.js?$third-party,$domain=gamestar.de
 ||ioam.de/tx.io?$domain=gamestar.de
 ||scorecardresearch.com^$domain=gamestar.de
 ! Focus.de
@@ -81072,3 +81073,6 @@ fark.com,marketplace.firefox.com#@#img[title="YouTube"]
 ||ad.doubleclick.net
 ||ad.de.doubleclick.net
 ||googlesyndication.com
+googleadservices.com^$script
+googletagservices.com/tag/js/gpt.js
+googletagservices.com/tag/js/gpt_mobile.js

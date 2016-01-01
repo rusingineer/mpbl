@@ -1,7 +1,7 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private Block List Incremental Update
-!  Last Modified: Wed, 16 Dec 2015 18:00:00 +0400
-!
+!  Last Modified: Fri, 1 Jan 2016 14:00:00 +0400
+! Homepage: https://github.com/rusingineer/mpbl
 !  This is a private list,
 !  will not provide any technical support
 !  Russian support of https://github.com/rusingineer/mpbl
@@ -89,13 +89,13 @@ domertb.com/81/0e51b98/089e80d6f6.js
 forum.adult-torrent.com/90k6u4gfifw6xorvykgu1g11uez0omdx
 hopilos.com/static/tds.js
 coolsor.ru/862o44246cf660zh5tkr9wvlx8fbvit
-code.ahahahah.ru/include/region.php/?id=*
-dirtix.com/i.php?id=*
+code.ahahahah.ru/include/region.php/
+dirtix.com/i.php
 vdevkah.com/f9db6e.js
-i.lichenz.ru/v/*
+i.lichenz.ru/v/^
 cyku.su/a75ddc.js
 skratche.com/js/main.js
-joomla.ru/images/banners/kisa-314x314.swf*
+joomla.ru/images/banners/kisa-314x314.swf
 advertom.com/34hb/77/d91b24.js
 advertom.com/f5m7c23a51e4357/f940a094.js
 advertom.com/d9xde10f339/1a190.js
@@ -132,12 +132,6 @@ c.labadon.com^$script
 ddomb.com^$third-party
 olizyr.com^$script
 cdn.hgdat.com^$script
-pagead2.googlesyndication.com^$script
-pubads.g.doubleclick.net^$script
-securepubads.g.doubleclick.net^$script
-partner.googleadservices.com^$script
-googletagservices.com/tag/js/gpt.js
-googletagservices.com/tag/js/gpt_mobile.js
 recreativ.ru^$script
 rarenok.biz^$script
 lepubs.com^$script
@@ -153,7 +147,6 @@ videoseed.ru^$script
 n161adserv.com
 rtcontrol.ru
 zxrtn.com/js/^$script
-v.vxqpomwum.pw/v/^$script
 go.mail.ru###js-kb-col-right > .rb_banner
 cdn.savage.nu^$script
 cdn-rtb.sape.ru^$script
@@ -178,17 +171,21 @@ fpmef.com^$script
 newsriver.net/load/^$script
 byuop.com/inc/angular.js
 nyyed.com^$script
-nvjqm.com^$script
 v.qpovpaways.pw^$script
 bjpwv.com^$script
 vogorana.ru/rotator/^$script
 xawab.com^$script
 v.vxqpomwum.pw^$script
 ayjvb.com/js/
-v.ksdnf.com
 v.cmsat.space
 ||nuvs2.kordonivkakino.net^$script
 ||t.thor-media.ru/ldr.js
 vcnnz.com/js/
 ||p.uocux.com/s/
 v.ckpvz.space
+bannersold.eu/tizer.php^$script
+asd.bvyvk.space
+sontere.com
+aintes.com
+excalatom.com
+carveac.com
