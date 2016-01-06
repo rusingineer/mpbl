@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private Block List Incremental Update
-!  Last Modified: Fri, 1 Jan 2016 14:00:00 +0400
+!  Last Modified: Thu, 7 Jan 2016 00:00:00 +0400
 ! Homepage: https://github.com/rusingineer/mpbl
 !  This is a private list,
 !  will not provide any technical support
@@ -189,3 +189,9 @@ sontere.com
 aintes.com
 excalatom.com
 carveac.com
+fix.sex-empire.tv
+ts.film-adult.com
+###dle-content > .cs-style-4.grid1
+russian-mwd.ddns.net^$important
+yyuin.com/js/
+||anyorigin.com^$third-party
