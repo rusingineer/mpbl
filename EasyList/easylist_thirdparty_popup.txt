@@ -19,12 +19,13 @@
 ||casino.com^*?*=$popup,third-party
 ||casinoadviser.net^$popup
 ||cdn.optmd.com^$popup,third-party
+||cdnfarm18.com^$popup,third-party
 ||chatlivejasmin.net^$popup
 ||chatulfetelor.net/$popup
 ||chaturbate.com/affiliates/$popup,third-party
-||click.aliexpress.com^$popup,third-party
 ||click.scour.com^$popup,third-party
 ||clickansave.net^$popup,third-party
+||coolguruji.com/l.php?$popup
 ||ctcautobody.com^$popup,third-party
 ||d1110e4.se^$popup
 ||dateoffer.net/?s=*&subid=$popup,third-party
@@ -50,6 +51,7 @@
 ||hdvid-codec.com^$popup
 ||hdvidcodecs.com^$popup
 ||hetu.in^$popup,third-party
+||hmn-net.com^*/xdirect/$popup,third-party
 ||homemadecelebrityporn.com/track/$popup,third-party
 ||house-rent.us^$popup,third-party
 ||hyperlinksecure.com/back?token=$popup
@@ -90,6 +92,7 @@
 ||rackcorp.com^$popup
 ||record.sportsbetaffiliates.com.au^$popup,third-party
 ||red-tube.com/popunder/$popup
+||reviversoft.com^*&utm_source=$popup,third-party
 ||rocketgames.com^$popup,third-party
 ||roomkey.com/referrals?$popup,third-party
 ||secure.komli.com^$popup,third-party
@@ -103,7 +106,9 @@
 ||stargames.com/web/*&cid=*&pid=$popup,third-party
 ||sunmaker.com^*^a_aid^$popup,third-party
 ||thebestbookies.com^$popup,third-party
+||thefile.me/apu.php$popup
 ||theseforums.com^*/?ref=$popup
+||thesportstream.com^$popup,domain=sportcategory.org
 ||thetraderinpajamas.com^$popup,third-party
 ||tipico.com^*?affiliateid=$popup,third-party
 ||torntv-tvv.org^$popup,third-party
@@ -112,6 +117,7 @@
 ||tripadvisor.*/HotelLander?$popup,third-party
 ||truckingunlimited.com^$popup,domain=sharpfile.com
 ||ul.to/ref/$popup
+||unlimited-tv.show^$popup,third-party
 ||upbcd.info/vuze/$popup
 ||uploaded.net/ref/$popup
 ||urlcash.net/random*.php$popup

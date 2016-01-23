@@ -41,6 +41,7 @@
 ||a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com^
 ||a1channel.net/img/downloadbtn2.png
 ||a1channel.net/img/watch_now.gif
+||aadvertismentt.com^$subdocument
 ||abacast.com/banner/
 ||ablacrack.com/popup-pvd.js$third-party
 ||ad.23blogs.com^$third-party
@@ -104,6 +105,8 @@
 ||adr-*.vindicosuite.com^
 ||ads.dynamicyield.com^$third-party
 ||ads.mp.mydas.mobi^
+||ads.tremorhub.com^
+||adsales.snidigital.com^
 ||adscaspion.appspot.com^
 ||adserv.legitreviews.com^$third-party
 ||adsrv.eacdn.com^$third-party
@@ -151,6 +154,7 @@
 ||akamaihd.net^*/web/pdk/swf/freewheel.swf?$third-party
 ||alexa.com^*/promotebuttons/
 ||algart.net*_banner_$third-party
+||algovid.com/player/get_player_vasts?
 ||allposters.com^*/banners/
 ||allsend.com/public/assets/images/
 ||alluremedia.com.au^*/campaigns/
@@ -178,8 +182,6 @@
 ||amazonaws.com/streetpulse/ads/
 ||amazonaws.com/widgets.youcompare.com.au/
 ||amazonaws.com/youpop/
-||amazonaws.com^*&dontMissWithoutHeader=$script,domain=ndtv.com
-||amazonaws.com^*=taboola-$script,domain=ndtv.com
 ||analytics.disneyinternational.com^
 ||ancestrydata.com/widget.html?$domain=findagrave.com
 ||angelbc.com/clients/*/banners/$third-party
@@ -322,6 +324,7 @@
 ||buy.com^*/affiliate/
 ||buyhatke.com/widgetBack/
 ||buyt.in/api?widgets=$script,third-party
+||buzina.xyz^$script
 ||buzznet.com^*/showpping-banner-$third-party
 ||byzoo.org/script/tu*.js
 ||c.netu.tv^
@@ -390,6 +393,8 @@
 ||cloudfront.net/st.js
 ||cloudfront.net/tie.js
 ||cloudfront.net^$script,domain=extremetech.com
+||cloudfront.net^*ad$domain=fiaformulae.com
+||cloudfront.net^*banner$domain=fiaformulae.com
 ||cloudzer.net/ref/
 ||cloudzer.net^*/banner/$third-party
 ||cngroup.co.uk/service/creative/
@@ -399,6 +404,7 @@
 ||colmwynne.com^$image,third-party
 ||colorlabsproject.com^*/banner_
 ||complexmedianetwork.com/cdn/agenda.complex.com/$domain=~complex.com
+||complexmedianetwork.com/js/cmnUNT.js
 ||comx-computers.co.za/banners/$third-party
 ||conduit.com//banners/$third-party
 ||connect.summit.co.uk^
@@ -435,6 +441,7 @@
 ||d19972r8wdpby8.cloudfront.net^
 ||d1ade4ciw4bqyc.cloudfront.net^
 ||d1cl1sqtf3o420.cloudfront.net^
+||d1d43ayl08oaq2.cloudfront.net^
 ||d1d95giojjkirt.cloudfront.net^
 ||d1ep3cn6qx0l3z.cloudfront.net^
 ||d1ey3fksimezm4.cloudfront.net^
@@ -451,12 +458,14 @@
 ||d23guct4biwna6.cloudfront.net^
 ||d23nyyb6dc29z6.cloudfront.net^
 ||d25ruj6ht8bs1.cloudfront.net^
+||d25xkbr68qqtcn.cloudfront.net^
 ||d26dzd2k67we08.cloudfront.net^
 ||d26j9bp9bq4uhd.cloudfront.net^
 ||d26wy0pxd3qqpv.cloudfront.net^
 ||d27jt7xr4fq3e8.cloudfront.net^
 ||d287x05ve9a63s.cloudfront.net^
 ||d29r6igjpnoykg.cloudfront.net^
+||d2a0bnlkc0czvp.cloudfront.net^$domain=~gowatchit.com
 ||d2anfhdgjxf8s1.cloudfront.net^
 ||d2b2x1ywompm1b.cloudfront.net^
 ||d2b65ihpmocv7w.cloudfront.net^
@@ -482,6 +491,7 @@
 ||d2tgev5wuprbqq.cloudfront.net^
 ||d2tnimpzlb191i.cloudfront.net^
 ||d2ubicnllnnszy.cloudfront.net^
+||d2ue9k1rhsumed.cloudfront.net^
 ||d2v4glj2m8yzg5.cloudfront.net^
 ||d2v9ajh2eysdau.cloudfront.net^
 ||d2vt6q0n0iy66w.cloudfront.net^
@@ -620,6 +630,7 @@
 ||ectaco-store.com^*/promo.jsp?
 ||edge.viagogo.co.uk^*/widget.ashx?$third-party
 ||edgecastcdn.net^*.barstoolsports.com/wp-content/banners/
+||eharmony.com.au/partner/$third-party
 ||eholidayfinder.com/images/logo.gif$third-party
 ||elenasmodels.com/cache/cb_$third-party
 ||elitsearch.com^$subdocument,third-party
@@ -801,6 +812,7 @@
 ||hitleap.com/assets/banner-
 ||hitleap.com/assets/banner.png
 ||hm-sat.de/b.php
+||homad-global-configs.schneevonmorgen.com^
 ||hostdime.com/images/affiliate/$third-party
 ||hostgator.com/~affiliat/cgi-bin/affiliates/$third-party
 ||hosting.conduit.com^$third-party
@@ -818,6 +830,7 @@
 ||hyipregulate.com/images/hyipregulatebanner.gif
 ||hyperfbtraffic.com/images/graphicsbanners/
 ||hyperscale.com/images/adh_button.jpg
+||i.ligatus.com/*-placements/$third-party
 ||i.lsimg.net^*/sides_clickable.
 ||i.lsimg.net^*/takeover/
 ||ibsrv.net/sidetiles/125x125/
@@ -905,6 +918,7 @@
 ||kaango.com/fecustomwidgetdisplay?
 ||kallout.com^*.php?id=
 ||kaltura.com^*/vastPlugin.swf$third-party
+||kbnetworkz.s3.amazonaws.com^
 ||keep2share.cc/images/i/00468x0060-
 ||keyword-winner.com/demo/images/
 ||king.com^*/banners/
@@ -1098,11 +1112,13 @@
 ||newware.net/home/banner$third-party
 ||newware.net/home/newware-sm.png$third-party
 ||nimblecommerce.com/widget.action?
+||nitroflare.com/img/banners/
 ||nitropdf.com/graphics/promo/$third-party
 ||nlsl.about.com/img?$third-party
 ||nocookie.net^*/wikiasearchads.js
 ||novadune.com^$third-party
 ||nster.com/tpl/this/js/popnster.js
+||ntnd.net^*/store-buttons/
 ||nude.mk/images/$third-party
 ||numb.hotshare.biz^$third-party
 ||nwadealpiggy.com/widgets/
@@ -1295,7 +1311,9 @@
 ||scribol.com/txwidget$third-party
 ||searchportal.information.com/?$third-party
 ||secondspin.com/twcontent/
+||secretmedia.s3.amazonaws.com^
 ||securep2p.com^$subdocument,third-party
+||secureserver.net^*/event?
 ||secureupload.eu/banners/
 ||seedboxco.net/*.swf$third-party
 ||seedsman.com/affiliate/$third-party
@@ -1408,6 +1426,7 @@
 ||supersport.com/content/Sponsors
 ||supply.upjers.com^$third-party
 ||surf100sites.com/images/banner_
+||survey.g.doubleclick.net^
 ||surveymonkey.com/jspop.aspx?$third-party
 ||surveywriter.net^$script,third-party
 ||survivaltop50.com/wp-content/uploads/*/Survival215x150Link.png
@@ -1460,6 +1479,7 @@
 ||tmbattle.com/images/promo_
 ||tmz.vo.llnwd.net^*_rightrail_200x987.swf
 ||todaysfinder.com^$subdocument,third-party
+||toksnn.com/ads/
 ||tonefuse.s3.amazonaws.com/clientjs/
 ||top5result.com/promo/
 ||topbinaryaffiliates.ck-cdn.com^$third-party
@@ -1639,7 +1659,7 @@
 ||zapads.zapak.com^
 ||zazzle.com/utl/getpanel$third-party
 ||zazzle.com^*?rf$third-party
-||zergnet.com/zerg.js$third-party
+||zergnet.com^$third-party
 ||zeus.qj.net^
 ||zeusfiles.com/promo/
 ||ziffdavisenterprise.com/contextclicks/
@@ -1653,3 +1673,6 @@
 ||iadc.qwapi.com^
 ! Anti-Adblock
 ||chronophotographie.science^$third-party
+||croix.science^$third-party
+||d1nmk7iw7hajjn.cloudfront.net^
+||d3ujids68p6xmq.cloudfront.net^

@@ -20,6 +20,7 @@
 ||conservativepost.com/pu/$popup
 ||damoh.muzu.tv^$popup
 ||deb.gs^*?ref=$popup
+||eafyfsuh.net^*/?name=$popup
 ||edomz.com/re.php?mid=$popup
 ||exashare.com^*&h=$popup,~third-party
 ||f-picture.net/Misc/JumpClick?$popup
@@ -69,6 +70,7 @@
 ||oddschecker.com/clickout.htm?type=takeover-$popup
 ||pamaradio.com^$popup,domain=secureupload.eu
 ||park.above.com^$popup
+||pasted.co/reds/first.php$popup
 ||photo4sell.com^$popup,domain=filmovizija.com
 ||plarium.com/play/*adCampaign=$popup
 ||playhd.eu/test$popup
@@ -87,6 +89,7 @@
 ||subs4free.com/_pop_link.php$popup
 ||thebestbookies.com^$popup,domain=fırstrowsports.eu
 ||thesource.com/magicshave/$popup
+||thevideo.me/mpa/$popup
 ||thevideo.me/script/$popup
 ||titanbrowser.com^$popup,domain=amaderforum.com
 ||titanshare.to/download-extern.php?type=*&n=$popup

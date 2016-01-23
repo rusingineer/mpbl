@@ -50,6 +50,7 @@
 ||info.elba.at^$third-party
 ||insene.de/tag/$third-party
 ||ioam.de/?
+||ioam.de/aid.io?
 ||ioam.de/tx.io?
 ||ivw.discover-outdoor.de^
 ||ivw.dumontreise.de^
@@ -143,6 +144,7 @@
 ||uni-duesseldorf.de/cgi-bin/nph-count?
 ||uni-leipzig.de^*/stats/
 ||veeseo.com^*/url.gif?
+||veeseo.com^*/view/$image
 ||vertical-n.de/scripts/*/immer_oben.js
 ||verticalnetwork.de/scripts/*/immer_oben.js
 ||vtrtl.de^
@@ -260,7 +262,6 @@
 ||tracking.cat898.com^
 ||traffic.bokecc.com^
 ||v.emedia.cn^
-||webterren.com/webdig.js?
 ||yigouw.com/c.js
 ! Croatian
 ||tracking.vid4u.org^
@@ -280,6 +281,7 @@
 ||wee.dk/modules/$third-party
 ||wwwportal.dk/statistik.php
 ! Dutch
+||95.211.106.41^$third-party,domain=~538group.ip
 ||analytics.belgacom.be^
 ||bbvms.com/zone/js/zonestats.js
 ||c.pebblemedia.be^
@@ -327,8 +329,8 @@
 ||eageweb.com/count.php?
 ||eageweb.com/count2.php?
 ||eageweb.com/stats.php
+||evnt.iol.it^
 ||fcstats.altervista.org^$third-party
-||forebase.com/r.gif?
 ||gazzettaobjects.it^*/tracking/
 ||glomera.com/stats
 ||httdev.it/e/c?
@@ -341,6 +343,7 @@
 ||nanostats.nanopress.it^
 ||net-parade.it/tracker/
 ||noicattolici.it/x_visite/
+||plug.it/tracks/
 ||plug.it^*/tracking_
 ||quinet.it/counter/
 ||rcsmetrics.it^
@@ -353,6 +356,7 @@
 ||stats.itsol.it^
 ||stats.rcsobjects.it^
 ||stats.technopia.it^
+||stats2.*.fdnames.com^
 ||top100.mrwebmaster.it^
 ||top100.tuttoperinternet.it^
 ||tr.bt.matrixspa.it^
@@ -399,6 +403,7 @@
 ||top.dating.lt^$third-party
 ||top.dkd.lt^$third-party
 ! Norwegian
+||engage-cdn.schibsted.media^
 ||webhit.snd.no^
 ! Polish
 ||cafenews.pl/mpl/static/static.js?
@@ -521,6 +526,10 @@
 ||yandex.ru/metrika/
 ||zahodi-ka.ru/ic/index_cnt.fcgi?
 ||zahodi-ka.ru^*/schet.cgi?
+! Serbian
+||clk.onet.pl^
+||csr.onet.pl^
+||events.ocdn.eu^
 ! Slovak
 ||stat.ringier.sk^
 ! Slovene

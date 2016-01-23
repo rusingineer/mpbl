@@ -94,6 +94,7 @@
 ||econda-monitor.de^$third-party
 ||edococounter.de^$third-party
 ||edtp.de^$third-party
+||emetriq.de^$third-party
 ||erotikcounter.org^$third-party
 ||etracker.de^$third-party
 ||etracking24.de^$third-party
@@ -304,7 +305,6 @@
 ||countus.fr^$third-party
 ||deliv.lexpress.fr^$third-party
 ||edt02.net^$third-party
-||email-match.com^$third-party
 ||emailretargeting.com^$third-party
 ||estat.com^$third-party
 ||ezakus.net^$third-party
@@ -312,7 +312,6 @@
 ||geocompteur.com^$third-party
 ||goyavelab.com^$third-party
 ||graphinsider.com^$third-party
-||hit-parade.com^$third-party
 ||kameleoon.com^$third-party
 ||leadium.com^$third-party
 ||libstat.com^$third-party
@@ -320,9 +319,11 @@
 ||mastertag.effiliation.com^$third-party
 ||megast.at^$third-party
 ||mmtro.com^$third-party
+||ncdnprorogeraie.lol^$third-party
 ||netquattro.com/stats/
 ||ownpage.fr^$third-party
 ||reseau-pub.com^$third-party
+||semiocast.com^$third-party
 ||stats.fr^$third-party
 ||titag.com^$third-party
 ||tnsinternet.be^$third-party
@@ -373,7 +374,6 @@
 ||users.51.la^$third-party
 ||vamaker.com^$third-party
 ||vdoing.com^$third-party
-||wrating.com^$third-party
 ||yigao.com^$third-party
 ||zampda.net^$third-party
 ||ztcadx.com^$third-party
@@ -446,6 +446,7 @@
 ||avstat.it^$third-party
 ||contatoreaccessi.com^$third-party
 ||cuntador.com^$third-party
+||digital-metric.com^$third-party
 ||freecounter.it^$third-party
 ||freestat.ws^$third-party
 ||freestats.biz^$third-party
@@ -627,7 +628,6 @@
 ||toptracker.ru^$third-party
 ||uarating.com^$third-party
 ||uptolike.com^$third-party
-||uralweb.ru^$third-party
 ||uzrating.com^$third-party
 ||vidigital.ru^$third-party
 ||vira.ru^$third-party
@@ -668,7 +668,6 @@
 ||research-int.se^$third-party
 ||spklw.com^$third-party
 ||webserviceaward.com^$third-party
-||webstat.se^$third-party
 ! Thai
 ||d-stats.com^$third-party
 ||tracker.stats.in.th^$third-party
@@ -684,7 +683,6 @@
 ||zirve100.com^$third-party
 ! Ukranian
 |http://r.i.ua^$third-party
-||c.hit.ua^$third-party
 ||mycounter.com.ua^$third-party
 ||mycounter.ua^$third-party
 ||uapoisk.net^$third-party

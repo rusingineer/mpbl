@@ -17,6 +17,7 @@
 /addtogoogle.
 /addtomyyahoo4.
 /altClickToSearch.
+/app-banner/*$xmlhttprequest
 /arscode-ninja-popups/*$~stylesheet
 /base/rss-
 /bloglines.gif
@@ -36,6 +37,7 @@
 /dealsaver/widget/*
 /disablerightclick.
 /downloads.mailchimp.com/*
+/dreamgrow-scroll-triggered-box/*$script
 /dsv_video_bar.
 /email-icon-
 /email_30.
@@ -147,6 +149,7 @@
 /norightclick.
 /nrelate-flyout/*$script
 /onlineopinionV5/*
+/opinionlab/*
 /outbrain?
 /plugins/dynamic-to-top/*
 /plugins/flattr/*
@@ -159,6 +162,7 @@
 /plugins/wp-emailfeedburnerpop/*
 /plugins/wp-greet-box/*$~stylesheet
 /popup_do_
+/popupally-pro-scripts/*$script
 /public/*/rss_
 /recommend.php$subdocument,~third-party
 /recommendations-widget/*
@@ -265,6 +269,7 @@ _social_rss.
 /plugin/banner/videos/*$subdocument
 ! Cookie Messages
 -cookie-banner-
+-cookie-cnil.
 -cookie-filter/$script
 -cookie-law.js
 -cookie-message.js
@@ -294,7 +299,9 @@ _social_rss.
 .EuCookieCompliance.
 .fscookieconsent.
 /__cookie_js.php
+/ac_cookiesvalidation/*
 /acceptCookies.
+/amCookieApproval.
 /angular-cookies-
 /asesor-cookies-
 /aws-cookie/*
@@ -336,6 +343,7 @@ _social_rss.
 /cookie.response.
 /cookie/policy-
 /cookie_alert*.js
+/cookie_banner.
 /cookie_consent/*
 /cookie_consent_
 /cookie_law.js
@@ -390,6 +398,7 @@ _social_rss.
 /cookiemonster.mg
 /cookieMonster.min.js
 /cookiemsg.
+/cookienotice.
 /cookienotice/*$script
 /cookieNotification.
 /cookieok.js
@@ -402,6 +411,7 @@ _social_rss.
 /cookiepopup?
 /CookiePrompter-
 /CookieReportsDisclaimer.
+/cookies-compliant.
 /cookies-directive.
 /cookies-disclaimer.
 /cookies-enabler.

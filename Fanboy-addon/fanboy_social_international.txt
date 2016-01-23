@@ -233,6 +233,7 @@ blogs.dhnet.be##a[target="_blank"][href^="https://www.facebook.com/pages/"] > im
 !
 !---------- Spanish/Portuguese Site Specific Hiding Rules ----------
 !
+baixaki.com.br###bxkapp
 soychile.cl###facebook
 yamaha-motor.com.br##.barra-midias
 starmedia.com##.fbk
@@ -262,7 +263,7 @@ advicegroup.it##.google
 corriere.it##.player-email-ctn
 ilsecoloxix.it,ilsole24ore.com##.share
 ilsole24ore.com##.share-elements
-||gds.it/abbonamenti/img/diventa-fan.gif
+@@||gds.it.cdn-immedia.net/img/share/
 !
 !---------- Korean Site Specific Hiding Rules ----------
 !

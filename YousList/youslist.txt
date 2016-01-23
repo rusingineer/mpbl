@@ -3,8 +3,8 @@
 ! License: https://github.com/yous/youslist#license
 ! Title: YousList
 ! Expires: 4 days
-! Checksum: QevjbaIkat77KeO9rYCXCw
-! Version: 20151210
+! Checksum: 5podS8ROyhSQ3dogYN2eGg
+! Version: 20160122
 
 ! General element hiding rules
 ###banner_ad
@@ -119,6 +119,8 @@
 ||115.68.75.10/banner_*.php^
 ||211.234.119.116/pront/default.asp^
 ||218.153.11.175^
+||a.tribalfusion.com/displayAd.js^
+||a.tribalfusion.com/j.ad^
 ||a.wyzmob.com^
 ||a1.ationnet.co.kr/a01/
 ||a1.dp25.kr^
@@ -196,6 +198,7 @@
 ||ads.gamemeca.com^
 ||ads.mangouni.com/mad/
 ||ads.mncmedia.co.kr^
+||ads.pubmatic.com/AdServer/js/showad.js^
 ||ads.rubiconproject.com/ad/
 ||ads.tlvmedia.com^
 ||ads.yahoo.com^
@@ -203,6 +206,7 @@
 ||ads2.contentabc.com/ads^
 ||ads3.adinc.co.kr^
 ||adserve.postrelease.com/init.js^
+||adserver.adtechus.com^
 ||adserver.sbtrustmedia.com^
 ||adserver.uniqube.tv^
 ||adsvc2.wisenut.co.kr^
@@ -229,6 +233,7 @@
 ||bizon.kr/bizon_ad/
 ||bohumlife.edaily.co.kr/iframe_starin.html^
 ||bs.serving-sys.com/BurstingPipe/adServer.bs^
+||c.betrad.com/surly.js^
 ||cache.ssend.microad.jp/js/adfunnel-sp-load.js^
 ||cad.donga.com/netBanners/
 ||cadvv.heraldm.com/hb/imad/
@@ -236,6 +241,7 @@
 ||cas.criteo.com/delivery/ajs.php^
 ||castbox.shopping.naver.com/index.nhn^
 ||cdn.c-team.jp/tags/dokojs/ad*.js^
+||cdn.carbonads.com/carbon.js^
 ||cdn03.sndkorea.co.kr^
 ||cdn04.sndkorea.co.kr^
 ||celeb.nann.co.kr^
@@ -250,6 +256,7 @@
 ||cwdata.itplay.co.kr/ol/
 ||cwdata.itsearch.co.kr^
 ||cwstatic.heraldm.com/adcont/
+||d.adroll.com^
 ||d.pixiv.org/show^
 ||daily.hankooki.com/ad/
 ||dgate.*/hc.aspx^
@@ -266,6 +273,7 @@
 ||etnews.com/ek_js/detail_ad_combinepop.js^
 ||eto.co.kr/Data/Xml/localuser/adv/
 ||eto.co.kr/adv/
+||event.liveg.co.kr/banner/*.gif^
 ||event.mtoon.com/banner/*.gif^
 ||ex.mdtoday.co.kr^
 ||exttag.about.co.kr/cgi-bin/PellicanC.dll^
@@ -304,6 +312,8 @@
 ||img.sportsseoul.com/ad/
 ||img2.keywordsconnect.com/iconAdImg*.gif^
 ||inven.co.kr/ad/
+||inven.co.kr/common/lib/js/ad.slot.js^
+||inven.co.kr/common/lib/js/adns.js^
 ||ir-na.amazon-adsystem.com/s/ads-common.js^
 ||jjanglive.com/flash/AdShowClient.swf^
 ||jjanglive.com/flash/webClient.swf^
@@ -315,6 +325,7 @@
 ||js.ad4989.co.kr/etc/tjtune/float/float_common2.js^
 ||js.ad4989.co.kr/etc/tjtune/toast/m_common.js^
 ||js.ad4989.co.kr/etc/tjtune/toast/m_tost_common2.js^
+||js.ad4989.co.kr/etc/tjtune/under/under_photo.js^
 ||js.keywordsconnect.com^
 ||js.theprimead.co.kr^
 ||js2.keywordsconnect.com^
@@ -382,6 +393,7 @@
 ||npian.com/nbox/ad*.swf^
 ||nscreen.neoebiz.co.kr/xJqScreen.php^
 ||nson.encock.com/media/
+||nv*.veta.naver.com/dr^
 ||nws.lumieyes.com/show*/media/
 ||ojsimg.ohmynews.com/*_ad_rolling.htm^
 ||op.mmnneo.com/banner.widget.asp^
@@ -779,6 +791,8 @@ nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-t
 nate.com##div#shopLoading
 nate.com##iframe#ifrShopping
 naver.com##div#promotion2
+naver.com##div#veta_branding
+naver.com##div#veta_top
 news.chosun.com##div#TopBanner
 news.chosun.com##div#right_topic
 news.chosun.com##div.art_ad_aside
@@ -902,6 +916,7 @@ pann.nate.com##div#psypannAd
 pann.nate.com##div.sidebar.ad
 pann.nate.com##div.sidebar_banner
 pann.nate.com##div.view_banner
+pastebin.com##iframe[id^="tfasyncframe_"]
 pixiv.net##div.cool-ad-footer
 pixiv.net##span.multi-ads-area
 ppomppu.co.kr##div#emart_banner
@@ -1075,6 +1090,8 @@ ytn.co.kr##div.YTN_CSA_headline>div>div[style="clear:both;width:;648px;height:14
 ytn.co.kr##div[class^="ad"]
 ytn.co.kr##div[class^="sub_adbox"]
 ytn.co.kr##ul[class^="adnew"]
+zangsisi.net##body>center
+zangsisi.net##div.fixed-top
 zdnet.co.kr##div#lAdContainer
 zdnet.co.kr##div#main_right_Floating_banner
 zdnet.co.kr##div.ad

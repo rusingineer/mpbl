@@ -17,15 +17,18 @@
 /ad132m/*$popup
 /ad_pop.php?$popup
 /adclick.$popup
+/adClick/*$popup
 /AdHandler.aspx?$popup
 /ads.htm$popup
 /adServe/sa?cid=$popup
 /adserver.$popup
 /adstream_sx.ads/*$popup
+/adsxml.php$popup
 /adsynserveuserid=$popup
 /advlink.$popup
 /afu.php?$popup
 /bani/index.php?id=$popup
+/fp.eng?$popup
 /fp.engine?$popup,third-party
 /lr.php?zoneid=$popup
 /popout.$popup
@@ -37,6 +40,7 @@
 /realmedia/ads/*$popup
 /Redirect.eng?$popup
 /Redirect.engine$popup
+/Redirect.rb?$popup
 /redirect.spark?$popup,third-party
 /rotator.php?$popup
 /servlet/ajrotator/*$popup

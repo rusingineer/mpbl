@@ -88,6 +88,7 @@
 ||allvoices.com/track_page
 ||alot.com/js/tracking.js
 ||alot.com/tb/cookiewriter.php?
+||amazon.*/uedata/
 ||amazon.com/clog/
 ||amazon.com/gp/forum/email/tracking?
 ||amazon.com/gp/yourstore/recs/
@@ -121,6 +122,7 @@
 ||analytics.upworthy.com^
 ||analytics.us.archive.org^
 ||analytics.wetpaint.me^
+||analytics.whatculture.com^
 ||analytics.yahoo.com^
 ||analyze.yahooapis.com^
 ||analyzer52.fc2.com^
@@ -149,6 +151,7 @@
 ||appspot.com/tracking/
 ||archive.org/static/js/analytics.js
 ||armystudyguide.com/hqxapi/it?
+||arstechnica.co.uk/services/incr.php?stats$xmlhttprequest
 ||arstechnica.com/*.ars$object
 ||arstechnica.com/dragons/breath.gif
 ||arstechnica.com/services/incr.php?stats$xmlhttprequest
@@ -337,6 +340,7 @@
 ||charter.com/static/scripts/mock/tracking.js
 ||cheapflights.com/ic/*.gif?
 ||cheapsalesconsulting.com/adaptive.php?
+||cheezburger.com/api/visitor
 ||chelseafc.com^*/tracking.js
 ||china.com/statistic.js
 ||china.com^*/endpage_footer.js
@@ -346,6 +350,7 @@
 ||christianpost.com/count.php?
 ||chron.com/javascript/cider/
 ||chud.com/community/p/
+||chunk.bustle.com^
 ||ciao.co.uk/flextag/
 ||cjtube.com/tp/*.php
 ||cl.expedia.com^
@@ -392,6 +397,7 @@
 ||collector.shopstream.co^
 ||collector.statowl.com^
 ||collector.tescocompare.com^
+||collector.trendmd.com^
 ||collegehumor.com/track.php?
 ||commentarymagazine.com^*/track.asp?
 ||commercialappeal.com/metrics/
@@ -411,6 +417,7 @@
 ||count.rin.ru^
 ||counter.entertainmentwise.com^
 ||counter.promodeejay.net^
+||counter.sina.com.cn^
 ||counter.theconversation.edu.au^
 ||coupons.com/pmm.asp
 ||courierpress.com/metrics/
@@ -539,6 +546,7 @@
 ||epinions.com/js/triggerParams.js
 ||eporner.com/stats/
 ||es.puritan.com^
+||espncdn.com^*.tracking.js
 ||esupport.com/ea/analyze.js
 ||esure.com/cgi-bin/rr.cgi/images/blank.gif?
 ||et.nytimes.com^
@@ -551,6 +559,7 @@
 ||everythinggirl.com/assets/tracker/
 ||evisit.exeter.ac.uk^
 ||eweek.com/hqxapi/
+||ex.ua/counter/
 ||exalead.com/search/pixel-ref/
 ||examiner.com/sites/all/modules/custom/ex_stats/
 ||exchangeandmart.co.uk/js/ga.js
@@ -561,6 +570,7 @@
 ||expdb2.msn.com^
 ||experiandirect.com/javascripts/tracking.js
 ||experts-exchange.com/pageloaded.jsp?
+||extremetech.com/sac/mostclicked/$script
 ||extremetech.com^*/ga.js
 ||ez.no/statjs/
 ||ezinearticles.com/blank/
@@ -572,6 +582,7 @@
 ||facebook.com/ct.php
 ||facebook.com/friends/requests/log_impressions
 ||facebook.com/search/web/instrumentation.php?
+||facebook.com^*/impression_logging/
 ||fanfiction.net/eye/
 ||fanhow.com/script/tracker.js
 ||fantasticfiction.co.uk/cgi-bin/checker.cgi
@@ -587,6 +598,8 @@
 ||fc2.com/ana/
 ||fc2.com/ana2/
 ||fc2.com/analyze.js
+||fc2.com/counter.php?
+||fc2.com/counter_img.php?
 ||fccbrea.org/javascript/stats.js
 ||feedburner.com/~r/
 ||feeds.feedblitz.com/~/i/
@@ -647,6 +660,7 @@
 ||furk.net/counter.yadro.ru/
 ||fwmrm.net^*/AnalyticsExtension.
 ||g.msn.com^
+||g.techweekeurope.co.uk^
 ||g2a-com.newsletter.com.pl^$image,third-party
 ||ga.canoe.ca^
 ||gaiaonline.com/internal/mkt_t.php?
@@ -695,6 +709,7 @@
 ||giffgaff.com/r/?id=
 ||giganews.com/images/rpp.gif
 ||gigya.com/js/gigyaGAIntegration.js
+||github.com/_private/browser/stats
 ||github.com/_stats
 ||gizmodo.com/at.js.php
 ||gizmodo.com^*/trackers.html
@@ -726,6 +741,7 @@
 ||google.com^*/dlpageping?
 ||google.com^*/log?
 ||google.com^*/urchin_post.js
+||google.com^*/viewerimpressions?
 ||googlelabs.com/log/
 ||gorillanation.com^*/flowplayer.ganalytics.swf
 ||gosanangelo.com/metrics/
@@ -933,6 +949,7 @@
 ||linkbucks.com/clean.aspx?task=record$image
 ||linkbucks.com/track/
 ||linkedin.com/analytics/
+||linkedin.com/mob/tracking
 ||linkedin.com^*/tracker.gif?
 ||linkpuls.idg.no^
 ||linuxtoday.com/hqxapi/
@@ -956,6 +973,7 @@
 ||log.optimizely.com^
 ||log.player.cntv.cn/stat.html?
 ||log.vdn.apps.cntv.cn^
+||logger-*.dailymotion.com^
 ||logger.dailymotion.com^
 ||loggingservices.tribune.com^
 ||loglady.publicbroadcasting.net^
@@ -976,6 +994,7 @@
 ||mailer.atlassian.com/open.aspx?
 ||mailings.gmx.net/action/view/$image
 ||malibubright.com/krtrk/
+||mansion.com/collect.js?
 ||manta.com/sbb?
 ||maps.nokia.com^*/tracking.c.js
 ||marketing.kalahari.net^
@@ -1042,6 +1061,7 @@
 ||moneysupermarket.com^*/ProphetInsert.js
 ||monitor.co.ug/analytics/
 ||monkeyquest.com/monkeyquest/static/js/ga.js
+||monova.org/js/ga.js
 ||monstercrawler.com/__kl.gif
 ||mortgage101.com/tracking/
 ||mov-world.net/counter/
@@ -1147,6 +1167,7 @@
 ||nymag.com/js/2/metrony
 ||nymag.com^*/analytics.js
 ||nyse.com^*/stats/
+||nysun.com/tracker.js
 ||nyt.com/js/mtr.js
 ||nytimes.com/?url*&referrer$script
 ||nytimes.com/js/mtr.js
@@ -1264,6 +1285,7 @@
 ||pokernews.com/track-views.php?
 ||polity.org.za/count.php?
 ||popcap.com^*/interstitial_zones.js
+||porndoo.com/lib/ajax/track.php
 ||potterybarn.com/pbimgs/*/external/thirdparty.js
 ||potterybarnkids.com/pkimgs/*/external/thirdparty.js
 ||pound.buzzfeed.com^
@@ -1373,6 +1395,7 @@
 ||ro89.com/hitme.php?
 ||roadandtrack.com^*/RTdartSite.js
 ||rok.com.com^
+||roll.bankofamerica.com^
 ||rottentomatoes.com/tracking/
 ||rover.ebay.$image,object,script
 ||rover.ebay.com.au^*&cguid=
@@ -1628,7 +1651,7 @@
 ||targetspot.com/track/
 ||tarot.com/stats/
 ||tck.bangbros.com^
-||tcog.news.com.au^
+||tcog.news.com.au^$~xmlhttprequest
 ||tcpalm.com/metrics/
 ||tdwaterhouse.ca/includes/javascript/rtesurvey.js
 ||tdwaterhouse.co.uk^*/track.js
@@ -1649,6 +1672,7 @@
 ||thefashionspot.com^*/pb.track.js
 ||thefilter.com^*/CaptureRest.ashx?cmd=
 ||thefind.com/page/sizelog?
+||thefreedictionary.com/x/tp.ashx
 ||thefreedictionary.com^*/track.ashx?
 ||thefrisky.com/?act=
 ||thegameslist.com/wb/t.gif
@@ -1695,6 +1719,7 @@
 ||tqn.com/px/?
 ||tracelog.www.alibaba.com^
 ||tracer.perezhilton.com^
+||track.briskfile.com^
 ||track.catalogs.com^
 ||track.cbs.com^
 ||track.codepen.io^
@@ -1708,6 +1733,7 @@
 ||track.ning.com^
 ||track.pushbullet.com^
 ||track.slideshare.net^
+||track.webgains.com^
 ||track.websiteceo.com^
 ||track.wildblue.com^
 ||track.zalando.
@@ -1738,7 +1764,6 @@
 ||tracking.koego.com^
 ||tracking.military.com^
 ||tracking.moneyam.com^
-||tracking.muzu.tv^
 ||tracking.mycapture.com^
 ||tracking.olx-st.com^
 ||tracking.olx.com^
@@ -1751,7 +1776,6 @@
 ||tracking.ukwm.co.uk^
 ||tracking.unrealengine.com^
 ||tracking.ustream.tv^
-||tracking.we7.com^
 ||tracking.yourfilehost.com^
 ||trackpm.shop2market.com^
 ||trade-it.co.uk/counter/
@@ -1973,6 +1997,7 @@
 ||xhamster.com/cnt.php?
 ||xhcdn.com/js/analytics.js?
 ||xhcdn.com/js/track.min.js?
+||xing.com/collect/
 ||xnxx.com/in.php?referer
 ||yahoo.com/__perf_log_
 ||yahoo.com/_td_api/beacon/
@@ -2101,6 +2126,7 @@
 ||sltrib.com/csp/mediapool/sites/Shared/assets/csp/includes/omniture/SiteCatalystCode_H_17.js
 ||ssl-images-amazon.com^*/wcs-help-omniture-$script
 ||timeinc.net/tii/omniture/h/config/timesi.js$domain=si.com
+||vitacost.com/Javascripts/s_code.js
 ||vmware.com/files/templates/inc/s_code_my.js
 ||westernunion.*/_globalAssets/js/omniture/AppMeasurement.js
 ||wp.com/wp-content/themes/vip/metrouk/js/site-catalyst.js$domain=metro.co.uk

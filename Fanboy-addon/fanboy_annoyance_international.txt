@@ -57,12 +57,17 @@ gmx.net###slideBox
 helpster.de###videoFlyin
 stern.de##.fixedHomeLink
 focus.de##.fixed_home_link
+kleiderkreisel.de##.js-notification
 cushmanwakefield.de##.m-warning
 ifun.de,iphone-ticker.de##.mail
 spiegel.de##.sticky-home-link
 hannovermesse.de##.user-notes-notification
 ||focus.de/fol/pics/special/informiert.gif
 ||plista.com^$third-party
+!
+!---------- Hungary Site Generic Hiding Rules ----------
+!
+decathlon.co.hu###cookie
 !
 !---------- Polish Site Generic Hiding Rules ----------
 !
@@ -98,13 +103,17 @@ webelite.pl###infobar
 gsmonline.pl###jGrowl
 wydawca.com.pl###kuki
 tripolo.pl###miastoszkolen
+redbullmobile.pl###more1
 mondeoklubpolska.pl###navbar_notice_12
 lovekrakow.pl###new-policy
+dolce-gusto.pl###nimgrowler
 radiomerkury.pl###privacyPolicyBox
 totalmoney.pl###right_widget
 di.com.pl###slidebox
 gornikzabrze.pl###sliding-popup
 filmweb.pl###topBar
+mikos.com.pl,negrasport.pl###topInfoContainer0
+negrasport.pl###topInfoContainer1
 goldenline.pl###topReminder
 skapiec.pl###uclaInfo
 votepush.com##.alert
@@ -150,6 +159,7 @@ nyt.fi###next-teaser
 k-citymarket.fi,k-market.fi##.Pbox-sm
 americanairlines.fi,pizza-online.fi##.alert
 sonera.fi##.attention-notice
+ilmainensanakirja.fi##.cookies
 lacajachina.fi##.cp-curtain-container
 !
 !---------- Dutch Site Specific Hiding Rules ----------
@@ -207,8 +217,10 @@ canalplus.fr###bandeau_fb
 ruralidays.fr,serveto.com###barraaceptacion
 letelegramme.fr###barre_top_secondaire
 franceantilles.fr###bloc_rebond
+habitatpresto.com###block-news
 e-leclerc.com###bt_demo
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
+zdnet.fr###catfish
 francetvsport.fr,pourquoidocteur.fr###cboxOverlay
 centerblog.net###centerbl
 pagesjaunes.fr###cgu
@@ -237,6 +249,8 @@ lequipe.fr###rebonds
 ###sf-minisite-toolbar
 gentside.com###signup-holder
 boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###sliding-popup
+groupon.fr###spotlight
+groupon.fr###subscribe_modal_container
 nwglobalvending.fr###toast
 lequipe.fr###toasterQuoti
 lequipe.fr###toolbar
@@ -251,13 +265,14 @@ lesnumeriques.com##.alert
 20minutes.fr##.alerts_container
 rtl.fr##.article-mail-form
 mnt.fr##.banner
-commentcamarche.net,journaldesfemmes.com,journaldunet.com,linternaute.com##.ccmcss_oic
+commentcamarche.net,jeux-gratuits.com,journaldesfemmes.com,journaldunet.com,linternaute.com##.ccmcss_oic
 pmu.fr,regionguadeloupe.fr##.cnil
 aso.fr##.confidentialite
 rueducommerce.fr##.confidentialite_header
 aquellefrequence.fr,midilibre.fr,migreat.fr,sudouest.fr##.cookie
-118000.fr,communauto.com##.cookies
+118000.fr,communauto.com,ouestjob.com##.cookies
 jeuxvideo.fr##.fb-overlay
+tupperware.fr##.floating
 mercialys.fr##.info-top
 vinted.fr##.js-notification
 lesechos.fr##.liennavigation
@@ -306,6 +321,7 @@ rtl.be##div[style^="display: block; position: fixed; bottom: 0px;"]
 ###MensajeCompruebaCookieSite > div:first-child
 record.xl.pt###MenuDinamico
 record.xl.pt###apDiv2
+linux-party.com###avisolegal
 diariolibre.com###bannerRight4
 eleconomista.es###barra-nav
 colorobbia.pt###barraaceptacion
@@ -322,6 +338,7 @@ iubenda.com###iubenda-cs-banner
 sapo.pt###redesSociais
 terra.es###trr-root
 lavozdegalicia.es##.alert
+winphonemetro.com##.c_i_container
 metalomarao.pt##.cookies
 soychile.cl##.overli
 nh-hoteles.pt##.politicaRewards
@@ -342,6 +359,7 @@ enel.it###contenitoredisclaimer
 !
 virgilio.it###bottom_chat
 ilgiornale.it,virgilio.it###bottombar
+grandecinema3.it###mask
 gazzetta.it###multifunctionBar-container
 repubblica.it###related
 virgilio.it###shr_box

@@ -36,7 +36,7 @@
 ||buttons.googlesyndication.com^$third-party,domain=~google.com
 ||buttons.reddit.com^$third-party
 ||buzzbuttons.com^$third-party
-||buzzfeed.com^$third-party
+||buzzfeed.com^$third-party,domain=~stumbleupon.com
 ||cdn.wibiya.com^$script
 ||centup.org^$third-party
 ||cloudfront.net/*/facebook.png
@@ -169,6 +169,7 @@
 ||shopsocially.com^$third-party
 ||shpg.org^$third-party
 ||smartaddon.com/share_addon.js
+||social9.com^$third-party
 ||socialannex.com^$third-party
 ||socialhoney.co/widget/
 ||socialmarker.com^$third-party

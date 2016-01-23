@@ -18,6 +18,7 @@
 @@||adobe.com^*/delicious.png$domain=adobe.com
 @@||akamaihd.net/media/client/Components/FollowButton*.js$domain=rdio.com
 @@||akamaihd.net/media/client/Components/ShareButton*.js$domain=rdio.com
+@@||akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/social_$image,domain=ted.com
 @@||aliunicorn.com/js/*/show-facebook.js$domain=aliexpress.com
 @@||aliunicorn.com/wimg/buyer/single/facebook.gif$domain=login.aliexpress.com
 @@||alkoblog.de/wp-content/plugins/StickySocialBar/js/sharefront.js?
@@ -62,6 +63,7 @@
 @@||chesscomfiles.com/images/fb_logo.png$domain=chess.com
 @@||chrisblattman.com/wp/wp-content/plugins/social/assets/social.png
 @@||cinemablend.com/timthumb.php?src=/images/facebook/
+@@||classicvalve.ca/images/slideshow/*_tumblr.jpg
 @@||cloudfront.net/assets/icons/gplus_icon-$domain=runtastic.com
 @@||cloudfront.net/assets/index/btn_facebook_$domain=myfitnesspal.com
 @@||cloudfront.net/images/facebook.png$domain=hockeyapp.net
@@ -115,6 +117,7 @@
 @@||fark.net/images/*/links/
 @@||fbcdn.net/connect.php/js/FB.Share$domain=jamendo.com
 @@||filmstarts.de^*/picto_social.png
+@@||findicons.com/files/icons/$~third-party
 @@||fontawesome.io^$elemhide,~third-party
 @@||foreignpolicy.com^*/sharrre.js
 @@||foreignpolicy.com^*_id_twitter_icon.png
@@ -160,6 +163,7 @@
 @@||hypetrak.com/images/*facebook
 @@||hypetrak.com/images/*twitter
 @@||i.po.st/static/v3/post-widget.js$domain=seenive.com
+@@||iconfinder.com/data/icons/$~third-party
 @@||iconpedia.net/uploads/$image,third-party
 @@||iconspedia.com/icon/$image,~third-party
 @@||imdb.com^*/facebook-button-small.png
@@ -192,6 +196,10 @@
 @@||michiganlottery.com/global/share/js/$script
 @@||mlb.com/bundle?*/facebook_button.css
 @@||mlgflappybird420.com/images/fb.png
+@@||modernnotion.com^*/EmailShare.min.js
+@@||modernnotion.com^*/FacebookShare.min.js
+@@||modernnotion.com^*/SocialLinks.min.js
+@@||moneymorning.com/wp-content/plugins/mm-social-share/$stylesheet
 @@||msecnd.net/resources/gfx/openid/$image
 @@||msfn.org^*/facebook_like_box.css
 @@||myfav.es/images/icons/$~third-party
@@ -201,6 +209,7 @@
 @@||nationbuilder.com^*/signin_with_facebook.png
 @@||ndtv.com/css/Widget/comment/images/comment-share-icons.png
 @@||neowin.net/images/uploaded/$image
+@@||news.nationalpost.com^*/twitter2.jpg
 @@||newsday.com/build/social_media_footer.min.js
 @@||nextinpact.com/public/min/index.php?*social$stylesheet
 @@||ninemsn.com.au/share/js/global/$script,~third-party
@@ -208,6 +217,7 @@
 @@||nouvelobs.com/sites/all/themes/rue89base/css/img/share/bg-tools.png
 @@||nutshell.com/media/images-landing/integration-logo-$~third-party
 @@||nyt.com^*/sharetools.js$domain=nytimes.com
+@@||oklivetv.com/wp-content/plugins/facebook-page-promoter-lightbox/$script
 @@||onesecond.designly.com/img/*.gif$~third-party
 @@||opendatacity.de/prism/assets/img/logos/logo_facebook_$image
 @@||opensat4all.com/forums/public/$stylesheet
@@ -305,6 +315,8 @@
 @@||thrusto.com/images/login-with-facebook.png
 @@||timecatcher.github.io/img/facebook.png
 @@||tinydeal.com/Images/follow_us.png
+@@||tnwcdn.com/wp-content/blogs.dir/*_twitter-$domain=thenextweb.com
+@@||tnwcdn.com/wp-content/blogs.dir/*_twitter.$domain=thenextweb.com
 @@||triangleoffense.com^*/triangle-offense-header-social-sprites.png
 @@||tripit.com/js/tripit/social/
 @@||tv-kino.net/wp-content/plugins/fb-traffic-pop/

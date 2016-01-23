@@ -3,6 +3,7 @@
 /http://[a-zA-Z0-9]+\.[a-z]+\/.*(?:[!"#$%&'()*+,:;<=>?@/\^_`{|}~-]).*[a-zA-Z0-9]+/$script,third-party,domain=keezmovies.com|redtube.com|tube8.com|tube8.es|tube8.fr|www.pornhub.com|youporn.com
 |http://$image,script,third-party,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 |http://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+|http://$script,third-party,domain=have69.net|i-gay.org
 |https://$image,script,third-party,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 |https://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 ||109.201.146.142^$domain=xxxbunker.com
@@ -21,6 +22,7 @@
 ||2adultflashgames.com/images/v12.gif
 ||2adultflashgames.com/img/
 ||2adultflashgames.com/teaser/teaser.swf
+||3movs.com/contents/content_sources/
 ||3xupdate.com^*/ryushare.gif
 ||3xupdate.com^*/ryushare2.gif
 ||3xupdate.com^*/ryusharepremium.gif
@@ -121,6 +123,7 @@
 ||celeb.gate.cc/banner/
 ||celeb.gate.cc/misc/event_*.js
 ||celebritypink.com/bannedcelebs-
+||cfake.com/images/a/
 ||chanweb.info/en/adult/hc/local_include/
 ||chubby-ocean.com/banner/
 ||clips-and-pics.org/clipsandpics.js
@@ -298,6 +301,7 @@
 ||hotdylanryder.com^*/iframes_174.jpg
 ||hotdylanryder.com^*/pf_640x100.jpg
 ||hotdylanryder.com^*/wicked.gif
+||hothag.com/img/banners/
 ||hotkellymadison.com^*/kelly1.jpg
 ||hotkellymadison.com^*/kelly4.jpg
 ||hotkellymadison.com^*/km_300x300.gif
@@ -643,6 +647,7 @@
 ||sextubebox.com/ab1.shtml
 ||sextubebox.com/ab2.shtml
 ||sexuhot.com/images/xbanner
+||sexuhot.com/splayer.js
 ||sexvines.co/images/cp
 ||sexy-toons.org/interface/partenariat/
 ||sexy-toons.org/interface/pub/
@@ -767,6 +772,7 @@
 ||wiki-stars.com/trade/
 ||wikiporno.org/header2.html
 ||wikiporno.org/header21.html
+||woodrocket.com/img/banners/
 ||worldsex.com/c/
 ||wowomg.com/*.html
 ||wrenchtube.com/poppt.js
@@ -788,6 +794,7 @@
 ||xhamster.com/ads/
 ||xhamster.com/js/xpu.js
 ||xhamsterpremiumpass.com/premium_scenes.html
+||xhcdn.com/js/p.js$domain=xhamster.com
 ||xhcdn.com^*/ads_
 ||xogogo.com/images/latestpt.gif
 ||xtravids.com/pop.php

@@ -90,6 +90,7 @@
 ||fls-eu.amazon.de^
 ||fr-online.de/analytics/
 ||ftd.de^*/track.php?
+||g.silicon.de^
 ||gala.de/js/tracking-
 ||gamepro.de^*/visitcount.js
 ||gamestar.de/_misc/tracking/
@@ -260,6 +261,7 @@
 ||editeurjavascript.com/hit-parade.php
 ||eultech.fnac.com^
 ||fls-eu.amazon.fr^
+||g.itespresso.fr^
 ||grazia.fr/ea.js
 ||gstat.orange.fr^
 ||hit.leboncoin.fr^
@@ -281,6 +283,7 @@
 ||rtl.fr/stats/
 ||sfr.fr/js/pent-stats.jsp
 ||sport365.fr/ea.js
+||stat.webevolutis.com^
 ||stats1x1.kapaza.be^
 ||surace-jujitsu.fr/outils/compteur_php/
 ||tracker-id.cdiscount.com^
@@ -342,7 +345,6 @@
 ||eclick.baidu.com^
 ||firefoxchina.cn/*/trac.js
 ||fls-cn.amazon.cn^
-||hao123.com/img/gut.gif?
 ||hdslb.com/images/isptrack.js
 ||his.tv.sohu.com/his/ping.do?
 ||hk.ndx.nextmedia.com^
@@ -494,6 +496,7 @@
 ||deagostinipassion.it/collezioni/analytics.js
 ||emng.libero.it^
 ||fls-eu.amazon.it^
+||g.techweekeurope.it^
 ||gazzetta.it^*/stats.php?
 ||getscreensaver.it/statistiche/
 ||joka.it/inquiero/isapi/csf.dll?
@@ -535,8 +538,6 @@
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
 ||carview.co.jp/include_api/log/
-||counter1.fc2.com^
-||fc2.com/counter_img.php?
 ||fls-fe.amazon.co.jp^
 ||fujitv.co.jp/pc/space.gif?
 ||goo.ne.jp^*/vltracedmd.js
@@ -588,7 +589,11 @@
 ||stats.teledyski.info^
 ||wp.pl/?rid=
 ! Portuguese
+||click.uol.com.br^
 ||dejavu.mercadolivre.com.br^
+||dna.uol.com.br^
+||g.bit.pt^
+||g.bitmag.com.br^
 ||iol.pt/js/analytics.js
 ||lancenet.com.br/pw.js
 ||log.r7.com^
@@ -628,6 +633,7 @@
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^
 ||fls-eu.amazon.es^
+||g.siliconweek.es^
 ||hits.antena3.com^
 ||stats.milenio.com^
 ||t13.cl/hit/
@@ -657,18 +663,6 @@
 ||piccy.org.ua/c?
 ||target.ukr.net^
 ! Specific blocking filters necessary for sites whitelisted with $genericblock filter option
-! Spiegel.de
-/chartbeat.js$domain=spiegel.de
-/nm_trck.gif?$domain=spiegel.de
-||criteo.com^$domain=spiegel.de
-||google-analytics.com/analytics.js$domain=spiegel.de|veeseo.com
-||ioam.de/?$domain=spiegel.de
-||ioam.de/tx.io?$domain=spiegel.de
-||meetrics.net^$domain=spiegel.de
-||met.vgwort.de^$domain=spiegel.de
-||mxcdn.net^$domain=spiegel.de
-||tracking-rce.veeseo.com^$domain=veeseo.com
-||visualrevenue.com^$domain=spiegel.de
 ! Gamestar.de
 /ping.gif?$domain=gamestar.de
 ||gamestar.de/_misc/tracking/$domain=gamestar.de
@@ -679,6 +673,8 @@
 ! Focus.de
 /pagedot.gif?$domain=focus.de
 ||clicktale.net^$domain=focus.de
+||cloudfront.net/track?$domain=focus.de
+||emetriq.de^$domain=focus.de
 ||googletagmanager.com^$domain=focus.de
 ||ioam.de/tx.io?$domain=focus.de
 ||krxd.net^$domain=focus.de
@@ -724,14 +720,6 @@
 ! Fanfiktion.de
 ||criteo.com^$domain=fanfiktion.de
 ||google-analytics.com/analytics.js$domain=fanfiktion.de
-! Finanzen.net
-/__utm.gif?$domain=finanzen.net
-/ping.gif?$domain=finanzen.net
-||googleadservices.com^$domain=finanzen.net
-||googletagmanager.com^$domain=finanzen.net
-||ioam.de/?$domain=finanzen.net
-||ioam.de/tx.io?$domain=finanzen.net
-||newrelic.com^$domain=finanzen.net
 ! boote-forum.de
 ||google-analytics.com/analytics.js$domain=boote-forum.de
 ! comunio.de
@@ -747,3 +735,7 @@
 ||ioam.de/tx.io?$domain=planetsnow.de
 ||plista.com/iframeShowItem.php$domain=planetsnow.de
 ||stroeerdigitalmedia.de^$domain=planetsnow.de
+! Notebookcheck.com
+||google-analytics.com/analytics.js$domain=notebookcheck.com
+||ioam.de/?$domain=notebookcheck.com
+||ioam.de/tx.io?$domain=notebookcheck.com
