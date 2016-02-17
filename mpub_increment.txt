@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private Block List Incremental Update
-!  Last Modified: Thu, 7 Jan 2016 00:00:00 +0400
+!  Last Modified: Thu, 17 Jan 2016 00:00:00 +0400
 ! Homepage: https://github.com/rusingineer/mpbl
 !  This is a private list,
 !  will not provide any technical support
@@ -50,6 +50,7 @@ letmelook.net/news.js
 ||manymoney.erohd.net^$script
 ||advertoly.com^$script
 gonews1.net/news.js
+gonews2.net/news.js
 gonews3.net/news.js
 omynews.net/news.js
 ||bdzhhjnml.pw^$third-party,script
@@ -217,3 +218,18 @@ t.cnsjx.net/view.asp
 asd.qrrgv.space^$script
 qwe.qrrgv.space^$script
 xexyc.com^$script
+##.b-context__mailruVertical
+##.b-context__horizontal
+webbabe.ws/player/html.php?aid=start_html&video_id=
+brazzers-hd.com/js/brazzers.js
+trax-hd.com/js/ads.js
+wjzvx.com^$script
+!  Anti-Adblock Killer
+caminspector.net^$inline-script
+s.mixadvert.com^$script
+bytde.com^$script
+hittoadv.com/static/foobar.js
+ijsve.com^$script
+frmsafe.com/cu2.php
+v2mlemerald.com^$script
+vvmblock.ru/vm.js
