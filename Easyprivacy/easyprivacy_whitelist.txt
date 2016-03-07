@@ -1,5 +1,5 @@
 @@/cdn-cgi/pe/bag2?*geoiplookup$xmlhttprequest,domain=orain.org
-@@/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js$domain=amypink.de|biznews.com|cryptospot.me|droid-life.com|forwardprogressives.com|fpif.org|fullpotentialma.com|geekzone.co.nz|goldsday.com|imageupload.co.uk|is-arquitectura.es|mmanews.com|orain.org|unilad.co.uk|xrussianteens.com|youngcons.com
+@@/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js$domain=amypink.de|biznews.com|cryptospot.me|droid-life.com|forwardprogressives.com|fpif.org|fullpotentialma.com|geekzone.co.nz|goldsday.com|hoyentec.com|imageupload.co.uk|is-arquitectura.es|lazygamer.net|mmanews.com|orain.org|tvunblock.com|unilad.co.uk|xrussianteens.com|youngcons.com
 @@/cdn-cgi/pe/bag2?*googleadservices.com$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*googlesyndication.com%2Fpagead%2Fosd.js$domain=forwardprogressives.com
 @@/cdn-cgi/pe/bag2?*histats.com$domain=xrussianteens.com
@@ -60,6 +60,7 @@
 @@||barclays.co.uk/touchclarity/mbox.js
 @@||barclays.touchclarity.com^$domain=barclaycard.co.uk
 @@||bbc.co.uk/frameworks/nedstat/$script,~third-party
+@@||bbci.co.uk^*/comscore.js$domain=bbc.co.uk
 @@||bc.geocities.*/not_found/
 @@||beacon.guim.co.uk/accept-beacon?
 @@||beatthetraffic.com/traffic/?partner=$subdocument
@@ -120,7 +121,7 @@
 @@||cloudflare.com/analytics?$domain=cloudflare.com
 @@||cloudfront.net/assets/js/comscore_beacon.js?$domain=zap2it.com
 @@||cloudfront.net/atrk.js$domain=karnaval.com|livestream.com|luxuryrealestate.com
-@@||cloudfront.net/bugsnag-*.min.js$domain=storenvy.com|tvguide.com
+@@||cloudfront.net/bugsnag-*.min.js$domain=splice.com|storenvy.com|tvguide.com
 @@||cloudfront.net/js/reach.js$domain=zap2it.com
 @@||cloudfront.net/mngr/$script,domain=theladbible.com
 @@||cloudfront.net/opentag-*.js$domain=mackweldon.com|telegraph.co.uk
@@ -135,6 +136,7 @@
 @@||cqcounter.com^$domain=cqcounter.com
 @@||craveonline.com/wp-content/plugins/bwp-minify/$script
 @@||craveonline.com^*/google-analytics.min.js
+@@||create.kahoot.it/rest/analytics/track/$xmlhttprequest
 @@||crowdscience.com/max-$script,domain=everydayhealth.com
 @@||crowdscience.com/start-$script,domain=everydayhealth.com
 @@||cschat.ebay.com^*/scripts/log.js
@@ -146,6 +148,7 @@
 @@||d2pe20ur0h0p8p.cloudfront.net/identity/*/wapo_identity_full.js$domain=washingtonpost.com
 @@||d2pe20ur0h0p8p.cloudfront.net/identity/*/wapo_jskit_addon.js$domain=washingtonpost.com
 @@||d396ihyrqc81w.cloudfront.net^$domain=currys.co.uk
+@@||d3qxwzhswv93jk.cloudfront.net/esf.js$domain=wwe.com
 @@||d3ujids68p6xmq.cloudfront.net^$script,domain=wwe.com
 @@||dailycaller.com^*_chartbeat.js
 @@||dailyfinance.com/traffic/?
@@ -153,6 +156,7 @@
 @@||deals.nextag.com^*/ClickTracker.jsp
 @@||debenhams.com/foresee/foresee-trigger.js
 @@||demandbase.com^*/ip.json?$xmlhttprequest,domain=vmware.com
+@@||demandware.edgesuite.net^*/js/tracking.js
 @@||demdex.net/dest4.html?d_nsid=$subdocument,domain=multipack.com.mx
 @@||descopera.ro/js/addLinkerEvents-ga.js
 @@||diablo3.com/assets/js/jquery.google-analytics.js
@@ -163,6 +167,7 @@
 @@||dmeserv.newsinc.com^*/dynamicWidgets.js$domain=timesfreepress.com
 @@||doubleclick.net/activityi;src=$object-subrequest,domain=cicispizza.com
 @@||dpm.demdex.net/id?$script,domain=gamespot.com
+@@||dtdc.in/tracking/tracking_results_$subdocument,domain=dtdc.com
 @@||dw.cbsi.com/anonc.js$domain=cnet.com|gamespot.com
 @@||dw.cbsi.com/js/dw.js$domain=cnet.com
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|cnet.com|gamespot.com|tv.com
@@ -176,7 +181,7 @@
 @@||emjcd.com^$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@||ensighten.com/crossdomain.xml$object-subrequest
 @@||ensighten.com/libs/flowplayer/ensightenplugin.swf$object-subrequest
-@@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|caranddriver.com|citizensbank.com|dell.com|homedepot.com|staples.com|t-mobile.com|target.com
+@@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|caranddriver.com|citizensbank.com|dell.com|homedepot.com|staples.com|t-mobile.com|target.com|zales.com
 @@||ensighten.com^*/code/$script
 @@||ensighten.com^*/scode/$script,domain=norton.com
 @@||ensighten.com^*/serverComponent.php?$script
@@ -196,6 +201,7 @@
 @@||fitloop.co/packages/GAnalytics.js?
 @@||flipps.com^*/page-tracking.js?
 @@||fls-na.amazon.*/aiv-web-player/$xmlhttprequest
+@@||flsenate.gov/Scripts/GoogleAnalytics.js$~third-party
 @@||flurry.com/js/flurry.js$domain=pocketdice.io|slantnews.com
 @@||focus.ti.com^*/metrics-min.js
 @@||foodnetwork.com^*/analytics.sitecatalyst.js
@@ -241,6 +247,7 @@
 @@||guim.co.uk/flash/video/embedded/player-$object,domain=thedailywh.at
 @@||halowars.com/stats/images/Buttons/MapStats.jpg
 @@||harvard.edu/scripts/ga_social_tracking.js
+@@||haystax.com/components/leaflet/heatmap.js
 @@||healthcare.gov/marketplace/*/clear.gif?
 @@||hhgregg.com/wcsstore/MadisonsStorefrontAssetStore/javascript/Analytics/AnalyticsTagDataObject.js
 @@||highcharts.com^*/heatmap.js
@@ -406,7 +413,9 @@
 @@||pokemonblackwhite.com^*/jquery.google-analytics.js
 @@||polycom.com/polycomservice/js/unica/ntpagetag.js
 @@||popeater.com/traffic/?$script,domain=popeater.com
+@@||popmoney.com^*/jquery.analytics.js
 @@||pp-serve.newsinc.com^*/unitsdata.js?$domain=timesfreepress.com
+@@||propelmedia.com/resources/images/load.gif
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
 @@||pshared.5min.com/Scripts/OnePlayer/Loggers/ComScore.StreamSense.js
 @@||pshared.5min.com/Scripts/OnePlayer/Loggers/ComScore.Viewability.js
@@ -447,6 +456,7 @@
 @@||siteanalytics.compete.com^$~third-party
 @@||slatic.net/js/tracking.js$domain=lazada.co.id
 @@||smetrics.blackberry.com/b/ss/*:jump-page:$image,domain=bbm.com
+@@||snapchat.com/static/js/google-analytics.js
 @@||songza.com/static/*/songza/systems/$script
 @@||southwest.com^*/mbox.js
 @@||sportsgrid.com/decor/javascript/magnify_stats.js
@@ -470,6 +480,7 @@
 @@||t.st/video/js/kGoogleAnalytics.js?$domain=thestreet.com
 @@||tablespoon.com/library/js/TBSP_ntpagetag.js
 @@||tag.perfectaudience.com/serve/*.js$domain=asana.com
+@@||tagcommander.com^*/tc_$script
 @@||tags.bluekai.com/site/*?ret=$subdocument,domain=zillow.com
 @@||tags.crwdcntrl.net^$script,domain=weather.com
 @@||tags.w55c.net/rs?*&t=marketing$image
@@ -503,6 +514,7 @@
 @@||ups.com/*/WebTracking/track&dcs
 @@||ups.com/WebTracking/$xmlhttprequest
 @@||urlcheck.hulu.com/crossdomain.xml$object-subrequest
+@@||usps.com/m/js/tracking.js$domain=usps.com
 @@||utm.alibaba.com/eventdriver/recommendEntry.do?$script
 @@||utm.arc.nasa.gov/common/css/
 @@||utm.arc.nasa.gov/common/js/common.js
@@ -515,8 +527,6 @@
 @@||vacayvitamins.com/wp-content/plugins/wp-minify/min/?*/google-analyticator/$script
 @@||vast.com/vimpressions.js$domain=everycarlisted.com
 @@||verizon.com/images/track/track.gif?track=load&$xmlhttprequest
-@@||viamichelin.*/jQuery/ntpagetag.js
-@@||viamichelin.*/ntpagetag_vm.js
 @@||vice.com^*/vmp_analytics.js
 @@||videos.nbcolympics.com/beacon?$object-subrequest,domain=nbcolympics.com
 @@||vidible.tv^*/ComScore.StreamSense.js

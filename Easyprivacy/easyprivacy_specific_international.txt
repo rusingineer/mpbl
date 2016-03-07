@@ -265,6 +265,7 @@
 ||grazia.fr/ea.js
 ||gstat.orange.fr^
 ||hit.leboncoin.fr^
+||jeu.net/hits.js
 ||lavenircdn.net^*/analytics.js?
 ||lecho.be/fb/?
 ||lemde.fr^*/metrics/
@@ -278,6 +279,7 @@
 ||p.pagesjaunes.fr^
 ||pagesjaunes.fr/bva/track.js
 ||pagesjaunes.fr/crmmetrix/
+||pim.nextinpact.com^
 ||r.orange.fr^
 ||rtl.be^*/trkfblk.js
 ||rtl.fr/stats/
@@ -549,6 +551,7 @@
 ! Korean
 ||211.106.66.62^*/statistics/$domain=yonhapnews.co.kr
 ||chosun.com/hitlog/
+||count.munhwa.com^
 ||gather.hankyung.com^
 ||hits.zdnet.co.kr^
 ||hitweb2.chosun.com^
@@ -652,6 +655,7 @@
 ||prod-metro-collector.cloudapp.net^
 ! Turkish
 ||c.gazetevatan.com^
+||haberler.com/dinamik/
 ||p.milliyet.com.tr^
 ! Ukrainian
 |http://r.i.ua/s?

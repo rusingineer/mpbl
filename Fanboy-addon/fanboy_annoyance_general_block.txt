@@ -268,6 +268,7 @@ _social_rss.
 /banner/videos/player.htm?$subdocument
 /plugin/banner/videos/*$subdocument
 ! Cookie Messages
+-agree-cookies/
 -cookie-banner-
 -cookie-cnil.
 -cookie-filter/$script
@@ -277,6 +278,7 @@ _social_rss.
 -cookie-notice.
 -cookie-policy.
 -cookie-popup/
+-cookieconsent-
 -CookieInfo.
 -cookiePolicy.
 -cookies-policy.
@@ -323,13 +325,14 @@ _social_rss.
 /cookie-disclaimer.
 /cookie-disclaimer/*
 /cookie-eu/*
+/cookie-footer-
 /cookie-info.
 /cookie-law-
 /cookie-manager.min.js
 /cookie-master.js
 /cookie-message.
 /cookie-notice.
-/cookie-notice/*
+/cookie-notice/*$~stylesheet
 /cookie-notification.
 /cookie-notifications.
 /cookie-policy-
@@ -338,6 +341,7 @@ _social_rss.
 /Cookie-popup-
 /cookie-popup.
 /cookie-prompt.
+/cookie-richtlinie.
 /cookie-terms.
 /cookie.policy.
 /cookie.response.
@@ -465,18 +469,22 @@ _social_rss.
 /ico_cookies.
 /icocookies.
 /InfoCookies.
+/iubenda_cs.
 /jbcookies.
 /jquery.cookie.js$domain=password-decryptor.com
 /jqueryCookieGuard.
+/js-cookie-master/*$script
 /legalcookie.
 /lma-cookie.
 /mod_cookiesaccept/*
 /mod_jbcookies/*
+/newprivacypolicy.
 /ocgcookie?
 /plugin_cookie/*
 /plugins/CookieInfo/*
 /plugins/EuCookie/*
 /rbicookiepolicy.
+/rtiCookieLaw.
 /SetConsentCookie.
 /SetCookieBanner.
 /sni_cookie_privacy/*

@@ -97,6 +97,7 @@
 ||adf.ly/js/$third-party,domain=~j.gs|~q.gs
 ||adf.ly^*/link-converter.js$third-party
 ||adfoc.us/js/$third-party
+||adimgs.t2b.click/assets/js/ttbir.js
 ||adingo.jp.eimg.jp^
 ||adlandpro.com^$third-party
 ||adm.shinobi.jp^$third-party
@@ -106,7 +107,6 @@
 ||ads.dynamicyield.com^$third-party
 ||ads.mp.mydas.mobi^
 ||ads.tremorhub.com^
-||adsales.snidigital.com^
 ||adscaspion.appspot.com^
 ||adserv.legitreviews.com^$third-party
 ||adsrv.eacdn.com^$third-party
@@ -361,6 +361,7 @@
 ||cdn.pubexchange.com/modules/display/$script
 ||cdn.sweeva.com/images/$third-party
 ||cdn.totalfratmove.com^$image,domain=postgradproblems.com
+||cdn77.org/tags/
 ||cdnpark.com/scripts/js3.js
 ||cdnprk.com/scripts/js3.js
 ||cdnprk.com/scripts/js3caf.js
@@ -386,13 +387,14 @@
 ||clicksure.com/img/resources/banner_
 ||clicktripz.com/scripts/js/ct.js
 ||clipdealer.com/?action=widget&*&partner=
+||cloudfront.net/?tid=
 ||cloudfront.net/dfpd.js
 ||cloudfront.net/images/amazon/$domain=slader.com
 ||cloudfront.net/nimblebuy/
 ||cloudfront.net/scripts/js3caf.js
 ||cloudfront.net/st.js
 ||cloudfront.net/tie.js
-||cloudfront.net^$script,domain=extremetech.com
+||cloudfront.net^$script,domain=dailyuploads.net|extremetech.com|torrentproject.se
 ||cloudfront.net^*ad$domain=fiaformulae.com
 ||cloudfront.net^*banner$domain=fiaformulae.com
 ||cloudzer.net/ref/
@@ -604,6 +606,7 @@
 ||droidnetwork.net/img/vendors/
 ||dropbox.com^*/aff-resources/$domain=gramfeed.com
 ||dttek.com/sponsors/
+||du2uh7rq0r0d3.cloudfront.net^
 ||duct5ntjian71.cloudfront.net^
 ||dvdfab.com/images/fabnewbanner/$third-party
 ||dvf2u7vwmkr5w.cloudfront.net^
@@ -624,6 +627,7 @@
 ||eattoday.com.mt/widgets/$third-party
 ||ebaycommercenetwork.com/publisher/$third-party
 ||ebaystatic.com/aw/signin/ebay-signin-toyota-
+||ebaystatic.com^*/motorswidgetsv2.swf?
 ||ebladestore.com^*/banners/
 ||eblastengine.upickem.net^$third-party
 ||echineselearning.com^*/banner.jpg
@@ -779,13 +783,14 @@
 ||goo.gl^$subdocument,domain=backin.net|uploadlw.com
 ||google.com/pagead/
 ||google.com/uds/afs?*adsense$subdocument
-||googlesyndication.com/pagead/$third-party
-||googlesyndication.com/safeframe/$third-party
-||googlesyndication.com/simgad/$third-party
+||googlesyndication.com/pagead/
+||googlesyndication.com/sadbundle/
+||googlesyndication.com/safeframe/
+||googlesyndication.com/simgad/
 ||googlesyndication.com^*/click_to_buy/$object-subrequest,third-party
 ||googlesyndication.com^*/domainpark.cgi?
 ||googlesyndication.com^*/googlevideoadslibraryas3.swf$object-subrequest,third-party
-||googlesyndication.com^*/simgad/$third-party
+||googlesyndication.com^*/simgad/
 ||gorgonprojectinvest.com/images/banners/
 ||gotraffic.net^*/sponsors/
 ||govids.net/adss/
@@ -812,6 +817,7 @@
 ||hitleap.com/assets/banner-
 ||hitleap.com/assets/banner.png
 ||hm-sat.de/b.php
+||hola.org/play_page.js$third-party
 ||homad-global-configs.schneevonmorgen.com^
 ||hostdime.com/images/affiliate/$third-party
 ||hostgator.com/~affiliat/cgi-bin/affiliates/$third-party
@@ -888,6 +894,7 @@
 ||interserver.net/logos/vps-$third-party
 ||interstitial.glsp.netdna-cdn.com^$third-party
 ||intexchange.ru/Content/banners/
+||intoday.in/microsites/sponsor/
 ||iobit.com/partner/$third-party
 ||ipercast.net^*/ova-jw.swf$object-subrequest
 ||ipixs.com/ban/$third-party
@@ -918,6 +925,7 @@
 ||kaango.com/fecustomwidgetdisplay?
 ||kallout.com^*.php?id=
 ||kaltura.com^*/vastPlugin.swf$third-party
+||karma.mdpcdn.com^
 ||kbnetworkz.s3.amazonaws.com^
 ||keep2share.cc/images/i/00468x0060-
 ||keyword-winner.com/demo/images/
@@ -949,6 +957,8 @@
 ||lijit.com/delivery/
 ||link.link.ru^$third-party
 ||linkbird.com/static/upload/*/banner/$third-party
+||linkconnector.com/tr.php$third-party
+||linkconnector.com/traffic_record.php$third-party
 ||linkedin.com/csp/dtag?$subdocument,third-party
 ||lionheartdms.com^*/walmart_300.jpg
 ||litecoinkamikaze.com/assets/images/banner$third-party
@@ -1163,6 +1173,7 @@
 ||partner.premiumdomains.com^
 ||partnerads.ysm.yahoo.com^
 ||partnerads1.ysm.yahoo.com^
+||partners.autotrader.co.uk^$third-party
 ||partners.betus.com^$third-party
 ||partners.dogtime.com/network/
 ||partners.fshealth.com^
@@ -1226,6 +1237,7 @@
 ||promotions.iasbet.com^
 ||propgoluxury.com/partners/$third-party
 ||proxies2u.com/images/btn/$third-party
+||proxify.com/i/$third-party
 ||proxy.org/blasts.gif
 ||proxynoid.com/images/referrals/
 ||proxyroll.com/proxybanner.php
@@ -1251,6 +1263,7 @@
 ||radiocentre.ca/randomimages/$third-party
 ||radioreference.com/sm/300x75_v3.jpg
 ||radioshack.com^*/promo/
+||radiotown.com/bg/
 ||radiotown.com/splash/images/*_960x600_
 ||radley.co.uk^*/Affiliate/
 ||rapidgator.net/images/pics/*_300%D1%85250_
@@ -1559,6 +1572,7 @@
 ||viglink.com/api/insert^$third-party
 ||viglink.com/api/optimize^$third-party
 ||viglink.com/api/products^$third-party
+||viglink.com/images/pixel.gif
 ||virool.com/widgets/$third-party
 ||virtuagirl.com/ref.php?
 ||virtuaguyhd.com/ref.php?
@@ -1641,6 +1655,7 @@
 ||xingcloud.com^*/uid_
 ||xml.exactseek.com/cgi-bin/js-feed.cgi?$third-party
 ||xproxyhost.com/images/banners/
+||xrad.io^*/hotspots/
 ||yachting.org^*/banner/
 ||yahoo.net^*/ads/
 ||yb.torchbrowser.com^
@@ -1676,3 +1691,4 @@
 ||croix.science^$third-party
 ||d1nmk7iw7hajjn.cloudfront.net^
 ||d3ujids68p6xmq.cloudfront.net^
+||secretmedia.com^$third-party

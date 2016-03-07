@@ -116,9 +116,11 @@
 ||analytics.msnbc.msn.com^
 ||analytics.newsinc.com^
 ||analytics.omgpop.com/log
+||analytics.posttv.com^
 ||analytics.services.distractify.com^
 ||analytics.teespring.com^
 ||analytics.thenest.com^
+||analytics.twitter.com^
 ||analytics.upworthy.com^
 ||analytics.us.archive.org^
 ||analytics.wetpaint.me^
@@ -355,6 +357,7 @@
 ||cjtube.com/tp/*.php
 ||cl.expedia.com^
 ||cl.ly/metrics?
+||clc.stackoverflow.com^
 ||clck.yandex.com^
 ||click.aliexpress.com^
 ||click.engage.xbox.com^
@@ -481,6 +484,7 @@
 ||displaymate.com/cgi-bin/stat/
 ||divxden.com^*/tracker.js
 ||djtunes.com^*&__utma=
+||dmcdn.net/pxl/$domain=dailymotion.com
 ||dmcdn.net/track/$domain=dailymotion.com
 ||dmeserv.newsinc.com^
 ||dmtracking2.alibaba.com^
@@ -511,6 +515,7 @@
 ||ebay.com/op/t.do?event
 ||ebayobjects.com/*;dc_pixel_url=$image
 ||ec2-prod-tracker.babelgum.com^
+||economist.com/geoip.php
 ||ectnews.com/shared/missing.gif?
 ||edgecastcdn.net^*/ehow_am.js$domain=ehow.com
 ||edgecastcdn.net^*/pixel_1.png?
@@ -594,6 +599,7 @@
 ||farsnews.com/stcs.js.aspx?
 ||fast.forbes.com^
 ||fastexercise.com/logging.js
+||fastly.net^*/sp-analytics.min.$domain=spotify.com
 ||favicon.co.uk/stat/
 ||fc2.com/ana/
 ||fc2.com/ana2/
@@ -694,6 +700,7 @@
 ||geoip.al.com^
 ||geoip.cleveland.com^
 ||geoip.gulflive.com^
+||geoip.inquirer.net^
 ||geoip.lehighvalleylive.com^
 ||geoip.masslive.com^
 ||geoip.mlive.com^
@@ -955,6 +962,7 @@
 ||linuxtoday.com/hqxapi/
 ||lipsy.co.uk/_assets/images/skin/tracking/
 ||list.ru/counter?
+||live-audience.dailymotion.com^
 ||live.com/handlers/watson.mvc?
 ||live.philips.com^
 ||livedoor.com/counter/
@@ -1227,7 +1235,6 @@
 ||pclick.europe.yahoo.com^
 ||pclick.internal.yahoo.com^
 ||pclick.yahoo.com^
-||pcmag.com/rview/$image
 ||pcp001.com/media/globalPixel.js
 ||peacocks.co.uk^*/analytics.js
 ||pearltrees.com/s/track?
@@ -1339,7 +1346,6 @@
 ||reachlocal.com/js/tracklandingpage.js
 ||real.com^*/pixel?
 ||real.com^*/track.htm?
-||real.com^*/track.png?
 ||realitytvworld.com/images/pixel.gif
 ||reco.hardsextube.com^
 ||recomendedsite.com/addon/upixel/
@@ -1394,6 +1400,7 @@
 ||rkdms.com/sid.gif?
 ||ro89.com/hitme.php?
 ||roadandtrack.com^*/RTdartSite.js
+||roblox.com/www/e.png?
 ||rok.com.com^
 ||roll.bankofamerica.com^
 ||rottentomatoes.com/tracking/
@@ -1411,6 +1418,7 @@
 ||s-msn.com/br/gbl/js/2/report.js
 ||s-msn.com/primedns.gif?$domain=msn.com
 ||s-msn.com/s/js/loader/activity/trackloader.min.js
+||s.infogr.am^
 ||s.youtube.com^
 ||s2.youtube.com^
 ||sa.bbc.co.uk^
@@ -1424,6 +1432,7 @@
 ||samsung.com^*/scripts/tracking.js
 ||sana.newsinc.com.s3.amazonaws.com^
 ||sap.com/global/ui/js/trackinghelper.js
+||sasontnwc.net/track/
 ||satellite-tv-guides.com/stat/
 ||sayac.hurriyettv.com^
 ||sb.vevo.com^
@@ -1701,6 +1710,7 @@
 ||timestrends.timesnow.tv^
 ||tinypic.com/api.php?*&action=track$object-subrequest
 ||tinypic.com/track.php?
+||tinyupload.com^*/ct_adkontekst.js
 ||tivo.com/__ssobj/track?
 ||tk.kargo.com^
 ||tmagazine.com/js/track_
@@ -1731,6 +1741,7 @@
 ||track.hubspot.com^
 ||track.netzero.net^
 ||track.ning.com^
+||track.promptfile.com^
 ||track.pushbullet.com^
 ||track.slideshare.net^
 ||track.webgains.com^
@@ -1747,6 +1758,7 @@
 ||tracker.realclearpolitics.com^
 ||tracker.redditmedia.com^
 ||tracker.revip.info^
+||tracker.secretescapes.com^
 ||tracker.uprinting.com^
 ||tracker.washtimes.com^
 ||tracker.wordstream.com^
@@ -1846,6 +1858,7 @@
 ||up.boston.com^
 ||up.nytimes.com^
 ||upi.com/*/stat/
+||uploaded.net/io/pixel/
 ||uploadrocket.net/downloadfiles.php?*&ip
 ||upornia.com/js/0818.js
 ||upromise.com/js/csgather.js
@@ -1995,6 +2008,7 @@
 ||xbox.com^*/vortex_tracking.js
 ||xhamster.com/ajax.php?act=track_event
 ||xhamster.com/cnt.php?
+||xhamster.com/stats/
 ||xhcdn.com/js/analytics.js?
 ||xhcdn.com/js/track.min.js?
 ||xing.com/collect/
@@ -2017,6 +2031,7 @@
 ||yahoo.com^*/ultLog?
 ||yahoo.net^*/hittail.js
 ||yahooapis.com/get/Valueclick/CapAnywhere.getAnnotationCallback?
+||yandex.com/clck/
 ||ybinst2.ec.yimg.com/ec/*&Type=Event.CPT&$domain=search.yahoo.com
 ||yellowpages.co.in/trac/
 ||yellowpages.com/images/li.gif?
@@ -2125,6 +2140,7 @@
 ||skypeassets.com/static/skype.skypeloginstatic/js/s_code.js$domain=skype.com
 ||sltrib.com/csp/mediapool/sites/Shared/assets/csp/includes/omniture/SiteCatalystCode_H_17.js
 ||ssl-images-amazon.com^*/wcs-help-omniture-$script
+||ticketmaster.eu^*/omniture_tracker.js
 ||timeinc.net/tii/omniture/h/config/timesi.js$domain=si.com
 ||vitacost.com/Javascripts/s_code.js
 ||vmware.com/files/templates/inc/s_code_my.js

@@ -299,8 +299,11 @@
 ||atraxio.com^$third-party
 ||canalstat.com^$third-party
 ||casualstat.com^$third-party
+||compteur-fr.com^$third-party
 ||compteur-gratuit.org^$third-party
+||compteur-visite.com^$third-party
 ||compteur.com^$third-party
+||compteur.org^$third-party
 ||count.fr^$third-party
 ||countus.fr^$third-party
 ||deliv.lexpress.fr^$third-party
@@ -329,8 +332,8 @@
 ||tnsinternet.be^$third-party
 ||toc.io^$third-party
 ||track.effiliation.com^$third-party
-||tradelab.fr^$third-party
 ||trafiz.net^$third-party
+||url-stats.net^$third-party
 ||webcompteur.com^$third-party
 ||wysistat.com^$third-party
 ||x-traceur.com^$third-party
@@ -447,6 +450,7 @@
 ||contatoreaccessi.com^$third-party
 ||cuntador.com^$third-party
 ||digital-metric.com^$third-party
+||dnab.info^$third-party
 ||freecounter.it^$third-party
 ||freestat.ws^$third-party
 ||freestats.biz^$third-party
@@ -512,6 +516,7 @@
 ||ziyu.net^$third-party
 ! Korean
 ||logger.co.kr^$third-party
+||recobell.io^$third-party
 ! Latvian
 ||cms.lv^$third-party
 ||erotop.lv^$third-party
@@ -558,6 +563,7 @@
 ||tagcdn.com^$third-party
 ||way2traffic.com^$third-party
 ! Portuguese
+||engageya.com^$third-party
 ||marktest.pt^$third-party
 ||popstats.com.br^$third-party
 ||tailtarget.com^$third-party
@@ -587,7 +593,6 @@
 ||gdeslon.ru^$third-party
 ||gostats.ru^$third-party
 ||hitmir.ru^$third-party
-||hotlog.ru^$third-party
 ||hsdn.org^$third-party
 ||idntfy.ru^$third-party
 ||imrk.net^$third-party
@@ -651,6 +656,7 @@
 ||contadordevisitas.es^$third-party
 ||contadorgratis.com^$third-party
 ||contadorgratis.es^$third-party
+||contadorvisitasgratis.com^$third-party
 ||contadorweb.com^$third-party
 ||delidatax.net^$third-party
 ||eresmas.net^$third-party
@@ -665,8 +671,10 @@
 ||adsettings.com^$third-party
 ||adtraction.com^$third-party
 ||prospecteye.com^$third-party
+||publish-int.se^$third-party
 ||research-int.se^$third-party
 ||spklw.com^$third-party
+||vastpaketet.se^$third-party
 ||webserviceaward.com^$third-party
 ! Thai
 ||d-stats.com^$third-party

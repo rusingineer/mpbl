@@ -123,6 +123,7 @@
 .net/1x1.gif?
 .net/c.gif?
 .net/HG?hc=&hb=
+.net/i.gif?
 .net/l.gif?
 .net/p.gif?
 .net/ping.php?
@@ -138,6 +139,7 @@
 .pageVisitCounter_
 .php?logRefer=
 .php?logType=
+.php?p=stats&
 .php?refcode=
 .PixelNedstatStatistic/
 .pt/n.gif?
@@ -195,6 +197,7 @@
 /AccessCounter/*
 /AccessTrackingLogServlet?
 /acclog.cgi?
+/ace.*/?cookie
 /acecounter/*
 /acecounter_
 /acfp.js
@@ -244,7 +247,9 @@
 /adwords-conversion-tracking.
 /adx_remote.
 /aegis_tracking.
+/aff_i?offer_id=
 /aff_land?referrer
+/affil/tracker/*
 /affiliate-track.
 /affiliate-tracker.
 /affiliate.1800flowers.
@@ -267,6 +272,7 @@
 /ajax/heatmap-
 /ajax/log?
 /ajax/optimizely-
+/ajax/track.php?
 /ajax_store_analytics?
 /ajax_video_counter.php?
 /ajaxClicktrack.
@@ -294,6 +300,7 @@
 /analytics-tag.
 /analytics.ashx
 /Analytics.aspx?
+/analytics.bundled.js
 /analytics.compressed.js
 /analytics.do
 /analytics.gif?
@@ -348,6 +355,7 @@
 /anapixel.
 /ancAdTrack.js
 /angular-tag.
+/angular-tag_
 /angularlytics.
 /anycent_tracker_
 /api/0/stats
@@ -491,6 +499,7 @@
 /C4ATracker.
 /c?siteID=$image,script
 /c_track.php?
+/cablog?
 /callbacks/stats?
 /campaign_tracker.
 /campaign_trax.
@@ -499,6 +508,7 @@
 /cdn-cgi/ping?$image
 /cdn5.js?
 /cds-webanalytics.
+/cdx-radar/*
 /cdx.gif?
 /cedexis-
 /cedexis.js
@@ -512,10 +522,7 @@
 /certona_$script
 /cfformprotect/*
 /cgi-bin/cnt/*
-/cgi-bin/count.cgi?*df=$~image
-/cgi-bin/count.cgi?*ft=
-/cgi-bin/count.cgi?*rgb=
-/cgi-bin/count.cgi?*sh=
+/cgi-bin/count.cgi?
 /cgi-bin/count.pl?
 /cgi-bin/count/*
 /cgi-bin/count1.cgi?
@@ -562,6 +569,7 @@
 /class.tracking.js
 /clear.gif?
 /clear/c.gif?
+/clicevent.php?
 /click-logger.
 /click-stat.js
 /click-tracker
@@ -698,6 +706,7 @@
 /countercgi.
 /countercollector/*
 /counterFooterFlash.
+/countertab.js?
 /countHits.
 /countinj.cgi?
 /countpixel.
@@ -1120,12 +1129,14 @@
 /imgcount.cgi?
 /imgcount.php?
 /imgtracker.
+/imp.aspx?
 /imp.gif?
 /imp.php?a
 /imp/a.gif?
 /imp?imgid=
 /imp_cnt.gif?
 /imp_img.php?
+/impr.xlg?
 /impress.php?
 /impression.ashx
 /impression.gif?
@@ -1613,16 +1624,19 @@
 /pixel.swf?
 /pixel.track?
 /pixel/impression/*
+/pixel1/impression.
 /pixel_iframe.
 /pixel_track.
 /pixel_tracking.
 /pixelcounter.
+/pixelframe/*
 /PixelImg.asp
 /pixellog.
 /PixelNedstat.
 /pixelNew.js
 /pixels.jsp?
 /pixelstats/*
+/pixeltag.
 /pixelTargetingCacheBuster.
 /pixeltrack.php?
 /pixeltracker.
@@ -1647,6 +1661,7 @@
 /PmsPixel?
 /pmspxl.
 /point_roll.
+/pointeur.gif?
 /PointRoll.
 /PointRollAnonymous.
 /pomegranate.js
@@ -1667,6 +1682,7 @@
 /promo_tracking/*
 /promos/pixels?
 /pstats.
+/pt.gif?type=
 /ptrack.
 /pub/as?_ri_=$image
 /pubimppixel/*
@@ -1834,7 +1850,9 @@
 /services/counters/*
 /session-hit.
 /session-tracker/tracking-
+/sessioncam.min.$script
 /sessioncam/*
+/set-cookie.gif?
 /SETCOOKAFF.
 /setcooki.
 /setcookie?
@@ -1931,6 +1949,7 @@
 /stat_page2.
 /stat_search.
 /stat_visits.
+/stat_vue.php?
 /stataffs/track.php?
 /statcapture.
 /StatCms/ViewCount?
@@ -1997,6 +2016,7 @@
 /StatV1?
 /stcollection.
 /store-uniq-client-id?bomuuid=
+/stracking.js
 /stt/track.
 /stt/track/*
 /stwc-counter/*
@@ -2018,7 +2038,9 @@
 /tacoda_
 /TacodaFTT.
 /TagCommander.cfc?
+/tagcommander/*
 /tagomnitureengine.js
+/tags/angular-
 /TagSvc/*
 /tagx.js
 /taxtag.js
@@ -2068,6 +2090,7 @@
 /track.js?referrer
 /track.js?screen=
 /track.php?*&uid=
+/track.png?
 /track/*&CheckCookieId=
 /track/*?rnd=0.$image
 /track/?site
@@ -2095,12 +2118,14 @@
 /track_metric/*
 /track_pageview?
 /track_social.
+/track_views.
 /track_visit?
 /trackad.
 /trackAdHit.
 /TrackClick.
 /trackClickEvent.js
 /trackContentViews.
+/trackconversion?
 /tracker-ev-sdk.js
 /tracker-r1.js
 /tracker.js.php?
@@ -2113,6 +2138,7 @@
 /tracker/blank.gif?
 /tracker/event?
 /tracker/imp?
+/tracker/index.jsp?
 /tracker/log?
 /tracker/p.gif?
 /tracker/ping/*
@@ -2126,6 +2152,7 @@
 /tracker?*=
 /tracker_activityStream.
 /tracker_article
+/tracker_czn.tsp?
 /tracker_gif.
 /tracker_pageview.
 /tracker_pixel.
@@ -2136,6 +2163,7 @@
 /trackerstatistik.
 /trackEvent.js?
 /trackEvent.min.js?
+/trackga.
 /trackimage/*
 /trackImpression/*
 /trackimps?
@@ -2438,6 +2466,7 @@
 /wlog.php?
 /wmxtracker.js
 /woopra.js
+/worldwide_analytics/*
 /wp-click-track/*
 /wp-clickmap/*
 /wp-content/plugins/stats/count.php?
@@ -2548,6 +2577,7 @@
 ?eventtype=impression&pid=
 ?eventtype=request&pid=
 ?googleTrack=
+?hmtrackerjs=
 ?record&*&serve_js
 ?ref=*&itemcnt=
 ?stwc_cz=
@@ -2603,6 +2633,7 @@ _sdctag2.
 _semanticTag/
 _setAnalyticsFields&
 _social_tracking.
+_stat_counter.php?
 _stats.js?
 _stats/Logger?
 _stats_log.

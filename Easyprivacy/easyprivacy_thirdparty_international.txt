@@ -32,6 +32,7 @@
 ||ctr.nmg.de^$third-party
 ||data.econa.com^
 ||datacomm.ch^*/count.cgi?
+||events.kaloo.ga^$third-party
 ||events.snacktv.de^
 ||export.newscube.de^
 ||fc.webmasterpro.de^$third-party
@@ -170,6 +171,7 @@
 ||btstats.devtribu.fr^
 ||calotag.com^$third-party
 ||cdn-analytics.ladmedia.fr^
+||compteur.websiteout.net^
 ||da-kolkoz.com/da-top/track/
 ||devtribu.fr/t.php?
 ||e-pagerank.fr/bouton.gif?$third-party
@@ -227,7 +229,6 @@
 ||cbsi.com.cn/js/dw.js
 ||cdn.hiido.cn^$third-party
 ||cdnmaster.com/sitemaster/sm360.js
-||changyan.sohu.com/stat/
 ||click.bokecc.com^
 ||cms.grandcloud.cn^$third-party
 ||cnzz.com/c.php?
@@ -253,6 +254,7 @@
 ||sobeycloud.com/Services/Stat.
 ||sohu.com/pvpb.gif?
 ||stat.ws.126.net^
+||stat.youku.com^
 ||t.hypers.com.cn^
 ||tanx.com/t/tanxclick.js
 ||tanx.com/t/tanxcollect.js
@@ -281,10 +283,8 @@
 ||wee.dk/modules/$third-party
 ||wwwportal.dk/statistik.php
 ! Dutch
-||95.211.106.41^$third-party,domain=~538group.ip
 ||analytics.belgacom.be^
 ||bbvms.com/zone/js/zonestats.js
-||c.pebblemedia.be^
 ||cookies.reedbusiness.nl^
 ||hottraffic.nl^$third-party
 ||marktplaats.net/cnt/
@@ -361,6 +361,7 @@
 ||top100.tuttoperinternet.it^
 ||tr.bt.matrixspa.it^
 ||track.adintend.com^
+||track.cedsdigital.it^
 ||track.youniversalmedia.com^
 ||tracker.bestshopping.com^
 ||tracking.conversion-lab.it^
@@ -394,7 +395,6 @@
 ! Korean
 ||180.70.93.115/ndmclick/$domain=~daum.ip
 ||cafe24.com/weblog.js
-||naver.net/wcslog.js
 ! Latvian
 ||counter.hackers.lv^
 ||hits.sys.lv^
@@ -437,7 +437,6 @@
 ||awaps.yandex.ru^
 ||bigday.ru/counter.php?
 ||bioraywaterrank.ru/count/
-||bs.yandex.ru^
 ||c.bigmir.net^
 ||clck.yandex.ru^$~other
 ||climatecontrol.ru/counters/
@@ -522,7 +521,6 @@
 ||wmtools.ru/counter.php?
 ||xn--e1aaipcdgnfsn.su^*/counter.php
 ||yandeg.ru/count/
-||yandex.ru/cycounter?
 ||yandex.ru/metrika/
 ||zahodi-ka.ru/ic/index_cnt.fcgi?
 ||zahodi-ka.ru^*/schet.cgi?
@@ -535,6 +533,7 @@
 ! Slovene
 ||interseek.si^*/visit.js
 ! Spanish
+||analitica.webrpp.com^
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
 ||epimg.net/js/vr/vrs.
@@ -558,3 +557,5 @@
 ||metalportal.com.ua/count.php?
 ||mgz.com.ua/counter.php?
 ||top.zp.ua/counter/
+! Vietnam
+||analytics.mecloud.vn^

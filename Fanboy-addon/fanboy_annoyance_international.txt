@@ -68,6 +68,7 @@ hannovermesse.de##.user-notes-notification
 !---------- Hungary Site Generic Hiding Rules ----------
 !
 decathlon.co.hu###cookie
+hrportal.hu###fixdiv
 !
 !---------- Polish Site Generic Hiding Rules ----------
 !
@@ -159,7 +160,8 @@ nyt.fi###next-teaser
 k-citymarket.fi,k-market.fi##.Pbox-sm
 americanairlines.fi,pizza-online.fi##.alert
 sonera.fi##.attention-notice
-ilmainensanakirja.fi##.cookies
+hs.fi##.cb-container
+blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
 lacajachina.fi##.cp-curtain-container
 !
 !---------- Dutch Site Specific Hiding Rules ----------
@@ -168,6 +170,7 @@ t-mobile.nl###exposeMask
 techzine.nl###scrollbuddy[style="top: -20px; position: fixed;"]
 boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl#@#.Cookies
 hepatitiscgids.nl##.modal-backdrop
+tweakers.net##.notification
 3dtvmagazine.nl,gadgetsmagazine.nl,homecinemamagazine.nl,tabletsmagazine.nl##.opt-in
 t-mobile.nl##.overlay
 @@||cookiesv2.publiekeomroep.nl^$domain=cinema.nl|nos.nl|npo.nl
@@ -294,7 +297,7 @@ minutebuzz.com##.popinNl
 metairie.fr##.popup-notification
 korben.info##.post-subscribe
 stihl.fr##.privacyTop
-ca-anjou-maine.fr,ca-cb.fr,ca-nord-est.fr##.recocliv2
+ca-anjou-maine.fr,ca-briepicardie.fr,ca-cb.fr,ca-nord-est.fr##.recocliv2
 radins.com##.reveal-modal
 radins.com##.reveal-modal-bg
 vertbaudet.fr##.stickybar

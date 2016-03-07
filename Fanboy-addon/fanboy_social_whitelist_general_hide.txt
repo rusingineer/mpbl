@@ -39,6 +39,7 @@ coverscreen.com#@##social_bar
 base.de#@##social_footer
 nextinpact.com#@##socialbar
 lenta.ru#@##socials
+feedburner.com#@##subscribe-options
 24matins.fr#@##top_share
 socket.io,strim.io,twitter.com#@##tweets
 asian-u.com#@##twitter_button
@@ -54,8 +55,8 @@ kino-vorschau.com#@#.arqam-widget-counter
 neowin.net#@#.article-share
 nbcnews.com#@#.article_share
 opposingviews.com#@#.block-socialmedia
-aplus.com,crowdin.net,deezer.com,foodit.com,magine.com,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
-secure.allocine.fr,techinasia.com#@#.btn-fb
+aplus.com,crowdin.net,deezer.com,foodit.com,magine.com,nexoneu.com,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
+nexoneu.com,secure.allocine.fr,techinasia.com#@#.btn-fb
 foodit.com,theoldreader.com#@#.btn-google-plus
 secure.allocine.fr#@#.btn-gplus
 younow.com#@#.btn-instagram
@@ -83,7 +84,7 @@ imagecloud.tv#@#.fa-share-alt
 magine.com,sendspace.com#@#.fa-twitter
 imagecloud.tv#@#.fa-youtube-play
 azurewebsites.net#@#.facebook-btn
-bitbucket.org,ebuddy.com,geekli.st,musixmatch.com,plug.dj#@#.facebook-button
+bitbucket.org,ebuddy.com,geekli.st,globalcitizen.org,musixmatch.com,plug.dj#@#.facebook-button
 twitter.com#@#.facebook-container
 facebook.com#@#.facebook-widget
 mozillamessaging.com,pinterest.com#@#.facebook.icon
@@ -111,7 +112,7 @@ facebook.com#@#.fb_share
 facebook.com#@#.fblike
 twitter.com#@#.follow-bar
 twitter.com#@#.follow-btn
-500px.com,academia.edu,stream.me,twitch.tv,twitter.com,xing.com,zhihu.com#@#.follow-button
+500px.com,academia.edu,stream.me,tumblr.com,twitch.tv,twitter.com,xing.com,zhihu.com#@#.follow-button
 medium.com#@#.follow-label
 linkedin.com#@#.follow-widget
 norisbank.de#@#.followBox
@@ -269,12 +270,13 @@ clientsfromhell.net#@#.socialbuttons
 heise.de,thenextweb.com#@#.socialmedia
 chaturbate.com,gog.com#@#.socials
 vorarlberg.orf.at#@#.socialshare
+listenonrepeat.com#@#.ssk-facebook
 cbsnews.com#@#.std-social
 stumbleupon.com#@#.stumble-button
 geekgamer.tv#@#.subscribe-widget
 twitter.com#@#.tweet-btn
 socket.io,twitter.com#@#.tweets
-bitbucket.org,geekli.st,plug.dj#@#.twitter-button
+bitbucket.org,geekli.st,plug.dj,twitter.com#@#.twitter-button
 twitter.com#@#.twitter-hashtag
 electnext.com#@#.twitter-share
 boingboing.net#@#.twitter-share-button

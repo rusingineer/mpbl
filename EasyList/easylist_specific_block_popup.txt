@@ -1,6 +1,6 @@
 /sendspace-pop.$popup,domain=sendspace.com
 ^utm_source=$popup,domain=exashare.com|sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
-|http:$popup,third-party,domain=allmyvideos.net|embed.videoweed.es|extreme-board.com|fastspics.net|filepost.com|filmovizija.com|go4up.com|imagebam.com|imagefruit.com|imageporter.com|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|load.to|mofunzone.com|openload.co|promptfile.com|putlocker.is|thevideo.me|twer.info|vidspot.net|watchcartoononline.com|xtshare.com|youwatch.org
+|http:$popup,third-party,domain=24avarii.ru|allmyvideos.net|embed.videoweed.es|extreme-board.com|fastspics.net|filepost.com|filmovizija.com|go4up.com|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|load.to|mofunzone.com|openload.co|pic2pic.site|promptfile.com|putlocker.is|thevideo.me|twer.info|vidspot.net|watchcartoononline.com|xtshare.com|youwatch.org
 ||104.239.139.5/display/$popup
 ||4fuckr.com/api.php$popup
 ||adf.ly^$popup,domain=uploadcore.com|urgrove.com
@@ -11,6 +11,7 @@
 ||avalanchers.com/out/$popup
 ||bangstage.com^$popup,domain=datacloud.to
 ||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
+||bestreams.net/*.html$popup
 ||bit.ly^$popup,domain=fastvideo.eu|rapidvideo.org|sh.st
 ||casino-x.com^*&promo$popup
 ||channel4.com/ad/$popup
@@ -18,7 +19,6 @@
 ||cloudzilla.to/cam/wpop.php$popup
 ||comicbookmovie.com/plugins/ads/$popup
 ||conservativepost.com/pu/$popup
-||damoh.muzu.tv^$popup
 ||deb.gs^*?ref=$popup
 ||eafyfsuh.net^*/?name=$popup
 ||edomz.com/re.php?mid=$popup
@@ -43,6 +43,7 @@
 ||fullonsms.com/sid.html$popup
 ||gamezadvisor.com/popup.php$popup
 ||goo.gl^$popup,domain=amaderforum.com|jumbofile.net|videomega.tv
+||google-analytics.com^$popup,domain=gorillavid.in
 ||google.com.eg/url?$popup,domain=hulkload.com
 ||gratuit.niloo.fr^$popup,domain=simophone.com
 ||hide.me^$popup,domain=ncrypt.in
@@ -98,6 +99,7 @@
 ||torrentz.*/mgidpop/$popup
 ||torrentz.*/wgmpop/$popup
 ||torrentz.eu/p/$popup
+||torrentz.eu/search*=$popup,~third-party
 ||tozer.youwatch.org^$popup
 ||trans.youwatch.org^$popup
 ||tripadvisor.*/rulebasedpopunder?$popup
