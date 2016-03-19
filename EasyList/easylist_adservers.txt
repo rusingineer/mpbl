@@ -500,7 +500,6 @@
 ||adsupply.com^$third-party
 ||adsurve.com^$third-party
 ||adsvert.com^$third-party
-||adswizz.com^$third-party
 ||adsxgm.com^$third-party
 ||adtaily.com^$third-party
 ||adtaily.eu^$third-party
@@ -592,6 +591,7 @@
 ||adworldmedia.net^$third-party
 ||adxcore.com^$third-party
 ||adxion.com^$third-party
+||adxpansion.com^$third-party
 ||adxpose.com^$third-party
 ||adxpower.com^$third-party
 ||adyoulike.com^$third-party
@@ -659,6 +659,7 @@
 ||ajansreklam.net^$third-party
 ||alchemysocial.com^$third-party
 ||alfynetwork.com^$third-party
+||algovid.com^$third-party
 ||alimama.com^$third-party
 ||allabc.com^$third-party
 ||alleliteads.com^$third-party
@@ -689,7 +690,8 @@
 ||anet*.tradedoubler.com^$third-party
 ||angege.com^$third-party
 ||anonymousads.com^$third-party
-||anrdoezrs.net^$third-party
+||anrdoezrs.net/image-$third-party
+||anrdoezrs.net/placeholder-$third-party
 ||anwufkjjja.com^$third-party
 ||anymedia.lv^$third-party
 ||anyxp.com^$third-party
@@ -805,6 +807,7 @@
 ||bannertgt.com^$third-party
 ||bannertracker-script.com^$third-party
 ||bannerweb.com^$third-party
+||banniere.reussissonsensemble.fr^$third-party
 ||baronsoffers.com^$third-party
 ||basebanner.com^$third-party
 ||bbelements.com^$third-party
@@ -812,6 +815,7 @@
 ||beaconads.com^$third-party
 ||beatchucknorris.com^$third-party
 ||bebi.com^$third-party
+||become.successfultogether.co.uk^$third-party
 ||bedorm.com^$third-party
 ||beead.co.uk^$third-party
 ||beead.net^$third-party
@@ -820,6 +824,7 @@
 ||begun.ru^$third-party
 ||belointeractive.com^$third-party
 ||belvertising.be^$third-party
+||benisoncanorous.org^$third-party
 ||bentdownload.com^$third-party
 ||bepolite.eu^$third-party
 ||beringmedia.com^$third-party
@@ -1043,6 +1048,7 @@
 ||clickintext.net^$third-party
 ||clickiocdn.com^$third-party
 ||clickkingdom.net^$third-party
+||clickmon.co.kr^$third-party
 ||clickmyads.info^$third-party
 ||clicknano.com^$third-party
 ||clickosmedia.com^$third-party
@@ -1219,6 +1225,7 @@
 ||deployads.com^$third-party
 ||deriversal.com^$third-party
 ||derlatas.com^$third-party
+||descapita.com^$third-party
 ||destinationurl.com^$third-party
 ||detailtoothteam.com^$third-party
 ||detroposal.com^$third-party
@@ -1237,6 +1244,7 @@
 ||dinclinx.com^$third-party
 ||dipads.net^$~image,third-party
 ||directaclick.com^$third-party
+||directclicksonly.com^$third-party
 ||directile.info^$third-party
 ||directile.net^$third-party
 ||directleads.com^$third-party
@@ -1378,7 +1386,8 @@
 ||downloadboutique.com^$third-party
 ||downsonglyrics.com^$third-party
 ||dp25.kr^$third-party
-||dpbolvw.net^$third-party
+||dpbolvw.net/image-$third-party
+||dpbolvw.net/placeholder-$third-party
 ||dpmsrv.com^$third-party
 ||dpsrexor.com^$third-party
 ||dpstack.com^$third-party
@@ -1404,6 +1413,7 @@
 ||dvaminusodin.net^$third-party
 ||dveribo.ru^$third-party
 ||dyino.com^$third-party
+||dynad.net^$third-party
 ||dynamicoxygen.com^$third-party
 ||dynamitedata.com^$third-party
 ||e-find.co^$third-party
@@ -1595,6 +1605,7 @@
 ||fulltraffic.net^$third-party
 ||fungoiddempseyimpasse.info^$third-party
 ||funklicks.com^$third-party
+||furginator.pw^$third-party
 ||fusionads.net^$third-party
 ||futureresiduals.com^$third-party
 ||futureus.com^$third-party
@@ -1742,6 +1753,7 @@
 ||hits.sys.lv^$third-party
 ||hitwastedgarden.com^$third-party
 ||hlads.com^$third-party
+||hmongcash.com^$third-party
 ||hokaybo.com^$third-party
 ||holdingprice.net^$third-party
 ||holidaytravelguide.org^$third-party
@@ -1761,6 +1773,7 @@
 ||hotwords.com.mx^$third-party
 ||hotwords.com^$third-party
 ||hover.in^$third-party
+||howtodoblog.com^$third-party
 ||hplose.de^$third-party
 ||hsslx.com^$third-party
 ||hstpnetwork.com^$third-party
@@ -1803,6 +1816,7 @@
 ||imgfeedget.com^$third-party
 ||imglt.com^$third-party
 ||imgsniper.com^$third-party
+||imgtty.com^$third-party
 ||imgwebfeed.com^$third-party
 ||imho.ru^$third-party
 ||imiclk.com^$third-party
@@ -1811,6 +1825,7 @@
 ||impact-ad.jp^$third-party
 ||impactradius.com^$third-party
 ||implix.com^$third-party
+||impore.com^$third-party
 ||impresionesweb.com^$third-party
 ||impressionaffiliate.com^$third-party
 ||impressionaffiliate.mobi^$third-party
@@ -1903,7 +1918,8 @@
 ||jangonetwork.com^$third-party
 ||jarvinzo.com^$popup
 ||jbrlsr.com^$third-party
-||jdoqocy.com^$third-party
+||jdoqocy.com/image-$third-party
+||jdoqocy.com/placeholder-$third-party
 ||jdproject.net^$third-party
 ||jeetyetmedia.com^$third-party
 ||jemmgroup.com^$third-party
@@ -1970,7 +1986,8 @@
 ||koocash.com^$third-party
 ||korrelate.net^$third-party
 ||kovla.com^$third-party
-||kqzyfj.com^$third-party
+||kqzyfj.com/image-$third-party
+||kqzyfj.com/placeholder-$third-party
 ||kr3vinsx.com^$third-party
 ||kromeleta.ru^$third-party
 ||kumpulblogger.com^$third-party
@@ -2167,7 +2184,7 @@
 ||merchenta.com^$third-party
 ||mercuras.com^$third-party
 ||messagespaceads.com^$third-party
-||metaffiliation.com^$~image,~subdocument,third-party
+||metaffiliation.com^$~image,~subdocument,third-party,domain=~netaffiliation.com
 ||metaffiliation.com^*^maff=
 ||metaffiliation.com^*^taff=
 ||metavertising.com^$third-party
@@ -2376,6 +2393,7 @@
 ||offerserve.com^$third-party
 ||offersquared.com^$third-party
 ||ofino.ru^$third-party
+||ogercron.com^$third-party
 ||oggifinogi.com^$third-party
 ||ohmcasting.com^$third-party
 ||oileddaintiessunset.info^$third-party
@@ -2383,6 +2401,7 @@
 ||omclick.com^$third-party
 ||omg2.com^$third-party
 ||omni-ads.com^$third-party
+||omnitagjs.com^$third-party
 ||onad.eu^$third-party
 ||onads.com^$third-party
 ||onclickads.net^$third-party
@@ -2510,6 +2529,7 @@
 ||pictela.net^$third-party
 ||pinballpublishernetwork.com^$third-party
 ||pioneeringad.com^$third-party
+||pipeaota.com^$third-party
 ||piticlik.com^$third-party
 ||pivotalmedialabs.com^$third-party
 ||pivotrunner.com^$third-party
@@ -2580,6 +2600,7 @@
 ||poweradvertising.co.uk^$third-party
 ||powerfulbusiness.net^$third-party
 ||powerlinks.com^$third-party
+||powermarketing.com^$third-party
 ||ppcindo.com^$third-party
 ||ppclinking.com^$third-party
 ||ppctrck.com^$third-party
@@ -2725,7 +2746,6 @@
 ||resultsz.com^$third-party
 ||retargeter.com^$third-party
 ||retono42.us^$third-party
-||reussissonsensemble.fr^$third-party
 ||rev2pub.com^$third-party
 ||revcontent.com^$third-party
 ||revenue.com^$third-party
@@ -2975,7 +2995,6 @@
 ||style-eyes.eu^$third-party
 ||sublimemedia.net^$third-party
 ||submitexpress.co.uk^$third-party
-||successfultogether.co.uk^$third-party
 ||suffusefacultytsunami.info^$third-party
 ||sugarlistsuggest.info^$third-party
 ||suggesttool.com^$third-party
@@ -2989,6 +3008,7 @@
 ||superloofy.com^$third-party
 ||supersitetime.com^$third-party
 ||supplyframe.com^$third-party
+||supprent.com^$third-party
 ||supremeadsonline.com^$third-party
 ||surf-bar-traffic.com^$third-party
 ||surfboarddigital.com.au^$third-party
@@ -3074,7 +3094,8 @@
 ||tisadama.com^$third-party
 ||tiser.com^$third-party
 ||tissage-extension.com^$third-party
-||tkqlhce.com^$third-party
+||tkqlhce.com/image-$third-party
+||tkqlhce.com/placeholder-$third-party
 ||tldadserv.com^$third-party
 ||tlvmedia.com^$third-party
 ||tnyzin.ru^$third-party
@@ -3626,6 +3647,7 @@
 ||ignup.com^$third-party
 ||incotand.com^$third-party
 ||induanajo.com^$third-party
+||insiruand.com^$third-party
 ||iunbrudy.net^$third-party
 ||ivism.org^$third-party
 ||jaspensar.com^$third-party

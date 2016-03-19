@@ -3,9 +3,11 @@
 @@/cdn-cgi/pe/bag2?*googleadservices.com$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*googlesyndication.com%2Fpagead%2Fosd.js$domain=forwardprogressives.com
 @@/cdn-cgi/pe/bag2?*histats.com$domain=xrussianteens.com
+@@/cdn-cgi/pe/bag2?*newrelic.com$domain=clamav.net
 @@/cdn-cgi/pe/bag2?*nr-data.net$domain=realhardwarereviews.com
 @@/cdn-cgi/pe/bag2?*piwik.js$domain=orain.org
-@@/cdn-cgi/pe/bag2?*scorecardresearch.com$xmlhttprequest,domain=amypink.de|droid-life.com|mmanews.com|unilad.co.uk
+@@/cdn-cgi/pe/bag2?*quantserve.com$xmlhttprequest,domain=dailycaller.com
+@@/cdn-cgi/pe/bag2?*scorecardresearch.com$xmlhttprequest,domain=amypink.de|biznews.com|dailycaller.com|droid-life.com|mmanews.com|unilad.co.uk
 @@/cdn-cgi/pe/bag2?*skimlinks.js$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs$domain=amazingpics.net
 @@/cdn-cgi/pe/bag2?*yieldbot.intent.js$domain=droid-life.com
@@ -24,6 +26,7 @@
 @@||adobetag.com^*s_code.js$domain=fnac.com
 @@||aflac.com/js/wt_capi.js
 @@||akamai.net^*/omniture.jsp$script,domain=walmart.com
+@@||alicdn.com^*/class.js*/base.js*/widget.js$script
 @@||aliexpress.com/home/recommendEntry.do?$script
 @@||aliunicorn.com^*/click-stat.js
 @@||aliunicorn.com^*/click_stat/
@@ -72,6 +75,7 @@
 @@||bettycrocker.com/Shared/Javascript/UnicaTag.js
 @@||bhg.com/web/js-min/common/js/dwr/RemoteTargetingService.js
 @@||bitgo.com/vendor/googleanalytics/angular-ga.min.js
+@@||bjjhq.com/HttpCombiner.ashx?$script
 @@||blogsmithmedia.com^*/gravity-beacon.js$domain=engadget.com
 @@||bolha.com/clicktracker/
 @@||bonappetit.com^*/cn-fe-stats/$script
@@ -104,7 +108,7 @@
 @@||cdn-redfin.com^*/page_analytics.js$domain=redfin.com
 @@||cdn-redfin.com^*/page_analytics.xd.js
 @@||cdn-redfin.com^*/PixelTracking.js$domain=redfin.com
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|techrepublic.com|zdnet.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com
 @@||centurylink.net/images/track/track.gif?track=$xmlhttprequest
 @@||chanel.com/js/chanel-tracking.js$script
 @@||chartbeat.com/*/chartbeat/$~third-party
@@ -119,12 +123,14 @@
 @@||clicktale.net/wrb.js$domain=microsoft.com
 @@||clicktale.net^$script,domain=cbc.ca
 @@||cloudflare.com/analytics?$domain=cloudflare.com
+@@||cloudflare.com^*/angulartics-google-analytics.min.js$domain=chromeexperiments.com
 @@||cloudfront.net/assets/js/comscore_beacon.js?$domain=zap2it.com
 @@||cloudfront.net/atrk.js$domain=karnaval.com|livestream.com|luxuryrealestate.com
 @@||cloudfront.net/bugsnag-*.min.js$domain=splice.com|storenvy.com|tvguide.com
 @@||cloudfront.net/js/reach.js$domain=zap2it.com
 @@||cloudfront.net/mngr/$script,domain=theladbible.com
 @@||cloudfront.net/opentag-*.js$domain=mackweldon.com|telegraph.co.uk
+@@||cloudfront.net^*/comscore.$script,domain=my5.tv
 @@||cloudfront.net^*/jquery.google-analytics.js$domain=homepath.com
 @@||cloudfront.net^*/keen.min.js$domain=foodnetwork.co.uk
 @@||collegeboard.org/webanalytics/
@@ -195,6 +201,7 @@
 @@||expedia.com/minify/siteAnalytics-$script
 @@||expedia.com/static/default/default/scripts/siteAnalytics.js
 @@||expedia.com/static/default/default/scripts/TealeafSDK.js
+@@||facebook.com/ajax/photos/logging/session_logging.php?$xmlhttprequest
 @@||fccbrea.org^*/swfaddress.js
 @@||fifa.com^*/webanalytics.js?
 @@||firstdirect.com^*/logging-code.js
@@ -238,7 +245,7 @@
 @@||google.com/analytics/js/analytics.min.js$~third-party
 @@||google.com/js/gweb/analytics/$domain=google.com
 @@||google.com/js/gweb/analytics/doubletrack.js$domain=android.com
-@@||googletagmanager.com/gtm.js?$domain=desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|google.com|keygames.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com
+@@||googletagmanager.com/gtm.js?$domain=desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|google.com|keygames.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com
 @@||googletagservices.com/tag/js/gpt.js$domain=speedtest.net
 @@||gorillanation.com/js/triggertag.js$domain=comingsoon.net|playstationlifestyle.net
 @@||grapeshot.co.uk/image-resize/$image
@@ -259,11 +266,11 @@
 @@||hotwirestatic.com^*/opinionLab.js$domain=hotwire.com
 @@||i.s-microsoft.com/wedcs/ms.js$domain=skype.com
 @@||ibis.com/scripts-*/xtanalyzer_roi.js
-@@||images-iherb.com/js/ga-pro.min2.js$domain=iherb.com
+@@||images-iherb.com/js/ga-pro*.js$domain=iherb.com
 @@||img.en25.com/eloquaimages/clients/PentonMediaInc/$image,domain=windowsitpro.com
 @@||imrworldwide.com/crossdomain.xml$object-subrequest,domain=cc.com|sbs.com.au
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=europafm.com
-@@||imrworldwide.com/v60.js$domain=musicfeeds.com.au|nzherald.co.nz|sf.se|weatherchannel.com.au
+@@||imrworldwide.com/v60.js$domain=musicfeeds.com.au|nzherald.co.nz|realestateview.com.au|sf.se|weatherchannel.com.au
 @@||imrworldwide.com^*-mediaplayer&$domain=au.launch.yahoo.com
 @@||imrworldwide.com^*/flashdetect.js
 @@||imrworldwide.com^*/ggce354.swf$domain=espn.go.com|espndeportes.com|espnfc.co.uk|espnfc.com|espnfc.com.au|espnfc.us|espnfcasia.com
@@ -409,6 +416,7 @@
 @@||pixel.quantserve.com/seg/$script,domain=photos.essence.com
 @@||pixel.quantserve.com/seg/r;a=$object-subrequest,domain=breitbart.tv|cbs.com|filefront.com|imdb.com|laobserved.com|tv.com
 @@||playcanvas.com.*/keen.min.js
+@@||player.sundaysky.com^$subdocument
 @@||playtheend.com/api/v1/players/heatmap.json?$object-subrequest
 @@||pokemonblackwhite.com^*/jquery.google-analytics.js
 @@||polycom.com/polycomservice/js/unica/ntpagetag.js
@@ -442,6 +450,7 @@
 @@||scorecardresearch.com/beacon.js$domain=agame.com|allrecipes.com|amctv.com|apl.tv|babycenter.com|bonappetit.com|calgaryherald.com|canada.com|cbc.ca|dailymail.co.uk|deviantart.com|discovery.com|edmontonjournal.com|fastcompany.com|financialpost.com|firstwefeast.com|hitfix.com|huffingtonpost.com|landandfarm.com|last.fm|leaderpost.com|m.tmz.com|montrealgazette.com|nationalpost.com|newsday.com|ottawacitizen.com|outsideonline.com|radaronline.com|salon.com|sci2.tv|syfy.com|theprovince.com|thestar.com|thestarphoenix.com|thinkatheist.com|vancouversun.com|windsorstar.com
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_theplatform.js
 @@||scorecardresearch.com/crossdomain.xml$domain=rte.ie
+@@||scorecardresearch.com^*/cs.js$script,domain=thedailybeast.com
 @@||scripts.demandmedia.com/wm.js$domain=ehow.com
 @@||sears.com^*/analytics.sitecatalyst.js
 @@||segment.io/analytics.js/*/analytics.min.js$domain=greentoe.com|thescene.com
@@ -501,6 +510,7 @@
 @@||track2.royalmail.com^
 @@||tracker.mattel.com/tracker.aspx?site=$script
 @@||tracker.mattel.com^$domain=barbie.com
+@@||tracking.unrealengine.com/tracking.js
 @@||trackjs.com^$~third-party
 @@||trc.taboola.com/*/log/3/available|$subdocument,domain=globes.co.il
 @@||trc.taboolasyndication.com^$domain=bloomberg.com|breitbart.com|breitbart.tv|nme.com|slatev.com
@@ -508,6 +518,7 @@
 @@||turner.com/cnn/*/video/chartbeat.js$domain=cnn.com
 @@||turner.com^*/aspenanalytics.xml$domain=cnn.com
 @@||twimg.com/googleanalytics/analytics.js$script,domain=twitter.com
+@@||uefa.com^*/chartbeat-trending-carousel.js
 @@||ultimedia.com/js/common/jquery.gatracker.js
 @@||unifi.me/mootools/classes/*-tracking
 @@||unity3d.com/profiles/unity3d/themes/unity/images/services/analytics/$image,~third-party

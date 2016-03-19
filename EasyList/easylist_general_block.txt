@@ -74,6 +74,7 @@
 -ad-336x280-
 -ad-340x400-
 -ad-400.
+-ad-banner-
 -ad-banner.
 -ad-big.
 -ad-bottom-
@@ -99,6 +100,7 @@
 -ad-marker.
 -ad-mpu+
 -ad-new_
+-ad-resize-
 -ad-right.
 -ad-rotators/
 -ad-server/
@@ -116,6 +118,7 @@
 -ad.jpg?
 -ad.jsp|
 -ad.php?
+-ad/embed.
 -ad/main.
 -ad/right_
 -ad03.
@@ -150,6 +153,7 @@
 -ads-init&
 -ads-management/
 -ads-manager/
+-ads-master/
 -ads-ns.
 -ads-placement.
 -ads-right.
@@ -204,6 +208,7 @@
 -adwords.
 -affiliate-link.
 -affiliates/img_
+-article-ad-
 -article-ads-
 -article-advert-
 -banner-768.
@@ -292,6 +297,7 @@
 -small-ad.
 -source/ads/
 -sponsor-ad.
+-SponsorAd.
 -sponsored-links-
 -strip-ads-
 -template-ads/
@@ -482,6 +488,7 @@
 .jp/ads/
 .jsp?adcode=
 .ke/ads/
+.lazyad-
 .lazyload-ad-
 .lazyload-ad.
 .link/ads/
@@ -1237,6 +1244,7 @@
 /ad_stem/*
 /ad_styling_
 /ad_supertile/*
+/ad_support.
 /ad_sys/*
 /ad_syshome.
 /ad_system/*
@@ -1710,7 +1718,7 @@
 /adnet.
 /ADNet/*
 /adnet2.
-/adnetmedia.
+/adnetmedia.$domain=~adnetmedia.hu
 /adnetwork.$domain=~adnetwork.ie
 /adnetwork/*
 /adnetwork300.
@@ -1930,6 +1938,7 @@
 /ads/728b.
 /ads/?QAPS_
 /ads/a.
+/ads/abrad.
 /ads/acctid=
 /ads/ad-
 /ads/ad.
@@ -2343,6 +2352,7 @@
 /adsecondary.
 /adsegmentation.
 /adseller/*
+/adsen/*
 /adsence.
 /adsenceSearch.
 /adsenceSearchTop.
@@ -2392,6 +2402,7 @@
 /adserver8strip.
 /adserver?
 /adserver_
+/adserverc.
 /adserverdata.
 /adserverpub?
 /adservers-
@@ -2419,6 +2430,7 @@
 /adsfinal.
 /adsfloat.
 /adsfolder/*
+/adsfooter-
 /adsframe.
 /adsfuse-
 /adsgame.
@@ -2469,6 +2481,7 @@
 /adsmanager/*
 /adsManagerV2.
 /adsmedia_
+/adsmin/*
 /adsmm.dll/*
 /adsmodules/*
 /adsnew.
@@ -2821,14 +2834,14 @@
 /advertisementview/*
 /advertiser.$domain=~advertiser.growmobile.com|~panel.rightflow.com
 /advertiser/*$domain=~bingads.microsoft.com|~mobileapptracking.com|~trialpay.com
-/advertisers.$image,script,subdocument,domain=~panel.rightflow.com
+/advertisers.$image,script,subdocument,domain=~advertisers.adversense.com|~panel.rightflow.com
 /advertisers/*$domain=~home.tapjoy.com|~panel.rightflow.com|~propelmedia.com
 /advertiserwidget.
 /advertises/*
 /advertisewithus_
-/advertising-$domain=~outbrain.com
-/advertising.
-/advertising/*$~xmlhttprequest,domain=~temple.edu
+/advertising-$domain=~abramarketing.com|~advertising-direct.com|~outbrain.com
+/advertising.$domain=~advertising.dailymotion.com
+/advertising/*$~xmlhttprequest,domain=~commercialplanet.eu|~temple.edu
 /advertising02.
 /advertising2.
 /advertising300x250.
@@ -2952,11 +2965,13 @@
 /adyard.
 /adyard300.
 /adyea.
+/adyoulike.
 /adzbotm.
 /adzerk2_
 /adzilla/*
 /adzone.
 /adzone/*
+/adzone1.
 /adzone4.
 /adzone_
 /AdZoneAdXp.
@@ -2966,6 +2981,7 @@
 /adzoneleft.
 /adzonelegend.
 /adzoneplayerright.
+/AdZonePlayerRight2.
 /adzoneright.
 /adzones/*
 /adzonesidead.
@@ -3267,6 +3283,7 @@
 /bckgrnd_ad.
 /bdcustomadsense-
 /beacon/ad/*
+/beacon/ads?
 /behaviorads/*
 /bennerad.min.
 /beta-ad.
@@ -3682,6 +3699,7 @@
 /dyn_banner.
 /dyn_banners_
 /dynamic-ad-
+/dynamic-ad/*
 /dynamic/ads/*
 /dynamic_ads/*
 /DynamicAd/*
@@ -3843,6 +3861,7 @@
 /footer_ad.
 /footer_ad_
 /footer_ads.
+/footer_ads_
 /footerad.
 /footerad?
 /footerads.
@@ -4410,6 +4429,7 @@
 /layout.inc.php?img
 /layout/ad.
 /layout/ads/*
+/lazy-ads-
 /lazyad.
 /lbl_ad.
 /leadads/*
@@ -4431,6 +4451,7 @@
 /leftsidebarads.
 /lg.php?adid=
 /lib/ad.js
+/libc/ads/*
 /library/ads/*
 /lifeshowad/*
 /lightad.
@@ -4565,6 +4586,7 @@
 /modules/ad_
 /modules/ads/*
 /modules/adv/*
+/modules/dfp/*
 /modules/doubleclick/*
 /modules_ads.
 /momsads.
@@ -5242,6 +5264,7 @@
 /site/ad/*
 /site/ads/*
 /site/ads?
+/site/dfp-
 /site=*/size=*/viewid=
 /site=*/viewid=*/size=
 /site_ads.
@@ -5302,7 +5325,7 @@
 /smartad.
 /smartAd?
 /smartads.
-/smartadserver.
+/smartadserver.$domain=~smartadserver.com|~smartadserver.com.br|~smartadserver.de|~smartadserver.es|~smartadserver.fr|~smartadserver.it|~smartadserver.pl|~smartadserver.ru
 /smartlinks.epl?
 /smb/ads/*
 /smeadvertisement/*
@@ -5514,6 +5537,7 @@
 /thirdpartyframedad/*
 /thumbs/ads/*
 /thunder/ad.
+/ticker_ad.
 /tickeradsget.
 /tidaladplugin.
 /tii_ads.
@@ -5638,7 +5662,7 @@
 /usenext16.
 /user/ads?
 /user_ads/*
-/userad.
+/userad.$domain=~userad.info
 /userad/*
 /userads/*
 /userimages/ads/*
@@ -6000,6 +6024,7 @@
 ?module=ads/
 ?OASTagURL=
 ?phpAds_
+?PopAd=
 ?service=ad&
 ?sid=ads
 ?simple_ad_
@@ -6053,6 +6078,7 @@ _ad_125x125.
 _ad_2012.
 _ad_300.
 _ad_350x250.
+_ad_728_
 _ad_actron.
 _ad_article_
 _ad_background.
@@ -6085,6 +6111,7 @@ _ad_footer.
 _ad_footer_
 _ad_frame.
 _ad_handler.
+_ad_harness.
 _ad_head.
 _ad_header.
 _ad_heading.
@@ -6226,6 +6253,7 @@ _ads_single_
 _ads_targeting.
 _ads_text.
 _ads_top.
+_ads_v8.
 _adsbgd.
 _adscript.
 _adsdaq.
@@ -6413,6 +6441,7 @@ _jtads/
 _juiceadv.
 _juicyads.
 _layerad.
+_lazy_ads/
 _leaderboard_ad_
 _left_ad.
 _link_ads-
@@ -6568,6 +6597,7 @@ takeover_banner_
 ! Anti-Adblock
 -adblocker-detection/
 /ad-blocker.js
+/ad-blocking-alert/*
 /adb.min.js
 /adb_detector.
 /adblock-alerter/*

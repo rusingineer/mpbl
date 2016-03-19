@@ -346,7 +346,7 @@
 /digg_64.
 /digg_alt_16.
 /diggButton.
-/easy-social-share-
+/easy-social-share-$script
 /ej-socialslider/*
 /emailshare.
 /facebkiconnet/*
@@ -1797,7 +1797,7 @@
 /spriteSocialIcons.
 /squaresocial-
 /ss-social-
-/ss-social.
+/ss-social.$~stylesheet
 /st_add-this_
 /st_digg_
 /st_facebook_

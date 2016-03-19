@@ -26,6 +26,7 @@
 ||219.232.238.60/count.$domain=~caixin.com.ip
 ||23.20.0.197^$third-party,domain=~tritondigital.net.ip
 ||23.23.22.172/ping/$third-party,domain=~newjerseynewsroom.com.ip
+||24option.com/?oftc=$image,third-party
 ||3crowd.com^*/3c1px.gif
 ||4theclueless.com/adlogger/
 ||50.16.191.59^$third-party,domain=~tritondigital.net.ip
@@ -201,7 +202,6 @@
 ||aolanswers.com/wtrack/
 ||aolcdn.com/js/mg2.js
 ||aolcdn.com/omniunih_int.js
-||api-ping.intercom.io^
 ||api.awe.sm/stats/$third-party
 ||api.bit.ly/*/clicks?$third-party
 ||api.choicestream.com/instr/ccm/
@@ -375,6 +375,7 @@
 ||cloudfront.net/bti/
 ||cloudfront.net/code/keen-2.1.0-min.js
 ||cloudfront.net/dough/*/recipe.js
+||cloudfront.net/esf.js
 ||cloudfront.net/js/reach.js
 ||cloudfront.net/log.js?
 ||cloudfront.net/performable/
@@ -601,6 +602,7 @@
 ||event.loyalty.bigdoor.com^$third-party
 ||event.previewnetworks.com^
 ||event.trove.com^
+||eventgateway.soundcloud.com^
 ||eventlog.inspsearch.com^
 ||eventlog.inspsearchapi.com^
 ||events.eyeviewdigital.com^*.gif?r=
@@ -993,6 +995,7 @@
 ||ooyala.com^*/report?log
 ||open.delivery.net^
 ||ophan.co.uk/t.gif?
+||optimera.elasticbeanstalk.com^
 ||optimizely.appspot.com^$third-party
 ||ora.tv/j/ora_evttracking.js
 ||orts.wixawin.com^$third-party
@@ -1008,6 +1011,7 @@
 ||pageturnpro.com/tracker.aspx?
 ||pair.com/itero/tracker_ftc/
 ||partner.cynapse.com^
+||partners.etoro.com^
 ||partners.thefilter.com^
 ||partypoker.com^*/tracking-
 ||passport.pfn.bz^
@@ -1016,6 +1020,7 @@
 ||pcmag.com/tview/$image
 ||pcrl.co/js/jstracker.min.js
 ||pebed.dm.gg^
+||perr.h-cdn.com^$third-party
 ||petitionermaster.appspot.com^
 ||pf.aclst.com^$third-party
 ||pg.buzzfeed.com^
@@ -1111,6 +1116,7 @@
 ||rackcdn.com^$script,domain=buysubscriptions.com|cbsnews.com|cbssports.com|cnet.com|dailystar.co.uk|express.co.uk|gamerant.com|gamespot.com|inyt.com|metrolyrics.com|page3.com|rotoworld.com|sh.st|thesun.co.uk|thesundaytimes.co.uk|thetimes.co.uk|zdnet.com
 ||rackcdn.com^*/analytics.js
 ||radiocompanion.com/count.php?
+||ramp.purch.com^
 ||rbl.ms/res/users/tracking/
 ||readcube.com/ping?
 ||readcube.com/tracking/
@@ -1334,6 +1340,7 @@
 ||thetradedesk-tags.s3.amazonaws.com^
 ||thinairsoftware.net/OWYPTracker.aspx?
 ||thismoment.com/tracking/
+||thron.com^*/trackingLibrary.swf
 ||time.chtah.com/a/*/spacer.gif
 ||timeinc.net^*/peopleas2artracker_v1.swf
 ||tinypass.com^*/track?

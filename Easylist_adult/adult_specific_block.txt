@@ -4,7 +4,7 @@
 |http://$image,script,third-party,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 |http://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 |http://$script,third-party,domain=have69.net|i-gay.org
-|https://$image,script,third-party,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+|https://$image,script,third-party,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 |https://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 ||109.201.146.142^$domain=xxxbunker.com
 ||213.174.140.38/bftv/js/msn-
@@ -216,6 +216,7 @@
 ||fuckandcdn.com/sun/sunstatic/frms/$subdocument,domain=sunporno.com
 ||fuckuh.com/pr_ad.swf
 ||funny-games.biz/banners/
+||fux.com/assets/adblock
 ||galleries-pornstar.com/thumb_top/
 ||gals4free.net/images/banners/
 ||gamesofdesire.com/images/banners/
@@ -361,6 +362,7 @@
 ||jav-porn.net/js/popup.js
 ||javporn.in/clicunder.js
 ||javsin.com/vip.html
+||javstreaming.net/app/forad.js
 ||julesjordanvideo.com/flash/$object
 ||justporno.tv/ad/
 ||kaotic.com^*/popnew.js
@@ -830,6 +832,7 @@
 ||youjizz.com/vivid/
 ||youjizz.com^$subdocument,~third-party
 ||youjizz.com^$~third-party,xmlhttprequest
+||youjizz.com^*?*=$image
 ||youngpornvideos.com/images/bangbros/
 ||youngpornvideos.com/images/glamglam/
 ||youngpornvideos.com/images/mofoscash/

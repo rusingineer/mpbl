@@ -150,6 +150,7 @@
 ###base64-share-google
 ###base64-share-twitter
 ###base64-share-vk
+###bbbtmshare
 ###be-social
 ###beesocial
 ###belowpost-like
@@ -2679,6 +2680,9 @@
 ##.essb_link_twitter
 ##.essb_links_list
 ##.essb_share
+##.essbfc-container
+##.essbfc-facebook
+##.essbfc-instagram
 ##.essbis-hover-overlay
 ##.et-social-google-plus
 ##.et-social-icon
@@ -4092,6 +4096,7 @@
 ##.m-site-social-networks
 ##.m-social
 ##.m-social--no-count
+##.m-social--pinterest-pin-it
 ##.m-twit
 ##.m-ytube
 ##.m3Share
@@ -4212,6 +4217,7 @@
 ##.nav--social
 ##.nav--stay-connected
 ##.nav-bar-facebook
+##.nav-follow-us
 ##.nav-footer-social
 ##.nav-icon-facebook
 ##.nav-icon-googleplus
@@ -4326,11 +4332,13 @@
 ##.pin-social
 ##.pinButton
 ##.pin_custom_button
+##.pinit-btn
 ##.pinit-overlay
 ##.pinitShare
 ##.pinit_btn
 ##.pinterest-button
 ##.pinterest-follow
+##.pinterest-hover-container
 ##.pinterest-icon
 ##.pinterest-link
 ##.pinterest-share
@@ -4548,6 +4556,7 @@
 ##.service-links-scmp-weibo-widget
 ##.service-links-twitter-widget
 ##.sexy-bookmarks
+##.sf-social
 ##.sf-widget-holder
 ##.sfacebook
 ##.sfmsb-follow-social-buttons
@@ -4664,6 +4673,7 @@
 ##.share-more
 ##.share-nav
 ##.share-newsvine
+##.share-nl
 ##.share-opera
 ##.share-options
 ##.share-page
@@ -5142,6 +5152,7 @@
 ##.singlesocialfootericon
 ##.sinsocialshare
 ##.sinsocialshareright
+##.site-footer-follow
 ##.site-footer-social-icon-item
 ##.site-footer-social-icon-link
 ##.site-footer-social-icon-list
@@ -5485,6 +5496,7 @@
 ##.social-share-flat
 ##.social-share-google
 ##.social-share-icons
+##.social-share-list
 ##.social-share-overlay
 ##.social-share-tiles
 ##.social-share-title
@@ -6817,6 +6829,7 @@
 ##a[title="Share on Google Plus"]
 ##a[title="Share on Google+"]
 ##a[title="Share on LinkedIn"]
+##a[title="Share on Pinterest"]
 ##a[title="Share on Reddit"]
 ##a[title="Share this article"]
 ##a[title="Share this page on facebook"]

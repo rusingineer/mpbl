@@ -1097,6 +1097,7 @@
 ###ad160x600right
 ###ad180
 ###ad1Sp
+###ad1_holder
 ###ad1_top-left
 ###ad2-home
 ###ad2-label
@@ -1866,6 +1867,8 @@
 ###ad_mpuslot
 ###ad_mrcontent
 ###ad_mrec
+###ad_mrec1
+###ad_mrec2
 ###ad_myFrame
 ###ad_netpromo
 ###ad_new
@@ -2378,6 +2381,7 @@
 ###ads-box-header-pb
 ###ads-by-google
 ###ads-category
+###ads-center-text
 ###ads-col
 ###ads-contain-125
 ###ads-container-2
@@ -2417,6 +2421,7 @@
 ###ads-right-bottom
 ###ads-right-cube
 ###ads-right-skyscraper
+###ads-right-text
 ###ads-right-top
 ###ads-right-twobottom
 ###ads-rt
@@ -2510,6 +2515,7 @@
 ###adsPanel
 ###adsProdHighlight_wrap
 ###adsRight
+###adsRightDiv
 ###adsSPRBlock
 ###adsSuperCTN
 ###adsTop
@@ -2520,6 +2526,8 @@
 ###ads_01
 ###ads_120x60_block
 ###ads_160
+###ads_2015
+###ads_2015_1
 ###ads_3
 ###ads_300
 ###ads_300x250
@@ -2587,6 +2595,7 @@
 ###ads_notice
 ###ads_pave
 ###ads_place
+###ads_placeholder
 ###ads_player
 ###ads_player_audio
 ###ads_player_line
@@ -3617,6 +3626,7 @@
 ###block-advert-content
 ###block-advert-content2
 ###block-advertisement
+###block-bean-in-content-ad
 ###block-dart-dart-tag-ad_top_728x90
 ###block-dart-dart-tag-gfc-ad-top-2
 ###block-dctv-ad-banners-wrapper
@@ -4549,6 +4559,7 @@
 ###ex-ligatus
 ###ex_dart--ex_dart_header_ad
 ###exads
+###exoAd
 ###expandableAd
 ###expandable_welcome_ad
 ###expanderadblock
@@ -4807,6 +4818,8 @@
 ###google-adv-728x90
 ###google-adwords
 ###google-afc
+###google-post-ad
+###google-post-adbottom
 ###google-top-ads
 ###google336x280
 ###google468x60
@@ -5674,6 +5687,7 @@
 ###mini_ads_inset
 ###mn_ads
 ###moa-ads-long
+###mobileAd_holder
 ###mobile_ad_spot_header
 ###mochila-column-right-ad-300x250
 ###mochila-column-right-ad-300x250-1
@@ -5702,6 +5716,7 @@
 ###movieads
 ###mozo-ad
 ###mph-rightad
+###mpl_adv_text
 ###mpr-ad-leader
 ###mpr-ad-wrapper-1
 ###mpr-ad-wrapper-2
@@ -6847,6 +6862,7 @@
 ###taboola-adverts
 ###taboola-content
 ###taboola-footer-ad
+###taboola_related
 ###tailResultAd
 ###takeover-ad
 ###takeover_ad
@@ -7393,6 +7409,7 @@
 ##.AD728
 ##.ADBAR
 ##.ADBnrArea
+##.ADBox
 ##.ADCLOUD
 ##.ADFooter
 ##.ADITION
@@ -7771,6 +7788,7 @@
 ##.SmartAdZoneList
 ##.Sponsor-container
 ##.SponsorAds
+##.SponsorHeader
 ##.SponsorIsland
 ##.SponsorLink
 ##.SponsoredAdTitle
@@ -7881,6 +7899,7 @@
 ##.ad--noscroll
 ##.ad--scroll
 ##.ad--showmob
+##.ad--square-rectangle
 ##.ad--top-label
 ##.ad--top-leaderboard
 ##.ad--top-slot
@@ -10858,6 +10877,7 @@
 ##.advert-wrap1
 ##.advert-wrap2
 ##.advert-wrapper
+##.advert-wrapper_rectangle_aside
 ##.advert1
 ##.advert120
 ##.advert1Banner
@@ -10935,6 +10955,7 @@
 ##.advert_mpu_body_hdr
 ##.advert_nav
 ##.advert_note
+##.advert_rectangle_aside
 ##.advert_small
 ##.advert_societe_general
 ##.advert_source
@@ -11314,6 +11335,7 @@
 ##.article-aside-ad
 ##.article-content-adwrap
 ##.article-footer-ad-container
+##.article-footer__ad
 ##.article-footer__ads
 ##.article-header-ad
 ##.article-inline-ad
@@ -12938,6 +12960,7 @@
 ##.googleimagead2
 ##.googlepostads
 ##.googley_ads
+##.gp-advertisement-wrapper
 ##.gpAdBox
 ##.gpAdFooter
 ##.gpAds
@@ -13794,6 +13817,7 @@
 ##.meta_ad
 ##.metaboxType-sponsor
 ##.mf-ad300-container
+##.mg_box_ads
 ##.mgid-wrapper
 ##.micro_ad
 ##.mid-ad-wrapper
@@ -15263,6 +15287,7 @@
 ##.sponsored-ad-ob
 ##.sponsored-ads
 ##.sponsored-b
+##.sponsored-by-label
 ##.sponsored-chunk
 ##.sponsored-container-bottom
 ##.sponsored-default
@@ -15510,6 +15535,7 @@
 ##.taboola-ad
 ##.taboola-inbetweener
 ##.taboola-item
+##.taboola-left-rail-wrapper
 ##.taboola-partnerlinks-ad
 ##.taboola-unit
 ##.taboola_advertising
@@ -16338,6 +16364,7 @@
 ##a[href^="http://d2.zedo.com/"]
 ##a[href^="http://data.ad.yieldmanager.net/"]
 ##a[href^="http://databass.info/"]
+##a[href^="http://ddownload39.club/"]
 ##a[href^="http://down1oads.com/"]
 ##a[href^="http://download-performance.com/"]
 ##a[href^="http://dwn.pushtraffic.net/"]
@@ -16357,6 +16384,7 @@
 ##a[href^="http://gca.sh/user/register?ref="]
 ##a[href^="http://get.slickvpn.com/"]
 ##a[href^="http://getlinksinaseconds.com/"]
+##a[href^="http://go.mobisla.com/"]
 ##a[href^="http://go.oclaserver.com/"]
 ##a[href^="http://go.seomojo.com/tracking202/"]
 ##a[href^="http://green.trafficinvest.com/"]
@@ -16461,6 +16489,7 @@
 ##a[href^="http://www.friendlyadvertisements.com/"]
 ##a[href^="http://www.friendlyduck.com/AF_"]
 ##a[href^="http://www.gamebookers.com/cgi-bin/intro.cgi?"]
+##a[href^="http://www.getyourguide.com/?partner_id="]
 ##a[href^="http://www.google.com/aclk?"]
 ##a[href^="http://www.graboid.com/affiliates/"]
 ##a[href^="http://www.idownloadplay.com/"]
@@ -16488,7 +16517,7 @@
 ##a[href^="http://www.ringtonematcher.com/"]
 ##a[href^="http://www.roboform.com/php/land.php"]
 ##a[href^="http://www.seekbang.com/cs/"]
-##a[href^="http://www.sex.com/?utm_source="]
+##a[href^="http://www.sex.com/?utm_"]
 ##a[href^="http://www.sexgangsters.com/?pid="]
 ##a[href^="http://www.sfippa.com/"]
 ##a[href^="http://www.socialsex.com/"]
@@ -16538,6 +16567,7 @@
 ##div[id^="YFBMSN"]
 ##div[id^="acm-ad-tag-"]
 ##div[id^="dfp-ad-"]
+##div[id^="div-adtech-ad-"]
 ##div[id^="div-gpt-ad-"]
 ##div[id^="div_ad_stack_"]
 ##div[id^="div_openx_ad_"]

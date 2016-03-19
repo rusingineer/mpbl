@@ -18,6 +18,7 @@ linkedin.com#@##share-box
 code2flow.com#@##share-button
 competitor.com#@##share-links
 reddit.com#@##share-reddit
+tomshardware.com#@##shareBar
 getpocket.com#@##shareMenu
 zippyshare.com#@##share_button
 funnyjunk.com#@##share_container
@@ -46,6 +47,7 @@ asian-u.com#@##twitter_button
 disqus.com#@#.-facebook
 disqus.com#@#.-twitter
 instagram.com,pinterest.com#@#.FollowButton
+tomshardware.com#@#.SocialButton
 onbeing.org#@#.addthis_32x32_style
 onbeing.org#@#.addthis_default_style
 gadgetlove.com,nrc.gov,onbeing.org,rapgenius.com,tmz.com#@#.addthis_toolbox
@@ -55,7 +57,7 @@ kino-vorschau.com#@#.arqam-widget-counter
 neowin.net#@#.article-share
 nbcnews.com#@#.article_share
 opposingviews.com#@#.block-socialmedia
-aplus.com,crowdin.net,deezer.com,foodit.com,magine.com,nexoneu.com,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
+aplus.com,crowdin.net,deezer.com,foodit.com,magine.com,meetme.com,nexoneu.com,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
 nexoneu.com,secure.allocine.fr,techinasia.com#@#.btn-fb
 foodit.com,theoldreader.com#@#.btn-google-plus
 secure.allocine.fr#@#.btn-gplus
@@ -112,7 +114,7 @@ facebook.com#@#.fb_share
 facebook.com#@#.fblike
 twitter.com#@#.follow-bar
 twitter.com#@#.follow-btn
-500px.com,academia.edu,stream.me,tumblr.com,twitch.tv,twitter.com,xing.com,zhihu.com#@#.follow-button
+500px.com,academia.edu,peerlyst.com,stream.me,tumblr.com,twitch.tv,twitter.com,xing.com,zhihu.com#@#.follow-button
 medium.com#@#.follow-label
 linkedin.com#@#.follow-widget
 norisbank.de#@#.followBox
@@ -149,13 +151,14 @@ thenewamerican.com#@#.itemSocialSharing
 sap.com#@#.j-social-actions
 sap.com#@#.j-social-button
 facebook.com,forum.albiononline.com,kat.cr,katproxy.com#@#.likeButton
-linkedin.com#@#.linkedin.icon
+linkedin.com,peerlyst.com#@#.linkedin.icon
 pan.baidu.com#@#.list-share
 theverge.com#@#.m-article__share-buttons
 latimes.com#@#.mod-socialmedia
 renren.com#@#.photo-share
 pinterest.com#@#.pin-it-button
 feedly.com#@#.pinButton
+pinterest.com#@#.pinit-btn
 llbean.com#@#.pinit-overlay
 pinterest.com#@#.pinit_btn
 hemmings.com,hollywoodreporter.com#@#.pinterest-button
@@ -252,6 +255,7 @@ viralnova.com#@#.social-wrap
 foxnews.com#@#.social-wrapper
 coub.com#@#.socialBlock
 runescape.com,study.163.com#@#.socialBox
+tomshardware.com#@#.socialButton
 mousehuntgame.com#@#.socialButtons
 answers.microsoft.com#@#.socialIcon
 pbs.org#@#.socialList
@@ -263,6 +267,7 @@ maximumpc.com#@#.social_links_top
 fitocracy.com#@#.social_row
 neoseeker.com#@#.social_share
 leica-camera.com#@#.social_toolbar
+web2.0calc.com#@#.socialbar
 wuala.com#@#.socialbox
 wuala.com#@#.socialboxp
 jobs.jnj.com#@#.socialbutton
@@ -329,13 +334,13 @@ allestörungen.de,google.com,jetpack.wordpress.com,live.com,maxthon.com,opendata
 allestörungen.de,google.com,heise.de,maxthon.com,opendatacity.de,pcgameshardware.de,wikipedia.org#@#a[title="Youtube"]
 aliexpress.com#@#a[title="facebook"]
 digg.com#@#div[id^="digg-widget-"]
-disqus.com,facebook.com,google.com,heise.de,hockeyapp.net,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,maxthon.com,microsoft.com,opendatacity.de,t3n.de,twitter.com,whatthetech.com#@#img[alt="Facebook"]
+disqus.com,eff.org,facebook.com,google.com,heise.de,hockeyapp.net,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,maxthon.com,microsoft.com,opendatacity.de,t3n.de,twitter.com,whatthetech.com#@#img[alt="Facebook"]
 google.com,xkcd.com,youtube.com#@#img[alt="Google+"]
 google.com,whatculture.com#@#img[alt="Instagram"]
-google.com,linkedin.com#@#img[alt="LinkedIn"]
-breakoutlist.com,facebook.com,google.com,microsoft.com,rantlifestyle.com#@#img[alt="Pinterest"]
+eff.org,google.com,linkedin.com#@#img[alt="LinkedIn"]
+breakoutlist.com,eff.org,facebook.com,google.com,microsoft.com,rantlifestyle.com#@#img[alt="Pinterest"]
 acceptableads.org,breakoutlist.com,easyicon.net,microsoft.com,rantlifestyle.com#@#img[alt="Reddit"]
-breakoutlist.com,disqus.com,gitlab.com,google.com,hackerone.com,incgamers.com,maxthon.com,microsoft.com,opendatacity.de,twitter.com,whatculture.com,whatthetech.com#@#img[alt="Twitter"]
+breakoutlist.com,disqus.com,eff.org,gitlab.com,google.com,hackerone.com,incgamers.com,maxthon.com,microsoft.com,opendatacity.de,twitter.com,whatculture.com,whatthetech.com#@#img[alt="Twitter"]
 mezzacotta.net,theverge.com,twitter.com#@#img[alt="Vine"]
 maxthon.com,opendatacity.de,whatculture.com#@#img[alt="Youtube"]
 uservoice.com#@#img[alt="facebook"]

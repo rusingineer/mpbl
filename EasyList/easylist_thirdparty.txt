@@ -112,6 +112,7 @@
 ||adsrv.eacdn.com^$third-party
 ||adss.dotdo.net^
 ||adstest.zaman.com.tr^$third-party
+||adswizz.com/adswizz/js/SynchroClient*.js$third-party
 ||advanced-intelligence.com/banner
 ||adz.zwee.ly^
 ||adziff.com^*/zdcse.min.js
@@ -792,6 +793,7 @@
 ||googlesyndication.com^*/googlevideoadslibraryas3.swf$object-subrequest,third-party
 ||googlesyndication.com^*/simgad/
 ||gorgonprojectinvest.com/images/banners/
+||goto.4bc.co^$image,third-party
 ||gotraffic.net^*/sponsors/
 ||govids.net/adss/
 ||gpawireservices.com/input/files/*.gif$domain=archerywire.com
@@ -1193,6 +1195,7 @@
 ||ph.hillcountrytexas.com/imp.php?$third-party
 ||phobos.apple.com^$image,domain=dailymotion.com|youtube.com
 ||phonephotographytricks.com/images/banners/
+||photobucket.com^$image,domain=animerebel.com
 ||pianobuyer.com/pianoworld/
 ||pianoteq.com/images/banners/
 ||pic.pbsrc.com/hpto/
@@ -1200,6 +1203,7 @@
 ||pics.firstload.de^$third-party
 ||play-asia.com/paos-$third-party
 ||playata.myvideo.de^$subdocument,third-party
+||playbitcoingames.com/images/banners/
 ||player.screenwavemedia.com^*/ova-jw.swf$object-subrequest
 ||playfooty.tv/jojo.html
 ||plexidigest.com/plexidigest-300x300.jpg
@@ -1617,10 +1621,12 @@
 ||widget.shopstyle.com.au^
 ||widget.shopstyle.com/widget?pid=$subdocument,third-party
 ||widget.solarquotes.com.au^
+||widget.wombo.gg^$third-party
 ||widgetcf.adviceiq.com^$third-party
 ||widgets.adviceiq.com^$third-party
 ||widgets.fie.futurecdn.net^$script
 ||widgets.itunes.apple.com^*&affiliate_id=$third-party
+||widgets.junction.co.za^$third-party
 ||widgets.mobilelocalnews.com^$third-party
 ||widgets.mozo.com.au^$third-party
 ||widgets.privateproperty.com.ng^$third-party
@@ -1691,4 +1697,6 @@
 ||croix.science^$third-party
 ||d1nmk7iw7hajjn.cloudfront.net^
 ||d3ujids68p6xmq.cloudfront.net^
+||demande.science^$third-party
 ||secretmedia.com^$third-party
+||zeste.top^$third-party

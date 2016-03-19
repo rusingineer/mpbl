@@ -248,6 +248,7 @@
 ||zeit.de/js/rsa2.js
 ! French
 ||allocine.fr/ws/geocoding.ashx
+||analytics.rtbf.be^
 ||arte.tv/includes/xiti/
 ||azurewebsites.net^*/mnr-mediametrie-tracking-
 ||bloguez.com/manager/compteurs/
@@ -290,7 +291,6 @@
 ||surace-jujitsu.fr/outils/compteur_php/
 ||tracker-id.cdiscount.com^
 ||tracker.cds-tracking.com^
-||tracking.cdiscount.com^
 ||tracking.ha.rueducommerce.fr^
 ||unblog.fr/cu.js
 ||virginmobile.fr/ea.js
@@ -453,7 +453,10 @@
 ||marktplaats.nl/add_counter_image.
 ||rtl.nl/system/track/
 ||sanoma.nl/pixel/
+||sat.sanoma.fi^
 ||simyo.nl/js/tracking.js?
+||stats.fd.nl^
+||tijd.be/fb/?
 ||vroom.be^*/stats.js?
 ||vroom.be^*/stats.php?
 ||webstatistieken.xs4all.nl^
@@ -600,11 +603,13 @@
 ||iol.pt/js/analytics.js
 ||lancenet.com.br/pw.js
 ||log.r7.com^
+||logger.rm.uol.com.br^
 ||metrics.uol.com.br^
 ||rtp.pt/common/js/analytics.js
 ||sapo.*/clk?u=
 ||sl.pt/wa.gif?
 ||tracker.bt.uol.com.br^
+||tracker.publico.pt^
 ||uol.com.br/stats?
 ||urchin.estadao.com.br^
 ||uv.terra.com.br^

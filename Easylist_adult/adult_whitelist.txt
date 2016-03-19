@@ -56,6 +56,7 @@
 ! Pornhub network
 @@||ajax.googleapis.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||amazonaws.com/uploads.uservoice.com/$image,domain=pornhub.com|redtube.com|tube8.com|youporn.com
+@@||api.recaptcha.net^$script
 @@||apis.google.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||blog.tube8.com/wp-content/$image,script
 @@||connect.facebook.net^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
@@ -66,6 +67,7 @@
 @@||feedback.pornhub.com^$xmlhttprequest,domain=feedback.pornhub.com
 @@||google.com/recaptcha/$image
 @@||gstatic.com/recaptcha/$domain=youporn.com
+@@||gstatic.com/recaptcha/$script
 @@||image.tube8.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||image.youporn.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||keezmovies.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
@@ -164,6 +166,7 @@
 @@||phncdn.com/swfobject-$script
 @@||phncdn.com/timings-$script
 @@||phncdn.com/tubes-$script
+@@||phncdn.com/tubes.infopages-$script
 @@||phncdn.com/underscore-$script
 @@||phncdn.com/www-static/*/autocomplete.$script
 @@||phncdn.com/www-static/*/gif-view-functions.js$script
@@ -179,6 +182,7 @@
 @@||phncdn.com/www-static/js/detect.browser.js?$script
 @@||phncdn.com/www-static/js/footer.js$script
 @@||phncdn.com/www-static/js/front-index.js?$script
+@@||phncdn.com/www-static/js/front-information.js?$script
 @@||phncdn.com/www-static/js/front-login.js$script
 @@||phncdn.com/www-static/js/gif-$script
 @@||phncdn.com/www-static/js/header-menu.js?$script
@@ -205,14 +209,18 @@
 @@||phncdn.com/www-static/js/sceditor/sceditor.bbcode.js?$script
 @@||phncdn.com/www-static/js/show_image.js?$script
 @@||phncdn.com/www-static/js/signin.js$script
+@@||phncdn.com/www-static/js/sitemap.js?$script
 @@||phncdn.com/www-static/js/stream-community.js?$script
 @@||phncdn.com/www-static/js/stream-notifications.js?$script
 @@||phncdn.com/www-static/js/stream-subscriptions.js?$script
 @@||phncdn.com/www-static/js/stream.js?$script
 @@||phncdn.com/www-static/js/suggest-$script
+@@||phncdn.com/www-static/js/support-content.js?$script
+@@||phncdn.com/www-static/js/support.js?$script
 @@||phncdn.com/www-static/js/tag-$script
 @@||phncdn.com/www-static/js/user-edit.js?$script
 @@||phncdn.com/www-static/js/user-friend-requests.js?$script
+@@||phncdn.com/www-static/js/user-prefs.js$script
 @@||phncdn.com/www-static/js/user-share-item.js?$script
 @@||phncdn.com/www-static/js/user-start.js?$script
 @@||phncdn.com/www-static/js/user-stream-overview.js?$script
@@ -344,10 +352,12 @@
 @@||25643e662a2.com/ad*.js
 @@||ad.thisav.com/player/swfobject.js
 @@||adultadworld.com/adhandler/$subdocument
+@@||bemywife.cc^$script,~third-party,domain=bemywife.cc
 @@||crazyshit.com^$generichide
 @@||desihoes.com/advertisement.js
 @@||fapxl.com^$elemhide
 @@||fuqer.com^*/advertisement.js
+@@||fux.com/assets/ads-$script
 @@||gaybeeg.info/wp-content/plugins/blockalyzer-adblock-counter/$image,domain=gaybeeg.info
 @@||google.com/ads/$domain=hinduladies.com
 @@||hellojav.com^$elemhide
@@ -388,6 +398,7 @@
 @@||sexvidx.tv/js/eroex.js
 @@||submityourflicks.com/player/player-ads.swf$object
 @@||syndication.exoclick.com/ads.php?type=728x90&$script,domain=dirtstyle.tv
+@@||thisav.com/js/ad$script
 @@||thisav.com^$elemhide
 @@||tmoncdn.com/scripts/advertisement.js$domain=tubemonsoon.com
 @@||tube8.com/js/advertisement.js

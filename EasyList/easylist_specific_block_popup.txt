@@ -7,6 +7,7 @@
 ||adx.kat.ph^$popup
 ||adyou.me/bug/adcash$popup
 ||aiosearch.com^$popup,domain=torrent-finder.info
+||allmyvideos.net/goto.html$popup
 ||allmyvideos.net^*?p=$popup
 ||avalanchers.com/out/$popup
 ||bangstage.com^$popup,domain=datacloud.to
@@ -19,6 +20,7 @@
 ||cloudzilla.to/cam/wpop.php$popup
 ||comicbookmovie.com/plugins/ads/$popup
 ||conservativepost.com/pu/$popup
+||csgofast.com^$popup,domain=hltv.org
 ||deb.gs^*?ref=$popup
 ||eafyfsuh.net^*/?name=$popup
 ||edomz.com/re.php?mid=$popup
@@ -46,9 +48,11 @@
 ||google-analytics.com^$popup,domain=gorillavid.in
 ||google.com.eg/url?$popup,domain=hulkload.com
 ||gratuit.niloo.fr^$popup,domain=simophone.com
+||hadik.info/*.html$popup
 ||hide.me^$popup,domain=ncrypt.in
 ||homerun.re/adServe/$popup
 ||homets.info/queen_file?$popup
+||hotelscombined.com^$popup,domain=torrents.de|torrentz.ch|torrentz.com|torrentz.eu|torrentz.in|torrentz.li|torrentz.me|torrentz.ph
 ||houndmirror.com/out.php$popup
 ||href.li^$popup,domain=300mblink.com
 ||ifly.com/trip-plan/ifly-trip?*&ad=$popup
@@ -92,6 +96,7 @@
 ||thesource.com/magicshave/$popup
 ||thevideo.me/mpa/$popup
 ||thevideo.me/script/$popup
+||thevideo.me^*/ttc.php$popup
 ||titanbrowser.com^$popup,domain=amaderforum.com
 ||titanshare.to/download-extern.php?type=*&n=$popup
 ||tny.cz/red/first.php$popup

@@ -244,6 +244,7 @@
 ||beacon.walmart.com^
 ||beacon.www.theguardian.com^
 ||beacons.helium.com^
+||beap-bc.yahoo.com^
 ||bench.uc.cn^
 ||bermudasun.bm/stats/
 ||bestofmedia.com/i/tomsguide/a.gif
@@ -255,7 +256,7 @@
 ||bi.medscape.com^
 ||bidz.com/contentarea/BidzHomePixel
 ||binaries4all.nl/misc/misc.php?*&url=http
-||bing.com/fd/ls/
+||bing.com/fd/ls/$~ping
 ||bing.com/partner/primedns
 ||bing.com/widget/metrics.js
 ||bing.com^*/GLinkPing.aspx
@@ -380,6 +381,7 @@
 ||cloudfront.net/photo/*_tp_*.jpg$domain=9gag.com
 ||cloudfront.net/vis_opt.js
 ||cloudfront.net/vis_opt_no_jquery.js
+||cloudzonetrk.com/tse/tracking.js
 ||cls.ichotelsgroup.com^
 ||clvk.viki.io^
 ||cmstrendslog.indiatimes.com^
@@ -422,6 +424,7 @@
 ||counter.promodeejay.net^
 ||counter.sina.com.cn^
 ||counter.theconversation.edu.au^
+||counter.zerohedge.com^
 ||coupons.com/pmm.asp
 ||courierpress.com/metrics/
 ||coursera.org/wf/open?
@@ -686,6 +689,7 @@
 ||gawker.com^*/trackers.html
 ||geek.com/js/zdgurgle/
 ||geico.com/vs/track2.js?
+||gekko.spiceworks.com^
 ||general-files.com/stat
 ||general-search.com/stat
 ||geo.hltv.org^
@@ -698,6 +702,7 @@
 ||geobeacon.ign.com^
 ||geoip-lookup.vice.com^
 ||geoip.al.com^
+||geoip.boredpanda.com^
 ||geoip.cleveland.com^
 ||geoip.gulflive.com^
 ||geoip.inquirer.net^
@@ -882,6 +887,7 @@
 ||io9.com/at.js.php
 ||io9.com^*/trackers.html
 ||ip-adress.com/gl?r=
+||ip.breitbart.com^
 ||ipetitions.com/img.php?
 ||irs.gov/js/irs_reporting_cookie.js
 ||issn.org/isens_marker.php?
@@ -956,7 +962,6 @@
 ||linkbucks.com/clean.aspx?task=record$image
 ||linkbucks.com/track/
 ||linkedin.com/analytics/
-||linkedin.com/mob/tracking
 ||linkedin.com^*/tracker.gif?
 ||linkpuls.idg.no^
 ||linuxtoday.com/hqxapi/
@@ -1413,6 +1418,7 @@
 ||rt.rakuten.co.jp^
 ||rta.dailymail.co.uk^
 ||rte.ie/player/playertracker.js
+||rumble.com/l/$image
 ||runnersworld.com^*/universalpixel.html
 ||russellgrant.com/hostedsearch/panelcounter.aspx
 ||s-msn.com/br/gbl/js/2/report.js
@@ -2098,6 +2104,7 @@
 ||aeroplan.com/static/js/omniture/s_code_prod.js
 ||aexp-static.com/api/axpi/omniture/s_code_myca_context.js$domain=americanexpress.com
 ||aircanada.com/shared/common/sitecatalyst/s_code.js
+||announcements.uk.com^*/s_code.js
 ||atgstores.com/js/lowesca_s_code.js$domain=lowes.ca
 ||bitdefender.com/resources/scripts/omniture/*/code.js
 ||bleacherreport.net/pkg/javascripts/*_omniture.js

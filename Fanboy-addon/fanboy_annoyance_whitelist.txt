@@ -2,7 +2,7 @@
 @@||3dmark.com/proxycon/js/jquery.cookiesdirective.js
 @@||adfoc.us/*/interstitial.js$~third-party
 @@||aliunicorn.com^*/cookie-info.js
-@@||amazonaws.com/downloads.mailchimp.com/js/mc-validate.js$domain=cnn.com|genuine-people.com|nikopik.com|nyt.fi
+@@||amazonaws.com/downloads.mailchimp.com/js/mc-validate.js$domain=cnn.com|genuine-people.com|justrunlah.com|nikopik.com|nyt.fi
 @@||amazonaws.com^*/feedback-v2.js?$domain=avgthreatlabs.com
 @@||barclays.co.uk/js/cookiepolicy.js
 @@||bestof.s3.amazonaws.com/twitter.png$domain=makeuseof.com
@@ -41,11 +41,13 @@
 @@||odnoklassniki.ru/share/odkl_share.js$domain=ivi.ru
 @@||outbrain.com/outbrain.js$domain=cnn.com|damnyouautocorrect.com|ninemsn.com.au
 @@||overkillsoftware.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js
+@@||presse-citron.net/wordpress_prod/wp-content/plugins/uk-cookie-consent/$script
 @@||redditarchive.com^
 @@||rentalsystems.com/advert_price_imbed.asp
 @@||romagnanoi.it/js/cookiecuttr/jquery.cookiecuttr.js
 @@||s-bol.com/nl/static/js/dev/widgets/cookie_notification-
 @@||sail-horizon.com/scout/*.js?$domain=theblaze.com
+@@||secretflying.com/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js
 @@||static.bbci.co.uk/modules/*/sharetools.js$domain=bbc.co.uk
 @@||statictapcdn-a.akamaihd.net^$domain=tapiture.com
 @@||surveygizmo.com^*_output$script,domain=motorsport.com
