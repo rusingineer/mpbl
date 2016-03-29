@@ -1,5 +1,6 @@
 &ctxId=*&pubId=*&objId=
 &pageReferrer=
+&refererPageDetail=
 &trackingserver=
 -AdTracking.
 -analytics-tagserver-
@@ -124,6 +125,7 @@
 .net/0.gif?
 .net/1x1.gif?
 .net/c.gif?
+.net/e.gif?
 .net/HG?hc=&hb=
 .net/i.gif?
 .net/l.gif?
@@ -247,6 +249,7 @@
 /adviewtrack.
 /advstats/*
 /adwords-conversion-tracking.
+/adwords-tracker.
 /adx_remote.
 /aegis_tracking.
 /aff_i?offer_id=
@@ -309,7 +312,7 @@
 /analytics.gif?
 /analytics.google.js
 /analytics.html?action=
-/analytics.min.js
+/analytics.min.
 /analytics.php.
 /analytics.php?
 /analytics.swf?
@@ -461,6 +464,7 @@
 /bitrix/spread.php?
 /bizo.js
 /BKVTrack.js
+/blank.gif?
 /blog/traffic/?
 /blogsectiontracking.
 /blogtotal_stats_
@@ -672,6 +676,8 @@
 /cookie/visitor/*
 /cookie?affiliate
 /cookie_ga.
+/cookieAnalytics.
+/CookieLawStats/*
 /CookieSetterAS3.
 /coradiant.js
 /coretracking.php?
@@ -736,6 +742,7 @@
 /csi?v=2&s=
 /csi?v=3&s=
 /ctr_tracking.
+/ctrl.gif?ref=
 /custom-tracking.
 /CustomTrackingScript.
 /cwTRACK.js
@@ -908,6 +915,7 @@
 /g_track.php?
 /ga-affiliates.
 /ga-async-
+/ga-beacon.*/UA-
 /ga-custom-tracking.
 /ga-custom-vars.
 /ga-event-tracking.
@@ -1066,6 +1074,7 @@
 /gravity-beacon-
 /gravity-beacon.js
 /gs-analytics-
+/gscounters.
 /gtrack.
 /gweb/analytics/*
 /headerpixel.gif?
@@ -1277,6 +1286,7 @@
 /link_tracking/*
 /linkcountdata/*
 /linkinformer.js
+/linktracker.js
 /linktracker/*
 /linktracking.
 /livezilla/server.php?request=track&
@@ -1342,6 +1352,7 @@
 /logging_save.
 /LoggingAgent?
 /loggingService.js
+/loggly.tracker.js
 /logHandler.
 /LogImpression.
 /LogImpression?
@@ -1639,6 +1650,7 @@
 /pixel.png?
 /pixel.swf?
 /pixel.track?
+/pixel/?__tracker
 /pixel/impression/*
 /pixel/visit?
 /pixel1/impression.
@@ -1693,6 +1705,7 @@
 /printtracker.js
 /prnx_track.
 /pro-ping.php?
+/probance_tracker.
 /process.php?ut=*&rf=
 /prodtracker?
 /profile_tracker.
@@ -1745,6 +1758,7 @@
 /readomniturecookie.
 /readReceipt/notify/?img=$image
 /readtracker-
+/realytics-
 /recommendtrack?
 /record-impressions.
 /record.do?
@@ -2009,6 +2023,7 @@
 /stats/metrics/*
 /stats/mixpanel-
 /stats/pgview.
+/stats/record.php?
 /stats/track.asp?
 /stats/tracker.gif?
 /stats/tracker.js
@@ -2157,7 +2172,6 @@
 /tracker.php?
 /tracker.pl?
 /tracker.tsp?
-/tracker/blank.gif?
 /tracker/event?
 /tracker/imp?
 /tracker/index.jsp?
@@ -2196,6 +2210,7 @@
 /tracking-init.
 /tracking-pixel.
 /tracking-pixel/*
+/tracking-portlet/*
 /tracking-widget.
 /tracking.ashx?
 /tracking.cgi?
@@ -2344,6 +2359,7 @@
 /usr.gif?openratetracking=
 /usrtrck-
 /usrtrck_
+/utag-dit.js
 /utag.ga.
 /utag.handler.js
 /utag.loader-
@@ -2656,6 +2672,7 @@ _ntpagetag.
 _pixelmap.js
 _promo_id=
 _quantcast.swf
+_resource/analytics.js
 _sdctag1_
 _sdctag2.
 _semanticTag/

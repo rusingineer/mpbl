@@ -31,6 +31,7 @@
 ###ADVERTISE_HERE_ROW
 ###ADVERTISE_RECTANGLE1
 ###ADVERTISE_RECTANGLE2
+###ADV_VIDEOBOX_2_CNT
 ###ADVleaderboard
 ###AD_160
 ###AD_300
@@ -2007,6 +2008,7 @@
 ###ad_strip
 ###ad_table
 ###ad_takeover
+###ad_tall
 ###ad_tbl
 ###ad_term_bottom_place
 ###ad_text:not(textarea)
@@ -2279,6 +2281,7 @@
 ###admod2
 ###admon-300x250
 ###admon-728x90
+###admsg
 ###admulti520
 ###adnet
 ###adnews
@@ -3462,7 +3465,9 @@
 ###ban_300x250
 ###ban_728x90
 ###banner-300x250
+###banner-300x250-area
 ###banner-300x250-north
+###banner-300x600-area
 ###banner-336x280-north
 ###banner-336x280-south
 ###banner-468x60
@@ -3470,6 +3475,7 @@
 ###banner-728adtag
 ###banner-728adtag-bottom
 ###banner-728x90
+###banner-728x90-area
 ###banner-ad
 ###banner-ad-container
 ###banner-ad-first
@@ -4369,6 +4375,8 @@
 ###dfp-ad-wallpaper-wrapper
 ###dfp-article-mpu
 ###dfp-article-related-mpu
+###dfp-middle
+###dfp-middle1
 ###dfpAd
 ###dfp_ad_1
 ###dfp_ad_16
@@ -4573,6 +4581,8 @@
 ###f_ad
 ###f_adsky
 ###facebook-ad
+###fav-advert
+###fav-advertwrap
 ###fb_adbox
 ###fb_rightadpanel
 ###fearless_responsive_image_ad-2
@@ -5243,6 +5253,7 @@
 ###influads_block
 ###infoBottomAd
 ###inhousead
+###initializeAd
 ###injectableTopAd
 ###inline-ad
 ###inline-advert
@@ -7257,6 +7268,7 @@
 ###wallpaper_flash_ad
 ###wallpaper_header_ad
 ###walltopad
+###watch-now-ad
 ###watch7-sidebar-ads
 ###watch_sponsored
 ###weather-ad
@@ -7440,6 +7452,7 @@
 ##.ADouter_div
 ##.ADwidget
 ##.A__smallSuperbannerAdvert-main
+##.Accordion_ad
 ##.Ad--sidebar
 ##.Ad-300x100
 ##.Ad-Container
@@ -8192,6 +8205,7 @@
 ##.ad-header
 ##.ad-header-sidebar
 ##.ad-heading
+##.ad-headliner-container
 ##.ad-here
 ##.ad-hide-mobile
 ##.ad-hideable
@@ -8670,6 +8684,7 @@
 ##.ad336x362
 ##.ad343x290
 ##.ad350
+##.ad350r
 ##.ad360
 ##.ad400right
 ##.ad400x40
@@ -11237,6 +11252,7 @@
 ##.adx-300x600-container
 ##.adx-wrapper
 ##.adxli
+##.adz2
 ##.adz728x90
 ##.adzone
 ##.adzone-footer
@@ -12378,6 +12394,8 @@
 ##.dfp-plugin-advert
 ##.dfp-slot-wallpaper
 ##.dfp-tag-wrapper
+##.dfp-top1
+##.dfp-top1-container
 ##.dfp_ad
 ##.dfp_ad_caption
 ##.dfp_ad_content_bottom
@@ -13458,6 +13476,7 @@
 ##.js-advert
 ##.js-advert--vc
 ##.js-dfp-ad
+##.js-dfpAdPosSR
 ##.js-gptAd
 ##.js-header-ad
 ##.js-native-ad
@@ -13680,6 +13699,7 @@
 ##.luxeAd
 ##.lx_ad_title
 ##.m-ad
+##.m-ad--open
 ##.m-ad-tvguide-box
 ##.m-advertisement
 ##.m-advertisement--container
@@ -13941,6 +13961,7 @@
 ##.moduletableexclusive-ads
 ##.moduletablesquaread
 ##.moduletabletowerad
+##.modulo-publicidade
 ##.mom-ad
 ##.momizat-ads
 ##.moneyball-ad
@@ -14104,6 +14125,7 @@
 ##.node-left-ad-under-img
 ##.node_ad_wrapper
 ##.nomobilead
+##.non-empty-ad
 ##.nonsponserIABAdBottom
 ##.normalAds
 ##.normalad
@@ -14459,7 +14481,9 @@
 ##.publication-ad
 ##.publicidadSuperior
 ##.publicidad_horizontal
+##.publicidade
 ##.publicidade-dotted
+##.publicidade-full-banner
 ##.puff-ad
 ##.puff-advertorials
 ##.pull_top_ad
@@ -15061,6 +15085,7 @@
 ##.single-ad-wrap
 ##.single-ads
 ##.single-google-ad
+##.single-item-page-ads
 ##.single-post-ad
 ##.single-post-ads-750x90
 ##.single-top-ad
@@ -15507,6 +15532,7 @@
 ##.subtitle-ad-container
 ##.sugarad
 ##.suit-ad-inject
+##.suitcase-ad
 ##.super-ad
 ##.superLeaderOverallAdArea
 ##.supercommentad_left
@@ -15673,6 +15699,7 @@
 ##.tl-ad-dfp
 ##.tl-ad-display-3
 ##.tl-ad-render
+##.tm-ads
 ##.tm_ad200_widget
 ##.tm_topads_468
 ##.tm_widget_ad200px
@@ -16331,7 +16358,6 @@
 ##a[href^="http://aflrm.com/"]
 ##a[href^="http://amzn.to/"] > img[src^="data"]
 ##a[href^="http://api.ringtonematcher.com/"]
-##a[href^="http://api.taboola.com/"][href*="/recommendations.notify-click?app.type="]
 ##a[href^="http://at.atwola.com/"]
 ##a[href^="http://b.bestcompleteusa.info/"]
 ##a[href^="http://banners.victor.com/processing/"]
@@ -16412,6 +16438,7 @@
 ##a[href^="http://mo8mwxi1.com/"]
 ##a[href^="http://mojofun.info/"]
 ##a[href^="http://n.admagnet.net/"]
+##a[href^="http://n217adserv.com/"]
 ##a[href^="http://onclickads.net/"]
 ##a[href^="http://online.ladbrokes.com/promoRedirect?"]
 ##a[href^="http://paid.outbrain.com/network/redir?"]
@@ -16435,6 +16462,7 @@
 ##a[href^="http://srvpub.com/"]
 ##a[href^="http://stateresolver.link/"]
 ##a[href^="http://t.mdn2015x2.com/"]
+##a[href^="http://t.mdn2015x3.com/"]
 ##a[href^="http://t.wowtrk.com/"]
 ##a[href^="http://taboola-"][href*="/redirect.php?app.type="]
 ##a[href^="http://tour.affbuzzads.com/"]
@@ -16447,6 +16475,7 @@
 ##a[href^="http://us.marketgid.com"]
 ##a[href^="http://web.adblade.com/"]
 ##a[href^="http://websitedhoome.com/"]
+##a[href^="http://webtrackerplus.com/"]
 ##a[href^="http://wgpartner.com/"]
 ##a[href^="http://www.123-reg.co.uk/affiliate2.cgi"]
 ##a[href^="http://www.1clickdownloader.com/"]
@@ -16482,6 +16511,7 @@
 ##a[href^="http://www.firstclass-download.com/"]
 ##a[href^="http://www.firstload.com/affiliate/"]
 ##a[href^="http://www.firstload.de/affiliate/"]
+##a[href^="http://www.flashx.tv/downloadthis"]
 ##a[href^="http://www.fleshlight.com/"]
 ##a[href^="http://www.fonts.com/BannerScript/"]
 ##a[href^="http://www.fpcTraffic2.com/blind/in.cgi?"]
@@ -16668,7 +16698,6 @@
 ###content > #right > .dose > .dosesingle
 ###header + #content > #left > #rlblock_left
 ! Taboola
-###recommendations a[rel="nofollow"][onclick^="window.open('http://api.taboola.com/"][href="#"]
 ##.trc_rbox .syndicatedItem
 ##.trc_rbox_border_elm .syndicatedItem
 ##.trc_rbox_div .syndicatedItem

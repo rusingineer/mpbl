@@ -20,7 +20,6 @@
 ||cloudfront.net/customers/24868.min.js
 ||collect.finanzen.net^
 ||com.econa.com^
-||computerfrage.net^*/blank.gif?
 ||confido.dyndns.org^*/dot.php?
 ||count.asnetworks.de^
 ||count.snacktv.de^
@@ -399,6 +398,7 @@
 ! Korean
 ||180.70.93.115/ndmclick/$domain=~daum.ip
 ||cafe24.com/weblog.js
+||tracking.adweb.co.kr^$third-party
 ! Latvian
 ||counter.hackers.lv^
 ||hits.sys.lv^
@@ -411,6 +411,7 @@
 ||webhit.snd.no^
 ! Polish
 ||cafenews.pl/mpl/static/static.js?
+||fab.interia.pl^
 ||liczniki.org/hit.php
 ||stats.asp24.pl^
 ||stats.media.onet.pl^
@@ -541,6 +542,7 @@
 ||analitica.webrpp.com^
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
+||enetres.net/StatisticsV1/
 ||epimg.net/js/vr/vrs.
 ||hits.eluniversal.com.mx^
 ||leadzu.com^$third-party

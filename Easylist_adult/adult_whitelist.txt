@@ -12,7 +12,7 @@
 @@||boyzshop.com/images/affbanners/$image,~third-party
 @@||burningcamel.com/ads/banner.jpg
 @@||cam4.*/ads/directory/$xmlhttprequest
-@@||cdn.engine.*.doublepimp.com^$script,domain=gaytube.com|pornhub.com|redtube.com|tube8.com|xtube.com|youjizz.com|youporn.com|youporngay.com
+@@||cdn.engine.*.doublepimp.com^$script,domain=gaytube.com|pornhub.com|redtube.com|tube8.com|tube8.es|tube8.fr|xtube.com|youjizz.com|youporn.com|youporngay.com
 @@||chaturbate.com/affiliates/$domain=noracam.com
 @@||dpmate.com/exports/tour_20/$domain=digitalplayground.com
 @@||eskimotube.com/advertisements.php?$script
@@ -52,6 +52,7 @@
 @@||widget.plugrush.com^$subdocument,domain=amateursexy.net
 @@||xhcdn.com/images/flag/AD.gif
 @@||xxxporntalk.com/images/xxxpt-chrome.jpg
+@@||youjizz.com/video_templates/non-flash-video.php?id=$subdocument,domain=youjizz.com
 @@||youjizz.com/videos/embed/$subdocument,domain=youjizz.com
 ! Pornhub network
 @@||ajax.googleapis.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
@@ -59,6 +60,7 @@
 @@||api.recaptcha.net^$script
 @@||apis.google.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||blog.tube8.com/wp-content/$image,script
+@@||cdn-d-img.pornhub.com/m=*/original/$image,domain=pornhub.com
 @@||connect.facebook.net^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||disqus.com/count.js$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||disqus.com/embed.js$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
@@ -180,6 +182,7 @@
 @@||phncdn.com/www-static/js/comments.js?$script
 @@||phncdn.com/www-static/js/create-account.js?$script
 @@||phncdn.com/www-static/js/detect.browser.js?$script
+@@||phncdn.com/www-static/js/dropdown.js$script
 @@||phncdn.com/www-static/js/footer.js$script
 @@||phncdn.com/www-static/js/front-index.js?$script
 @@||phncdn.com/www-static/js/front-information.js?$script
@@ -195,11 +198,17 @@
 @@||phncdn.com/www-static/js/mg-modal.js$script
 @@||phncdn.com/www-static/js/mg-utils.js$script
 @@||phncdn.com/www-static/js/mg_flipbook-$script
+@@||phncdn.com/www-static/js/mg_modal-$script
+@@||phncdn.com/www-static/js/mg_utils-$script
 @@||phncdn.com/www-static/js/ph-footer.js$script
 @@||phncdn.com/www-static/js/ph-networkbar.js$script
+@@||phncdn.com/www-static/js/phub-nojquery.js$script
 @@||phncdn.com/www-static/js/phub.$script
 @@||phncdn.com/www-static/js/playlist-show.js$script
 @@||phncdn.com/www-static/js/playlist/$script
+@@||phncdn.com/www-static/js/pornstars-profile.js?$script
+@@||phncdn.com/www-static/js/pornstars-upload.js?$script
+@@||phncdn.com/www-static/js/pornstars-video.js?$script
 @@||phncdn.com/www-static/js/pornstars.js?$script
 @@||phncdn.com/www-static/js/premium/$script
 @@||phncdn.com/www-static/js/profile/$script
@@ -247,6 +256,10 @@
 @@||phncdn.com/www-static/js/vmobile/utils.js$script
 @@||phncdn.com/www-static/js/vmobile/video-search.js$script
 @@||phncdn.com/www-static/js/vmobile/widget-$script
+@@||phncdn.com/www-static/js/vr/lib/gl-matrix.js?$script
+@@||phncdn.com/www-static/js/vr/normotion.js?$script
+@@||phncdn.com/www-static/js/vr/vrplayer-noMin.js?$script
+@@||phncdn.com/www-static/js/vr/vrplayer.js?$script
 @@||phncdn.com/www-static/js/vtablet/fakeworker-$script
 @@||phncdn.com/www-static/js/vtablet/front/$script
 @@||phncdn.com/www-static/js/vtablet/hammer.min.js$script
@@ -270,6 +283,7 @@
 @@||pornhub.com/gif/$xmlhttprequest
 @@||pornhub.com/insights/$image,xmlhttprequest
 @@||pornhub.com/oauth2/authorize?$popup
+@@||pornhub.com/playlist/$xmlhttprequest,domain=pornhub.com
 @@||pornhub.com/playlist_json/$xmlhttprequest
 @@||pornhub.com/pornstar/$xmlhttprequest
 @@||pornhub.com/pornstars/$xmlhttprequest
@@ -311,7 +325,6 @@
 @@||redtube.com/starsuggestion/$xmlhttprequest
 @@||redtube.com/subscribe/$xmlhttprequest
 @@||redtube.com/tags-stars$xmlhttprequest
-@@||redtube.com/tags-stars/$xmlhttprequest
 @@||redtube.com/upload/$xmlhttprequest
 @@||redtube.com/videodetails/$xmlhttprequest
 @@||redtube.com/watched/$xmlhttprequest

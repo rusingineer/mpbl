@@ -22,7 +22,6 @@
 ||204.236.243.21/small.gif?$third-party,domain=~skytide.ip
 ||208.91.157.30/viewtrack/
 ||209.15.236.80^$third-party,domain=~crosspixelmedia.ip
-||209.20.84.187/blank.gif?$third-party,domain=~gatehousenewsservice.com.ip
 ||219.232.238.60/count.$domain=~caixin.com.ip
 ||23.20.0.197^$third-party,domain=~tritondigital.net.ip
 ||23.23.22.172/ping/$third-party,domain=~newjerseynewsroom.com.ip
@@ -83,6 +82,7 @@
 ||adg.bzgint.com^
 ||adlog.com.com^
 ||admission.net^*/displaytracker.js
+||ads-trk.vidible.tv^
 ||ads.bridgetrack.com^$image
 ||adsimg.com/js/analytics.js?
 ||adtrack.calls.net^$third-party
@@ -143,6 +143,7 @@
 ||analytics-v2.anvato.com^
 ||analytics.abacast.com^
 ||analytics.adeevo.com^
+||analytics.anvato.net^
 ||analytics.apnewsregistry.com^
 ||analytics.artirix.com^
 ||analytics.atomiconline.com^
@@ -184,6 +185,7 @@
 ||analytics.sitewit.com^
 ||analytics.sonymusic.com^
 ||analytics.springboardvideo.com^
+||analytics.staticiv.com^
 ||analytics.stg.springboardvideo.com^
 ||analytics.strangeloopnetworks.com^
 ||analytics.themarketiq.com^
@@ -704,9 +706,6 @@
 ||grabnetworks.com/ping?
 ||gravity.com^*/beacons/
 ||gridsumdissector.com/gs.gif?
-||gscounters.eu1.gigya.com^
-||gscounters.gigya.com^
-||gscounters.us1.gigya.com^
 ||gstatic.com/gadf/ga_dyn.js
 ||gstatic.com/gen_204?
 ||gu-pix.appspot.com^$third-party
@@ -828,6 +827,7 @@
 ||linkwithin.com/pixel.png
 ||list-manage.com/track/
 ||list.fightforthefuture.org/mpss/o/*/o.gif
+||litix.io/core/*/mux.js$third-party
 ||live2support.com^*/js_lstrk.
 ||livechatinc.com^*/control.cgi?
 ||livecounter.theyosh.nl^
@@ -1096,6 +1096,7 @@
 ||pussy.org^*/track.php
 ||px.dynamicyield.com^$third-party
 ||px.excitedigitalmedia.com^
+||px.marchex.io^
 ||px.owneriq.net^
 ||px.topspin.net^
 ||qlog.adap.tv^$object-subrequest
@@ -1320,6 +1321,7 @@
 ||taboola.com^*/log/
 ||taboolasyndication.com/log/
 ||taboolasyndication.com^*/log/
+||tag-abe.cartrawler.com^
 ||tag.email-attitude.com^
 ||tag.myplay.com^
 ||tag.sonymusic.com^
@@ -1622,6 +1624,7 @@
 ||yospace.com/csm/analytics;
 ||ypcdn.com/*/webyp?
 ||ywxi.net/meter/
+||zemanta.com^*/pageview.js?
 ||ziffprod.com^*/zdcse.min.js?referrer=
 ||zoomtv.me^*?pixel=
 ||zoover.co.uk/tracking/

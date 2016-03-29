@@ -1,6 +1,7 @@
 @@/rutorrent/plugins/rss/*$image,~third-party
 @@||3dmark.com/proxycon/js/jquery.cookiesdirective.js
 @@||adfoc.us/*/interstitial.js$~third-party
+@@||alicdn.com/js/*/ws-cookie.js$script
 @@||aliunicorn.com^*/cookie-info.js
 @@||amazonaws.com/downloads.mailchimp.com/js/mc-validate.js$domain=cnn.com|genuine-people.com|justrunlah.com|nikopik.com|nyt.fi
 @@||amazonaws.com^*/feedback-v2.js?$domain=avgthreatlabs.com
@@ -36,6 +37,9 @@
 @@||libreprojects.net/logos/
 @@||livefyre.com/site_media/images/auth/$image
 @@||makeuseoflimited.netdna-cdn.com/pages/*/images/social.png$domain=makeuseof.com
+@@||mammamiamuzikal.cz/wp-content/plugins/cookie-law-info/js/cookielawinfo.js
+@@||my.leadpages.net/template/$script,domain=weddingjams.com
+@@||my.leadpages.net^*/public/
 @@||newsgator.com/ngbuzz/load.ashx/$script,domain=cbsnews.com
 @@||nova24tv.si^*/cookielawinfo.js
 @@||odnoklassniki.ru/share/odkl_share.js$domain=ivi.ru
@@ -52,7 +56,7 @@
 @@||statictapcdn-a.akamaihd.net^$domain=tapiture.com
 @@||surveygizmo.com^*_output$script,domain=motorsport.com
 @@||taboola.com/libtrc/*-Release.js$domain=entrepreneur.com
-@@||taboola.com/libtrc/*/loader.js$domain=dailymail.co.uk|entrepreneur.com|foxsports.com
+@@||taboola.com/libtrc/*/loader.js$domain=cnet.com|dailymail.co.uk|entrepreneur.com|foxsports.com
 @@||taxreturned.co.uk/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?
 @@||theslingshot.com/w/$script,domain=guyspeed.com
 @@||ugc.fr/statique/js/lib/jquery.cookiesdirective.js

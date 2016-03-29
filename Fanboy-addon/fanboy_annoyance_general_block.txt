@@ -272,7 +272,9 @@ _social_rss.
 -cookie-banner-
 -cookie-cnil.
 -cookie-filter/$script
+-cookie-law-popup.
 -cookie-law.js
+-cookie-law/$script
 -cookie-message.js
 -cookie-msg-bar.
 -cookie-notice.
@@ -303,6 +305,8 @@ _social_rss.
 /__cookie_js.php
 /ac_cookiesvalidation/*
 /acceptCookies.
+/alertcookie.
+/alertcookies.
 /amCookieApproval.
 /angular-cookies-
 /asesor-cookies-
@@ -318,6 +322,7 @@ _social_rss.
 /cookie-banner
 /cookie-bar-
 /cookie-bar.
+/cookie-check.js
 /cookie-compliance.
 /cookie-consent.
 /cookie-consent/*
@@ -426,9 +431,11 @@ _social_rss.
 /cookies-overlay.
 /cookies-policy-
 /cookies-policy/*
+/cookies_acceptance.
 /cookies_bar.js
 /cookies_directive.
 /cookies_komunikat.
+/cookies_loading.php?
 /cookies_policy.js
 /Cookies_Pro/*
 /CookiesAgreement/*
@@ -450,6 +457,7 @@ _social_rss.
 /EU-cookielaw.
 /eu_cookie_$script,stylesheet
 /eu_cookies.
+/eu_privacy.js
 /eu_rp_cookie.
 /euc_cookie.js
 /eucookie.
@@ -471,6 +479,7 @@ _social_rss.
 /InfoCookies.
 /iubenda_cs.
 /jbcookies.
+/jjp_eucookie_
 /jquery.cookie.js$domain=password-decryptor.com
 /jqueryCookieGuard.
 /js-cookie-master/*$script
@@ -497,7 +506,7 @@ _social_rss.
 /warnCookies.
 /widgets/cookies-
 /wkp_cookies.js
-/wp-cookie-allow/*$script
+/wp-cookie-allow/*$script,stylesheet
 _cookie_cnil.
 _cookie_compliance.
 _cookie_consent/

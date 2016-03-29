@@ -763,6 +763,7 @@
 ||vivatube.com/upload/banners/
 ||voyeurhit.com/contents/content_sources/
 ||voyeurhit.com/related/voyeurhit.php?t_sid=
+||vrsmash.com^*/script.min.js
 ||vstreamcdn.com^*/ads/
 ||wank.to/partner/
 ||wankspider.com/js/wankspider.js
@@ -804,7 +805,7 @@
 ||xhamster.com/ads/
 ||xhamster.com/js/xpu.js
 ||xhamsterpremiumpass.com/premium_scenes.html
-||xhcdn.com/js/p.js$domain=xhamster.com
+||xhcdn.com/js/m.js$domain=xhamster.com
 ||xhcdn.com^*/ads_
 ||xogogo.com/images/latestpt.gif
 ||xtravids.com/pop.php
@@ -833,6 +834,7 @@
 ||youjizz.com^$subdocument,~third-party
 ||youjizz.com^$~third-party,xmlhttprequest
 ||youjizz.com^*?*=$image
+||youjizz.com^*_yjserve.js
 ||youngpornvideos.com/images/bangbros/
 ||youngpornvideos.com/images/glamglam/
 ||youngpornvideos.com/images/mofoscash/
@@ -859,3 +861,6 @@
 ||yumymilf.com^*/banners/
 ||yuvutu.com^*/banners/
 ||zazzybabes.com/misc/virtuagirl-skin.js
+! dreamamateurs.com
+|http://$script,third-party,xmlhttprequest,domain=dreamamateurs.com
+|https://$script,third-party,xmlhttprequest,domain=dreamamateurs.com

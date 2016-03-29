@@ -19,6 +19,7 @@
 &adnet=
 &adnum=
 &adpageurl=
+&Ads_DFP=
 &adsafe=
 &adserver=
 &adsize=
@@ -870,6 +871,7 @@
 /ad/getbanandfile?
 /ad/google/*
 /ad/google_
+/ad/homepage?
 /ad/html/*
 /ad/iframe.
 /ad/iframe/*
@@ -2592,6 +2594,7 @@
 /adswrapper.
 /adswrapper3.
 /adswrapperintl.
+/adswrappermsni.
 /adsx/*
 /adsx728.
 /adsx_728.
@@ -2808,7 +2811,7 @@
 /advertical.
 /advertise-
 /advertise.$domain=~advertise.apartments.com|~advertise.bingads.microsoft.com|~advertise.isleofskye.com
-/advertise/*
+/advertise/*$domain=~legl.co
 /advertise125x125.
 /advertise_
 /advertisebanners/*
@@ -3292,6 +3295,7 @@
 /bg-advert-
 /bg/ads/*
 /bg_ads_
+/bg_adv_
 /bgads/*
 /bi_affiliate.js
 /bigad.
@@ -3352,6 +3356,7 @@
 /boxad3.
 /boxad_
 /breakad_
+/breaking_ad/*
 /brightcovead.
 /bserver/*
 /btbuckets/btb.js
@@ -3617,6 +3622,8 @@
 /dfp/jquery.
 /dfp_ads/*
 /dfp_delivery.js
+/dfp_init.
+/dfpad/*
 /dfpads.
 /dfpsds.
 /dfpsearchads.
@@ -3884,6 +3891,7 @@
 /frequencyads.
 /friendfinder_
 /frnads.
+/frontads/*
 /frontend/ads/*
 /frontpagead/*
 /ftp/adv/*
@@ -4000,10 +4008,12 @@
 /global/ads/*
 /globalad.
 /globaladprostyles.
+/globalAdTag.
 /globalbannerad.
 /googad300by600.
 /google-ad-
 /google-ad?
+/Google-Ads-
 /google-ads.
 /google-ads/*
 /google-adsense-
@@ -4627,6 +4637,7 @@
 /nativeads/*
 /navad/*
 /navads/*
+/navigation/ad/*
 /nbcuadops-
 /nd_affiliate.
 /neo/ads/*
@@ -4670,6 +4681,8 @@
 /noodleAdFramed.
 /noticead.
 /nsfw/sponsors/*
+/nuggad.
+/nuggad/*
 /nymag_ads.
 /nymag_ads_
 /o2ad.
@@ -5175,6 +5188,7 @@
 /searchads/*
 /secondads.
 /secondads_
+/secretmedia-sdk-
 /securepubads.
 /seo-ads.
 /serv.ads.
@@ -5863,6 +5877,7 @@
 /yieldads.
 /yieldlab.
 /yieldmanager/*
+/yieldmo-
 /yin-ad/*
 /yld/js/*
 /yld_mgr/*
@@ -6298,6 +6313,7 @@ _adv/300.
 _adv/leaderboard_
 _adv/overlay/
 _Adv_Banner_
+_adv_label.
 _advert.
 _advert/
 _advert1.

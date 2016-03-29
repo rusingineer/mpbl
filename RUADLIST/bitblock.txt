@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DAb7BTUlbZCutBbfzdrssw
-! Version: 201603190730
+! Checksum: 0iWpex/noodsh+rWubVPpw
+! Version: 201603290530
 ! Title: RU AdList: BitBlock
-! Last modified: 19 Mar 2016 07:30 UTC
+! Last modified: 29 Mar 2016 05:30 UTC
 ! Expires: 5 days (подписка обновляется автоматически каждые 5 дней)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -163,7 +163,8 @@ _vkontakte.png
 ||cnews.ru/inc/images/feeds/
 ||delfi.*/fbembed.
 ||delphi.*/scms/?g=fbn&
-||drive.ru/js/likely.js
+||drive.ru/css/likely.css$stylesheet
+||drive.ru/js/likely.js$script
 ||drugasmuga.com/images/bookmarks/
 ||drweb.com/static/js/redirect_to_facebook.js
 ||filmi-hd.ru/social_zakladki.js
@@ -235,6 +236,7 @@ gidonline.club###msoc
 seti-ceti.ru###nVKgroupArt
 thailandproperty.tv###pagenav_menu + table
 myserial.org###parent_popup
+youtube.com###player a.ytp-share-panel-service-button.ytp-button
 volzsky.ru###popup
 lifehacker.ru###push-panel
 vk.com###pv_hh
@@ -255,6 +257,7 @@ uploads.ru###socialize
 3dnews.ru###socialtabs
 autoclub-cerato.ru###socio_0
 autoclub-cerato.ru###socio_1
+3dnews.ru###stripe > .socbuttons.right
 google.com###sub-tree-subscriptions
 study.ru###tabs_soc_wrap
 evtifeev.com###text-14
@@ -305,6 +308,7 @@ itar-tass.com##.b-social-buttons
 vesti.ua##.b-social-sharing
 fishki.net##.big-share
 forbes.ru##.block-social-dockable
+kino-teatr.ru##.block_240_socials
 vesti.ru##.blog_wrapper
 fishki.net##.bloglinks
 vedomosti.ru##.blogs_ico
@@ -364,12 +368,14 @@ kulturologia.ru##.rss
 bigpicture.ru##.sb-sn
 delfi.ua##.sbookmarks
 online-mult.net##.sh_pt
-glavcom.ua,ua-football.com,voxpopuli.kz##.share
+glavcom.ua,govoritmoskva.ru,ua-football.com,voxpopuli.kz##.share
+fb.ru##.share_img
 online.ua##.show-refer-share468
 rg.ru##.single-banner
 tsn.ua##.sl_bottom_holder
 vesti.ru##.slide_anons
 tnua.info##.slink
+stream.1tv.ru##.small-social-buttons
 piter.tv##.snet-links
 slovo.ws##.soc-butt
 rutracker.org,torrent-baza.net##.soc-buttons
@@ -377,11 +383,13 @@ kanobu.ru##.soc-embed
 lifenews.ru,lifenews78.ru##.soc-likes
 intvua.com##.soc_block
 zbroya.info##.soc_buttons
+aif.ru##.soc_wid.clearfix
 news.rambler.ru##.social-bottom.wide[data-prefix] > .social-bottom__item
 sovsport.ru##.social-buttons_right-sticky
 kinotochka.net##.social-likes__widget
 fishki.net##.social-line
 study.ru##.social_icons_foot
+dugtor.ru##.social_network
 gamer.ru##.social_vk
 ruskweb.ru##.socialboxes
 hqroom.ru##.sots-plugin
@@ -395,6 +403,7 @@ fishki.net##.undertopic > .imgmiddle
 korrespondent.net##.unipopup
 rambler.ru##.v-favsites
 vesti.ru##.video_top_inner
+coub.com##.viewer__sharing__items > .viewer__sharing__item:not([auto-init])
 kherson.net.ua##.wBtn.rss
 rbcdaily.ru##.widget-fb-slave__inner
 ain.ua##.widget_like
@@ -422,6 +431,8 @@ mail.ru##aside[class*="twitter"]:not([class*="teaser_incontent"])
 lady.mail.ru##div[data-module="Shares.Compact"]
 !
 ! Исправления после generichide
+online.anidub.com###lcol > .lblockcon
+online.anidub.com###lcol > .lblockhead
 smotri-filmi.net###lean_overlay
 kinohome.net###share_c
 ria.ru###sharebar
@@ -432,11 +443,13 @@ cinema-hd.ru###toolbarMainContainer
 kubik3.ru###uSocial
 fanserials.tv,filmi-hd.ru,kinoliza.net,kkkino.net,lostfilm-online.ru,online-freebee.ru,zserials.tv###vk_comments
 2ip.ru,anistar.ru,cinema-hd.ru,dom-filmov.ru,filmi-hd.ru,hd-720.ucoz.ru,hdfilms.tv,hdserials.tv,kino-dom.org,kino-go.tv,kinoflux.net,kinoklad.net,kinoliza.net,kinoprosmotr.net,kinoriver.net,kkkino.net,megogo-hd.net,online-freebee.ru,online.anidub.com,ria.ru,sezon-hd.ru,smotri-filmi.net,sovietcinema.ru,super-kino.org,tvfru.net,wikimovies.ru###vk_groups
-kino-go.tv,online-freebee.ru,super-kino.org,tvcok.ru,zserials.tv###vk_like
+ixbt.com,kino-go.tv,online-freebee.ru,super-kino.org,tvcok.ru,zserials.tv###vk_like
 tvfru.net###vk_subscribe
 hdkinoteatr.com##.dpad.share
 hd720.biz##.fa-rss
 sovietcinema.ru##.favorite-site
+ixbt.com##.fb-like
+ixbt.com##.g-plusone
 ria.ru##.header_social
 hdserials.tv##.k2FeedIcon
 megogo.net##.megogo_view_share
@@ -448,12 +461,13 @@ online.anidub.com##.scrollTop
 fanserials.tv##.serials-block-social
 kinohd.net##.share42init
 baskino.club,bigcinema-tv.ru,home-films.net,kino-dom.org,kinogo-hd.net,kinogo2.net,lostfilm-online.ru,megogo-hd.net,online.anidub.com,ria.ru##.social
-bigcinema-hd.tv,fanserials.tv,hd720.biz,kino-filmi.net,kino-go.tv,kinogo-net-2015.ru,kinogo.eu,kinogo720.net,kinoklad.net,kinokrad.ru,kinoliza.net,megogo-hd.net,ojin.tv,rudifilm.com,smotri-filmi.net,tvcok.ru##.social-likes
+bigcinema-hd.tv,fanserials.tv,hd720.biz,kino-filmi.net,kino-go.tv,kino-max.com,kinogo-net-2015.ru,kinogo.eu,kinogo720.net,kinoklad.net,kinokrad.ru,kinoliza.net,megogo-hd.net,ojin.tv,rudifilm.com,smotri-filmi.net,tvcok.ru##.social-likes
 kinokrad.ru##.social-likes-box
 baskino.club##.social_buttons
+ixbt.com##.social_media
 hdkinoklub.ru##.social_share_table
 hdkinomir.com##.socicon
-onlinemultfilmy.ru##.twitter-share-button
+ixbt.com,onlinemultfilmy.ru##.twitter-share-button
 online.anidub.com##.twitter-timeline
 zserials.tv##.video_sharing
 kinohd.red##.views-news:nth-of-type(3)
@@ -461,7 +475,7 @@ hdkinoklub.ru##.vk
 onlinemultfilmy.ru##.vk-mini
 fanserials.tv##.vk-widget
 ojin.tv##.ya-share2_inited
-anistar.ru,bigcinema-hd.tv,bigcinema-tv.ru,cnews.ru,filmsegodnya.online,hd-720.ucoz.ru,hdfilms.tv,kino-filmi.net,kino-go.tv,kino-serial.net,kinogo-hd.net,kinogo-net-2015.ru,kinohd-online.com,kinoliza.net,kinoprosmotr.net,lostfilm-online.ru,lovekinozal.ru,online-freebee.ru,seria-z.net,sezon-hd.ru,the-cinema.ru,torrentom.com,zserials.ru##.yashare-auto-init
+anistar.ru,bigcinema-hd.tv,bigcinema-tv.ru,cnews.ru,filmsegodnya.online,hd-720.ucoz.ru,hdfilms.tv,ixbt.com,kino-filmi.net,kino-go.tv,kino-serial.net,kinogo-hd.net,kinogo-net-2015.ru,kinohd-online.com,kinoliza.net,kinoprosmotr.net,lostfilm-online.ru,lovekinozal.ru,online-freebee.ru,seria-z.net,sezon-hd.ru,the-cinema.ru,torrentom.com,zserials.ru##.yashare-auto-init
 home-films.net##[href^="http://twitter.com/share?"]
 home-films.net##[href^="http://vk.com/share.php?url="]
 home-films.net##[href^="http://www.facebook.com/share.php?u="]
@@ -838,6 +852,9 @@ _userbar_$image
 ||zelgan.ucoz.ru/Userbarss/
 ||zoometric.ru^$third-party
 ! *** ruadlist:bitblock/annoyance_specific_block.txt ***
+/_fixedPanel.js$script,domain=news.mail.ru
+/_parallax.js$script,domain=news.mail.ru
+/alert.js$script,domain=news.mail.ru
 ||1tv.ru/rotobanner/
 ||2ip.ru/sbar/
 ||3dnews.ru/*/images/slider/
@@ -865,6 +882,7 @@ _userbar_$image
 ||games.mail.ru/js/old_design/core.js$script
 ||ganjawars.ru/vidos.swf
 ||gismeteo.*/static/ny/
+||googleapis.com^*%3DUCkTigzIFeWMpiubcQlnkyYw$domain=3dnews.ru
 ||gramma.ru/include/dcpy.js
 ||hawaii-kirillovka.com/misc/js/please.js
 ||hdkinomax.com/ostavlyaem_kommentarii.gif
@@ -882,7 +900,6 @@ _userbar_$image
 ||mail.ru/cgi-bin/my/ajax?*.get_groups_popup_categories&
 ||mail.ru/push-worker.js
 ||mailinator.com^*/clouds-
-||metabar.ru^$third-party
 ||mozilla-russia.org/images/$object
 ||muz.ru/content/banners/
 ||mygold.pp.ua^$third-party
@@ -951,6 +968,7 @@ rus-torrents.ru###la_wrapper
 alexfilm.cc,mrutor.org###latest_news
 styanulo.net###lenta
 livejournal.com###ljlive
+3dnews.ru###lm-quit-button
 superhimik.com###login_popup
 smdoctors.ru###logo_box
 forums.warforge.ru###logostrip
@@ -958,6 +976,7 @@ fullgames.ru###main > noindex
 overclockers.ru###mainplace > table > tbody > tr:nth-of-type(1)
 zismo.biz###more_apps_popup
 zismo.biz###more_votes_popup
+4pda.ru###nav > ul > li:nth-child(8)
 ihavebook.org###navbar-donate
 rambler.ru###notification.r__distribution-fixed-banner
 autoclub-cerato.ru###outer_forum
@@ -972,6 +991,7 @@ rbc.ru###popup_box
 rbc.ru###popup_inner
 rutube.ru###pre-header-pad
 vk.com###public_market
+lifehacker.ru###pushOverlay
 tree.tv###registr_info
 vesti.lv###reklama_wrapper ~ div[style^="float:"]
 demotivators.to###rtc
@@ -1025,6 +1045,7 @@ habrahabr.ru##.company_top_banner
 slavyanskaya-kultura.ru##.containerban
 translate.google.com.ua,translate.google.ru##.cp-promo-c
 kg-portal.ru##.des_front
+yandex.by,yandex.kz,yandex.ru,yandex.ua##.dist-popup__content.popup__content
 flickr.com##.facade-of-protection-neue
 overclockers.ru##.fifty-fifty-left > .decoblock-content.compress
 overclockers.ru##.fifty-fifty-left > .decoblock_rnd1
@@ -1100,8 +1121,11 @@ turbobit.net##a[href^="/turbo?"]
 bigtorrents.ru##a[href^="http://toptracker.ru/details.php?id="]
 sports.ru##a[href^="http://www.sports.ru/fantasy/promo/"]
 tapochek.net##body > button[style^="position: absolute;"]
+pogoda.yandex.by,pogoda.yandex.kz,pogoda.yandex.ru,pogoda.yandex.ua##body > div[style*="padding-top: 36px;"]
 lifter.com.ua##body > div[style^="position: fixed;"]
+pogoda.yandex.by,pogoda.yandex.kz,pogoda.yandex.ru,pogoda.yandex.ua##body > iframe[src]
 kak-prosto.net##br + br
+4pda.ru##div[class="adbox"][id]
 google.com.ua,google.ru##div[class^="gb_"] > div[aria-label="promo"]
 bigtorrent.org##div[id^="div_torrentfiles-"] + .spoiler-wrap
 ntv.ru##div[id^="flamur"]
@@ -1118,9 +1142,9 @@ lkforum.ru##td[width="180"][align="right"]
 shiza-project.com##ul[class*="transparent-btns"]
 !
 ! - Сайты на движке TorrentPier -----------------------------------------------
-pirat.ca,rutracker.ru###latest_news
+pirat.ca,rutracker.ru,unblock.ga###latest_news
 free-torrent.org,free-torrents.org,game-torrent.info###latest_news > table[width="100%"]
-alltorrents.net,file-tracker.net,free-torrent.org,free-torrents.org,game-torrent.info,pornolab.cc,pornolab.net,rus-torrents.ru,rutracker.org,rutracker.ru,underverse.su###logo
+alltorrents.net,file-tracker.net,free-torrent.org,free-torrents.org,game-torrent.info,pornolab.cc,pornolab.net,rus-torrents.ru,rutracker.org,rutracker.ru,unblock.ga,underverse.su###logo
 free-torrent.org,free-torrents.org,game-torrent.info###sidebar1
 wtracker.ru##.preview_lol
 free-torrent.org,free-torrents.org,game-torrent.info##.topmenu ~ table[id][width^="9"]
@@ -1238,6 +1262,7 @@ kinokong.net#@#.yashare-auto-init
 @@||ddestiny.ru/static/*/icon_social.png?$domain=ddestiny.ru
 @@||delo.ua/skin/img/share/0.gif|
 @@||drweb.com^*/bg_btn_google.png|
+@@||eg.ru/public/images/fb-close-btn.png$image,domain=eg.ru
 @@||eway.in.ua/images/google-$domain=eway.in.ua
 @@||ewix.ru/mchat/$domain=ewix.ru
 @@||f1.mozillamessaging.com/share/panel/$document
@@ -1249,6 +1274,7 @@ kinokong.net#@#.yashare-auto-init
 @@||imgsmail.ru/p/js/s_cookie.js
 @@||kali.org^*/min/?f=
 @@||kino-max.com/templates/kinomax/js/social-likes$script,domain=kino-max.com
+@@||kinogo720.net/engine/classes/min/index.php$domain=kinogo720.net
 @@||kinohd.red/templates/grunge-film-blue/images/social/$image,domain=kinohd.red
 @@||kinokopilka.tv/assets/social/
 @@||kinotochka.net/engine/classes/min/index.php?$script
@@ -1266,6 +1292,7 @@ kinokong.net#@#.yashare-auto-init
 @@||static1.1tv.ru/resources/jquery.smartbanner.js$script,domain=1tv.ru
 @@||talon.by/squeeze/$domain=talon.by
 @@||tree.tv/imgs/sprite_square_social$image,domain=tree.tv
+@@||trinixy.ru/engine/classes/min/index.php$script,domain=trinixy.ru
 @@||twitter.com/widgets.js|$domain=slon.ru
 @@||ucoz.net/src/social3.css$stylesheet,domain=wikimovies.ru
 @@||vgtimes.ru/img/gplus.png|
@@ -1281,7 +1308,7 @@ kinokong.net#@#.yashare-auto-init
 @@||yastatic.net/share/share.js
 @@||yastatic.net/share2/share.js$script,domain=radio-archive.ru
 @@||youtube.com/subscribe_embed?$domain=lifehacker.ru
-zismo.biz#@#a[title="Facebook"]
+eg.ru,zismo.biz#@#a[title="Facebook"]
 zismo.biz#@#a[title="Twitter"]
 zismo.biz#@#a[title="Youtube"]
 kinokopilka.tv#@#img[alt="Facebook_32"]
@@ -2587,6 +2614,7 @@ kinokopilka.tv#@#img[alt="Twitter_32"]
 /plugins/wp-social-toolbar-pro/*
 /plugins/wp-tweet-button/*
 /plus-badge.
+/popinfacebook.
 /popups/facebook_
 /portals/*facebook.jpg
 /portals/*google-plus.jpg
@@ -2748,6 +2776,7 @@ kinokopilka.tv#@#img[alt="Twitter_32"]
 /sharetool.php?
 /shareTools.js
 /sharetools/*$image
+/sharetoolsnew.
 /Sharetw.
 /shareTwitter.
 /shareWidgetBackgrounds.
@@ -3741,6 +3770,7 @@ _youtube_social_
 ###article_tools_share
 ###article_tools_share_li
 ###article_twitter
+###articles-footer-social
 ###as-share-window
 ###as_facebook_mem_likebox_widgets
 ###as_facebook_recommend
@@ -4560,6 +4590,7 @@ _youtube_social_
 ###pmFacebook
 ###popShare1
 ###popShare2
+###popinfacebook
 ###popsugar-social-bar
 ###popup_social
 ###post-share
@@ -4936,6 +4967,7 @@ _youtube_social_
 ###socailBarComponentDiv_page
 ###sociable
 ###sociactionsb
+###social-2
 ###social-actions
 ###social-bar
 ###social-block-wrapper
@@ -5596,6 +5628,7 @@ _youtube_social_
 ##.Logo-google-plus
 ##.Logo-youtube
 ##.MR_Social_Sharing_Toolkit_Widget
+##.MainListSocial
 ##.NYshareit
 ##.PinterestButtonContainer
 ##.PinterestICN
@@ -6328,6 +6361,7 @@ _youtube_social_
 ##.fButtonLarge
 ##.f_social
 ##.fa-facebook
+##.fa-facebook-f
 ##.fa-facebook-square
 ##.fa-fb
 ##.fa-flickr
@@ -6804,6 +6838,7 @@ _youtube_social_
 ##.followandshare
 ##.followbl
 ##.followbox
+##.followbutton
 ##.followscreen
 ##.followus
 ##.followus-footer
@@ -6855,6 +6890,7 @@ _youtube_social_
 ##.footer-links-social
 ##.footer-logos--social
 ##.footer-main-bottom-social
+##.footer-nav-social
 ##.footer-pin
 ##.footer-pinterest-icon
 ##.footer-share
@@ -7831,6 +7867,7 @@ _youtube_social_
 ##.nav--social
 ##.nav--stay-connected
 ##.nav-bar-facebook
+##.nav-follow-us
 ##.nav-footer-social
 ##.nav-icon-facebook
 ##.nav-icon-googleplus
@@ -7929,6 +7966,18 @@ _youtube_social_
 ##.pds-share
 ##.persistent-menu_share-links
 ##.pg-caption-share
+##.pg-share-button
+##.pg-share-buttons
+##.pg-share-facebook
+##.pg-share-icon
+##.pg-share-icon-e-mail
+##.pg-share-icon-facebook
+##.pg-share-icon-linkedin
+##.pg-share-icon-twitter
+##.pg-share-linkedin
+##.pg-share-mail
+##.pg-share-pinterest
+##.pg-share-twitter
 ##.pgm-social-share
 ##.phillyfooter-social
 ##.phillysocial
@@ -8084,6 +8133,7 @@ _youtube_social_
 ##.redit_button
 ##.region-share-inner
 ##.region-social
+##.region-social-links
 ##.related-tweets
 ##.report-process-share
 ##.reporter-social-buttons
@@ -8268,6 +8318,7 @@ _youtube_social_
 ##.share-item--google
 ##.share-launch
 ##.share-left
+##.share-line
 ##.share-link
 ##.share-link-container
 ##.share-link-facebook
@@ -8508,6 +8559,7 @@ _youtube_social_
 ##.share_post
 ##.share_question
 ##.share_rdr
+##.share_sm
 ##.share_small
 ##.share_story
 ##.share_stumbleupon
@@ -8621,6 +8673,7 @@ _youtube_social_
 ##.sharetool_bg
 ##.sharetools
 ##.sharetools-overlay
+##.sharetoolsnew
 ##.sharetop
 ##.sharetweet
 ##.sharetwitter
@@ -8765,6 +8818,7 @@ _youtube_social_
 ##.singlesocialfootericon
 ##.sinsocialshare
 ##.sinsocialshareright
+##.site-footer-follow
 ##.site-footer-social-icon-item
 ##.site-footer-social-icon-link
 ##.site-footer-social-icon-list
@@ -9595,10 +9649,14 @@ _youtube_social_
 ##.ss_social
 ##.ssb-share
 ##.ssba_pinterest_share
+##.ssba_reddit_share
+##.ssba_share_link
 ##.ssba_sharecount
+##.ssbas-wrap
 ##.ssk-facebook
 ##.ssk-google-plus
 ##.ssk-twitter
+##.ssocial
 ##.sss_shares_block
 ##.st-social-block
 ##.st-social-share-buttons
@@ -9668,6 +9726,7 @@ _youtube_social_
 ##.sub_socialMedia
 ##.sub_twitter
 ##.subpost_share
+##.subscribe-button
 ##.subscribe-buttons-container
 ##.subscribe-follow
 ##.subscribe-option-facebook
@@ -10148,6 +10207,7 @@ _youtube_social_
 ##.widget_social_follow
 ##.widget_social_links
 ##.widget_social_media
+##.widget_social_networks
 ##.widget_social_profiles
 ##.widget_social_sidebar
 ##.widget_socialbox_widget_nw
@@ -11150,7 +11210,9 @@ _social_rss.
 -cookie-banner-
 -cookie-cnil.
 -cookie-filter/$script
+-cookie-law-popup.
 -cookie-law.js
+-cookie-law/$script
 -cookie-message.js
 -cookie-msg-bar.
 -cookie-notice.
@@ -11181,6 +11243,8 @@ _social_rss.
 /__cookie_js.php
 /ac_cookiesvalidation/*
 /acceptCookies.
+/alertcookie.
+/alertcookies.
 /amCookieApproval.
 /angular-cookies-
 /asesor-cookies-
@@ -11196,6 +11260,7 @@ _social_rss.
 /cookie-banner
 /cookie-bar-
 /cookie-bar.
+/cookie-check.js
 /cookie-compliance.
 /cookie-consent.
 /cookie-consent/*
@@ -11304,9 +11369,11 @@ _social_rss.
 /cookies-overlay.
 /cookies-policy-
 /cookies-policy/*
+/cookies_acceptance.
 /cookies_bar.js
 /cookies_directive.
 /cookies_komunikat.
+/cookies_loading.php?
 /cookies_policy.js
 /Cookies_Pro/*
 /CookiesAgreement/*
@@ -11328,6 +11395,7 @@ _social_rss.
 /EU-cookielaw.
 /eu_cookie_$script,stylesheet
 /eu_cookies.
+/eu_privacy.js
 /eu_rp_cookie.
 /euc_cookie.js
 /eucookie.
@@ -11349,6 +11417,7 @@ _social_rss.
 /InfoCookies.
 /iubenda_cs.
 /jbcookies.
+/jjp_eucookie_
 /jquery.cookie.js$domain=password-decryptor.com
 /jqueryCookieGuard.
 /js-cookie-master/*$script
@@ -11375,7 +11444,7 @@ _social_rss.
 /warnCookies.
 /widgets/cookies-
 /wkp_cookies.js
-/wp-cookie-allow/*$script
+/wp-cookie-allow/*$script,stylesheet
 _cookie_cnil.
 _cookie_compliance.
 _cookie_consent/
@@ -12071,6 +12140,7 @@ _europecookielaw.
 ###footer-newsletter-signup
 ###footer-newsletter-subscribe
 ###footer-subscribe
+###footer-subscribe-large
 ###footerEmailSignup
 ###footer__newsletter-signup
 ###footer_block_newsletter
@@ -12156,6 +12226,7 @@ _europecookielaw.
 ###newsletterFooterDiv
 ###newsletterLBContainer
 ###newsletterLBMist
+###newsletterModal
 ###newsletterModuleForm
 ###newsletterOverlay
 ###newsletterOverlayBg
@@ -12197,6 +12268,7 @@ _europecookielaw.
 ###newsletterbox
 ###newslettermailboxID
 ###newsletters_rdr
+###newslettershow
 ###newslettersignup
 ###newsltBox
 ###newsmax-signup-block
@@ -12225,6 +12297,7 @@ _europecookielaw.
 ###sdac_subscribe_widget-3
 ###se-subscribe
 ###sectionEmailAlerts
+###sendpress_signup
 ###share-newsletter
 ###sidebar-block-newsletters
 ###sidebar-newsletter
@@ -12328,6 +12401,7 @@ _europecookielaw.
 ##.c-newsletter-context
 ##.cS-newsletter
 ##.cambeywest-subscribe
+##.channel__subscribe-widget
 ##.chive-newsletter
 ##.cm_mobNewsletterSignup
 ##.cm_newsletter
@@ -12356,6 +12430,7 @@ _europecookielaw.
 ##.email-signup-form
 ##.email-signup-form-wrapper
 ##.email-signup-lightbox
+##.email-sub__iframe
 ##.email-subscribe
 ##.email-subscription-promo
 ##.email-subscription-wrap
@@ -12467,6 +12542,7 @@ _europecookielaw.
 ##.newsletter-signup-container
 ##.newsletter-signup-dialog
 ##.newsletter-signup-form
+##.newsletter-signup-home
 ##.newsletter-signup-inarticle-container
 ##.newsletter-signup-mod
 ##.newsletter-signup-module
@@ -12498,6 +12574,7 @@ _europecookielaw.
 ##.newsletter_box
 ##.newsletter_callout_box
 ##.newsletter_center_form
+##.newsletter_inline
 ##.newsletter_location
 ##.newsletter_promo
 ##.newsletter_sign_like
@@ -12688,6 +12765,7 @@ _europecookielaw.
 ###TNTpageContentPlaceHolder_pnlCookieMessage
 ###WP-cookie-info
 ###\5f CookieText
+###\5f _accept_cookie
 ###\5f _ic-notice
 ###\5f _ndcc_cookieImpliedConsent
 ###\5f cookieConsentWrapper
@@ -12702,6 +12780,7 @@ _europecookielaw.
 ###acceptCookiesDiv
 ###accept_cookies
 ###acceptcookie
+###acookie
 ###af-cookie-policy
 ###agreecookies
 ###alert-cookie-policy
@@ -12752,6 +12831,7 @@ _europecookielaw.
 ###c2g_cookie_dialog
 ###c_agrem
 ###ca_banner
+###ca_info_plus
 ###cadre_alert_cookies
 ###catapult-cookie-bar
 ###cc-cookie-law
@@ -12761,10 +12841,12 @@ _europecookielaw.
 ###ccconsent
 ###ccgtm-banner
 ###ccm-cookiesDisclosure
+###cewe-accept-cookies
 ###cf-cookie-banner
 ###ck-cookie-statement
 ###cl-banner
 ###close_cnil
+###cmsCookieWarning
 ###cnil
 ###cnil-cookie
 ###cnil-cookie-panel
@@ -12798,6 +12880,7 @@ _europecookielaw.
 ###cookie-compliance
 ###cookie-compliance-bottom
 ###cookie-compliance-bottom-overlay
+###cookie-compliance-container
 ###cookie-consent
 ###cookie-consent-bar
 ###cookie-consent-container
@@ -12848,6 +12931,7 @@ _europecookielaw.
 ###cookie-prompt-fixed
 ###cookie-regle
 ###cookie-ribbon
+###cookie-slide
 ###cookie-statement
 ###cookie-terms
 ###cookie-ue
@@ -12877,6 +12961,7 @@ _europecookielaw.
 ###cookieConsent
 ###cookieConsentBar
 ###cookieConsentForm
+###cookieConsentPrompt
 ###cookieContainer
 ###cookieControl
 ###cookieCookieBar
@@ -13035,6 +13120,7 @@ _europecookielaw.
 ###cookiereports-badge
 ###cookies-acc
 ###cookies-agreed-wrapper
+###cookies-agreement
 ###cookies-agreement-box
 ###cookies-auth
 ###cookies-banner
@@ -13065,6 +13151,7 @@ _europecookielaw.
 ###cookies-warning-box
 ###cookies-wrapper
 ###cookiesAlert
+###cookiesAllowingRequest
 ###cookiesArticle
 ###cookiesBanner
 ###cookiesBar
@@ -13144,9 +13231,11 @@ _europecookielaw.
 ###divCookie
 ###divCookieAlert
 ###divCookieMsg
+###divCookieNotify
 ###divCookiePolicy
 ###divCookiesBox
 ###div_cookie
+###divcook
 ###dlgCookies
 ###dvCookie
 ###eCookieConsentDialog
@@ -13169,10 +13258,12 @@ _europecookielaw.
 ###eu-cookie-wrap
 ###eu-cookies
 ###eu-cp-banner
+###eu-privacy
 ###euCookieDirective
 ###euNotice
 ###eu_cookie
 ###eu_cookies
+###eu_notice_content
 ###eucl_panel
 ###eucookie
 ###eucookielaw
@@ -13261,6 +13352,7 @@ _europecookielaw.
 ###notice--cookie
 ###notificacio-cookies
 ###notification__cookie
+###nova_cookie_disclaimer
 ###nq_cnilbanner
 ###nuk-cookieMessage
 ###nwcook-message
@@ -13268,6 +13360,7 @@ _europecookielaw.
 ###okcookies
 ###okookie-box
 ###pCookieWarning
+###panel-cookies
 ###pc-cookie-notice
 ###pecr-compliance-banner
 ###phrase_notification_cookies
@@ -13279,11 +13372,13 @@ _europecookielaw.
 ###popinCookie
 ###popup-cookies
 ###popup_cookie
+###pravda-cookie-usage
 ###pricacy_popup
 ###privacy-bar
 ###privacy-message-bar
 ###privacy-policy-panel
 ###privacyBar
+###privacyOuterContainer
 ###privacyPolicyLayer
 ###privacyWarningBanner
 ###privacy_law
@@ -13323,6 +13418,7 @@ _europecookielaw.
 ###the-cookie
 ###theme_cookie
 ###tid_cookieWarning
+###toolbar_cookies
 ###topCookie
 ###townside-cookiebar-outer
 ###tto-cookieMessage
@@ -13342,10 +13438,12 @@ _europecookielaw.
 ###v-cookielaw
 ###viewlet-cookiepolicy
 ###vscookieAlertCont
+###vvc_cookie
 ###warn-cookies-area
 ###warning_cookie
 ###wdg_cookie_bar
 ###website-cookies
+###welcomebar-wrapper
 ###widget-vrtcookiebalk
 ###wk_cookiebar
 ###wsjconsent
@@ -13388,6 +13486,7 @@ _europecookielaw.
 ##.alertcookie
 ##.alerts-manager-container
 ##.alma-cookie-disclaimer
+##.b-cookies
 ##.ban-cookies
 ##.bandeau-cnil
 ##.bandeau-cookies
@@ -13399,6 +13498,7 @@ _europecookielaw.
 ##.barre_cookies
 ##.blocCookie
 ##.bloccookie
+##.block-cookies
 ##.bmj-cookie-noticebar-content
 ##.box-cookies
 ##.box_cookie
@@ -13474,6 +13574,7 @@ _europecookielaw.
 ##.cookie-notifier
 ##.cookie-notify
 ##.cookie-opt-in
+##.cookie-optin
 ##.cookie-overlay
 ##.cookie-panel
 ##.cookie-panel-content
@@ -13638,8 +13739,11 @@ _europecookielaw.
 ##.cookiespolicy
 ##.cookiestrip
 ##.cookietext
+##.cookiewarn
 ##.cookiewarning
 ##.cookiewrapper
+##.cookskom
+##.cp-cookie-banner
 ##.ctl_CookieWarning
 ##.cwcookielaw
 ##.dCookiesAlert
@@ -13661,12 +13765,14 @@ _europecookielaw.
 ##.eu-cookie-notice
 ##.eu-cookies
 ##.euCookie
+##.euCookieLaw
 ##.euPrivacy_cookiesMsg
 ##.eu_cookie
 ##.eucookie
 ##.eucookie_disclaimer
 ##.eucookielaw
 ##.eucookies
+##.eupopup-container
 ##.filCookiesCnil
 ##.footer-cnil
 ##.footer-cookie
@@ -13679,6 +13785,7 @@ _europecookielaw.
 ##.gb_g.gb_rc.gb_sc
 ##.globalcookiepolicycontainer
 ##.gn-cookie-alert
+##.head-cookie-container
 ##.header-cookie-content
 ##.headerCookies
 ##.ib-m-cookie-banner
@@ -13701,6 +13808,7 @@ _europecookielaw.
 ##.js-cookieComply
 ##.js-cookieMessage
 ##.js-cookies
+##.js-cookies-box
 ##.js-message-cookies
 ##.js-toast-cookies
 ##.layerCookie
@@ -13723,6 +13831,7 @@ _europecookielaw.
 ##.notice-cookie
 ##.notice_notice_cookies
 ##.notification__content-cookie
+##.notificationpopup
 ##.obs_cnil
 ##.okookie
 ##.om-cookie-agreement
@@ -13738,17 +13847,22 @@ _europecookielaw.
 ##.plugin_cookie
 ##.polityka-cookie
 ##.pop-cookie
+##.popup-alert-notice
 ##.popup-cookie
+##.popup-cookie-notice-wrap
 ##.popup_cookie
+##.preventAcceptance
 ##.privacy-alert
 ##.privacybanner
 ##.privacycookie
 ##.qb-cookielaw-bar
 ##.react-cookie-banner
 ##.regional-cookie-warning
+##.rltcp_information_cookie
 ##.rlx-cookie
 ##.roh-cookies
 ##.sanoma-optin-bar
+##.sb-ncookies-alert
 ##.sc-cookies
 ##.sd_cookiespolicy
 ##.self-contain-cookie
@@ -13756,6 +13870,7 @@ _europecookielaw.
 ##.sgsCookies
 ##.sh-cookie-confirmation
 ##.site-cookie-panel
+##.site-cookies
 ##.sqs-announcement-bar
 ##.storm-cookie
 ##.sys_cc-cookies
@@ -13764,6 +13879,7 @@ _europecookielaw.
 ##.texteAlerteCookie
 ##.toast-type-newCookie
 ##.tre-cookie-disclaimer
+##.ui-dialog-cookies
 ##.uk-cookie
 ##.uk-cookie-banner
 ##.uk-cookies
@@ -13843,6 +13959,7 @@ _europecookielaw.
 ###uix_jumpToFixed
 ###uix_jumpToTopFixed
 ###w2b-StoTop
+###wpfront-scroll-top-container
 ##.BackToTop
 ##.TopGoTop
 ##.axScrollToTop
@@ -14089,6 +14206,7 @@ _europecookielaw.
 ||nrcdn.com/custom-script/$third-party
 ||nrelate.com^$third-party
 ||odb.outbrain.com^$third-party
+||optimonk.com^$third-party
 ||optinmonster.com^$third-party
 ||optkit.com^$third-party
 ||optnmnstr.com^$third-party
@@ -14230,6 +14348,7 @@ prosiebengames.de,stories.com#@#.cookie-notification
 hearst.co.uk#@#.cookie-policy
 mediapart.fr#@#.cookie-warn
 tweakers.net#@#.cookieBar
+moniteurautomobile.be#@#.cookieBox
 filmweb.pl#@#.cookieInfo
 your-move.co.uk#@#.cookie_policy
 bulle-communication.com,edmond-de-rothschild.fr,foiredeparis.fr,galleria.io,icelandair.ca,icelandair.de,kintera.org,lamediathequedumarsan.fr,liciafox.net,normandinamik.cci.fr,pleinchamp.com,universityadmissions.se#@#.cookiebanner
@@ -14257,6 +14376,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@/rutorrent/plugins/rss/*$image,~third-party
 @@||3dmark.com/proxycon/js/jquery.cookiesdirective.js
 @@||adfoc.us/*/interstitial.js$~third-party
+@@||alicdn.com/js/*/ws-cookie.js$script
 @@||aliunicorn.com^*/cookie-info.js
 @@||amazonaws.com/downloads.mailchimp.com/js/mc-validate.js$domain=cnn.com|genuine-people.com|justrunlah.com|nikopik.com|nyt.fi
 @@||amazonaws.com^*/feedback-v2.js?$domain=avgthreatlabs.com
@@ -14292,6 +14412,9 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||libreprojects.net/logos/
 @@||livefyre.com/site_media/images/auth/$image
 @@||makeuseoflimited.netdna-cdn.com/pages/*/images/social.png$domain=makeuseof.com
+@@||mammamiamuzikal.cz/wp-content/plugins/cookie-law-info/js/cookielawinfo.js
+@@||my.leadpages.net/template/$script,domain=weddingjams.com
+@@||my.leadpages.net^*/public/
 @@||newsgator.com/ngbuzz/load.ashx/$script,domain=cbsnews.com
 @@||nova24tv.si^*/cookielawinfo.js
 @@||odnoklassniki.ru/share/odkl_share.js$domain=ivi.ru
@@ -14308,7 +14431,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||statictapcdn-a.akamaihd.net^$domain=tapiture.com
 @@||surveygizmo.com^*_output$script,domain=motorsport.com
 @@||taboola.com/libtrc/*-Release.js$domain=entrepreneur.com
-@@||taboola.com/libtrc/*/loader.js$domain=dailymail.co.uk|entrepreneur.com|foxsports.com
+@@||taboola.com/libtrc/*/loader.js$domain=cnet.com|dailymail.co.uk|entrepreneur.com|foxsports.com
 @@||taxreturned.co.uk/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?
 @@||theslingshot.com/w/$script,domain=guyspeed.com
 @@||ugc.fr/statique/js/lib/jquery.cookiesdirective.js
@@ -14451,7 +14574,7 @@ academia.edu#@#.google-btn
 9gag.com,google.com#@#.google-plus
 google.com,inoreader.com#@#.google_plus
 vk.com#@#.group_share
-airbnb.de,aitnews.com,comicbook.com,di.fm,fastcompany.com,gleam.io,shared.com,squidoo.com,theoldreader.com#@#.icon-facebook
+airbnb.de,aitnews.com,comicbook.com,di.fm,fastcompany.com,gleam.io,shared.com,songkick.com,squidoo.com,theoldreader.com#@#.icon-facebook
 lockerdome.com#@#.icon-facebook2
 secure.allocine.fr#@#.icon-fb
 airbnb.cat,airbnb.com,airbnb.de,theoldreader.com#@#.icon-google-plus
@@ -14509,6 +14632,7 @@ greatbritishchefs.com#@#.share-header
 vimeo.com#@#.share-icon
 tumblr.com#@#.share-item
 askubuntu.com,baidu.com,broadcast.app.net,imgur.com,mammothhq.com,mathoverflow.net,openstreetmap.org,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com#@#.share-link
+pornhub.com#@#.share-link-container
 imgur.com#@#.share-links
 disqus.com,google.com,tumblr.com#@#.share-menu
 flickr.com#@#.share-options
@@ -14601,6 +14725,7 @@ vorarlberg.orf.at#@#.socialshare
 listenonrepeat.com#@#.ssk-facebook
 cbsnews.com#@#.std-social
 stumbleupon.com#@#.stumble-button
+reddit.com#@#.subscribe-button
 geekgamer.tv#@#.subscribe-widget
 twitter.com#@#.tweet-btn
 socket.io,twitter.com#@#.tweets
@@ -14741,6 +14866,7 @@ fark.com,marketplace.firefox.com#@#img[title="YouTube"]
 @@||cbsimg.net/images/signin/spoe/signin_facebook.png$domain=cbssports.com
 @@||cbsistatic.com/cnwk.1d/html/*/Social/$script,domain=cbsnews.com|cnet.com
 @@||cbsistatic.com^*/js-build/fly/components/social-links-$domain=cbsnews.com|cnet.com
+@@||cdn-immedia.net/img/share/
 @@||cdn.pinknews.co.uk/images/$image,domain=pinknews.co.uk
 @@||cdnslate.com^*/social/colored-social-$image
 @@||chesscomfiles.com/images/fb_logo.png$domain=chess.com
@@ -14752,6 +14878,7 @@ fark.com,marketplace.firefox.com#@#img[title="YouTube"]
 @@||cloudfront.net/images/facebook.png$domain=hockeyapp.net
 @@||cloudfront.net/images/social/$domain=crowdin.net
 @@||cloudfront.net/js/FB.Share*.js$domain=9gag.com
+@@||cloudfront.net/liveblog/modules/login/images/social_icons.png
 @@||cloudfront.net/s/images/facebook-login.png
 @@||cloudfront.net/s/images/twitter-signin.png
 @@||cloudfront.net/share/js/$domain=pokemon-gl.com
@@ -14764,6 +14891,7 @@ fark.com,marketplace.firefox.com#@#img[title="YouTube"]
 @@||coveritlive.com/templates/coveritlive/images/twitter_$~third-party
 @@||crowdin.net/images/social/
 @@||curelost.com/logo/$image,~third-party
+@@||customer.xfinity.com^*/EmailShare.js$~third-party
 @@||dadaviz.com/static/bower_components/core-icons/social-icons.html
 @@||daddydesign.com/*/wp-social-toolbar/
 @@||datacolor.com/wp-content/plugins/easy-social-share-buttons/assets/js/$script,domain=datacolor.com

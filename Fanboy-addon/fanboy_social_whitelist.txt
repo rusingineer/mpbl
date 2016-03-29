@@ -66,6 +66,7 @@
 @@||cbsimg.net/images/signin/spoe/signin_facebook.png$domain=cbssports.com
 @@||cbsistatic.com/cnwk.1d/html/*/Social/$script,domain=cbsnews.com|cnet.com
 @@||cbsistatic.com^*/js-build/fly/components/social-links-$domain=cbsnews.com|cnet.com
+@@||cdn-immedia.net/img/share/
 @@||cdn.pinknews.co.uk/images/$image,domain=pinknews.co.uk
 @@||cdnslate.com^*/social/colored-social-$image
 @@||chesscomfiles.com/images/fb_logo.png$domain=chess.com
@@ -77,6 +78,7 @@
 @@||cloudfront.net/images/facebook.png$domain=hockeyapp.net
 @@||cloudfront.net/images/social/$domain=crowdin.net
 @@||cloudfront.net/js/FB.Share*.js$domain=9gag.com
+@@||cloudfront.net/liveblog/modules/login/images/social_icons.png
 @@||cloudfront.net/s/images/facebook-login.png
 @@||cloudfront.net/s/images/twitter-signin.png
 @@||cloudfront.net/share/js/$domain=pokemon-gl.com
@@ -89,6 +91,7 @@
 @@||coveritlive.com/templates/coveritlive/images/twitter_$~third-party
 @@||crowdin.net/images/social/
 @@||curelost.com/logo/$image,~third-party
+@@||customer.xfinity.com^*/EmailShare.js$~third-party
 @@||dadaviz.com/static/bower_components/core-icons/social-icons.html
 @@||daddydesign.com/*/wp-social-toolbar/
 @@||datacolor.com/wp-content/plugins/easy-social-share-buttons/assets/js/$script,domain=datacolor.com

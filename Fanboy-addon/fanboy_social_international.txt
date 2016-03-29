@@ -237,6 +237,7 @@ baixaki.com.br###bxkapp
 soychile.cl###facebook
 yamaha-motor.com.br##.barra-midias
 starmedia.com##.fbk
+uol.com.br##.likebox
 crea-mexico.com##.redes
 tn.com.ar##.shares
 diarioti.com##.social
@@ -263,7 +264,6 @@ advicegroup.it##.google
 corriere.it##.player-email-ctn
 ilsecoloxix.it,ilsole24ore.com##.share
 ilsole24ore.com##.share-elements
-@@||gds.it.cdn-immedia.net/img/share/
 !
 !---------- Korean Site Specific Hiding Rules ----------
 !

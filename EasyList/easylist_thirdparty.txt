@@ -220,6 +220,7 @@
 ||award.sitekeuring.net^
 ||axandra.com/affiliates/
 ||axisbank.com/shopaholics-festival/$domain=ibnlive.in.com
+||azurewebsites.net/mvc/Widget/
 ||b.babylon.com^
 ||b.livesport.eu^
 ||b.sell.com^$third-party
@@ -395,7 +396,7 @@
 ||cloudfront.net/scripts/js3caf.js
 ||cloudfront.net/st.js
 ||cloudfront.net/tie.js
-||cloudfront.net^$script,domain=dailyuploads.net|extremetech.com|torrentproject.se
+||cloudfront.net^$script,domain=dailyuploads.net|extremetech.com|torrentproject.se|tubeoffline.com
 ||cloudfront.net^*ad$domain=fiaformulae.com
 ||cloudfront.net^*banner$domain=fiaformulae.com
 ||cloudzer.net/ref/
@@ -446,6 +447,7 @@
 ||d1cl1sqtf3o420.cloudfront.net^
 ||d1d43ayl08oaq2.cloudfront.net^
 ||d1d95giojjkirt.cloudfront.net^
+||d1ebha2k07asm5.cloudfront.net^
 ||d1ep3cn6qx0l3z.cloudfront.net^
 ||d1ey3fksimezm4.cloudfront.net^
 ||d1fo96xm8fci0r.cloudfront.net^
@@ -480,6 +482,7 @@
 ||d2gtlljtkeiyzd.cloudfront.net^
 ||d2gz6iop9uxobu.cloudfront.net^
 ||d2hap2bsh1k9lw.cloudfront.net^
+||d2hcjk8asp3td7.cloudfront.net^
 ||d2ipklohrie3lo.cloudfront.net^
 ||d2mic0r0bo3i6z.cloudfront.net^
 ||d2mq0uzafv8ytp.cloudfront.net^
@@ -1381,6 +1384,7 @@
 ||smart.styria-digital.com^
 ||smartdestinations.com/ai/$third-party
 ||smartlinks.dianomi.com^$third-party
+||smblock.s3.amazonaws.com^
 ||smilepk.com/bnrsbtns/
 ||snacktools.net/bannersnack/
 ||snapapp.com^$third-party,domain=bostonmagazine.com

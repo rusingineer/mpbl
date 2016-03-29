@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private Block List Incremental Update
-! Last modified: 19 Mar 2016 19:00 +0400
+! Last modified: 29 Mar 2016 16:50 UTC
 ! Homepage: https://github.com/rusingineer/mpbl
 !  This is a private list,
 !  will not provide any technical support
@@ -49,10 +49,7 @@ letmelook.net/news.js
 ||qtymi.com^$script
 ||manymoney.erohd.net^$script
 ||advertoly.com^$script
-gonews1.net/news.js
-gonews2.net/news.js
-gonews3.net/news.js
-omynews.net/news.js
+.net/news.js
 ||bdzhhjnml.pw^$third-party,script
 rt.tizerlady.info/init.js
 ||c.novostimira.biz
@@ -252,3 +249,11 @@ cdn1.traffichaus.com/ads/advertisement.js
 syndication.globaltraffico.com/adserve/
 ads.exoclick.com/ad_track.js
 syndication.exoclick.com
+gos-arhiv.ru^
+@@spynet.ru^
+||marketgid.com^
+||xxxsex8.com/true.Multiniche.php
+doge-faucet.tk/advertisement.js^$important
+pfrve.xyz
+dfebr.com
+bkrkv.com

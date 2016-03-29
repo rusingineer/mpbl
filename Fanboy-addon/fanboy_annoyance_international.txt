@@ -25,7 +25,10 @@ weltwoche.ch###alteAusgabenCovers
 boligliv.dk,rumid.dk###banner-floating
 abril.com.br###barra-mini-home
 mojkvart.hr###dcw1
+qr.cz###eu-fck
+akcneletaky.sk###infoCoo
 nbnews.com.ua###iosauth
+sme.sk###js-top-info-bar
 hrportfolio.hr###kolac
 goodtimes.dk###modalBackdrop
 goodtimes.dk###modalContent
@@ -36,6 +39,7 @@ zena.hr###serviceBar
 blogdeputaria.net###sub
 delfi.lv##.after_body
 zaycev.net##.bookmarks
+totalmoney.sk##.cookies
 weltwoche.ch##.navInner.fixed
 trazi.hr##.notification
 delfi.lv##.sbookmarks
@@ -91,23 +95,24 @@ lot.com###cc
 newseria.pl###cokPyt
 bstorun.pl###comm_info
 gov.pl,osnews.pl,xfutbol.pl###cookie
-dobreprogramy.pl,newsweek.pl,play.pl,tripolo.pl###cookies
+bankmillennium.pl,dobreprogramy.pl,generali.pl,newsweek.pl,play.pl,tripolo.pl###cookies
 drony.net,gadzetomania.pl,komorkomania.pl###cop
 regenersis.pl###ctl00_cpanel
-pap.pl###divcook
 benchmark.pl###document_modal
+flyordie.pl###eucc
 di.com.pl###floating-box
 komorkomania.pl###floatingbar
 atman.pl###gbpl_oba
 speedtest.pl###info_container
 webelite.pl###infobar
 gsmonline.pl###jGrowl
-wydawca.com.pl###kuki
+krakow.pl,wydawca.com.pl###kuki
 tripolo.pl###miastoszkolen
 redbullmobile.pl###more1
 mondeoklubpolska.pl###navbar_notice_12
 lovekrakow.pl###new-policy
 dolce-gusto.pl###nimgrowler
+e-zikoapteka.pl,tanie-leczenie.pl###notice_bar
 radiomerkury.pl###privacyPolicyBox
 totalmoney.pl###right_widget
 di.com.pl###slidebox
@@ -125,6 +130,7 @@ policja.pl##.informationBar
 interia.pl##.inplCCA
 vectra.pl##.jqmAlertWindow
 filmweb.pl##.meterBottomBar
+onet.pl##.policy-box
 gda.pl##.shotimoo
 naszamlawa.pl##.slide_button
 virginmobile.pl##.topPanelBlock
@@ -150,6 +156,7 @@ demotywatory.pl##div[style^="position: fixed; width: 750px; margin-left: -375px"
 ||nowehoryzonty.pl/js/cookies.js
 ||orange.pl/ocp-http/map/js/cookies.js
 ||prideandglory.pl/polityka_cookies.js
+||privacy.totaaltv.nl^
 ||skryptcookies.pl^$third-party
 ||sycow.pl/a/cookie.js
 ||wkd.com.pl/cookies/cookies.js
@@ -170,7 +177,6 @@ t-mobile.nl###exposeMask
 techzine.nl###scrollbuddy[style="top: -20px; position: fixed;"]
 boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl#@#.Cookies
 hepatitiscgids.nl##.modal-backdrop
-tweakers.net##.notification
 3dtvmagazine.nl,gadgetsmagazine.nl,homecinemamagazine.nl,tabletsmagazine.nl##.opt-in
 t-mobile.nl##.overlay
 @@||cookiesv2.publiekeomroep.nl^$domain=cinema.nl|nos.nl|npo.nl
@@ -227,7 +233,6 @@ zdnet.fr###catfish
 francetvsport.fr,pourquoidocteur.fr###cboxOverlay
 centerblog.net###centerbl
 pagesjaunes.fr###cgu
-nuits-sonores.com###cnil
 francetvsport.fr,pourquoidocteur.fr###colorbox
 paconsulting.com###cookPop
 gmf.fr,grillofrance.fr,havas-voyages.fr,materiel.net,paris.fr,societe.com,sportetstyle.fr###cookie
@@ -253,7 +258,6 @@ lequipe.fr###rebonds
 gentside.com###signup-holder
 boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###sliding-popup
 groupon.fr###spotlight
-groupon.fr###subscribe_modal_container
 nwglobalvending.fr###toast
 lequipe.fr###toasterQuoti
 lequipe.fr###toolbar
@@ -284,16 +288,18 @@ lecho.be##.linkWithinBlock
 auchan.fr##.loi_hamon
 cushmanwakefield.fr##.m-warning
 kioskabo.fr##.messages
+largus.fr##.modal-backdrop
 leroymerlin.fr##.nav-infos-wrapper
 silicon.fr##.nav-next
 silicon.fr##.nav-previous
-leparisien.fr,phonandroid.com##.newsletter
+cuisineetvinsdefrance.com,leparisien.fr,phonandroid.com##.newsletter
 20minutes.fr##.notice
 landrover.ch##.notificationBars
 nouvelobs.com##.obs-article-boutils
 nouvelobs.com##.obs-follow-nl
 leclercdrive.fr##.pWCTD609_BandeauCookies
 minutebuzz.com##.popinNl
+e-leclerc.com##.popover
 metairie.fr##.popup-notification
 korben.info##.post-subscribe
 stihl.fr##.privacyTop
@@ -344,6 +350,7 @@ lavozdegalicia.es##.alert
 winphonemetro.com##.c_i_container
 metalomarao.pt##.cookies
 soychile.cl##.overli
+daf.es##.page-overlay
 nh-hoteles.pt##.politicaRewards
 eleconomista.es##.tbot
 lanacion.com.ar##.twitter
@@ -355,8 +362,14 @@ iubenda.com##a[style="padding-top: 10px; display: block;"]
 !
 !---------- Italian Site Specific Blocking Rules ----------
 !
+educazioneemotiva.it###Cookie
 enel.it###contenitoredisclaimer
+radioitalia.it##.cookies
+wd40.it###cookie
+||edintorni.net^$third-party
 ||js.adv.dadapro.net/collector.js/prcy.js?
+||linkwelove.com^$third-party
+||linkwelove.it^$third-party
 ||mycookies.it^$third-party
 !
 !---------- Italian Site Specific Hiding Rules ----------

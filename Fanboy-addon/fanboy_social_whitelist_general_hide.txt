@@ -128,7 +128,7 @@ academia.edu#@#.google-btn
 9gag.com,google.com#@#.google-plus
 google.com,inoreader.com#@#.google_plus
 vk.com#@#.group_share
-airbnb.de,aitnews.com,comicbook.com,di.fm,fastcompany.com,gleam.io,shared.com,squidoo.com,theoldreader.com#@#.icon-facebook
+airbnb.de,aitnews.com,comicbook.com,di.fm,fastcompany.com,gleam.io,shared.com,songkick.com,squidoo.com,theoldreader.com#@#.icon-facebook
 lockerdome.com#@#.icon-facebook2
 secure.allocine.fr#@#.icon-fb
 airbnb.cat,airbnb.com,airbnb.de,theoldreader.com#@#.icon-google-plus
@@ -186,6 +186,7 @@ greatbritishchefs.com#@#.share-header
 vimeo.com#@#.share-icon
 tumblr.com#@#.share-item
 askubuntu.com,baidu.com,broadcast.app.net,imgur.com,mammothhq.com,mathoverflow.net,openstreetmap.org,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com#@#.share-link
+pornhub.com#@#.share-link-container
 imgur.com#@#.share-links
 disqus.com,google.com,tumblr.com#@#.share-menu
 flickr.com#@#.share-options
@@ -278,6 +279,7 @@ vorarlberg.orf.at#@#.socialshare
 listenonrepeat.com#@#.ssk-facebook
 cbsnews.com#@#.std-social
 stumbleupon.com#@#.stumble-button
+reddit.com,twitch.tv#@#.subscribe-button
 geekgamer.tv#@#.subscribe-widget
 twitter.com#@#.tweet-btn
 socket.io,twitter.com#@#.tweets

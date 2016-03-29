@@ -1,10 +1,11 @@
 @@/cdn-cgi/pe/bag2?*geoiplookup$xmlhttprequest,domain=orain.org
-@@/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js$domain=amypink.de|biznews.com|cryptospot.me|droid-life.com|forwardprogressives.com|fpif.org|fullpotentialma.com|geekzone.co.nz|goldsday.com|hoyentec.com|imageupload.co.uk|is-arquitectura.es|lazygamer.net|mmanews.com|orain.org|tvunblock.com|unilad.co.uk|xrussianteens.com|youngcons.com
+@@/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js$domain=amypink.de|biznews.com|cryptospot.me|dailycaller.com|droid-life.com|forwardprogressives.com|fpif.org|fullpotentialma.com|geekzone.co.nz|goldsday.com|hoyentec.com|imageupload.co.uk|is-arquitectura.es|lazygamer.net|mmanews.com|orain.org|tvunblock.com|unilad.co.uk|xrussianteens.com|youngcons.com
 @@/cdn-cgi/pe/bag2?*googleadservices.com$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*googlesyndication.com%2Fpagead%2Fosd.js$domain=forwardprogressives.com
 @@/cdn-cgi/pe/bag2?*histats.com$domain=xrussianteens.com
-@@/cdn-cgi/pe/bag2?*newrelic.com$domain=clamav.net
-@@/cdn-cgi/pe/bag2?*nr-data.net$domain=realhardwarereviews.com
+@@/cdn-cgi/pe/bag2?*log.outbrain.com$domain=dailycaller.com
+@@/cdn-cgi/pe/bag2?*newrelic.com$domain=clamav.net|dailycaller.com
+@@/cdn-cgi/pe/bag2?*nr-data.net$domain=dailycaller.com|realhardwarereviews.com
 @@/cdn-cgi/pe/bag2?*piwik.js$domain=orain.org
 @@/cdn-cgi/pe/bag2?*quantserve.com$xmlhttprequest,domain=dailycaller.com
 @@/cdn-cgi/pe/bag2?*scorecardresearch.com$xmlhttprequest,domain=amypink.de|biznews.com|dailycaller.com|droid-life.com|mmanews.com|unilad.co.uk
@@ -378,6 +379,7 @@
 @@||next.co.uk/Scripts/GoogleAnalytics.js?
 @@||nike.com/checkout/analytics/js/analyticFunctions.js$domain=nike.com
 @@||nokia.com/b/ss/$image,domain=here.com
+@@||novell.com/common/util/demandbase_data.php
 @@||nyandcompany.com^*/resxclsa.js$domain=nyandcompany.com
 @@||nymag.com/decor/javascript/magnify_stats.js
 @@||nymag.com/vltr/scripts/analytics.js$domain=vulture.com
@@ -453,7 +455,7 @@
 @@||scorecardresearch.com^*/cs.js$script,domain=thedailybeast.com
 @@||scripts.demandmedia.com/wm.js$domain=ehow.com
 @@||sears.com^*/analytics.sitecatalyst.js
-@@||segment.io/analytics.js/*/analytics.min.js$domain=greentoe.com|thescene.com
+@@||segment.io/analytics.js/*/analytics.min.js$domain=greentoe.com|thescene.com|vyte.in
 @@||segment.io/v1/$xmlhttprequest,domain=greentoe.com|thescene.com
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
 @@||service.collarity.com/cust/nbcu/ucs.js$xmlhttprequest
@@ -476,6 +478,7 @@
 @@||static.atgsvcs.com/js/atgsvcs.js$domain=officedepot.com|shop.lego.com
 @@||static.btbuckets.com/bt.js$domain=readwriteweb.com
 @@||static.chartbeat.com/crossdomain.xml$object-subrequest
+@@||static.chartbeat.com/js/chartbeat_mab.js$domain=usatoday.com
 @@||static.rpxnow.com/js/lib/rpx.js$domain=colbertnation.com|thedailyshow.com
 @@||statics.cfmcdn.net/*/scripts/webtrends-$script,domain=cheapflights.com
 @@||stats.g.doubleclick.net/dc.js$domain=doverdowns.com|lifehack.org|maxiclimber.com|merriam-webster.com|toto.co.jp|tripinsurance.ru|vimeo.com
