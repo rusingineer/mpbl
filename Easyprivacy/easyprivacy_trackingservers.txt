@@ -31,6 +31,7 @@
 ||62.160.52.73^$third-party
 ||66.228.52.30^$third-party
 ||67.228.151.70^$third-party
+||6sc.co^$third-party
 ||72.172.88.25^$third-party
 ||74.55.82.102^$third-party
 ||77tracking.com^$third-party
@@ -178,9 +179,11 @@
 ||avmws.com^$third-party
 ||awasete.com^$third-party
 ||awesomelytics.com^$third-party
+||awin1.com^$third-party
 ||awmcounter.de^$third-party
 ||axf8.net^$third-party
 ||azera-s014.com^$third-party
+||bam-x.com^$third-party
 ||baptisttop1000.com^$third-party
 ||barilliance.net^$third-party
 ||basicstat.com^$third-party
@@ -238,6 +241,7 @@
 ||bmlmedia.com^$third-party
 ||bmmetrix.com^$third-party
 ||bnc.lt^$third-party
+||bookforest.biz^$third-party
 ||boomerang.com.au^$third-party
 ||boomtrain.com^$third-party
 ||botsvisit.com^$third-party
@@ -247,7 +251,6 @@
 ||bridgevine.com^$third-party
 ||brightedge.com^$third-party
 ||brilig.com^$third-party
-||bronto.com^$third-party
 ||browser-statistik.de^$third-party
 ||brsrvr.com^$third-party
 ||bstk.co^$third-party
@@ -403,6 +406,7 @@
 ||cpcmanager.com^$third-party
 ||cpx.to^$third-party
 ||cqcounter.com^$third-party
+||cquotient.com^$third-party
 ||craftkeys.com^$third-party
 ||craktraffic.com^$third-party
 ||crazyegg.com^$third-party
@@ -420,6 +424,7 @@
 ||csdata1.com^$third-party
 ||csi-tracking.com^$third-party
 ||ctnsnet.com^$third-party
+||cttracking02.com^$third-party
 ||curalate.com^$third-party
 ||customer.io^$third-party
 ||customerconversio.com^$third-party
@@ -706,6 +711,7 @@
 ||googlerank.info^$third-party
 ||googletagmanager.com/gtm.js?$third-party
 ||gooo.al^$third-party
+||gopjn.com^$third-party
 ||gosquared.com^$third-party
 ||gostats.com^$third-party
 ||gostats.ro^$third-party
@@ -722,6 +728,7 @@
 ||gtcslt-di2.com^$third-party
 ||gtopstats.com^$third-party
 ||guanoo.net^$third-party
+||guardwork.info^$third-party
 ||gvisit.com^$third-party
 ||h4k5.com^$third-party
 ||halldata.com^$third-party
@@ -865,6 +872,7 @@
 ||itrackerpro.com^$third-party
 ||ivcbrasil.org.br^$third-party
 ||iwebtrack.com^$third-party
+||iwstats.com^$third-party
 ||ixiaa.com^$third-party
 ||izea.com^$third-party
 ||izearanks.com^$third-party
@@ -883,6 +891,7 @@
 ||keen.io^$third-party,domain=~keen.github.io|~keen.io
 ||keyade.com^$third-party
 ||keymetric.net^$third-party
+||keywee.co^$third-party
 ||keywordmax.com^$third-party
 ||keywordstrategy.org^$third-party
 ||kieden.com^$third-party
@@ -958,6 +967,7 @@
 ||lytics.io^$third-party
 ||lytiks.com^$third-party
 ||m1ll1c4n0.com^$third-party
+||m6r.eu^$third-party
 ||magiq.com^$third-party
 ||magnetmail1.net^$third-party
 ||magnify360.com^$third-party
@@ -1167,7 +1177,6 @@
 ||pagefair.com^$third-party
 ||pages05.net^$third-party
 ||paidstats.com^$third-party
-||pardot.com^$third-party
 ||parklogic.com^$third-party
 ||parrable.com^$third-party
 ||pass-1234.com^$third-party
@@ -1200,6 +1209,8 @@
 ||pixelinteractivemedia.com^$third-party
 ||pixelrevenue.com^$third-party
 ||pixelsnippet.com^$third-party
+||pjatr.com^$third-party
+||pjtra.com^$third-party
 ||placemypixel.com^$third-party
 ||plecki.com^$third-party
 ||pleisty.com^$third-party
@@ -1208,6 +1219,9 @@
 ||plwosvr.net^$third-party
 ||pm0.net^$third-party
 ||pm14.com^$third-party
+||pntra.com^$third-party
+||pntrac.com^$third-party
+||pntrs.com^$third-party
 ||pointomatic.com^$third-party
 ||polarmobile.com^$third-party
 ||popsample.com^$third-party
@@ -1242,6 +1256,7 @@
 ||pto-slb-09.com^$third-party
 ||ptp123.com^$third-party
 ||ptrk-wn.com^$third-party
+||publicidees.com^$third-party
 ||publishflow.com^$third-party
 ||pulleymarketing.com^$third-party
 ||pulselog.com^$third-party
@@ -1294,6 +1309,7 @@
 ||realytics.io^$third-party
 ||recoset.com^$third-party
 ||redcounter.net^$third-party
+||redistats.com^$third-party
 ||redstatcounter.com^$third-party
 ||reedbusiness.net^$third-party
 ||reedge.com^$third-party
@@ -1404,6 +1420,7 @@
 ||sexcounter.com^$third-party
 ||sexystat.com^$third-party
 ||sf14g.com^$third-party
+||shareasale.com^$third-party
 ||sharpspring.com^$third-party
 ||shinystat.com^$third-party
 ||shippinginsights.com^$third-party
@@ -1520,6 +1537,7 @@
 ||stippleit.com^$third-party
 ||stormcontainertag.com^$third-party
 ||stormiq.com^$third-party
+||stroeerdigitalmedia.de^$third-party
 ||strs.jp^$third-party
 ||sub2tech.com^$third-party
 ||submitnet.net^$third-party
@@ -1662,7 +1680,6 @@
 ||tsw0.com^$third-party
 ||tubetrafficcash.com^$third-party
 ||twcount.com^$third-party
-||twopointo.io^$third-party
 ||tylere.net^$third-party
 ||tynt.com^$third-party
 ||u5e.com^$third-party
@@ -1760,6 +1777,7 @@
 ||webcounter.ws^$third-party
 ||webflowmetrics.com^$third-party
 ||webforensics.co.uk^$third-party
+||webgains.com^$third-party
 ||webglstats.com^$third-party
 ||webiqonline.com^$third-party
 ||webleads-tracker.com^$third-party
@@ -1799,6 +1817,7 @@
 ||wikiodeliv.com^$third-party
 ||wildxtraffic.com^$third-party
 ||wiredminds.de^$third-party
+||wisetrack.net^$third-party
 ||wishloop.com^$third-party
 ||woopra-ns.com^$third-party
 ||woopra.com^$third-party
@@ -1826,6 +1845,7 @@
 ||xclk-integracion.com^$third-party
 ||xg4ken.com^$third-party
 ||xiti.com^$third-party
+||xpanama.net^$third-party
 ||xref.io^$third-party
 ||xtremline.com^$third-party
 ||xxxcounter.com^$third-party
@@ -1836,6 +1856,7 @@
 ||ybotvisit.com^$third-party
 ||ycctrk.co.uk^$third-party
 ||yellowbrix.com^$third-party
+||ygsm.com^$third-party
 ||yieldbot.com^$third-party
 ||yieldify.com^$third-party
 ||yieldsoftware.com^$third-party

@@ -454,6 +454,7 @@
 ||dailymotion.com/track-
 ||dailymotion.com/track/
 ||dailymotion.com^*/tag.gif?
+||data.cnn.com^
 ||data.ninemsn.com.au/*GetAdCalls
 ||data.ryanair.com^
 ||datacollector.coin.scribol.com^
@@ -468,20 +469,17 @@
 ||debtconsolidationcare.com/affiliate/tracker/
 ||dell.com/images/global/js/s_metrics*.js
 ||dell.com/metrics/
-||depositfiles.com//view.gif?
-||depositfiles.com/view.gif?
 ||derkeiler.com/gam/tag.js
 ||designtaxi.com/tracker.php
 ||despegar.com/t?
 ||destructoid.com/img2.phtml?
-||dfiles.eu//view.gif?
-||dfiles.ru//view.gif?
 ||diag.doba.com^
 ||dictionary.com/track/
 ||diet.rodale.com^
 ||digitalchocolate.com/event/track?
 ||digitalriver.com^*/globaltracking
 ||digitalspy.co.uk/gip1.php
+||dilbert.com^*&tracker$script
 ||dippic.com/cgi-bin/index_dl.cgi?
 ||displaymate.com/cgi-bin/stat/
 ||divxden.com^*/tracker.js
@@ -561,6 +559,7 @@
 ||eulerian.splendia.com/ea.js
 ||euroleague.tv^*/tracking.js
 ||eventlogger.soundcloud.com^
+||events.redditmedia.com^
 ||eventtracker.elitedaily.com^
 ||everythinggirl.com/assets/tracker/
 ||evisit.exeter.ac.uk^
@@ -695,6 +694,7 @@
 ||geo.mozilla.org^
 ||geo.perezhilton.com^
 ||geo.play.it^
+||geo.theawesomer.com^
 ||geo.yahoo.com^
 ||geobeacon.ign.com^
 ||geoip-lookup.vice.com^
@@ -715,6 +715,7 @@
 ||geoip.viamichelin.com^
 ||geoiplookup.wikimedia.org^
 ||geovisites.com^*/geouser.js
+||gfycat.com^*/GFAN.min.js
 ||giffgaff.com/r/?id=
 ||giganews.com/images/rpp.gif
 ||gigya.com/js/gigyaGAIntegration.js
@@ -983,6 +984,7 @@
 ||log.optimizely.com^
 ||log.player.cntv.cn/stat.html?
 ||log.vdn.apps.cntv.cn^
+||log.wat.tv^
 ||logger-*.dailymotion.com^
 ||logger.dailymotion.com^
 ||logging.goodgamestudios.com^
@@ -1229,6 +1231,7 @@
 ||papajohns.com/index_files/activityi.html
 ||papajohns.com/index_files/activityi_data/ct-*.js
 ||paper.li/javascripts/analytics.js
+||pardot.com/pd.js
 ||partners.badongo.com^
 ||partners.mysavings.com^
 ||paypal.com/webapps/beaconweb/
@@ -1323,7 +1326,6 @@
 ||puritan.com/images/pixels/
 ||pvstat.china.cn^
 ||pw.org/sites/all/*/ga.js
-||q.stripe.com^
 ||qbn.com/media/static/js/ga.js
 ||quantserve.com/pixel;
 ||questionmarket.com/adsc/
@@ -1599,6 +1601,7 @@
 ||stats.someecards.com^
 ||stats.storify.com^
 ||stats.suite101.com^
+||stats.thevideo.me^
 ||stats.townnews.com^
 ||stats.uswitch.com^
 ||stats.video.search.yahoo.com^
@@ -1836,10 +1839,12 @@
 ||twimbow.com/serverreq/twbtracker.php$xmlhttprequest
 ||twitch.tv/track/
 ||twitter.com/abacus?
+||twitter.com/i/csp_report?
 ||twitter.com/scribe?
 ||twitter.com/scribes/
 ||twitter.com^*.gif?
 ||twitter.com^*/log.json?
+||twitter.com^*/scribe^
 ||twitvid.com/api/tracking.php$object-subrequest
 ||twitvid.com/mediaplayer/players/tracker.swf
 ||txn.thenewsroom.com^
@@ -2035,7 +2040,7 @@
 ||yahoo.com^*/ultLog?
 ||yahoo.net^*/hittail.js
 ||yahooapis.com/get/Valueclick/CapAnywhere.getAnnotationCallback?
-||yandex.com/clck/
+||yandex.com/clck/$~ping
 ||ybinst2.ec.yimg.com/ec/*&Type=Event.CPT&$domain=search.yahoo.com
 ||yellowpages.co.in/trac/
 ||yellowpages.com/images/li.gif?
@@ -2154,3 +2159,10 @@
 ||yell.com/js/omniture-H.25.js
 ! Blocking filters due to High-CPU usage bug (https://adblockplus.org/forum/viewtopic.php?f=11&t=23368)
 ||radio-canada.ca/omniture/omni_stats_base.js?
+! Specific filters necessary for sites whitelisted with $genericblock filter option
+/__utm.gif$domain=tellows.de
+/csi?v=*&action=$domain=tellows.de
+||facebook.com*/impression.php$domain=tellows.de
+||googleapis.com^*/gen_204?$domain=tellows.de
+||ioam.de/?$domain=tellows.de
+||ioam.de/tx.io?$domain=tellows.de

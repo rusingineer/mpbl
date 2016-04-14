@@ -97,7 +97,7 @@ sciencerecorder.com,thespacereporter.com###floating-box
 runnersconnect.net###floating-menu-blog
 ijreview.com###floating_sidebar
 oilprice.com###floaty-email
-allfacebook.com,amateurgourmet.com,annyas.com,csgolounge.com,glogster.com,mediabistro.com,metoffice.gov.uk,recombu.com,socialtimes.com,the-scientist.com,thehairpin.com,thenextweb.com,usatoday.com###follow
+allfacebook.com,amateurgourmet.com,annyas.com,csgolounge.com,glogster.com,interviewmagazine.com,mediabistro.com,metoffice.gov.uk,recombu.com,socialtimes.com,the-scientist.com,thehairpin.com,thenextweb.com,usatoday.com###follow
 socialitelife.com###follow-list
 tmz.com###follow-tmz
 wired.com###follow-wired
@@ -264,7 +264,7 @@ inthralld.com###text-12
 theaftermarket.cc###text-2
 tfetimes.com###text-25
 grahamcluley.com,rocketnews24.com###text-3
-runningblonde.com###text-4
+occupydemocrats.com,runningblonde.com###text-4
 panampost.com###text-56
 cookieandkate.com###text-67
 cleantechnica.com###text-88
@@ -411,7 +411,7 @@ shoutmeloud.com##.floaticons
 remezcla.com##.floating-menu
 etfdailynews.com##.floating-menuG
 ryot.org##.floating_ryot_share
-amd.com,batman-news.com,bbcamerica.com,bgr.com,cnet.com,espnmediazone.com,esquire.com,fandango.com,fox10phoenix.com,fromthegrapevine.com,geeksaresexy.net,goodnet.org,grindtv.com,indiatimes.com,kpopstarz.com,nbcnews.com,opposingviews.com,pawnation.com,skatehut.co.uk,sky.com,tvnz.co.nz,usatoday.com,verisigninc.com,winbeta.org,wonderwall.com##.follow
+amd.com,batman-news.com,bbcamerica.com,bgr.com,cnet.com,espnmediazone.com,esquire.com,fandango.com,flashbak.com,fox10phoenix.com,fromthegrapevine.com,geeksaresexy.net,goodnet.org,grindtv.com,indiatimes.com,kpopstarz.com,nbcnews.com,opposingviews.com,pawnation.com,skatehut.co.uk,sky.com,tvnz.co.nz,usatoday.com,verisigninc.com,winbeta.org,wonderwall.com##.follow
 aikenstandard.com##.follow-aiken-standard
 aol.com##.follow-aol
 huffingtonpost.com##.follow-author-mini
@@ -536,6 +536,7 @@ hulu.com##.more[toggle-type="share"]
 motherboard.vice.com##.motherboard-widget-connect
 a-ha.com##.myspace
 worldofgnome.org##.mywell-green
+the-peak.ca##.nav-icon-wrap
 ksiolajidebt.com##.nav-twitter
 supergreenme.com##.network_icon
 bitrebels.com##.network_links
@@ -823,9 +824,10 @@ professionalmuscle.com##table[width="1370"][border="0"]
 chron.com##table[width="300"]
 lexus.com##ul[data-category="Social Toolbar"]
 ! Specific elements because of generichide
+computerworld.co.nz###article_social_0
 wired.com###footer-social
 wired.com###share-card
-arnnet.com.au,cio.com.au##.art-share
+arnnet.com.au,cio.co.nz,cio.com.au,reseller.co.nz##.art-share
 arnnet.com.au##.art-topbar_share
 pcworld.co.nz##.article_social
 computerworld.com.au,cso.com.au,techworld.com.au##.article_social_wrap
@@ -834,5 +836,8 @@ gizmodo.com.au,kotaku.com.au,lifehacker.com.au##.byline-share
 jiwangmovie.com##.et_social_sidebar_networks
 pcworld.co.nz##.header_social
 cso.com.au##.lo-header_social
+latinomegahd.net##.rdsocial
+thefreedictionary.com##.share-block
+thefreedictionary.com##.social-networks
 onlinemoviewatchs.com##.ssocial
 wired.com##.ui-social-wrapper

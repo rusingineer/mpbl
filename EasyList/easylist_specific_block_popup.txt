@@ -46,10 +46,11 @@
 ||fullonsms.com/sid.html$popup
 ||gamezadvisor.com/popup.php$popup
 ||goo.gl^$popup,domain=amaderforum.com|jumbofile.net|videomega.tv
-||google-analytics.com^$popup,domain=gorillavid.in
 ||google.com.eg/url?$popup,domain=hulkload.com
+||gorillavid.in/_$popup
 ||gratuit.niloo.fr^$popup,domain=simophone.com
 ||hadik.info/*.html$popup
+||haouzy.info/*.html$popup
 ||hide.me^$popup,domain=ncrypt.in
 ||homerun.re/adServe/$popup
 ||homets.info/queen_file?$popup
@@ -74,6 +75,7 @@
 ||newsgate.pw^$popup,domain=adjet.biz
 ||nosteam.ro/pma/$popup
 ||oddschecker.com/clickout.htm?type=takeover-$popup
+||openload.co^*/_$popup
 ||pamaradio.com^$popup,domain=secureupload.eu
 ||park.above.com^$popup
 ||pasted.co/reds/first.php$popup
@@ -95,9 +97,8 @@
 ||subs4free.com/_pop_link.php$popup
 ||thebestbookies.com^$popup,domain=fırstrowsports.eu
 ||thesource.com/magicshave/$popup
-||thevideo.me/mpa/$popup
-||thevideo.me/script/$popup
-||thevideo.me^*/ttc.php$popup
+||thevideo.me/*.php$popup
+||thevideo.me/*_$popup
 ||titanbrowser.com^$popup,domain=amaderforum.com
 ||titanshare.to/download-extern.php?type=*&n=$popup
 ||tny.cz/red/first.php$popup

@@ -72,6 +72,7 @@
 ||asspoint.com/images/banners/
 ||avn.com/templates/avnav/skins/
 ||axatube.com/dos.html
+||b*.xhamster.com^
 ||babblesex.com/js/misc.js
 ||babedrop.com/babelogger_images/
 ||babepicture.co.uk^*banner
@@ -229,6 +230,7 @@
 ||gggtube.com/images/banners/
 ||ghettotube.com/images/banners/
 ||gina-lynn.net/pr4.html
+||girlfriendvideos.com/ad
 ||girlfriendvideos.com/pcode.js
 ||girlsfrombudapest.eu/banners/
 ||girlsfromprague.eu/banners/
@@ -244,6 +246,7 @@
 ||grannysexforum.com/filter.php
 ||gspcdn.com^*/banners/
 ||h2porn.com/contents/content_sources/
+||h2porn.com/js/etu_r.js
 ||hanksgalleries.com/aff-
 ||hanksgalleries.com/gallery-
 ||hanksgalleries.com/galleryimgs/
@@ -269,6 +272,7 @@
 ||hdzog.com/hdzog.php?t_sid=
 ||heavy-r.com/a/
 ||heavy-r.com/js/imbox.js
+||heavy-r.com/js/overlay.js
 ||hebus.com/p/hebusx/
 ||hellporno.com/iframes/
 ||hentai-foundry.com/themes/*/add$image
@@ -595,8 +599,11 @@
 ||porntalk.com/rec/
 ||porntube.com/ads|
 ||pornup.me/js/pp.js
+||pornvideoq.com/*.html$subdocument,~third-party
 ||pornvideoxo.com^$subdocument,~third-party
 ||pornwikileaks.com/adultdvd.com.jpg
+||pornxs.com/js/aab/
+||pornxs.com/js/exo.js
 ||pornxs.com/js/files/jasminNew
 ||pr-static.empflix.com^
 ||pr-static.tnaflix.com^
@@ -747,6 +754,7 @@
 ||unblockedpiratebay.com/static/img/bar.gif
 ||unoxxx.com/pages/en_player_video_right.html
 ||updatetube.com/js/adpupdatetube
+||updatetube.com/js/fab.js
 ||upornia.com/contents/content_sources/
 ||vibraporn.com/vg/
 ||vid2c.com/js/atxpp.js?
@@ -818,6 +826,9 @@
 ||xxxblink.com/rec/
 ||xxxfile.net^*/netload_premium.gif
 ||xxxgames.biz^*/sponsors/
+||xxxhdd.com/contents/content_sources/
+||xxxhdd.com/player_banners/
+||xxxhdd.com/plugs-thumbs/
 ||xxxhost.me/xpw.gif
 ||xxxkinky.com/pap.js
 ||xxxlinks.es/xvideos.js
@@ -861,6 +872,13 @@
 ||yumymilf.com^*/banners/
 ||yuvutu.com^*/banners/
 ||zazzybabes.com/misc/virtuagirl-skin.js
+! daredteens.com
+|http://$script,third-party,xmlhttprequest,domain=daredteens.com
+|https://$script,third-party,xmlhttprequest,domain=daredteens.com
+! amateurdumper.com
+@@||ajax.googleapis.com^$script,third-party,domain=amateurdumper.com
+|http://$script,third-party,xmlhttprequest,domain=amateurdumper.com
+|https://$script,third-party,xmlhttprequest,domain=amateurdumper.com
 ! dreamamateurs.com
 |http://$script,third-party,xmlhttprequest,domain=dreamamateurs.com
 |https://$script,third-party,xmlhttprequest,domain=dreamamateurs.com

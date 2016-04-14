@@ -100,6 +100,7 @@
 @@||stat.prsmedia.fr/tag/stat.js$domain=bienpublic.com
 @@||tv5.org/cms/javascript/*/sitestat.js
 @@||tv5monde.com/cms/javascript/*/sitestat.js
+@@||ubicast.tv/statics/mediaserver/player/statistics.js
 ! Arabic
 ! Bulgarian
 @@||google-analytics.com/analytics.js$domain=novatv.bg
@@ -148,9 +149,11 @@
 @@||vplayer.ilsemedia.nl/swf/im_player.swf?$object
 @@||vpro.nl/vpro/htmlplayer/0.3-snapshot/statcounter.js?
 ! Finnish
+@@||emediate.se/EAS_tag*.js$domain=forssanlehti.fi
 @@||googletagmanager.com/gtm.js?$domain=cdon.fi
 @@||hise.spring-tns.net/survey.js$domain=hintaseuranta.fi
 @@||hise.spring-tns.net^*^cp=$image,domain=hintaseuranta.fi
+@@||lekane.net/lekane/dialogue-tracking.js$domain=sonera.fi
 ! Greek
 @@||stats.e-go.gr/rx.asp?$object-subrequest,domain=megatv.com
 ! Hebrew

@@ -36,6 +36,7 @@ egmont.cz###nrlskswidget
 nooz.gr###right_popout
 delfi.lv###sbookmarks_left
 zena.hr###serviceBar
+soeren-hentzschel.at###storage-notice
 blogdeputaria.net###sub
 delfi.lv##.after_body
 zaycev.net##.bookmarks
@@ -52,26 +53,29 @@ boligliv.dk,rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
 !
 nzz.ch###articleMore
 androidnext.de###c4a_box
+hosteurope.de###cche
 agynamix.de###cookie
 handelsblatt.com###divStickyLayerWrapper
 focus.de###flying_mbox
 androidnext.de###scrollbarbox
 computerwissen.de###simpleCatfish
 gmx.net###slideBox
+duden.de###sliding-popup
 helpster.de###videoFlyin
+netzwelt.de##.ckch
 stern.de##.fixedHomeLink
 focus.de##.fixed_home_link
 kleiderkreisel.de##.js-notification
 cushmanwakefield.de##.m-warning
 ifun.de,iphone-ticker.de##.mail
 spiegel.de##.sticky-home-link
-hannovermesse.de##.user-notes-notification
+cebit.de,hannovermesse.de##.user-notes-notification
 ||focus.de/fol/pics/special/informiert.gif
 ||plista.com^$third-party
 !
 !---------- Hungary Site Generic Hiding Rules ----------
 !
-decathlon.co.hu###cookie
+decathlon.hu###container-screen
 hrportal.hu###fixdiv
 !
 !---------- Polish Site Generic Hiding Rules ----------
@@ -167,6 +171,7 @@ nyt.fi###next-teaser
 k-citymarket.fi,k-market.fi##.Pbox-sm
 americanairlines.fi,pizza-online.fi##.alert
 sonera.fi##.attention-notice
+sonera.fi##.bottom-notifications
 hs.fi##.cb-container
 blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
 lacajachina.fi##.cp-curtain-container
@@ -197,7 +202,7 @@ emol.com###slidebox
 sverigesradio.se###user-message
 aftonbladet.se##.abArticleToolbar
 aftonbladet.se##.abPremiumTeaserSalesPitch
-automotorsport.se,bamse.se,folkuniversitetet.se,kalleanka.se,tidningenjulia.se##.alert
+automotorsport.se,bamse.se,folkuniversitetet.se,kalleanka.se,netonnet.se,tidningenjulia.se##.alert
 polisen.se##.cookie
 gp.se##.gpsecGRCookieContainer
 emol.com##.social-tools-emol-g1
@@ -280,6 +285,7 @@ aquellefrequence.fr,midilibre.fr,migreat.fr,sudouest.fr##.cookie
 118000.fr,communauto.com,ouestjob.com##.cookies
 jeuxvideo.fr##.fb-overlay
 tupperware.fr##.floating
+bouyguestelecom.fr##.hfc--nc
 mercialys.fr##.info-top
 vinted.fr##.js-notification
 lesechos.fr##.liennavigation

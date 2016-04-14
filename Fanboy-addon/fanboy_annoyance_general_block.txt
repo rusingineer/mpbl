@@ -304,6 +304,7 @@ _social_rss.
 .fscookieconsent.
 /__cookie_js.php
 /ac_cookiesvalidation/*
+/accept-cookie.
 /acceptCookies.
 /alertcookie.
 /alertcookies.
@@ -351,8 +352,10 @@ _social_rss.
 /cookie.policy.
 /cookie.response.
 /cookie/policy-
+/cookie_acceptance_
 /cookie_alert*.js
 /cookie_banner.
+/cookie_bar.
 /cookie_consent/*
 /cookie_consent_
 /cookie_law.js
@@ -368,6 +371,7 @@ _social_rss.
 /cookie_ws.
 /cookie_ws/*
 /cookieacceptance.
+/cookiealert.
 /CookieAlertBootStrapper.
 /cookiebadge.
 /cookiebadge_
@@ -390,6 +394,7 @@ _social_rss.
 /cookiecontrol.js
 /cookiecontroller.js
 /cookiecu.
+/cookiecutter.js
 /cookied.js
 /cookiedirective*.js
 /cookieDisclaimer.js
@@ -403,6 +408,7 @@ _social_rss.
 /cookielex/*
 /cookiemanagement.js
 /cookieMention.
+/cookiemessage_
 /cookieMetie.
 /cookiemonster.mg
 /cookieMonster.min.js
@@ -476,6 +482,7 @@ _social_rss.
 /icit-cookie-law/*
 /ico_cookies.
 /icocookies.
+/impresacookiepolicy/*
 /InfoCookies.
 /iubenda_cs.
 /jbcookies.
@@ -503,6 +510,7 @@ _social_rss.
 /TWCCookies/*
 /ubmcookieconsent-
 /uk-cookie-consent/*
+/usocookies.
 /warnCookies.
 /widgets/cookies-
 /wkp_cookies.js

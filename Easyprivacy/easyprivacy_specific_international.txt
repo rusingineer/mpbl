@@ -14,7 +14,6 @@
 ||aol.de/track/
 ||arlt.com^*/econda/
 ||arte.tv^*=countstats,
-||auto-motor-und-sport.de/images/pic.gif?
 ||autobild.de/images/pic.gif?
 ||banner.t-online.de^$image
 ||baur.de/servlet/LandmarkServlet?
@@ -98,6 +97,7 @@
 ||gg24.de^*/count.cgi?
 ||giessener-anzeiger.de/stat/
 ||go.bluewin.ch^
+||go.giga-abs.de^
 ||golem.de/staticrl/scripts/golem_cpx_
 ||golem.de/staticrl/scripts/golem_cpxl_
 ||goyellow.de/trackbrowser.jsp
@@ -286,6 +286,7 @@
 ||r.orange.fr^
 ||rtl.be^*/trkfblk.js
 ||rtl.fr/stats/
+||sa.tf1.fr^
 ||sfr.fr/js/pent-stats.jsp
 ||sport365.fr/ea.js
 ||stat.webevolutis.com^

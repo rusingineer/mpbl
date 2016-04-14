@@ -189,6 +189,7 @@
 @@||phncdn.com/www-static/js/front-login.js$script
 @@||phncdn.com/www-static/js/gif-$script
 @@||phncdn.com/www-static/js/header-menu.js?$script
+@@||phncdn.com/www-static/js/header-nojquery.js?$script
 @@||phncdn.com/www-static/js/header.js$script
 @@||phncdn.com/www-static/js/html5Player/$script
 @@||phncdn.com/www-static/js/lib/$script
@@ -206,6 +207,8 @@
 @@||phncdn.com/www-static/js/phub.$script
 @@||phncdn.com/www-static/js/playlist-show.js$script
 @@||phncdn.com/www-static/js/playlist/$script
+@@||phncdn.com/www-static/js/pornstars-comment.js?$script
+@@||phncdn.com/www-static/js/pornstars-photo.js?$script
 @@||phncdn.com/www-static/js/pornstars-profile.js?$script
 @@||phncdn.com/www-static/js/pornstars-upload.js?$script
 @@||phncdn.com/www-static/js/pornstars-video.js?$script
@@ -313,6 +316,7 @@
 @@||redtube.com/js/jquery/$xmlhttprequest
 @@||redtube.com/language-star-suggestion/$xmlhttprequest
 @@||redtube.com/logout$xmlhttprequest
+@@||redtube.com/media/avatars/$image
 @@||redtube.com/message/$xmlhttprequest
 @@||redtube.com/notifications/$xmlhttprequest
 @@||redtube.com/panel/$xmlhttprequest
@@ -328,6 +332,7 @@
 @@||redtube.com/upload/$xmlhttprequest
 @@||redtube.com/videodetails/$xmlhttprequest
 @@||redtube.com/watched/$xmlhttprequest
+@@||redtube.com^*/media/videos/$image
 @@||redtubefiles.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||s7.addthis.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||spankwire.phncdn.com^$image,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
@@ -373,6 +378,7 @@
 @@||fux.com/assets/ads-$script
 @@||gaybeeg.info/wp-content/plugins/blockalyzer-adblock-counter/$image,domain=gaybeeg.info
 @@||google.com/ads/$domain=hinduladies.com
+@@||hclips.com/js/advertising.js
 @@||hellojav.com^$elemhide
 @@||hentaienespañol.net^$elemhide
 @@||hentaimoe.com/js/advertisement.js

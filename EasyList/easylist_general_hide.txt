@@ -2095,6 +2095,7 @@
 ###adblade
 ###adbladeSp
 ###adblade_ad
+###adblkad
 ###adblock
 ###adblock-300x250
 ###adblock-big
@@ -2502,6 +2503,7 @@
 ###adsDiv6
 ###adsDiv7
 ###adsGooglePos
+###adsHeadLine
 ###adsHeader
 ###adsHeading
 ###adsID
@@ -4416,7 +4418,9 @@
 ###dict-adv
 ###direct-ad
 ###disable-ads-container
+###displayAd
 ###displayAdSet
+###display_ad
 ###displayad_bottom-page
 ###div-ad-1x1
 ###div-ad-1x1_3
@@ -5794,6 +5798,7 @@
 ###my-medium-rectangle-ad-2-container
 ###myAd
 ###myads_HeaderButton
+###mydfpad
 ###n_sponsor_ads
 ###na_adblock
 ###name-advert
@@ -6031,6 +6036,7 @@
 ###ppcAdverts
 ###pr_ad
 ###pr_advertising
+###pre-adv
 ###pre-footer-ad
 ###pre_advertising_wrapper
 ###pregame_header_ad
@@ -8404,6 +8410,7 @@
 ##.ad-s-rendered
 ##.ad-scl
 ##.ad-script-processed
+##.ad-scroll
 ##.ad-search-grid
 ##.ad-section
 ##.ad-section-body
@@ -8530,6 +8537,7 @@
 ##.ad-unit-anchor
 ##.ad-unit-container
 ##.ad-unit-inline-center
+##.ad-unit-label
 ##.ad-unit-medium-retangle
 ##.ad-unit-mpu
 ##.ad-unit-top
@@ -8686,6 +8694,7 @@
 ##.ad350
 ##.ad350r
 ##.ad360
+##.ad400
 ##.ad400right
 ##.ad400x40
 ##.ad450
@@ -8772,6 +8781,8 @@
 ##.adBgMId
 ##.adBgTop
 ##.adBigBoxFirst
+##.adBigBoxSecond
+##.adBigBoxThird
 ##.adBillboard
 ##.adBkgd
 ##.adBlock
@@ -9077,6 +9088,7 @@
 ##.adVar
 ##.adVertical
 ##.adVideo
+##.adVideo2
 ##.adVl
 ##.adVplaceholder
 ##.adWarning
@@ -12140,6 +12152,7 @@
 ##.cnn_pt_ad
 ##.cnn_sectprtnrbox_cb
 ##.cnn_sectprtnrbox_grpn336
+##.cns-ads-stage
 ##.cnt-half-page-ads
 ##.cnt-header-ad
 ##.cnt-right-box-ad
@@ -12206,6 +12219,7 @@
 ##.container_serendipity_plugin_google_adsense
 ##.contains-ad
 ##.content-ad
+##.content-ad-article
 ##.content-ad-box
 ##.content-ad-outer-container
 ##.content-ad-side
@@ -12237,6 +12251,7 @@
 ##.content_ad
 ##.content_ad_728
 ##.content_ad_head
+##.content_ad_side
 ##.content_ads
 ##.content_ads_index
 ##.content_adsense
@@ -12561,6 +12576,7 @@
 ##.fc_splash_ad
 ##.fd-ad
 ##.fd-display-ad
+##.fdDisplayAdGrid
 ##.fdc_ad
 ##.feat_ads
 ##.featureAd
@@ -12579,6 +12595,7 @@
 ##.feedBottomAd
 ##.ffz_bottom_ad
 ##.fg_Ad
+##.fgc-advertising
 ##.fi_adsense
 ##.finpostsads
 ##.fireplaceadleft
@@ -14352,6 +14369,7 @@
 ##.player-leaderboard-ad-wrapper
 ##.player-under-ad
 ##.playerAd
+##.playerAdv
 ##.player_ad
 ##.player_ad2
 ##.player_ad_box
@@ -14360,6 +14378,7 @@
 ##.plistaList > .itemLinkPET
 ##.plista_inimg_box
 ##.plista_widget_belowArticleRelaunch_item[data-type="pet"]
+##.plista_widget_i300x250
 ##.plista_widget_retrescoAd_1
 ##.plista_widget_retrescoAd_2
 ##.pm-ad
@@ -14764,6 +14783,7 @@
 ##.ringtone-ad
 ##.risingstar-ad
 ##.risingstar-ad-inner
+##.riverAdsLoaded
 ##.riverSponsor
 ##.rmx-ad
 ##.rnav_ad
@@ -14892,6 +14912,7 @@
 ##.section-adtag
 ##.section-advert-banner
 ##.section-aside-ad
+##.section-aside-ad2
 ##.section-front__top-ad
 ##.section-sponsor
 ##.section_ad
@@ -15596,6 +15617,7 @@
 ##.td_ad
 ##.td_footer_ads
 ##.td_left_widget_ad
+##.td_leftads
 ##.td_reklama_bottom
 ##.td_reklama_top
 ##.td_spotlight_ads
@@ -16307,8 +16329,10 @@
 ##[onclick^="window.open('http://adultfriendfinder.com/search/"]
 ##a[data-obtrack^="http://paid.outbrain.com/network/redir?"]
 ##a[data-redirect^="this.href='http://paid.outbrain.com/network/redir?"]
+##a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"]
 ##a[href$="/vghd.shtml"]
 ##a[href*="/adrotate-out.php?"]
+##a[href*="letsadvertisetogether.com"]
 ##a[href^=" http://ads.ad-center.com/"]
 ##a[href^=" http://n47adshostnet.com/"]
 ##a[href^="//adbit.co/?a=Advertise&"]
@@ -16596,9 +16620,11 @@
 ##div[id^="MarketGid"]
 ##div[id^="YFBMSN"]
 ##div[id^="acm-ad-tag-"]
+##div[id^="adrotate_widgets-"]
+##div[id^="cns_ads_"]
 ##div[id^="dfp-ad-"]
 ##div[id^="div-adtech-ad-"]
-##div[id^="div-gpt-ad-"]
+##div[id^="div-gpt-ad"]
 ##div[id^="div_ad_stack_"]
 ##div[id^="div_openx_ad_"]
 ##div[id^="dmRosAdWrapper"]
@@ -16660,6 +16686,7 @@
 ###mn div[style="position:relative"] > #center_col > ._Ak
 ###mn div[style="position:relative"] > #center_col > div > ._dPg
 ###resultspanel > #topads
+###rhs_block .mod > .gws-local-hotels__booking-module
 ###rhs_block .mod > .luhb-div > div[data-async-type="updateHotelBookingModule"]
 ###rhs_block > #mbEnd
 ###rhs_block > .ts[cellspacing="0"][cellpadding="0"][style="padding:0"]

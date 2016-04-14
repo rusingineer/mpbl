@@ -2,6 +2,7 @@
 ||000webhost.com/images/banners/
 ||04stream.com/pop*.js
 ||1-million-usd.com/images/banners/
+||104.197.10.88^$script,third-party
 ||108.166.93.81/rotate/$domain=~infowars.com.ip
 ||109.201.134.110^$domain=04stream.com
 ||110.45.173.103/ad/$third-party
@@ -218,6 +219,8 @@
 ||autoprivileges.net/news/
 ||awadhtimes.com^$third-party
 ||award.sitekeuring.net^
+||awin1.com/cawshow.php$third-party
+||awin1.com/cshow.php$third-party
 ||axandra.com/affiliates/
 ||axisbank.com/shopaholics-festival/$domain=ibnlive.in.com
 ||azurewebsites.net/mvc/Widget/
@@ -396,7 +399,7 @@
 ||cloudfront.net/scripts/js3caf.js
 ||cloudfront.net/st.js
 ||cloudfront.net/tie.js
-||cloudfront.net^$script,domain=dailyuploads.net|extremetech.com|torrentproject.se|tubeoffline.com
+||cloudfront.net^$script,domain=dailyuploads.net|extratorrent.cc|extremetech.com|media1fire.com|openload.co|sparknotes.com|torrentproject.se|tubeoffline.com
 ||cloudfront.net^*ad$domain=fiaformulae.com
 ||cloudfront.net^*banner$domain=fiaformulae.com
 ||cloudzer.net/ref/
@@ -795,6 +798,7 @@
 ||googlesyndication.com^*/domainpark.cgi?
 ||googlesyndication.com^*/googlevideoadslibraryas3.swf$object-subrequest,third-party
 ||googlesyndication.com^*/simgad/
+||gopjn.com/b/$third-party
 ||gorgonprojectinvest.com/images/banners/
 ||goto.4bc.co^$image,third-party
 ||gotraffic.net^*/sponsors/
@@ -957,6 +961,7 @@
 ||letmewatchthis.ru/movies/linkbottom
 ||letters.coursekey.com/lettertemplates_$third-party
 ||lg.com/in/cinema3d.jsp$subdocument,third-party
+||lifedaily.com/prebid.js
 ||lifestyle24h.com/reward/$third-party
 ||lijit.com/adif_px.php
 ||lijit.com/delivery/
@@ -965,6 +970,7 @@
 ||linkconnector.com/tr.php$third-party
 ||linkconnector.com/traffic_record.php$third-party
 ||linkedin.com/csp/dtag?$subdocument,third-party
+||linkshrink.net^$script,third-party
 ||lionheartdms.com^*/walmart_300.jpg
 ||litecoinkamikaze.com/assets/images/banner$third-party
 ||literatureandlatte.com/gfx/buynowaffiliate.jpg
@@ -1112,6 +1118,7 @@
 ||namecheap.com/graphics/linkus/$third-party
 ||nanobrokers.com/img/banner_
 ||nanoinvestgroup.com/images/banner*.gif
+||nativly.com/tds/widget?wid=$third-party
 ||neighbourly.co.nz^$subdocument,domain=stuff.co.nz
 ||neogames-tech.com/resources/genericbanners/
 ||nesgamezone.com/syndicate?
@@ -1204,6 +1211,8 @@
 ||pic.pbsrc.com/hpto/
 ||picoasis.net/3xlayer.htm
 ||pics.firstload.de^$third-party
+||pjatr.com/b/$third-party
+||pjtra.com/b/$third-party
 ||play-asia.com/paos-$third-party
 ||playata.myvideo.de^$subdocument,third-party
 ||playbitcoingames.com/images/banners/
@@ -1213,6 +1222,9 @@
 ||plista.com/async.js$domain=mirror.co.uk
 ||plus.net/images/referrals/*_banner_$third-party
 ||pm.web.com^$third-party
+||pntra.com/b/$third-party
+||pntrac.com/b/$third-party
+||pntrs.com/b/$third-party
 ||pokerjunkie.com/rss/
 ||pokerroomkings.com^*/banner/$third-party
 ||pokersavvy.com^*/banners/
@@ -1254,6 +1266,8 @@
 ||pub.dreamboxcart.com^$third-party
 ||pub.sapo.pt/vast.php$object-subrequest
 ||public.porn.fr^$third-party
+||publicidees.com/banner.php$third-party
+||publicidees.com/showbanner.php$third-party
 ||pubs.hiddennetwork.com^
 ||puntersparadise.com.au/banners/
 ||purevpn.com/affiliates/
@@ -1296,6 +1310,7 @@
 ||rewards1.com/images/referralbanners/$third-party
 ||ribbon.india.com^$third-party
 ||richmedia.yahoo.com^$third-party
+||rmgserving.com/rmgdsc/$script
 ||roadcomponentsdb.com^$subdocument,third-party
 ||roadrecord.co.uk/widget.js?
 ||roia.hutchmedia.com^$third-party
@@ -1353,6 +1368,7 @@
 ||sfstatic.com^*/js/fl.js$third-party
 ||shaadi.com^*/get-banner.php?
 ||shaadi.com^*/get-html-banner.php?
+||shareasale.com/image/$third-party
 ||shareflare.net/images/$third-party
 ||shariahprogram.ca/banners/
 ||sharingzone.net/images/banner$third-party
@@ -1439,6 +1455,7 @@
 ||strikeadcdn.s3.amazonaws.com^$third-party
 ||structuredchannel.com/sw/swchannel/images/MarketingAssets/*/BannerAd
 ||stuff-nzwhistleout.s3.amazonaws.com^
+||stuff.com/javascripts/more-stuff.js
 ||stylefind.com^*?campaign=$subdocument,third-party
 ||subliminalmp3s.com^*/banners/
 ||superherostuff.com/pages/cbmpage.aspx?*&cbmid=$subdocument,third-party
@@ -1610,6 +1627,7 @@
 ||web-jp.ad-v.jp^
 ||web2feel.com/images/$third-party
 ||webdev.co.zw/images/banners/$third-party
+||webgains.com/link.html$third-party
 ||webmasterrock.com/cpxt_pab
 ||website.ws^*/banners/
 ||whistleout.s3.amazonaws.com^

@@ -750,6 +750,7 @@
 /cxense/cx.js
 /cyberestat/*
 /dart_wrapper.html?
+/data/collect/*$xmlhttprequest
 /dc-storm-track.
 /dc-storm.js
 /dc-storm/aff.
@@ -787,6 +788,7 @@
 /dotomi_tracking/*
 /doubleclickCheck/*
 /dow_analytics.
+/downloadAndOutboundLinksTracking.
 /DownloadTracker.
 /drads?referrer=
 /dspixel.js
@@ -1220,6 +1222,7 @@
 /ivwbox/*
 /IVWTracker.swf
 /iwa.js
+/iwstat.js
 /javascript/analytics/*
 /javascript/ci/*landing.js$script
 /Javascript/ga.js
@@ -1307,6 +1310,7 @@
 /log.php?id
 /log.php?owa_timestamp=
 /log/ad-
+/log/impression/*
 /log/jserr.php
 /log/log.php?
 /log/p.gif?
@@ -1612,6 +1616,7 @@
 /php-stats.phpjs.php?
 /php-stats.recjs.php?
 /phpmyvisites.js
+/pic.gif?url=
 /ping.*/ping.js
 /ping.gif?
 /ping.php?sid=
@@ -1844,6 +1849,7 @@
 /sclanalyticstag.
 /script/analytics/*
 /script_log.
+/scriptAnalytics.
 /scripts.kissmetrics.com/*
 /scripts/analytics_
 /scripts/clickjs.php
@@ -2022,6 +2028,7 @@
 /stats/mark?
 /stats/metrics/*
 /stats/mixpanel-
+/stats/page_view_
 /stats/pgview.
 /stats/record.php?
 /stats/track.asp?
@@ -2140,6 +2147,7 @@
 /track/mygreendot/*
 /track/pix.asp?
 /track/pixel.
+/track/pixel/*
 /track/site/*
 /track/track.php?
 /track/view/*
@@ -2156,6 +2164,7 @@
 /track_pageview?
 /track_social.
 /track_views.
+/track_visit.
 /track_visit?
 /trackad.
 /trackAdHit.
@@ -2277,6 +2286,7 @@
 /TrackingService.js
 /trackingService.min.js
 /trackingService/*
+/trackingWithCT.js
 /trackIt.js
 /trackit.php?
 /trackit.pl?
@@ -2344,6 +2354,7 @@
 /unica_
 /UnicaTag.
 /UniqueUserVisit?
+/Universal-Federated-Analytics.
 /universalPixelStatic.
 /updateBotStatus.do?
 /updateStats.
@@ -2392,6 +2403,7 @@
 /videoAnalytics.
 /VideoTracking.
 /videotracking/*
+/view.gif?c=
 /view_stats.js.php
 /ViewCounter/*
 /viewcounterjqueryproxy.

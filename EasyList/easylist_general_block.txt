@@ -735,6 +735,7 @@
 /ad-indicator-
 /ad-inject/*
 /ad-injection/*
+/ad-inserter/*
 /ad-int-
 /ad-issue.
 /ad-label-
@@ -901,6 +902,7 @@
 /ad/player|
 /ad/pong?
 /ad/popup.
+/Ad/premium/*
 /ad/preview/*
 /ad/quigo/*
 /ad/random_
@@ -1189,7 +1191,7 @@
 /ad_parts.
 /ad_peel/*
 /ad_pics/*
-/ad_policy.$object-subrequest
+/ad_policy.
 /ad_pop.
 /ad_pop1.
 /ad_popup_
@@ -1442,6 +1444,7 @@
 /addyn|*;adtech;
 /addyn|*|adtech;
 /adedge/*
+/AdElement/*
 /adengage-
 /adengage.
 /adengage/*
@@ -1936,6 +1939,7 @@
 /ads/300x120_
 /ads/468.
 /ads/468a.
+/ads/728-
 /ads/728.
 /ads/728b.
 /ads/?QAPS_
@@ -1984,6 +1988,7 @@
 /ads/click_
 /ads/cnvideo/*
 /ads/common/*
+/ads/community?
 /ads/config/*
 /ads/configuration/*
 /ads/contextual.
@@ -2690,6 +2695,7 @@
 /adv-bannerize-
 /adv-banners/*
 /adv-div-
+/adv-dmp/*
 /adv-expand/*
 /adv-ext-
 /adv-f.
@@ -3010,6 +3016,7 @@
 /affilatebanner.
 /Affiliate-Banner-
 /affiliate-content/*
+/affiliate.linker/*
 /affiliate/ad/*
 /affiliate/ads/*
 /affiliate/banner/*
@@ -3467,6 +3474,7 @@
 /companion_ads.
 /companionAdFunc.
 /compban.html?
+/Component/Ad/*
 /Components/Ad/*
 /components/ads/*
 /components/ads_
@@ -3814,6 +3822,7 @@
 /featuredadshome.
 /feedads.
 /file/ad.
+/fileadmin/ads/*
 /files/ad-
 /files/ad/*
 /files/ads-
@@ -6414,6 +6423,7 @@ _files/ad.
 _fixed_ad.
 _floating_ad_
 _floatingad_
+_FLYAD.
 _footer_ad_
 _framed_ad/
 _friendlyduck.
@@ -6627,6 +6637,8 @@ takeover_banner_
 /adblockdetect.
 /adblockdetection.
 /adBlockDetector/*
+/adblocker.js
+/adBlockerTrack_
 /adbuddy.
 /adsblocker.
 /anti-adblock/*$~stylesheet

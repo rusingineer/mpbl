@@ -314,6 +314,7 @@
 ###divShareBarButtons
 ###divShareURL
 ###divSocial
+###divSocialRail
 ###divTwitterFollowMe
 ###div_facebook
 ###div_footer_social_icon
@@ -658,9 +659,13 @@
 ###gc-twitter
 ###getSocial
 ###getSocialLoginBox
+###gigya-facebook-follow
+###gigya-follow
 ###gigya-followbar
+###gigya-googleplus-follow
 ###gigya-share_gig_containerParent
 ###gigya-sharebar
+###gigya-twitter-follow
 ###gigyaTBToolbar
 ###gkSocialAPI
 ###global-social-bar
@@ -715,6 +720,9 @@
 ###headersearchsocial
 ###headersocial
 ###headline_social
+###hellobar-bar
+###hellobar-modal
+###hellobar-modal-background
 ###help-social-buttons
 ###highlight-share
 ###home-social
@@ -787,6 +795,7 @@
 ###leftSideSocialBox
 ###leftSocialBlock
 ###left_float_social
+###liFacebookTwitter
 ###like-and-retweet
 ###like-bar-facebook
 ###like-bar-google
@@ -906,6 +915,7 @@
 ###newGigyaShareBottom-HolderCenter
 ###newGigyaShareTop
 ###newGigyaShareTop-Holder
+###new_socials_nav
 ###newfacebookpanel
 ###news-social-share
 ###newsharebar
@@ -2184,6 +2194,7 @@
 ##.article-bottom-sharing
 ##.article-content-sharing
 ##.article-header__share
+##.article-low-meta__shares
 ##.article-page-sharing
 ##.article-page-social-dropdown
 ##.article-rail__social
@@ -2422,6 +2433,7 @@
 ##.btn-share
 ##.btn-social-facebook
 ##.btn-social-googleplus
+##.btn-social-icon
 ##.btn-social-pinterest
 ##.btn-social-share
 ##.btn-social-twitter
@@ -3066,6 +3078,7 @@
 ##.findusYouTube
 ##.fixed-bar-social-icons
 ##.fixed-fb-like-box
+##.fixed-header__nav__social__icon
 ##.fixed-share-bar
 ##.fixed-share-btns
 ##.fixed-sharebar
@@ -3315,6 +3328,7 @@
 ##.footerlinks.social
 ##.footersocialbtn
 ##.footersociallinks
+##.for_sharing
 ##.format-social-buttons
 ##.fourSq-widget
 ##.fpbiz_share
@@ -3546,6 +3560,7 @@
 ##.headsocialicons
 ##.headsocialitem
 ##.hentry-share
+##.herald-share
 ##.hero-social
 ##.hf--facebook
 ##.hf--linkedin
@@ -4151,6 +4166,7 @@
 ##.menu_share
 ##.menusocial
 ##.messageShareButtons
+##.meta-share-wrapper
 ##.method_share
 ##.metro-social
 ##.mf-single-article-share
@@ -4428,6 +4444,7 @@
 ##.postShare
 ##.postShareBtn
 ##.postSocial
+##.postToFacebookFeed
 ##.postTwitter
 ##.post_share
 ##.post_share_dig
@@ -4596,6 +4613,7 @@
 ##.share-bar
 ##.share-bar--detail
 ##.share-bar-container
+##.share-bar-item-desktop
 ##.share-bar-medium-container
 ##.share-bar-outer-cont
 ##.share-bar-small
@@ -4618,6 +4636,10 @@
 ##.share-btns
 ##.share-bttn
 ##.share-button
+##.share-button--email
+##.share-button--facebook
+##.share-button--linkedin
+##.share-button--twitter
 ##.share-button-wrapper
 ##.share-buttons
 ##.share-buttons-bar
@@ -4665,6 +4687,8 @@
 ##.share-icon-list
 ##.share-icons
 ##.share-icons-bottom
+##.share-icons-box
+##.share-icons-sticky-box
 ##.share-icons-wrapper
 ##.share-iconsGalleryArticle
 ##.share-images
@@ -4970,6 +4994,7 @@
 ##.sharedaddy
 ##.sharefacebook
 ##.sharefloater
+##.sharegrid
 ##.shareicons
 ##.shareiconsbg
 ##.shareinclude
@@ -5307,6 +5332,7 @@
 ##.social-buttons-float
 ##.social-buttons-left
 ##.social-buttons-r
+##.social-buttons-sidebar
 ##.social-buttons-thumb
 ##.social-buttons-twitter
 ##.social-buttons-v2
@@ -5395,6 +5421,7 @@
 ##.social-icons-special
 ##.social-icons-v2
 ##.social-icons-white
+##.social-icons-widget
 ##.social-icons-wrapper
 ##.social-image
 ##.social-img-btn
@@ -5661,6 +5688,8 @@
 ##.socialLogos
 ##.socialM
 ##.socialMedia
+##.socialMedia-google
+##.socialMedia-linkedin
 ##.socialMediaBlock
 ##.socialMediaBox
 ##.socialMediaButtons
@@ -5910,6 +5939,7 @@
 ##.socialmedia_link
 ##.socialmedia_toolbox
 ##.socialmediaarea
+##.socialmediabar
 ##.socialmediabottom
 ##.socialmediabox
 ##.socialmedialinks
@@ -6010,6 +6040,7 @@
 ##.ssba_share_link
 ##.ssba_sharecount
 ##.ssbas-wrap
+##.ssbp-container
 ##.ssk-facebook
 ##.ssk-google-plus
 ##.ssk-twitter
@@ -6447,6 +6478,8 @@
 ##.vertical-sharing-block
 ##.vertical-social
 ##.vertical-social-icons
+##.vhb-page-navigation-social
+##.vhb-share-social-media-button
 ##.vidSocialBar
 ##.video--share
 ##.video-page-social
@@ -6460,6 +6493,7 @@
 ##.viralShare
 ##.vkontaktelink
 ##.vltSocialLinks
+##.voc-article-share-btn
 ##.vocativ-social-sidebar
 ##.vod_program_social
 ##.vod_share
@@ -6471,6 +6505,10 @@
 ##.w-icon-share-facebook
 ##.w-icon-share-twitter
 ##.w-shareontwitter
+##.w-sharing
+##.w-sharing-count
+##.w-sharing-icon
+##.w-sharing-item
 ##.w-social
 ##.w-socials
 ##.w-socials-list
@@ -6609,6 +6647,7 @@
 ##.wl-ico-pinterest
 ##.wl-ico-twitter
 ##.wl-share-buttons
+##.wl-socialcount-shortcode
 ##.wp-embed-gallery-desc-share
 ##.wp-flybox_tab
 ##.wp-graphics-social-tools
