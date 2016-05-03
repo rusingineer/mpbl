@@ -59,6 +59,7 @@
 ||acecounter.com^$third-party
 ||acestats.net^$third-party
 ||acetrk.com^$third-party
+||acexedge.com^$third-party
 ||acint.net^$third-party
 ||acq.io^$third-party
 ||active-trk7.com^$third-party
@@ -68,6 +69,7 @@
 ||actnx.com^$third-party
 ||acxiom-online.com^$third-party
 ||ad-score.com^$third-party
+||adblade.com^$third-party
 ||adchemix.com^$third-party
 ||adchemy-content.com^$third-party
 ||adchemy.com^$third-party
@@ -84,6 +86,7 @@
 ||adobetag.com^$third-party
 ||adoftheyear.com^$third-party
 ||adprotraffic.com^$third-party
+||adrta.com^$third-party
 ||adsensedetective.com^$third-party
 ||adspsp.com^$third-party
 ||adsymptotic.com^$third-party
@@ -347,6 +350,7 @@
 ||clixpy.com^$third-party
 ||cloud-exploration.com^$third-party
 ||clustrmaps.com^$third-party
+||cmcintra.net^$third-party
 ||cmcore.com^$third-party
 ||cmmeglobal.com^$third-party
 ||cmptch.com^$third-party
@@ -365,6 +369,7 @@
 ||confirmit.com^$third-party
 ||contactmonkey.com^$third-party
 ||contemporaryceremonies.ca^$third-party
+||content.ad^$third-party
 ||contentexchange.me^$third-party
 ||contentinsights.com^$third-party
 ||contentspread.net^$third-party
@@ -462,6 +467,7 @@
 ||device9.com^$third-party
 ||dgmsearchlab.com^$third-party
 ||dhmtracking.co.za^$third-party
+||dialogtech.com^$third-party
 ||did-it.com^$third-party
 ||didit.com^$third-party
 ||diffusion-tracker.com^$third-party
@@ -481,6 +487,7 @@
 ||dmanalytics1.com^$third-party
 ||dmclick.cn^$third-party
 ||dmd53.com^$third-party
+||dmpxs.com^$third-party
 ||dmtracker.com^$third-party
 ||dmtry.com^$third-party
 ||doclix.com^$third-party
@@ -529,7 +536,7 @@
 ||electusdigital.com^$third-party
 ||elite-s001.com^$third-party
 ||elitics.com^$third-party
-||eloqua.com^$third-party
+||eloqua.com^$~stylesheet,third-party
 ||email-match.com^$third-party
 ||emediatrack.com^$third-party
 ||emjcd.com^$third-party
@@ -545,6 +552,7 @@
 ||enticelabs.com^$third-party
 ||eperfectdata.com^$third-party
 ||epilot.com^$third-party
+||epiodata.com^$third-party
 ||epitrack.com^$third-party
 ||eproof.com^$third-party
 ||eps-analyzer.de^$third-party
@@ -553,6 +561,7 @@
 ||esm1.net^$third-party
 ||esomniture.com^$third-party
 ||estara.com^$third-party
+||estat.com^$third-party
 ||estrack.net^$third-party
 ||etahub.com^$third-party
 ||etherealhakai.com^$third-party
@@ -845,6 +854,8 @@
 ||intervigil.com^$third-party
 ||invitemedia.com^$third-party
 ||invoc.us^$third-party
+||invoca.net^$third-party
+||invoca.solutions^$third-party
 ||iol.io^$third-party
 ||ip-api.com^$third-party
 ||ip-label.net^$third-party
@@ -935,7 +946,6 @@
 ||linkconnector.com^$third-party
 ||linkpulse.com^$third-party
 ||linkxchanger.com^$third-party
-||listrakbi.com^$third-party
 ||livecount.fr^$third-party
 ||livehit.net^$third-party
 ||livestat.com^$third-party
@@ -987,6 +997,7 @@
 ||maxymiser.com^$third-party
 ||maxymiser.net^$third-party
 ||mb4a.com^$third-party
+||mbid.io^$third-party
 ||mbotvisit.com^$third-party
 ||mbsy.co^$third-party
 ||mbww.com^$third-party
@@ -1032,6 +1043,7 @@
 ||monitis.com^$third-party
 ||monitus.net^$third-party
 ||motrixi.com^$third-party
+||mouse3k.com^$third-party
 ||mouseflow.com^$third-party
 ||mousestats.com^$third-party
 ||mousetrace.com^$third-party
@@ -1070,11 +1082,13 @@
 ||naj.sk^$third-party
 ||nakanohito.jp^$third-party
 ||nalook.com^$third-party
+||native.ai^$third-party
 ||natpal.com^$third-party
 ||naturaltracking.com^$third-party
 ||navdmp.com^$third-party
 ||navegg.com^$third-party
 ||naytev.com^$third-party
+||ndg.io^$third-party
 ||neatstats.com^$third-party
 ||nedstat.com^$third-party
 ||nedstat.net^$third-party
@@ -1117,6 +1131,7 @@
 ||nudatasecurity.com^$third-party
 ||nuggad.net^$third-party
 ||numerino.cz^$third-party
+||nyctrl32.com^$third-party
 ||nytlog.com^$third-party
 ||observerapp.com^$third-party
 ||od.visiblemeasures.com^$object-subrequest,third-party
@@ -1130,6 +1145,7 @@
 ||oidah.com^$third-party
 ||ojrq.net^$third-party
 ||oktopost.com^$third-party
+||omarsys.com^$third-party
 ||omeda.com^$third-party
 ||ometria.com^$third-party
 ||omgpm.com^$third-party
@@ -1148,6 +1164,8 @@
 ||opbandit.com^$third-party
 ||openclick.com^$third-party
 ||openhit.com^$third-party
+||opensharecount.com^$third-party
+||openstat.net^$third-party
 ||opentracker.net^$third-party
 ||openvenue.com^$third-party
 ||openxtracker.com^$third-party
@@ -1181,6 +1199,7 @@
 ||parrable.com^$third-party
 ||pass-1234.com^$third-party
 ||pathful.com^$third-party
+||pc1.io^$third-party
 ||pclicks.com^$third-party
 ||pcspeedup.com^$third-party
 ||peerius.com^$third-party
@@ -1264,6 +1283,7 @@
 ||pureairhits.com^$third-party
 ||purevideo.com^$third-party
 ||putags.com^$third-party
+||pxi.pub^$third-party
 ||pzkysq.pink^$third-party
 ||q-counter.com^$third-party
 ||q-stats.nl^$third-party
@@ -1306,7 +1326,9 @@
 ||realtimeplease.com^$third-party
 ||realtimewebstats.net^$third-party
 ||realtracker.com^$third-party
+||realtracking.ninja^$third-party
 ||realytics.io^$third-party
+||realzeit.io^$third-party
 ||recoset.com^$third-party
 ||redcounter.net^$third-party
 ||redistats.com^$third-party
@@ -1390,6 +1412,7 @@
 ||scripts21.com^$third-party
 ||scriptshead.com^$third-party
 ||sddan.com^$third-party
+||sea-nov-1.com^$third-party
 ||searchfeed.com^$third-party
 ||searchignite.com^$third-party
 ||searchplow.com^$third-party
@@ -1434,13 +1457,16 @@
 ||simplereach.com^$third-party
 ||simpli.fi^$third-party
 ||simplycast.us^$third-party
+||simplymeasured.com^$third-party
 ||singlefeed.com^$third-party
+||site24x7rum.com^$third-party
 ||siteapps.com^$third-party
 ||sitebro.com^$third-party
 ||sitebro.net^$third-party
 ||sitebro.tw^$third-party
 ||sitecompass.com^$third-party
 ||siteimprove.com^$third-party
+||siteimproveanalytics.com^$third-party
 ||sitelinktrack.com^$third-party
 ||sitemeter.com^$third-party
 ||sitereport.org^$third-party
@@ -1575,6 +1601,7 @@
 ||tcactivity.net^$third-party
 ||tcimg.com^$third-party
 ||tctm.co^$third-party
+||td573.com^$third-party
 ||tdstats.com^$third-party
 ||tealiumiq.com^$third-party
 ||telemetrytaxonomy.net^$third-party
@@ -1680,6 +1707,7 @@
 ||tsw0.com^$third-party
 ||tubetrafficcash.com^$third-party
 ||twcount.com^$third-party
+||twopointo.io^$third-party
 ||tylere.net^$third-party
 ||tynt.com^$third-party
 ||u5e.com^$third-party
@@ -1694,6 +1722,7 @@
 ||uptimeviewer.com^$third-party
 ||uptracs.com^$third-party
 ||uralweb.ru^$third-party
+||uriuridfg.com^$third-party
 ||urlbrief.com^$third-party
 ||urlself.com^$third-party
 ||usabilitytools.com^$third-party

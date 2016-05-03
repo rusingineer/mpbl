@@ -291,6 +291,7 @@
 ||zaehler.tv^$third-party
 ! French
 ||123compteur.com^$third-party
+||7e59f52a58ab3be819c9a90ba53b9ffe.ovh^$third-party
 ||7x4.fr^$third-party
 ||7x5.fr^$third-party
 ||abcompteur.com^$third-party
@@ -310,7 +311,6 @@
 ||deliv.lexpress.fr^$third-party
 ||edt02.net^$third-party
 ||emailretargeting.com^$third-party
-||estat.com^$third-party
 ||ezakus.net^$third-party
 ||ferank.fr^$third-party
 ||geocompteur.com^$third-party
@@ -394,6 +394,7 @@
 ||monkeytracker.cz^$third-party
 ||navrcholu.cz^$third-party
 ||netagent.cz^$third-party
+||performax.cz^$third-party
 ||pocitadlo.cz^$third-party
 ||toplist.cz^$third-party
 ! Danish
@@ -454,6 +455,7 @@
 ||contatoreaccessi.com^$third-party
 ||cuntador.com^$third-party
 ||digital-metric.com^$third-party
+||distribeo.com^$third-party
 ||dnab.info^$third-party
 ||freecounter.it^$third-party
 ||freestat.ws^$third-party
@@ -473,6 +475,7 @@
 ||keyxel.com^$third-party
 ||laserstat.com^$third-party
 ||megastat.net^$third-party
+||mwstats.net^$third-party
 ||mystat.it^$third-party
 ||ninestats.com^$third-party
 ||ntlab.org^$third-party
@@ -620,8 +623,6 @@
 ||mokuz.ru^$third-party
 ||musiccounter.ru^$third-party
 ||mystat-in.net^$third-party
-||onthe.io^$third-party
-||openstat.net^$third-party
 ||personage.name^$third-party
 ||pmbox.biz^$third-party
 ||proext.com^$third-party

@@ -17,6 +17,7 @@
 ||api.branch.io^$third-party
 ||api.flattr.com^$third-party
 ||api.search.live.net^$third-party,domain=~bing.com
+||app.e2ma.net^$third-party
 ||apture.com^$script,third-party
 ||assets.simplifydigital.co.uk^$third-party
 ||autolinkmaker.itunes.apple.com^$third-party
@@ -53,6 +54,7 @@
 ||cookie-script.com^$third-party
 ||cookieassistant.com^$third-party
 ||cookiebot.com^$third-party
+||cookiechoices.org^$third-party
 ||cookieconsent.silktide.com^$third-party
 ||cookieinformation.com^$third-party
 ||cookielaw.org^$third-party
@@ -74,6 +76,7 @@
 ||eff.org/bloggers/badges/$third-party
 ||embed.e2ma.net^$third-party
 ||engage.gsfn.us^$third-party
+||eventful.com^$third-party
 ||evernote.com^$third-party
 ||facebookicon.net^$third-party
 ||fark.com/js/$third-party
@@ -132,6 +135,7 @@
 ||kaango.com/feCustomWidgetDisplay/$third-party
 ||knowd.com^$third-party
 ||leadacity.net^$third-party
+||leadpages.co^$third-party
 ||letsgetsocialnow.com^$third-party
 ||ligatus.com^$third-party
 ||linkwithin.com^$third-party
@@ -252,6 +256,7 @@
 ||widgets.itunes.apple.com^$third-party
 ||widgets.outbrain.com^$third-party
 ||widgets.seekitlocal.com^$third-party
+||widgets.sprinkletxt.com^
 ||widgets.tapcdn.com^$third-party
 ||widgets.tapiture.com^$third-party
 ||widgetsplus.com^$third-party

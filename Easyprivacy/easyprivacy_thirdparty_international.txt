@@ -21,7 +21,6 @@
 ||collect.finanzen.net^
 ||com.econa.com^
 ||confido.dyndns.org^*/dot.php?
-||count.asnetworks.de^
 ||count.snacktv.de^
 ||counter.1i.kz^
 ||counter.blogoscoop.net^
@@ -93,6 +92,7 @@
 ||serverkompetenz.net/cpx.php?
 ||sett.i12.de^
 ||sim-technik.de/dvs.gif?
+||sim-technik.de^*&uniqueTrackId=
 ||skoom.de/gratis-counter/
 ||spox.com/pub/js/track.js
 ||ss4w.de/counter.php?
@@ -184,15 +184,18 @@
 ||neteventsmedia.be/hit.cfm?
 ||nvc.n1bus-exp.com^
 ||nws.naltis.com^
+||optinproject.com/rt/visit/
 ||pagesjaunes.fr/stat/
 ||piximedia.com^$third-party
 ||scriptsgratuits.com/sg/stats/
 ||service-webmaster.fr/cpt-visites/$third-party
 ||stat.prsmedia.fr^
+||stats-dc1.frz.io^
 ||stats.buzzea.com^
 ||stats.ipmgroup.be^
 ||t.planvip.fr^$third-party
 ||tr.cloud-media.fr^
+||tra.pmdstatic.net^
 ||track.byzon.swelen.net^$third-party
 ||tracking.ecookie.fr^
 ||tracking.netvigie.com^
@@ -337,6 +340,7 @@
 ||httdev.it/e/c?
 ||livestats.matrix.it^
 ||log.superweb.ws^
+||maxusglobal.it/init.js
 ||mibatech.com/track/
 ||mrwebmaster.it/work/stats.php?
 ||mytictac.com^*/pointeur.gif?
@@ -481,6 +485,7 @@
 ||niknok.ru/count.asp?
 ||odessaaccommodations.com/counter.php
 ||onlines.su/counter.php?
+||onthe.io/io.js$third-party
 ||open.ua/stat/
 ||optimizavr.ru/counter.php?
 ||penza-online.ru^*/userstats.pl?

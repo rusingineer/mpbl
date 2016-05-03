@@ -123,6 +123,7 @@
 ||analytics.twitter.com^
 ||analytics.upworthy.com^
 ||analytics.us.archive.org^
+||analytics.volvocars.com^
 ||analytics.wetpaint.me^
 ||analytics.whatculture.com^
 ||analytics.yahoo.com^
@@ -243,6 +244,7 @@
 ||beacon.walmart.com^
 ||beacon.www.theguardian.com^
 ||beacons.helium.com^
+||beacons.vessel-static.com/xff?
 ||beap-bc.yahoo.com^
 ||bench.uc.cn^
 ||bermudasun.bm/stats/
@@ -454,9 +456,9 @@
 ||dailymotion.com/track-
 ||dailymotion.com/track/
 ||dailymotion.com^*/tag.gif?
-||data.cnn.com^
 ||data.ninemsn.com.au/*GetAdCalls
 ||data.ryanair.com^
+||data.younow.com^
 ||datacollector.coin.scribol.com^
 ||datehookup.com/strk/dateadvertreg?
 ||daum.net^*/dwi.js
@@ -925,7 +927,6 @@
 ||kelkoo.com/kk_track?
 ||killerstartups.com^*/adsensev
 ||kinesisproxy.hearstlabs.com^
-||king.com/boxes/trackingCode.jsp
 ||kitsapsun.com/metrics/
 ||kksou.com^*/record.php?
 ||klm.com/travel/generic/static/js/measure_async.js
@@ -989,6 +990,7 @@
 ||logger.dailymotion.com^
 ||logging.goodgamestudios.com^
 ||loggingservices.tribune.com^
+||loggly.cheatsheet.com^
 ||loglady.publicbroadcasting.net^
 ||logmein.com/scripts/Tracking/
 ||logs.dashlane.com^
@@ -1471,6 +1473,7 @@
 ||sella.co.nz^*/sella_stats_
 ||sense.dailymotion.com^
 ||seoquake.com/seoadv/audience/3.gif
+||servedby.o2.co.uk^
 ||servedby.yell.com/t.js?cq
 ||servicetick.com^
 ||session-tracker.badcreditloans.com^
@@ -1676,7 +1679,6 @@
 ||ted1.metro.co.uk^
 ||telegraph.co.uk^*/tmglmultitrackselector.js
 ||tesco.com/cgi-bin3/buyrate?type=
-||texaco.co.uk/trackingcode.js
 ||tfl.gov.uk/tfl-global/scripts/stats-config.js
 ||tfl.gov.uk/tfl-global/scripts/stats.js
 ||tgw.com/1/t.gif
@@ -1847,6 +1849,7 @@
 ||twitter.com^*/scribe^
 ||twitvid.com/api/tracking.php$object-subrequest
 ||twitvid.com/mediaplayer/players/tracker.swf
+||txmblr.com^*/pixel^
 ||txn.thenewsroom.com^
 ||typepad.com/t/stats?
 ||u.bb/omni*.swf|
@@ -1923,6 +1926,7 @@
 ||visualware.com/vvv?
 ||vitamine.networldmedia.net^
 ||vixy.net/fb-traffic-pop.js
+||vk.com/js/lib/px.js
 ||vmware.com/files/include/ga/
 ||vnunet.com^*/wunderloop/
 ||vodpod.com/stats/

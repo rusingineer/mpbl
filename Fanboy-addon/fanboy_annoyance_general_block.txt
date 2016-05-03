@@ -126,6 +126,7 @@
 /iphoneapp-icon.
 /itpsocialbuttons/*
 /jquery.androidbanner.js
+/jquery.simplemodal.$script,domain=breakingdefense.com
 /jquery.snow.js
 /js-mobile-*/header_$script
 /leadin-subscribe.
@@ -161,6 +162,7 @@
 /plugins/wordpress-popup/*$~stylesheet
 /plugins/wp-emailfeedburnerpop/*
 /plugins/wp-greet-box/*$~stylesheet
+/popinNewsletter/*
 /popup_do_
 /popupally-pro-scripts/*$script
 /public/*/rss_
@@ -311,12 +313,14 @@ _social_rss.
 /amCookieApproval.
 /angular-cookies-
 /asesor-cookies-
+/avisCookies.
 /aws-cookie/*
 /bandeaucookie.
 /bauer.cookies.
 /checkCookie?
 /cipr-cookie-opt-out/*
 /cnil-cookies_
+/cnil.js
 /coCookiesDisclaimer.
 /cookie-alert.
 /cookie-bandeau.
@@ -356,8 +360,10 @@ _social_rss.
 /cookie_alert*.js
 /cookie_banner.
 /cookie_bar.
+/cookie_consent.
 /cookie_consent/*
 /cookie_consent_
+/cookie_information_$script
 /cookie_law.js
 /cookie_law/*
 /cookie_legal_$script
@@ -402,6 +408,7 @@ _social_rss.
 /cookiehint.
 /CookieInfo.
 /cookieinfo/*$script
+/cookieInformerBooklet_
 /cookiejar/*
 /cookielaw.
 /cookielawinfo.
@@ -479,6 +486,7 @@ _social_rss.
 /EUCookieUtility.
 /fp_cookie.
 /g4cookies.
+/GestionCookiesCNILPlugin/*
 /icit-cookie-law/*
 /ico_cookies.
 /icocookies.
@@ -515,6 +523,7 @@ _social_rss.
 /widgets/cookies-
 /wkp_cookies.js
 /wp-cookie-allow/*$script,stylesheet
+_cookie_bar/
 _cookie_cnil.
 _cookie_compliance.
 _cookie_consent/
@@ -524,6 +533,7 @@ _cookiebar_
 _cookieCgu.
 _cookielaw_mip.
 _cookieMsgBox/
+_cookieNotice.
 _cookies_disclosure/
 _cookiewarn.
 _eu_cookie_

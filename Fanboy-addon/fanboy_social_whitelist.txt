@@ -159,6 +159,8 @@
 @@||google.*/gplus-64.png
 @@||google.*/images/google-$image,~third-party
 @@||google.*/retailer_google.png
+@@||google.com/analytics/images/*_social.png
+@@||google.com/analytics/images/social.png
 @@||google.com/js/platform.js$domain=hiphopwired.com|listenonrepeat.com|log84.de
 @@||googleapis.com/hiveweb/img/icon_facebook.svg$domain=hive.im
 @@||googleapis.com/hiveweb/img/icon_google.svg$domain=hive.im
@@ -178,6 +180,7 @@
 @@||hypetrak.com/images/*twitter
 @@||i.po.st/static/v3/post-widget.js$domain=seenive.com
 @@||iconfinder.com/data/icons/$~third-party
+@@||iconizer.net/files/*_social_$image
 @@||iconpedia.net/uploads/$image,third-party
 @@||iconspedia.com/icon/$image,~third-party
 @@||imdb.com^*/facebook-button-small.png
@@ -306,11 +309,13 @@
 @@||slacker.com/*/google/google-plus-sign-in.png
 @@||slacker.com^*/twitter-top-sprite.png
 @@||slidesharecdn.com/images/share_icon_transparent.png$domain=slideshare.net
+@@||slidesharecdn.com^*/linkedin-$image,domain=slideshare.net
 @@||slkimg.com^*/facebook-login-icon.png$domain=slacker.com
 @@||sndcdn.com/images/connect_social.png$domain=soundcloud.com
 @@||socialmedia.by^$~third-party
 @@||softicons.com/download/$image
 @@||softpedia-static.com/images/*-Google-plus-$image,domain=softpedia.com
+@@||solidopinion.com/wp-content/*/social.jpg
 @@||spardaspendenwahl.de^*/jquery.socialshareprivacy.min.js
 @@||spiceworks.com/assets/community/icons/social/$image
 @@||spiceworks.com/assets/community/join/$image
@@ -323,12 +328,14 @@
 @@||stackoverflow.com/content/img/share-sprite-new.png
 @@||stadt-bremerhaven.de/wp-content/uploads/*/Facebook_$image
 @@||stadt-bremerhaven.de/wp-content/uploads/*_twitter-$image
+@@||static.canva.com/designThumbnails/pinterest.png
 @@||stipple.cachefly.net^$domain=stipple.com
 @@||style.aliunicorn.com/js/$script,domain=alibaba.com
 @@||symantec.com/content/*/about/images/social/b-$image
 @@||syndication.twitter.com/tweets.json?*&callback=$script
 @@||syndication.twitter.com/tweets.json?callback=$script
 @@||t3n.de/news/wp-content/uploads/*/social_media_
+@@||techfrag.com/wp-content/uploads/*/youtube-$image,domain=techfrag.com
 @@||tegna-tv.com^*/googleplus-user-account.js
 @@||telia.se/tse/js/socialmedia/
 @@||theinterview-movie.com/images/btn_youtube.png
@@ -342,6 +349,8 @@
 @@||tnwcdn.com/wp-content/blogs.dir/*_twitter.$domain=thenextweb.com
 @@||triangleoffense.com^*/triangle-offense-header-social-sprites.png
 @@||tripit.com/js/tripit/social/
+@@||tunestotube.com/images/btn_google_signin_dark_normal_web.png
+@@||tunestotube.com/images/mp3toyoutube.png
 @@||tv-kino.net/wp-content/plugins/fb-traffic-pop/
 @@||twimg.com/client_application_images/$image,domain=twitter.com
 @@||twimg.com/profile_images/$image,domain=twitter.com
@@ -390,6 +399,7 @@
 @@||xmarks.com/share/share_$~third-party
 @@||xssposed.org/images/design/sign-in-with-twitter-gray.png
 @@||yandex.st/share/share.js$domain=66.ru
+@@||yastatic.net/share2/share.js$domain=auto.ru
 @@||yimg.com^*/combo?*/followus.$domain=yahoo.com
 @@||yimg.com^*/combo?*/share-buttons-$script,domain=yahoo.com
 @@||yougetsignal.com/img/*_igoogle.gif

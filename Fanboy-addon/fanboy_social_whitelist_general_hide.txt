@@ -57,7 +57,7 @@ kino-vorschau.com#@#.arqam-widget-counter
 neowin.net#@#.article-share
 nbcnews.com#@#.article_share
 opposingviews.com#@#.block-socialmedia
-aplus.com,crowdin.net,deezer.com,foodit.com,magine.com,meetme.com,nexoneu.com,setlist.fm,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
+airbnb.cat,airbnb.com,airbnb.de,aplus.com,crowdin.net,deezer.com,foodit.com,magine.com,meetme.com,nexoneu.com,setlist.fm,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
 nexoneu.com,secure.allocine.fr,techinasia.com#@#.btn-fb
 foodit.com,theoldreader.com#@#.btn-google-plus
 secure.allocine.fr#@#.btn-gplus
@@ -70,6 +70,7 @@ rockstargames.com#@#.btnTwitter
 nationalgeographic.com#@#.btn_fb
 pinterest.com#@#.button-pinterest
 terravision.eu#@#.button-share
+slideshare.net#@#.button-social
 smzdm.com#@#.comment_share
 samsung.com#@#.cookie-warning
 samsung.com#@#.cookiewarning
@@ -83,6 +84,7 @@ academia.edu,foodit.com,magine.com,sendspace.com,setlist.fm#@#.fa-facebook
 bandsintown.com#@#.fa-facebook-square
 setlist.fm#@#.fa-google
 academia.edu,foodit.com,magine.com,sendspace.com#@#.fa-google-plus
+slideshare.net#@#.fa-linkedin
 imagecloud.tv#@#.fa-share-alt
 magine.com,sendspace.com,setlist.fm#@#.fa-twitter
 imagecloud.tv#@#.fa-youtube-play
@@ -97,7 +99,7 @@ okcupid.com,quora.com,rdio.com,ticketabc.com#@#.facebook_button
 jappy.de#@#.facebookbutton
 100pour100foot.fr,6ter.fr,achetezfacile.com,clubic.com,deco.fr,fan2.fr,girondins.com,groupem6.fr,jeuxvideo.fr,jolidressing.com,m6.fr,m6blog.fr,m6bonus.fr,m6info.fr,m6jeux.fr,m6kid.fr,m6mobile.fr,m6pubdigital.fr,minuitsexy.fr,minutefacile.com,mobinaute.com,neteco.com,nouvellestar.fr,ozap.com,paris-premiere.fr,teva.fr,turbo.fr,w9.fr,wideo.fr#@#.fb-box
 academia.edu,twitter.com#@#.fb-btn
-airbnb.de#@#.fb-button
+airbnb.cat,airbnb.com,airbnb.de#@#.fb-button
 facebook.com,fb.com#@#.fb-like
 facebook.com#@#.fb-likebox
 facebook.com,fb.com#@#.fb-link
@@ -129,7 +131,7 @@ academia.edu#@#.google-btn
 9gag.com,google.com#@#.google-plus
 google.com,inoreader.com#@#.google_plus
 vk.com#@#.group_share
-airbnb.de,aitnews.com,comicbook.com,di.fm,fastcompany.com,gleam.io,shared.com,songkick.com,squidoo.com,theoldreader.com#@#.icon-facebook
+airbnb.cat,airbnb.com,airbnb.de,aitnews.com,comicbook.com,di.fm,fastcompany.com,gleam.io,shared.com,songkick.com,squidoo.com,theoldreader.com#@#.icon-facebook
 lockerdome.com#@#.icon-facebook2
 secure.allocine.fr#@#.icon-fb
 airbnb.cat,airbnb.com,airbnb.de,theoldreader.com#@#.icon-google-plus
@@ -156,6 +158,7 @@ linkedin.com,peerlyst.com#@#.linkedin.icon
 pan.baidu.com#@#.list-share
 theverge.com#@#.m-article__share-buttons
 latimes.com#@#.mod-socialmedia
+atelierdeschefs.fr#@#.navbar-social
 renren.com#@#.photo-share
 pinterest.com#@#.pin-it-button
 feedly.com#@#.pinButton
@@ -180,7 +183,7 @@ linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com#@#.share-btn
 vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,thedodo.com#@#.share-buttons
-comicbook.com,popsugar.com,popsugar.com.au#@#.share-container
+comicbook.com,popsugar.com,popsugar.com.au,sensationrock.net#@#.share-container
 mediafire.com#@#.share-facebook
 sharesansar.com#@#.share-head
 greatbritishchefs.com#@#.share-header
@@ -200,6 +203,7 @@ wonderhowto.com#@#.share-widget
 viewbug.com#@#.share-with-friends
 linkedin.com#@#.share-wrap
 vimeo.com#@#.share-wrapper
+martindoor.com#@#.shareButton
 scan.co.uk#@#.shareContainer
 hootsuite.com#@#.shareCount
 pscufs.com#@#.shareLeft
@@ -248,6 +252,7 @@ airbnb.cat,airbnb.com,airbnb.de,deathfromabove1979.com,squarespace.com,time.com#
 technorati.com#@#.social-media
 f-secure.com#@#.social-media-buttons
 chrisblattman.com#@#.social-post
+cuisineactuelle.fr,femmeactuelle.fr,matvpratique.com#@#.social-share-count
 last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,songkick.com#@#.social-sharing
 golem.de#@#.social-sidebar
 tv-kino.net#@#.social-tab
@@ -285,6 +290,7 @@ geekgamer.tv#@#.subscribe-widget
 twitter.com#@#.tweet-btn
 socket.io,twitter.com#@#.tweets
 bitbucket.org,geekli.st,plug.dj,twitter.com#@#.twitter-button
+flightradar24.com#@#.twitter-feed
 twitter.com#@#.twitter-hashtag
 arstechnica.com#@#.twitter-link
 electnext.com#@#.twitter-share
@@ -327,6 +333,7 @@ forbes.com,pewinternet.org,yellosoft.us#@#a[href^="https://twitter.com/intent/tw
 facebook.com#@#a[href^="https://www.facebook.com/sharer.php?"]
 google.com#@#a[href^="https://www.google.com/bookmarks/mark?"]
 linkedin.com#@#a[href^="https://www.linkedin.com/cws/share?"]
+reddit.com#@#a[href^="https://www.reddit.com/submit?"]
 stumbleupon.com#@#a[href^="https://www.stumbleupon.com/submit?url="]
 allestörungen.de,facebook.com,foodit.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,jetpack.wordpress.com,ludins.fr,maxthon.com,opendatacity.de,pcgames.de,theoldreader.com,twitter.com,wikipedia.org,youtube.com#@#a[title="Facebook"]
 google.co.nz,google.co.uk,google.com,google.com.au,google.de,wikipedia.org#@#a[title="Google Plus"]

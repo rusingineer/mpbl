@@ -2,7 +2,12 @@
 ||000webhost.com/images/banners/
 ||04stream.com/pop*.js
 ||1-million-usd.com/images/banners/
+||104.197.10.19^$script,third-party
 ||104.197.10.88^$script,third-party
+||104.197.127.140^$script,third-party
+||104.197.188.104^$script,third-party
+||104.197.241.137^$script,third-party
+||104.197.34.33^$script,third-party
 ||108.166.93.81/rotate/$domain=~infowars.com.ip
 ||109.201.134.110^$domain=04stream.com
 ||110.45.173.103/ad/$third-party
@@ -359,6 +364,7 @@
 ||caw.criteo.com^$third-party
 ||cbpirate.com/getimg.php?
 ||cccam.co/banner_big.gif
+||cdn.adblade.com^$third-party
 ||cdn.assets.gorillanation.com^$third-party
 ||cdn.cdncomputer.com/js/main.js
 ||cdn.ndparking.com/js/init.min.js
@@ -399,7 +405,7 @@
 ||cloudfront.net/scripts/js3caf.js
 ||cloudfront.net/st.js
 ||cloudfront.net/tie.js
-||cloudfront.net^$script,domain=dailyuploads.net|extratorrent.cc|extremetech.com|media1fire.com|openload.co|sparknotes.com|torrentproject.se|tubeoffline.com
+||cloudfront.net^$script,domain=dailyuploads.net|divxatope.com|extratorrent.cc|extremetech.com|linksprotection.com|media1fire.com|nitroflare.com|openload.co|sparknotes.com|torrentproject.se|tubeoffline.com|vshare.eu
 ||cloudfront.net^*ad$domain=fiaformulae.com
 ||cloudfront.net^*banner$domain=fiaformulae.com
 ||cloudzer.net/ref/
@@ -417,6 +423,8 @@
 ||connect.summit.co.uk^
 ||connectok.com/brightcove/?$domain=newsok.com
 ||consolpub.com/weatherwindow/
+||content.ad/GetWidget.aspx$third-party
+||content.ad/Scripts/widget*.aspx
 ||content.livesportmedia.eu^
 ||content.secondspace.com^$~image,third-party
 ||contentcastsyndication.com^*&banner
@@ -518,6 +526,7 @@
 ||d39xqloz8t5a6x.cloudfront.net^
 ||d3bvcf24wln03d.cloudfront.net^
 ||d3dphmosjk9rot.cloudfront.net^
+||d3dytsf4vrjn5x.cloudfront.net^
 ||d3f9mcik999dte.cloudfront.net^
 ||d3fzrm6pcer44x.cloudfront.net^
 ||d3irruagotonpp.cloudfront.net^
@@ -612,6 +621,7 @@
 ||droidnetwork.net/img/dt-atv160.jpg
 ||droidnetwork.net/img/vendors/
 ||dropbox.com^*/aff-resources/$domain=gramfeed.com
+||dsh7ky7308k4b.cloudfront.net^
 ||dttek.com/sponsors/
 ||du2uh7rq0r0d3.cloudfront.net^
 ||duct5ntjian71.cloudfront.net^
@@ -799,6 +809,7 @@
 ||googlesyndication.com^*/googlevideoadslibraryas3.swf$object-subrequest,third-party
 ||googlesyndication.com^*/simgad/
 ||gopjn.com/b/$third-party
+||gopjn.com/i/$third-party
 ||gorgonprojectinvest.com/images/banners/
 ||goto.4bc.co^$image,third-party
 ||gotraffic.net^*/sponsors/
@@ -1081,6 +1092,7 @@
 ||moneywise.co.uk/affiliate/
 ||moosify.com/widgets/explorer/?partner=
 ||mosso.com^*/banners/
+||movie4all.co^$third-party
 ||mozo-widgets.f2.com.au^
 ||mp3ix.com^$third-party
 ||mrc.org/sites/default/files/uploads/images/Collusion_Banner
@@ -1212,8 +1224,11 @@
 ||picoasis.net/3xlayer.htm
 ||pics.firstload.de^$third-party
 ||pjatr.com/b/$third-party
+||pjatr.com/i/$third-party
 ||pjtra.com/b/$third-party
+||pjtra.com/i/$third-party
 ||play-asia.com/paos-$third-party
+||play-asia.com^$image,third-party
 ||playata.myvideo.de^$subdocument,third-party
 ||playbitcoingames.com/images/banners/
 ||player.screenwavemedia.com^*/ova-jw.swf$object-subrequest
@@ -1223,8 +1238,11 @@
 ||plus.net/images/referrals/*_banner_$third-party
 ||pm.web.com^$third-party
 ||pntra.com/b/$third-party
+||pntra.com/i/$third-party
 ||pntrac.com/b/$third-party
+||pntrac.com/i/$third-party
 ||pntrs.com/b/$third-party
+||pntrs.com/i/$third-party
 ||pokerjunkie.com/rss/
 ||pokerroomkings.com^*/banner/$third-party
 ||pokersavvy.com^*/banners/
@@ -1358,6 +1376,7 @@
 ||servedby.yell.com^$third-party
 ||server.freegamesall.com^$third-party
 ||server4.pro/images/banner.jpg
+||serverjs.net/scripts/$third-party
 ||service.smscoin.com/js/sendpic.js
 ||serving.portal.dmflex.com^$domain=thisdaylive.com
 ||settleships.com^$third-party
@@ -1479,6 +1498,7 @@
 ||syndication.jsadapi.com^
 ||syndication.visualthesaurus.com/std/vtad.js
 ||syndication1.viraladnetwork.net^
+||taboola.com^$domain=scoopwhoop.com
 ||tag.regieci.com^$third-party
 ||take2.co.za/misc/bannerscript.php?
 ||takeover.bauermedia.co.uk^$~stylesheet
@@ -1607,6 +1627,7 @@
 ||vittgam.net/images/b/
 ||voodoo.com^$third-party
 ||vpn4all.com^*/banner/
+||vpnarea.com/affiliate/
 ||vpntunnel.se/aff/$third-party
 ||vpnxs.nl/images/vpnxs_banner
 ||vrvm.com/t?
@@ -1625,6 +1646,7 @@
 ||wealthyrush.com^*/banners/$third-party
 ||weatherthreat.com^*/app_add.png
 ||web-jp.ad-v.jp^
+||web.adblade.com^$third-party
 ||web2feel.com/images/$third-party
 ||webdev.co.zw/images/banners/$third-party
 ||webgains.com/link.html$third-party

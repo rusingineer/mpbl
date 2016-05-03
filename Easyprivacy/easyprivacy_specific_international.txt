@@ -454,6 +454,7 @@
 ||klik.nrc.nl/ping?
 ||logs.ggweb.nl^
 ||marktplaats.nl/add_counter_image.
+||marktplaats.nl/metrics/
 ||rtl.nl/system/track/
 ||sanoma.nl/pixel/
 ||sat.sanoma.fi^
@@ -477,6 +478,7 @@
 ||tiede.fi^*/zig.js
 ||ts.fi^*/spring.js
 ! Greek
+||skroutz.gr/analytics/
 ||vidads.gr/imp/
 ! Hebrew
 ||bravo.israelweather.co.il^
@@ -590,6 +592,7 @@
 |http://x.o2.pl^
 ||analytics.gazeta.pl^
 ||dot.wp.pl^
+||entryhit.wp.pl^
 ||kropka.onet.pl^
 ||mklik.gazeta.pl^
 ||nasza-klasa.pl^*/pp_gemius
@@ -598,6 +601,7 @@
 ||stats.teledyski.info^
 ||wp.pl/?rid=
 ! Portuguese
+||audience-mostread.r7.com^
 ||click.uol.com.br^
 ||dejavu.mercadolivre.com.br^
 ||dna.uol.com.br^

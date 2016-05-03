@@ -24,6 +24,7 @@ miljons.com##div[style^="position:fixed; z-index:99999;"]
 weltwoche.ch###alteAusgabenCovers
 boligliv.dk,rumid.dk###banner-floating
 abril.com.br###barra-mini-home
+svethardware.cz###cfooter
 mojkvart.hr###dcw1
 qr.cz###eu-fck
 akcneletaky.sk###infoCoo
@@ -76,6 +77,7 @@ cebit.de,hannovermesse.de##.user-notes-notification
 !---------- Hungary Site Generic Hiding Rules ----------
 !
 decathlon.hu###container-screen
+nol.hu###didyou
 hrportal.hu###fixdiv
 !
 !---------- Polish Site Generic Hiding Rules ----------
@@ -242,9 +244,10 @@ francetvsport.fr,pourquoidocteur.fr###colorbox
 paconsulting.com###cookPop
 gmf.fr,grillofrance.fr,havas-voyages.fr,materiel.net,paris.fr,societe.com,sportetstyle.fr###cookie
 gentside.com,jules.com,laposte.fr,maxisciences.com,mybiclighter.com,ohmymag.com,showroomprive.com###cookies
-closermag.fr###fancybox-overlay
-closermag.fr###fancybox-wrap
+biomet.fr,closermag.fr,illicopharma.com###fancybox-overlay
+biomet.fr,closermag.fr,illicopharma.com###fancybox-wrap
 actu-environnement.com###footer_newsletter_content
+gamemania.be###globalmessage
 fronton.tv###ico_banner
 lepoint.fr###iframeForm
 bycontext.com###lcBar
@@ -277,11 +280,10 @@ lesnumeriques.com##.alert
 20minutes.fr##.alerts_container
 rtl.fr##.article-mail-form
 mnt.fr##.banner
-commentcamarche.net,jeux-gratuits.com,journaldesfemmes.com,journaldunet.com,linternaute.com##.ccmcss_oic
 pmu.fr,regionguadeloupe.fr##.cnil
 aso.fr##.confidentialite
 rueducommerce.fr##.confidentialite_header
-aquellefrequence.fr,midilibre.fr,migreat.fr,sudouest.fr##.cookie
+6play.fr,aquellefrequence.fr,midilibre.fr,migreat.fr,sudouest.fr##.cookie
 118000.fr,communauto.com,ouestjob.com##.cookies
 jeuxvideo.fr##.fb-overlay
 tupperware.fr##.floating
@@ -304,6 +306,7 @@ landrover.ch##.notificationBars
 nouvelobs.com##.obs-article-boutils
 nouvelobs.com##.obs-follow-nl
 leclercdrive.fr##.pWCTD609_BandeauCookies
+voici.fr##.pmd-alert
 minutebuzz.com##.popinNl
 e-leclerc.com##.popover
 metairie.fr##.popup-notification
@@ -319,6 +322,8 @@ publicsenat.fr##.top-message
 tetley.fr##.topFix
 e-leclerc.com##.top_banner
 le-dictionnaire.com##.topdisclaimer
+larousse.fr##.ui-dialog
+larousse.fr##.ui-widget-overlay
 tf1.fr##div[id^="msgctrw"]
 video-buzz.eu##div[style="position:fixed;top:220px;left:0px;width:110px;-moz-border-radius:0px 5px 5px 0px;-webkit-border-radius:0px 5px 5px 0px;background-color:#ffffff;z-index:50;padding:10px;padding-left:0px;padding-top:50px;border:1px solid #000000;border-left:0px solid #000000;box-shadow: 1px 1px 4px #aaa;"]
 video-buzz.eu##div[style="position:relative;height:335px;background-color:#ebebeb;overflow:hidden;border:2px solid #222222;"]
@@ -327,6 +332,7 @@ challenges.fr,nouvelobs.com,sciencesetavenir.fr##div[style="text-align:left;widt
 buzger.com##div[style="z-index:10000000; position:fixed; padding:10px; top:0px; width:100%; background-color:#fff; color:#888; "]
 hsbc.fr##div[style^="display: block; margin: 20px 0px 0px 0px;"]
 rtl.be##div[style^="display: block; position: fixed; bottom: 0px;"]
+||cnil.links-lab.fr^
 ||cookies.leadplace.fr^
 ||pourquoidocteur.fr/img2/face.png
 ||pourquoidocteur.fr/img2/in.png

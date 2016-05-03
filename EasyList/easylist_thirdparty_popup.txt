@@ -107,6 +107,7 @@
 ||stargames.com/bridge.asp?idr=$popup
 ||stargames.com/web/*&cid=*&pid=$popup,third-party
 ||sunmaker.com^*^a_aid^$popup,third-party
+||sunnyplayer.com^*^aff^$popup,third-party
 ||thebestbookies.com^$popup,third-party
 ||thefile.me/apu.php$popup
 ||theseforums.com^*/?ref=$popup
@@ -116,6 +117,7 @@
 ||torntv-tvv.org^$popup,third-party
 ||track.mypcbackup.com^$popup,third-party
 ||track.xtrasize.nl^$popup,third-party
+||tracker.lotto365.com^$popup,third-party
 ||tripadvisor.*/HotelLander?$popup,third-party
 ||truckingunlimited.com^$popup,domain=sharpfile.com
 ||ul.to/ref/$popup

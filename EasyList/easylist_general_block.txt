@@ -42,6 +42,7 @@
 &customSizeAd=
 &displayads=
 &expandable_ad_
+&forceadv=
 &gIncludeExternalAds=
 &googleadword=
 &jumpstartadformat=
@@ -101,6 +102,9 @@
 -ad-marker.
 -ad-mpu+
 -ad-new_
+-ad-pixel-
+-ad-refresh.
+-ad-refresh/
 -ad-resize-
 -ad-right.
 -ad-rotators/
@@ -204,11 +208,13 @@
 -advertisement-icon.
 -advertisement.
 -advertisement_
+-advertising2-
 -advertising_
 -advertisment-
 -adwords.
 -affiliate-link.
 -affiliates/img_
+-amazon-ads/
 -article-ad-
 -article-ads-
 -article-advert-
@@ -467,6 +473,7 @@
 .fm/ads/
 .gg/ads/
 .gif?ad=
+.GoogleDfpSlot.
 .gr/ads/
 .hk/ads/
 .homad.
@@ -531,8 +538,7 @@
 .oasfile.
 .openad.
 .openx.
-.openxtag.js
-.openxtag.min.js
+.openxtag.
 .org/ad-
 .org/ad.
 .org/ad/
@@ -621,6 +627,7 @@
 /2010/ads/*
 /2010main/ad/*
 /2011/ads/*
+/2013/ad/*
 /2013/ads/*
 /2014/ads/*
 /2015/ads/*
@@ -1419,8 +1426,8 @@
 /adcontrol.
 /adcontrol/*
 /adcontroller.
-/adcore.
-/adcore_
+/adcore.$domain=~adcore.com.au
+/adcore_$domain=~adcore.com.au
 /adcount.
 /adcounter.
 /adcreative.
@@ -1500,6 +1507,8 @@
 /adforgame728x90.
 /adforgame728x90_
 /adforge.
+/AdForm_trackpoint.
+/AdForm_trackpoint_
 /adformats/*
 /adforums/*
 /adfox.
@@ -1718,6 +1727,7 @@
 /admob.
 /admonitor-
 /admonitor.
+/admp-
 /adnap/*
 /adNdsoft/*
 /adnet.
@@ -1875,6 +1885,7 @@
 /ads-300-
 /ads-300.
 /ads-admin.
+/ads-api.
 /ads-arc.
 /ads-banner
 /ads-blogs-
@@ -1884,6 +1895,7 @@
 /ads-gpt.
 /ads-header-
 /ads-holder.
+/ads-inside-
 /ads-leader|
 /ads-min.
 /ads-net.
@@ -1981,6 +1993,7 @@
 /ads/bt/*
 /ads/btbuckets/*
 /Ads/Builder.
+/ads/bz_
 /ads/cbr.
 /ads/center-
 /ads/center.
@@ -2001,6 +2014,7 @@
 /ads/daily_
 /ads/dart.
 /ads/default_
+/ads/delivery?
 /ads/design-
 /ads/dfp.
 /ads/dfp/*
@@ -2435,6 +2449,7 @@
 /adsfile.
 /adsfiles.
 /adsfinal.
+/adsfix.
 /adsfloat.
 /adsfolder/*
 /adsfooter-
@@ -2477,6 +2492,7 @@
 /adskyright.
 /adskyscraper.
 /adslide.
+/adslider/*
 /adslides.
 /adsline.
 /adslots.
@@ -2901,6 +2917,7 @@
 /advfiles/*
 /advhd.
 /advice-ads.
+/advideo.
 /adview.
 /adview/*
 /adview?
@@ -3071,6 +3088,7 @@
 /alternet.ad?
 /alwebad_
 /am/ads.
+/amazon-async-
 /amazon/iframeproxy-
 /amazon/widget/*
 /amzn_ads.
@@ -3107,6 +3125,7 @@
 /assets/ad/*
 /assets/ads-
 /assets/ads/*
+/assets/ads3-
 /assets/ads_
 /assets/adv/*
 /assets/doubleclick/*
@@ -3196,6 +3215,7 @@
 /banner_control.php?
 /banner_db.php?
 /banner_file.php?
+/banner_id/*
 /banner_iframe_
 /banner_image.php?
 /banner_js.*?
@@ -3807,6 +3827,7 @@
 /ExternalAdNetworkViewlogLogServlet?
 /externalads/*
 /externalhtmladrenderer.
+/extra_ads/*
 /eyewondermanagement.
 /eyewondermanagement28.
 /facebookaff/*
@@ -3950,6 +3971,7 @@
 /GeoDynBanner.php?wmid=
 /ges_ads/*
 /get-ad.
+/get-ad/*
 /get-advert-
 /get.*/get.$script
 /get.ad?
@@ -4015,6 +4037,7 @@
 /global/ad/*
 /global/ads.
 /global/ads/*
+/global_advs.
 /globalad.
 /globaladprostyles.
 /globalAdTag.
@@ -4098,6 +4121,7 @@
 /gujAd.
 /GujAd/*
 /gutterAd.
+/gutterspacead.
 /hads-
 /Handlers/Ads.
 /hcm_ads/*
@@ -4285,8 +4309,11 @@
 /imlive300_
 /imlive5.
 /imp.ads/*
+/imp.php?
 /impop.
 /impopup/*
+/impression?
+/impressions/servlet/*
 /inad.
 /inc/ad-
 /inc/ad.
@@ -4323,7 +4350,9 @@
 /inner-ads-
 /inner-ads/*
 /innerads.
+/inpost-ad^
 /inquirer/ads/*
+/insertA.d.js
 /insertAd.
 /insertads.
 /instreamad/*
@@ -4882,6 +4911,7 @@
 /pledgead.
 /plugin/ad/*
 /plugins/ad.
+/plugins/ads-
 /plugins/ads/*
 /plugins/page-cornr-
 /plugins/wp-moreads/*$~stylesheet
@@ -5086,6 +5116,7 @@
 /render-ad/*
 /renderBanner.do?
 /repeat_adv.
+/reporo_
 /report_ad.
 /report_ad_
 /requestadvertisement.
@@ -5226,6 +5257,7 @@
 /show.ad?
 /show.cgi?adp
 /show_ad.
+/show_ad?
 /show_ad_
 /show_ads.js
 /show_ads_
@@ -5324,6 +5356,7 @@
 /skyscraper_ad_
 /skyscraperad.
 /slafc.js
+/slide_in_ads_
 /slideadverts/*
 /slideinad.
 /slider-ad-
@@ -5675,6 +5708,7 @@
 /update_layer/layer_os_new.php
 /uplimg/ads/*
 /upload/ads/*
+/UploadAds/*
 /uploaded/ads/*
 /UploadedAds/*
 /uploads/ads/*
@@ -5863,6 +5897,7 @@
 /xmladparser.
 /xnxx-ads.
 /xpiads.
+/xpopunder.
 /xtendmedia.$domain=~xtendmedia.dk
 /xwords.
 /xxxmatch_
@@ -6217,6 +6252,7 @@ _adframe.
 _adframe/
 _adframe_
 _adfunction.
+_adhesion.
 _adhoc?
 _adhome.
 _adhome_
@@ -6454,6 +6490,7 @@ _hosting_ad.
 _house_ad_
 _hr_advt/
 _iad.html?
+_id/ads/
 _iframe_ad_
 _images/ad.
 _images/ad_
@@ -6538,6 +6575,7 @@ _site_sponsor
 _skinad.
 _skybannerview.
 _skyscraper160x600.
+_slider_ad.
 _Slot_Adv_
 _small_ad.
 _smartads_
@@ -6622,6 +6660,7 @@ takeover_banner_
 /jquery.peelback.js
 ! Anti-Adblock
 -adblocker-detection/
+/abdetect.js
 /ad-blocker.js
 /ad-blocking-alert/*
 /adb.min.js

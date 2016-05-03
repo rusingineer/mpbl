@@ -4,6 +4,7 @@
 &trackingserver=
 -AdTracking.
 -analytics-tagserver-
+-audience-science-pixel/
 -baynote.
 -bluekai.
 -boomerang_
@@ -21,6 +22,7 @@
 -scroll-tracker.js
 -seo-tracker.
 -social-tracking.
+-tracking-pixel.
 -tracking.js?
 -xtcore.js
 .asis?Log=
@@ -110,6 +112,8 @@
 .do_tracking&
 .eloqua.js
 .emsecure.min.js
+.EventTracking.
+.EventTrackingPlugins.
 .fr/z.gif?
 .gatracker.
 .gatracking.js
@@ -265,6 +269,7 @@
 /affilinetRetargeting.
 /AffinoAudit/*
 /affl.cgi?
+/affs?affid=$script
 /afftrack.
 /afftracking.
 /aflog.gif?
@@ -365,6 +370,7 @@
 /angular-tag_
 /angularlytics.
 /anycent_tracker_
+/api/*/visitor?
 /api/0/stats
 /api/analytics/*
 /api/x.gif?
@@ -374,6 +380,7 @@
 /appendOmnitureTracking.
 /AppMeasurement.js
 /argtk.min.
+/arstat?
 /article_counter.php?
 /article_hit.php?
 /ArticleLog.aspx?
@@ -429,7 +436,6 @@
 /b/ss/wdgdolad,
 /b2bsdc.js
 /backlink.php?
-/backlink/*
 /backlink2.
 /banner-tracker.
 /banners-stat.
@@ -520,7 +526,6 @@
 /cds-webanalytics.
 /cdx-radar/*
 /cdx.gif?
-/cedexis-
 /cedexis.js
 /cedexis/*
 /cedexisus.
@@ -608,6 +613,7 @@
 /clickpathmedia.
 /clickpathmedia_
 /clickrecord.php?
+/clicks/servlet/*
 /clickscript.
 /clickstats.
 /clickstream.aspx?
@@ -675,6 +681,7 @@
 /cookie.crumb
 /cookie/visitor/*
 /cookie?affiliate
+/Cookie?merchant=
 /cookie_ga.
 /cookieAnalytics.
 /CookieLawStats/*
@@ -746,6 +753,7 @@
 /custom-tracking.
 /CustomTrackingScript.
 /cwTRACK.js
+/cx_tracking.js
 /cXense-Analytics-
 /cxense/cx.js
 /cyberestat/*
@@ -768,6 +776,7 @@
 /demdex/*
 /DemdexBehavioralTracking.
 /deskanalytics.js
+/detective.gif?
 /Diagnostics?hit=
 /disp_cnt.
 /dispatch.fcgi?
@@ -801,6 +810,7 @@
 /dynaTraceMonitor?
 /e086ec.aspx?q=l3mkwgak
 /ea-analytics/*
+/ea_ctrl?
 /eae-logger/*
 /ebonetag.js
 /ecblank.gif?
@@ -817,7 +827,6 @@
 /edAnalyticsWrapper.
 /edata.js
 /edateAdTrack?
-/eDigitalSurvey.
 /EDigitalSurvey_
 /effectivemeasure.
 /EfficientFrontier.
@@ -883,6 +892,7 @@
 /fb-tracking.js
 /fbanalytics/*
 /fbcounter/*
+/fe/track/*
 /federated-analytics.
 /files/ga.js
 /finalizestats.
@@ -1008,6 +1018,7 @@
 /geoipAPI.js?
 /geomap.js?
 /geov2.js
+/get?affid=$script
 /get_browser_info.
 /get_statistics.php?screen_width=
 /get_tracking_id?
@@ -1155,7 +1166,6 @@
 /imgtracker.
 /imp.aspx?
 /imp.gif?
-/imp.php?a
 /imp/a.gif?
 /imp?imgid=
 /imp_cnt.gif?
@@ -1168,7 +1178,6 @@
 /impression.pl?
 /impression.track?
 /impression/widget?
-/impression?
 /impression_tracker.
 /impression_tracking.
 /impressioncount.
@@ -1256,6 +1265,7 @@
 /js_tracker.
 /jscounter.
 /jslogger.php?ref=
+/json?referer=
 /jstats.php
 /jstats/js/*
 /jtracking/*
@@ -1298,6 +1308,7 @@
 /loadcounter.
 /loader-counter.
 /loadJsFingerprint.js
+/log-ads.
 /log-view.
 /Log.ashx?
 /log.bi?
@@ -1341,6 +1352,7 @@
 /logcollect.
 /logcollect_
 /logcollectscript_
+/LogCompany.aspx?$image
 /logcounter.
 /logevent.action?
 /logEvent?
@@ -1581,6 +1593,7 @@
 /pagehits/*
 /pagelogger/connector.php?
 /pageloggerobyx.
+/pagestat?
 /PageStatistics/*
 /PageStats.
 /pagestats/*
@@ -1689,6 +1702,7 @@
 /plog?id
 /pluck-tracking.
 /plugins/catman/*
+/plugins/stat-dfp/*
 /plugins/status.gif?
 /plugins/userinfo.gif?
 /plugins/wordfence/visitor.php?
@@ -1887,6 +1901,7 @@
 /services/analytics/*
 /services/counter/*
 /services/counters/*
+/servlet/Cookie?
 /session-hit.
 /session-tracker/tracking-
 /sessioncam.min.$script
@@ -1969,6 +1984,7 @@
 /sst8.sst?
 /sstlm8.sst?
 /st.aspx?
+/stat-analytics/*
 /stat.aspx?
 /stat.gif?
 /stat.htm?
@@ -2148,6 +2164,7 @@
 /track/pix.asp?
 /track/pixel.
 /track/pixel/*
+/track/read/*
 /track/site/*
 /track/track.php?
 /track/view/*
@@ -2209,6 +2226,7 @@
 /trackEvent.js?
 /trackEvent.min.js?
 /trackga.
+/trackGAEvents.
 /trackimage/*
 /trackImpression/*
 /trackimps?
@@ -2270,6 +2288,7 @@
 /tracking_pix.
 /tracking_pixel
 /TrackingCentral.js
+/trackingCode.js
 /TrackingCookieCheck.
 /trackingcookies.
 /TrackingData.
@@ -2286,7 +2305,6 @@
 /TrackingService.js
 /trackingService.min.js
 /trackingService/*
-/trackingWithCT.js
 /trackIt.js
 /trackit.php?
 /trackit.pl?
@@ -2543,6 +2561,7 @@
 /writrak.
 /written-analytics.
 /wstat.pl
+/wt?p=*&cp1=
 /wt_capi.js
 /wtbase.js
 /wtcore.js
@@ -2621,6 +2640,8 @@
 =ATAtracker&
 =stats&action=
 =track_view&
+=widgetimpression&
+=xtcore.
 ?&anticache=*filename.gif
 ?[AQB]&ndh=1&t=
 ?_siteid=
@@ -2677,10 +2698,12 @@ _logHuman=
 _logimpressions.
 _m10banners/tracking.php?
 _metricsTagging.
+_modal?referer=
 _nedstat.js
 _nielsen.js
 _NielsenNetRatings.
 _ntpagetag.
+_OpinionLab/$script
 _pixelmap.js
 _promo_id=
 _quantcast.swf
