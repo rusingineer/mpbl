@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private Block List Incremental Update
-! Last modified: 26 May 2016 23:30 UTC
+! Last modified: 08 Jun 2016 17:30 UTC
 ! Homepage: https://github.com/rusingineer/mpbl
 !  This is a private list,
 !  will not provide any technical support
@@ -132,9 +132,6 @@ kiinnostaa.org/ylamainos.php
 kiinnostaa.org/mainoskaruselli_alaosa.php
 kiinnostaa.org/arvonta
 eroadvertising.com/get.php
-block.s1venus.com
-block.s1block.com
-block.s4block.com
 ||install.wtf^$important
 lishuanghao.com
 push.zhanzhang.baidu.com
@@ -145,9 +142,6 @@ pics-money.ru/Picsmoneyclick.js
 go.oclasrv.com
 c0594.com
 cubis.yyouut.ru
-wydpt.com
-cdcwn.xyz
-fmywa.xyz
 ma-static.ru/sticker/
 globalteaser.ru/show/
 mstat.acestream.net/metrika.js
