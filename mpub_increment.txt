@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private Block List Incremental Update
-! Last modified: 08 Jun 2016 17:30 UTC
+! Last modified: 09 Jun 2016 17:00 UTC
 ! Homepage: https://github.com/rusingineer/mpbl
 !  This is a private list,
 !  will not provide any technical support
@@ -24,7 +24,6 @@ xf.tubecontext.com/tc-embed.min.js
 ||novostimira.ua
 @@||fishki.^
 st.top100.ru/top100/top100.js
-||block.s5block.com^$third-party
 ||v.spdnipdp.pw^$script
 ||rabotka-legko.info^popup
 ||dyzha.com/js/^

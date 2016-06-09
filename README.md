@@ -3,7 +3,7 @@ Makani Private Block List
 
 [uBlock Origin](http://github.com/gorhill/ublock) & [uBlock](http://ublock.org) list
 
-Include EasyList + EasyPrivacy + RUS: BitBlock List + RUS: RU AdList + Gythialy's List + YousList and my modification and delete duplicates
+Include [EasyList + EasyPrivacy](http://github.com/easylist/easylist) + RUS: RU AdList + RUS: BitBlock List + Gythialy's List + YousList
 
-[F.A.Q.](http://rusingineer.github.io/mpbl)
+[F.A.Q.](http://rusingineer.github.io/mpbl) coming soon!
 ===========================================

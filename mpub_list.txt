@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 !  Title: Makani Private Block List
-! Last modified: 08 Jun 2016 17:30 UTC
+! Last modified: 09 Jun 2016 17:00 UTC
 ! Homepage: https://github.com/rusingineer/mpbl
 !  This is a private list,
 !  will not provide any technical support
@@ -86333,7 +86333,7 @@ fark.com,marketplace.firefox.com#@#img[title="YouTube"]
 @@||material.cmiscm.com/images/share.png
 @@||privacypal.co/assets/img/fb.jpg
 @@||volkswagen-electrique.fr/img/share/share.jpg
-! *** mpub_increment.txt ***
+! *** mpub:mpub_increment.txt ***
 !  Adblock Killer
 advrush.com^$script
 viewclc.com^$script
@@ -86430,35 +86430,62 @@ ckqby.com^$script
 v.cuioj.com^$script
 v.ksdnf.com^$script
 v.vvvsd.space^$script
+v.qpovpaways.pw^$script
+v.vxqpomwum.pw^$script
+v.cmsat.space^$script
+v.ckpvz.space^$script
+v.dbncp.com^$script
+v.gfhdkse.com^$script
 gnezdo.ru/show/
 xawab.com/static/foobar.js
 fpmef.com^$script
 newsriver.net/load/^$script
 nyyed.com^$script
-v.qpovpaways.pw^$script
 bjpwv.com^$script
 vogorana.ru/rotator/^$script
 xawab.com^$script
-v.vxqpomwum.pw^$script
 ayjvb.com/js/
-v.cmsat.space
 vcnnz.com/js/
 ||p.uocux.com/s/
-v.ckpvz.space
 bannersold.eu/tizer.php^$script
-asd.bvyvk.space
-sontere.com
-aintes.com
-excalatom.com
-carveac.com
+bvyvk.space^$script
+sontere.com^$script
+aintes.com^$script
+excalatom.com^$script
+carveac.com^$script
 pketred.com^$script
 nalabutenahah.com^$script
 echo.andase.com^$script
-asd.qrrgv.space^$script
-qwe.qrrgv.space^$script
+qrrgv.space^$script
+s.mixadvert.com^$script
+berle.ru^$script
+zba.kbllskkwvp.pw^$script
+adeclc.com^$script
+xaogi.com^$script
+n.actionpay.ru/rotator/
+web-box.ru/snow.js
+nnmclub.to###brTop
+fortuka.com/sys/js/^script
+fsb-lawbreakers.net^$script,inline-script
+maps.yandex.ru###ya_partner_R-142300-1
+cdn7.network
+psma01.com/js/sys.js
+echo.scund.com
+polerix.ru
+rt.rtl1.biz/init.js
+block.s1venus.com^$third-party
+||block.s1block.com^$third-party
+||block.s2block.com^$third-party
+||block.s3block.com^$third-party
+||block.s4block.com^$third-party
+||block.s5block.com^$third-party
+adavz.xyz^$popup
+et-code.ru/bens/
+cdn1ht.traffichaus.com
+4tube.com/adb/
+! Навязчивая реклама
 xexyc.com^$script
 wjzvx.com^$script
-s.mixadvert.com^$script
 bytde.com^$script
 ipsqh.com^$script
 xtvoh.com^$script
@@ -86469,44 +86496,21 @@ azmdy.com^$script
 pfrve.xyz^$script
 dfebr.com^$script
 bkrkv.com^$script
-v.dbncp.com^$script
+wmwyq.xyz^$script
+wydpt.com^$script
+cdcwn.xyz^$script
+fmywa.xyz^$script
 ldnxy.xyz^$script
 lpmde.xyz^$script
-v.gfhdkse.com^$script
-zba.kbllskkwvp.pw^$script
 gladra.ru^$script
 zqizn.com^$script
-adeclc.com^$script
-berle.ru^$script
-xaogi.com^$script
-n.actionpay.ru/rotator/
-web-box.ru/snow.js
-nnmclub.to###brTop
-fortuka.com/sys/js/^script
-fsb-lawbreakers.net^$script,inline-script
-maps.yandex.ru###ya_partner_R-142300-1
-ikiif.com
-dexpz.xyz
-cdn7.network
-psma01.com/js/sys.js
-echo.scund.com
-yfkha.xyz
-twgib.xyz
-polerix.ru
-pofqm.xyz
-rt.rtl1.biz/init.js
-block.s1venus.com
-block.s1block.com
-block.s4block.com
-adavz.xyz^$popup
-wmwyq.xyz
-wydpt.com
-cdcwn.xyz
-fmywa.xyz
+ikiif.com^$script
+dexpz.xyz^$script
+yfkha.xyz^$script
+twgib.xyz^$script
+pofqm.xyz^$script
 nhqqv.space
-et-code.ru/bens/
-cdn1ht.traffichaus.com
-4tube.com/adb/
+
 !  Anti-Adblock Killer
 caminspector.net^$inline-script
 ! Google specific
