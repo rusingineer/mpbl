@@ -49,6 +49,7 @@ kp.ru##.seti
 uralpress.ru##.sticker
 naruto-grand.ru##div[id^="scbmr_"]
 boligliv.dk,rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
+dba.dk##div[style^="position: fixed; bottom: 0px;"]
 !
 !---------- German Site Specific Hiding Rules ----------
 !
@@ -60,6 +61,7 @@ handelsblatt.com###divStickyLayerWrapper
 focus.de###flying_mbox
 androidnext.de###scrollbarbox
 computerwissen.de###simpleCatfish
+web.de###slide-module
 gmx.net###slideBox
 duden.de###sliding-popup
 helpster.de###videoFlyin
@@ -76,9 +78,28 @@ cebit.de,hannovermesse.de##.user-notes-notification
 !
 !---------- Hungary Site Generic Hiding Rules ----------
 !
+168ora.hu###article_toolbar
+smoon.hu,tipparuhaz.hu###bottom_dialog
+hoxa.hu###container > div[style^="text-align: left;"]
 decathlon.hu###container-screen
+koloknet.hu###cookie
+freemeteo.hu###cookies
 nol.hu###didyou
 hrportal.hu###fixdiv
+elittars.hu###info-bar
+hbo.hu###overlay
+althir.org,nemzeti.net###suti_figyelmeztetes
+allattartas.hu###suti_figyelmeztetes_ablak_fix
+ezermester.hu##.alert
+bestsellers.hu,hirek24.hu,logmein.hu,workforce.hu##.cookie
+aig.hu##.copyright-text-header
+tesco.hu##.infoBarClosable
+roly.hu##.jq-toast-wrap
+eloben.hu##.law-accept
+vilaglato.info##.pea_cook_more_info_popover
+vilaglato.info##.pea_cook_wrapper
+gyakorikerdesek.hu##body > div[style^="text-align: left;"]
+filmkatalogus.hu##table[width="870"][cellspacing="3"]
 !
 !---------- Polish Site Generic Hiding Rules ----------
 !
@@ -130,7 +151,7 @@ goldenline.pl###topReminder
 skapiec.pl###uclaInfo
 votepush.com##.alert
 poznan.pl##.content-head-information
-bitbay.pl,telepolis.pl##.cookies
+alergia-allegra.pl,bitbay.pl,telepolis.pl##.cookies
 mpolska24.pl##.infoBox
 policja.pl##.informationBar
 interia.pl##.inplCCA
@@ -280,12 +301,13 @@ lesnumeriques.com##.alert
 20minutes.fr##.alerts_container
 rtl.fr##.article-mail-form
 mnt.fr##.banner
+cuisineaz.com##.cazLightbox
 pmu.fr,regionguadeloupe.fr##.cnil
 aso.fr##.confidentialite
 rueducommerce.fr##.confidentialite_header
 6play.fr,aquellefrequence.fr,midilibre.fr,migreat.fr,sudouest.fr##.cookie
 118000.fr,communauto.com,ouestjob.com##.cookies
-jeuxvideo.fr##.fb-overlay
+jeuxvideo.fr,turbo.fr##.fb-overlay
 tupperware.fr##.floating
 bouyguestelecom.fr##.hfc--nc
 mercialys.fr##.info-top
@@ -300,6 +322,7 @@ largus.fr##.modal-backdrop
 leroymerlin.fr##.nav-infos-wrapper
 silicon.fr##.nav-next
 silicon.fr##.nav-previous
+fourchette-et-bikini.fr##.newsBloc
 cuisineetvinsdefrance.com,leparisien.fr,phonandroid.com##.newsletter
 20minutes.fr##.notice
 landrover.ch##.notificationBars

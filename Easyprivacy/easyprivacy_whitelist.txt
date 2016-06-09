@@ -1,14 +1,14 @@
 @@/cdn-cgi/pe/bag2?*geoiplookup$xmlhttprequest,domain=orain.org
-@@/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js$domain=amypink.de|biznews.com|cryptospot.me|dailycaller.com|droid-life.com|forwardprogressives.com|fpif.org|fullpotentialma.com|geekzone.co.nz|goldsday.com|hoyentec.com|imageupload.co.uk|is-arquitectura.es|lazygamer.net|mmanews.com|nehandaradio.com|orain.org|tvunblock.com|unilad.co.uk|xrussianteens.com|youngcons.com
+@@/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js$domain=amypink.de|biznews.com|cryptospot.me|dailycaller.com|droid-life.com|forwardprogressives.com|fpif.org|fullpotentialma.com|geekzone.co.nz|goldsday.com|hoyentec.com|imageupload.co.uk|is-arquitectura.es|lazygamer.net|mmanews.com|nehandaradio.com|nmac.to|orain.org|tvunblock.com|unilad.co.uk|xrussianteens.com|youngcons.com
 @@/cdn-cgi/pe/bag2?*googleadservices.com$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*googlesyndication.com%2Fpagead%2Fosd.js$domain=forwardprogressives.com
-@@/cdn-cgi/pe/bag2?*histats.com$domain=xrussianteens.com
+@@/cdn-cgi/pe/bag2?*histats.com$domain=nmac.to|xrussianteens.com
 @@/cdn-cgi/pe/bag2?*log.outbrain.com$domain=dailycaller.com
 @@/cdn-cgi/pe/bag2?*newrelic.com$domain=clamav.net|dailycaller.com
 @@/cdn-cgi/pe/bag2?*nr-data.net$domain=dailycaller.com|realhardwarereviews.com|thepoliticalinsider.com
 @@/cdn-cgi/pe/bag2?*piwik.js$domain=orain.org
 @@/cdn-cgi/pe/bag2?*quantserve.com$xmlhttprequest,domain=dailycaller.com
-@@/cdn-cgi/pe/bag2?*scorecardresearch.com$xmlhttprequest,domain=amypink.de|biznews.com|dailycaller.com|droid-life.com|mmanews.com|nehandaradio.com|unilad.co.uk
+@@/cdn-cgi/pe/bag2?*scorecardresearch.com$xmlhttprequest,domain=amren.com|amypink.de|biznews.com|dailycaller.com|droid-life.com|mmanews.com|nehandaradio.com|unilad.co.uk
 @@/cdn-cgi/pe/bag2?*skimlinks.js$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs$domain=amazingpics.net
 @@/cdn-cgi/pe/bag2?*yieldbot.intent.js$domain=droid-life.com
@@ -29,6 +29,7 @@
 @@||aflac.com/js/wt_capi.js
 @@||akamai.net^*/omniture.jsp$script,domain=walmart.com
 @@||alicdn.com^*/class.js*/base.js*/widget.js$script
+@@||alicdn.com^*/click_stat/
 @@||aliexpress.com/home/recommendEntry.do?$script
 @@||aliunicorn.com^*/click-stat.js
 @@||aliunicorn.com^*/click_stat/
@@ -40,6 +41,7 @@
 @@||analytics.edgekey.net/js/brightcove-csma.js$domain=news.com.au
 @@||analytics.edgesuite.net/config/beacon-*.xml$domain=video.foxnews.com
 @@||analytics.edgesuite.net/html5/akamaihtml5-min.js$domain=resignationbrewery.com|video.foxnews.com
+@@||analytics.ooyala.com/static/analytics.js$domain=mashable.com
 @@||analytics.rogersmedia.com/js/rdm_dil_code.full.js$domain=rogersradio.ca
 @@||analytics.rogersmedia.com/js/rdm_s_code.min.js$domain=rogersradio.ca
 @@||analytics.twitter.com^$domain=analytics.twitter.com
@@ -51,16 +53,17 @@
 @@||aolcdn.com^*/beacon.min.js$domain=autoblog.com|dailyfinance.com
 @@||api.academia.edu^*/stats?callback$script,~third-party
 @@||api.chartbeat.com^$script,domain=betabeat.com|couriermail.com.au|financialpost.com|wcpo.com
+@@||api.cxense.com/public/widget/data?$script
 @@||arcgis.com^*/heatmap.js
 @@||arkadiumhosted.com^*/google-analytics-logger.swf$object-subrequest
 @@||arstechnica.com/services/incr.php?*=interactions.adblock-annoy.click$xmlhttprequest
-@@||assets.espn.go.com/espn360/builds/nielsen/ggce*.swf$object-subrequest
 @@||atdmt.com/ds/yusptsprtspr/
 @@||atdmt.com^*/direct*01$domain=sprint.com
 @@||atlanticbb.net/images/track/track.gif?$xmlhttprequest
 @@||atpworldtour.com/assets/js/util/googleAnalytics.js
 @@||att.com/webtrends/scripts/dcs_tag.js
 @@||autoscout24.net/unifiedtracking/ivw.js
+@@||azureedge.net^*/eventtracking.js$domain=crimemapping.com
 @@||b-europe.com/HttpHandlers/httpCombiner.ashx?*/xiti.js$script
 @@||bam.nr-data.net^$script,domain=play.spotify.com
 @@||barclays.co.uk/touchclarity/mbox.js
@@ -111,6 +114,7 @@
 @@||cdn-redfin.com^*/page_analytics.js$domain=redfin.com
 @@||cdn-redfin.com^*/page_analytics.xd.js
 @@||cdn-redfin.com^*/PixelTracking.js$domain=redfin.com
+@@||cdn.cxense.com/cx.js$domain=channelnewsasia.com
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com
 @@||centurylink.net/images/track/track.gif?track=$xmlhttprequest
 @@||chanel.com/js/chanel-tracking.js$script
@@ -147,8 +151,10 @@
 @@||craveonline.com/wp-content/plugins/bwp-minify/$script
 @@||craveonline.com^*/google-analytics.min.js
 @@||create.kahoot.it/rest/analytics/track/$xmlhttprequest
+@@||criteo.investorroom.com^$domain=criteo.investorroom.com
 @@||crowdscience.com/max-$script,domain=everydayhealth.com
 @@||crowdscience.com/start-$script,domain=everydayhealth.com
+@@||crowdskout.com/form/$third-party,xmlhttprequest
 @@||cschat.ebay.com^*/scripts/log.js
 @@||csdata1.com/data/js/$domain=acehardware.com
 @@||csid.com/wp-content/plugins/bwp-minify/min/?*/google-analyticator/$script
@@ -178,7 +184,7 @@
 @@||doubleclick.net/activityi;src=$object-subrequest,domain=cicispizza.com
 @@||dpm.demdex.net/id?$script,domain=gamespot.com
 @@||dtdc.in/tracking/tracking_results_$subdocument,domain=dtdc.com
-@@||dw.cbsi.com/anonc.js$domain=cnet.com|gamespot.com
+@@||dw.cbsi.com/anonc.js$domain=cnet.com|gamespot.com|giantbomb.com
 @@||dw.cbsi.com/js/dw.js$domain=cnet.com
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|cnet.com|gamespot.com|tv.com
 @@||ec.atdmt.com/b/$domain=starwoodhotels.com
@@ -191,7 +197,7 @@
 @@||emjcd.com^$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@||ensighten.com/crossdomain.xml$object-subrequest
 @@||ensighten.com/libs/flowplayer/ensightenplugin.swf$object-subrequest
-@@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|caranddriver.com|citizensbank.com|dell.com|homedepot.com|staples.com|t-mobile.com|target.com|zales.com
+@@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|caranddriver.com|citizensbank.com|dell.com|homedepot.com|hp.com|staples.com|t-mobile.com|target.com|zales.com
 @@||ensighten.com^*/code/$script
 @@||ensighten.com^*/scode/$script,domain=norton.com
 @@||ensighten.com^*/serverComponent.php?$script
@@ -241,7 +247,7 @@
 @@||go.com^*/analytics/tracker.otv.js
 @@||goldbet.com/Scripts/googleAnalytics.js
 @@||goldmansachs.com/a/pg/js/prod/gs-analytics-init.js
-@@||google-analytics.com/analytics.js$domain=afternic.com|amctv.com|bebo.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|gamepix.com|greentoe.com|housing.wisc.edu|infogr.am|jackbox.tv|keygames.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
+@@||google-analytics.com/analytics.js$domain=afternic.com|amctv.com|bebo.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|gamepix.com|greentoe.com|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
 @@||google-analytics.com/cx/api.js?experiment=$domain=foxnews.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=lovehoney.co.uk|maxiclimber.com|opendns.com|openshift.com|vimeo.com|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg
 @@||google-analytics.com/plugins/ua/ec.js$domain=desigual.com|rebtel.com
@@ -251,7 +257,7 @@
 @@||google.com/analytics/js/analytics.min.js$~third-party
 @@||google.com/js/gweb/analytics/$domain=google.com
 @@||google.com/js/gweb/analytics/doubletrack.js$domain=android.com
-@@||googletagmanager.com/gtm.js?$domain=computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|google.com|keygames.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com
+@@||googletagmanager.com/gtm.js?$domain=bhaskar.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|google.com|jobs.net|keygames.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com
 @@||googletagservices.com/tag/js/gpt.js$domain=speedtest.net
 @@||gorillanation.com/js/triggertag.js$domain=comingsoon.net|playstationlifestyle.net
 @@||grapeshot.co.uk/image-resize/$image
@@ -275,7 +281,7 @@
 @@||images-iherb.com/js/ga-pro*.js$domain=iherb.com
 @@||img.en25.com/eloquaimages/clients/PentonMediaInc/$image,domain=windowsitpro.com
 @@||imrworldwide.com/crossdomain.xml$object-subrequest,domain=cc.com|sbs.com.au
-@@||imrworldwide.com/novms/*/ggcm*.js$domain=europafm.com
+@@||imrworldwide.com/novms/*/ggcm*.js$domain=9now.com.au|europafm.com
 @@||imrworldwide.com/v60.js$domain=musicfeeds.com.au|nzherald.co.nz|realestateview.com.au|sf.se|weatherchannel.com.au
 @@||imrworldwide.com^*-mediaplayer&$domain=au.launch.yahoo.com
 @@||imrworldwide.com^*/flashdetect.js
@@ -362,6 +368,7 @@
 @@||motorolasolutions.com/wrs/b2bsdc.js
 @@||moulinex.com/js/xtroi.js
 @@||mpsnare.iesnare.com/snare.js$domain=citi.com|citibank.com|enmasse.com|login.skype.com
+@@||mpsnare.iesnare.com/wu/snare.js$domain=westernunion.com
 @@||msecnd.net^*/site-tracker.js$domain=momondo.co.uk
 @@||msn.com/br/chan/udc/$script,domain=my.msn.com
 @@||msn.com/c.gif?rid=$image,domain=my.msn.com
@@ -373,6 +380,7 @@
 @@||mycokerewards.com^*/webtrends/mcr3-webtrends_POST_$script
 @@||mycommunitynow.com/includes/JI_trafficTracking.js$domain=mycommunitynow.com
 @@||narf-archive.com^*/clickstream.js
+@@||nationalgeographic.com/assets/scripts/utils/event-tracking.js
 @@||nationaljournal.com/js/bizo.js
 @@||nationalreview.com^*/chartbeat.js
 @@||nationwide.co.uk/_/js/webAnalytics.js
@@ -385,6 +393,7 @@
 @@||next.co.uk/Scripts/GoogleAnalytics.js?
 @@||nike.com/checkout/analytics/js/analyticFunctions.js$domain=nike.com
 @@||nokia.com/b/ss/$image,domain=here.com
+@@||nordstromimage.com^*/mmcore.js$domain=nordstrom.com
 @@||novell.com/common/util/demandbase_data.php
 @@||nyandcompany.com^*/resxclsa.js$domain=nyandcompany.com
 @@||nymag.com/decor/javascript/magnify_stats.js
@@ -396,6 +405,9 @@
 @@||nytimes.com^*/wtinit.js
 @@||odcdn.com^*/cm.js
 @@||officeworks.com.au^*/site-tracker.js
+@@||omtrdc.net/crossdomain.xml$domain=crackle.com
+@@||omtrdc.net/settings/$object-subrequest,domain=crackle.com
+@@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=att.com|t-mobile.com
 @@||omtrdc.net^*/mbox/standard?$script,domain=ancestry.co.uk|ancestry.com|ancestry.com.au|ancestry.it|blogtalkradio.com
 @@||ooyala.com/3rdparty/comscore_$object-subrequest,domain=livetvcafe.net|player.complex.com
 @@||ooyala.com/crossdomain.xml$object-subrequest
@@ -404,6 +416,7 @@
 @@||optimost.com/counter/*/event.js?$domain=bebo.com
 @@||optimost.com^*/content.js?$domain=bebo.com
 @@||optimost.com^*/FT_live.js$domain=ft.com
+@@||palerra.net/apprity/api/analytics/
 @@||pastebin.com/etc/geo.php?
 @@||patrick-wied.at/static/heatmapjs/src/heatmap.js
 @@||paypalobjects.com^*/opinionLab.js$domain=paypal.com
@@ -448,22 +461,26 @@
 @@||reinvigorate.net/re_.js$domain=thenounproject.com
 @@||remodelista.com/media/js/libs/ga_social_tracking.js
 @@||res-x.com^*/Resonance.aspx?
+@@||reutersmedia.net^*/rcom-scroll-tracker.js$domain=reuters.com
 @@||rfdcontent.com^*/utag.loader.js$domain=forums.redflagdeals.com
 @@||rockingsoccer.com/js/match_stats.js
 @@||rs.mail.ru/crossdomain.xml$object-subrequest,domain=vk.com
 @@||ru4.com/wsb/$script,domain=chase.com
+@@||s.crowdskout.com^*/embed.js?$script,third-party
 @@||s.skimresources.com^$script,domain=slate.com
 @@||s.youtube.com/api/stats/playback?$image,object-subrequest
 @@||safelinkwireless.com/enrollment/*/GoogleAnalytics.js
 @@||samepage.io/assets/lib/google-analytics/GoogleAnalytics.js?
 @@||sbstatic.com.au/js/tealium.js$domain=sportsbet.com.au
 @@||scorecardresearch.com/beacon.js$domain=agame.com|allrecipes.com|amctv.com|apl.tv|babycenter.com|bonappetit.com|calgaryherald.com|canada.com|cbc.ca|dailymail.co.uk|deviantart.com|discovery.com|edmontonjournal.com|fastcompany.com|financialpost.com|firstwefeast.com|hitfix.com|huffingtonpost.com|landandfarm.com|last.fm|leaderpost.com|m.tmz.com|montrealgazette.com|nationalpost.com|newsday.com|ottawacitizen.com|outsideonline.com|radaronline.com|salon.com|sci2.tv|syfy.com|theprovince.com|thestar.com|thestarphoenix.com|thinkatheist.com|vancouversun.com|windsorstar.com
+@@||scorecardresearch.com/c2/plugins/streamsense_plugin_html5.js
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_theplatform.js
 @@||scorecardresearch.com/crossdomain.xml$domain=rte.ie
 @@||scorecardresearch.com^*/cs.js$script,domain=thedailybeast.com
 @@||scripts.demandmedia.com/wm.js$domain=ehow.com
 @@||sears.com^*/analytics.sitecatalyst.js
-@@||segment.io/analytics.js/*/analytics.min.js$domain=greentoe.com|thescene.com|vyte.in
+@@||segment.com/analytics.js/*/analytics.min.js$script
+@@||segment.io/analytics.js/*/analytics.min.js$script
 @@||segment.io/v1/$xmlhttprequest,domain=greentoe.com|thescene.com
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
 @@||service.collarity.com/cust/nbcu/ucs.js$xmlhttprequest
@@ -503,7 +520,8 @@
 @@||tablespoon.com/library/js/TBSP_ntpagetag.js
 @@||tag.perfectaudience.com/serve/*.js$domain=asana.com
 @@||tagcommander.com^*/tc_$script
-@@||tags.bluekai.com/site/*?ret=$subdocument,domain=zillow.com
+@@||tags.bkrtx.com/js/bk-coretag.js$domain=mlb.com
+@@||tags.bluekai.com/site/*?ret=$subdocument,domain=mlb.com|zillow.com
 @@||tags.crwdcntrl.net^$script,domain=weather.com
 @@||tags.w55c.net/rs?*&t=marketing$image
 @@||tc.bankofamerica.com/c?
@@ -573,7 +591,6 @@
 @@||walmart.com^*/track?event=$xmlhttprequest
 @@||walmartimages.com/webanalytics/omniture/omniture.jsp$domain=walmart.com
 @@||walmartimages.com/webanalytics/wmStat/wmStat.jsp$domain=walmart.com
-@@||washingtonpost.com/wp-stat/echo2/canvases/$script,domain=washingtonpost.com
 @@||wbshop.com/fcgi-bin/iipsrv.fcgi?
 @@||websimages.com/JS/Tracker.js
 @@||webtrack.dhlglobalmail.com^
@@ -613,8 +630,6 @@
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
 ! Chrome bug (Endless loading causing site to crash https://forums.lanik.us/viewtopic.php?f=64&t=25152)
 @@||aplus.com/p.gif?$~third-party
-! Whitelisting due to High-CPU usage bug (https://adblockplus.org/forum/viewtopic.php?f=11&t=23443)
-@@||gametrailers.com/b/ss/$object-subrequest
 ! Preliminarily whitelisting Omniture s_code tracking pixels (script versions H.25 - H.25.2) due to breakage (https://adblockplus.org/forum/viewtopic.php?f=10&t=11378) if blocking the script causes issues
 @@||112.2o7.net/b/ss/$image,domain=espn.com.br
 @@||122.2o7.net/b/ss/$image,domain=billetnet.dk|billettservice.no|citibank.co.in|goal.com|lippupalvelu.fi|pcworld.com|riverisland.com|techhive.com|ticketmaster.ae|ticketmaster.co.uk|ticketmaster.de|ticketmaster.ie|ticketmaster.nl|ticnet.se

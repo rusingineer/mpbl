@@ -1,6 +1,7 @@
 @@/followbutton.js$domain=instagram.com
 @@/share-sprite-$domain=askubuntu.com|mathoverflow.net|serverfault.com|stackapps.com|stackexchange.com|stackoverflow.com|superuser.com
 @@/wp-content/plugins/2-click-socialmedia-buttons/js/social_bookmarks-min.js?$~third-party
+@@/wp-content/plugins/share-this-image/*$~third-party
 @@/wp-content/plugins/socialauth-wp/*$~third-party
 @@/wp-content/plugins/wordpress-social-login/*$~third-party
 @@||126.net/share/js/$script,domain=163.com
@@ -41,6 +42,7 @@
 @@||ampproject.org/static/img/quotes/$~third-party
 @@||androidpit.info/userfiles/*image/youtube-logo-
 @@||androidpolice.com/wp-content/*_facebook-$image
+@@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||aol.com^*/sharrre.js
 @@||aolcdn.com/aboutme/*/icons/socialmedia/$domain=about.me
 @@||apple.com/kb/resources/images/i_facebook.png
@@ -61,9 +63,11 @@
 @@||breakoutlist.com/assets/logos/*-logo.png$domain=breakoutlist.com
 @@||breakoutlist.com/assets/pinterest-logo.png
 @@||breakoutlist.com/assets/twitter-logo.png
+@@||bronchiectasisandntminitiative.org^*/SocialLibrary/$image
 @@||bshare.cn/b/buttonLite.js$domain=sina.com.cn
 @@||buzzfeed.com/wd/UserWidget?$script,domain=salon.com
 @@||buzzfeed.com^*?callback=*&cb=$script,domain=salon.com
+@@||canva.com/static/images/*_button_icon.svg$~third-party
 @@||cbsimg.net/images/signin/spoe/signin_facebook.png$domain=cbssports.com
 @@||cbsistatic.com/cnwk.1d/html/*/Social/$script,domain=cbsnews.com|cnet.com
 @@||cbsistatic.com^*/js-build/fly/components/social-links-$domain=cbsnews.com|cnet.com
@@ -84,11 +88,13 @@
 @@||cloudfront.net/s/images/twitter-signin.png
 @@||cloudfront.net/share/js/$domain=pokemon-gl.com
 @@||cloudfront.net^*/facebook.svg$domain=bitbucket.org
+@@||cloudfront.net^*/googleplus.png$domain=openid.net
 @@||cloudfront.net^*/signin_with_facebook.png
 @@||cloudfront.net^*/social-buttons.png$domain=socialreader.com
 @@||clubs.nfl.com/nfl-assets/js/social-buttons.js
 @@||comcastnets.net/thyme/img/button-login-facebook.png$domain=eonline.com
 @@||comcastnets.net/thyme/img/button-login-twitter.png$domain=eonline.com
+@@||copdfoundation.org/Portals/_default/Skins/COPDF/images/social-1.jpg
 @@||coveritlive.com/templates/coveritlive/images/twitter_$~third-party
 @@||crowdin.net/images/social/
 @@||curelost.com/logo/$image,~third-party
@@ -117,6 +123,7 @@
 @@||eleximg.com/*/tmp/hot/Facebook.gif
 @@||elle.com/cm/elle/images/Zd/elle-01-trail-by-twitter-tweet-h-lgn.jpg
 @@||elliegoulding.com/images/home/tweetButton.png
+@@||envoy.com/images/*/reddit.png
 @@||evasionjailbreak.com/wp-content/plugins/*/social_widget.css$stylesheet
 @@||explainxkcd.com/wiki/images/$image,domain=explainxkcd.com
 @@||facebook.com/plugins/facepile.php?$domain=gu-facebook.appspot.com
@@ -144,6 +151,7 @@
 @@||ge.tt/s/images/twitter-signin.png
 @@||gearbest.com/imagecache/*/images/styleimg/share.png
 @@||getmyapp.link/content/images/share/$image,~third-party
+@@||gfycat.com^*/sharepage-*.js$script
 @@||ghacks.net/wp-content/uploads/*/google-plus-
 @@||gigya.com/gs/i/shareBar/icons/$image
 @@||gigya.com/gs/sso.htm$domain=redbull.com|tomshardware.com
@@ -174,6 +182,7 @@
 @@||gu-byline-data.appspot.com/api/twitter/lookup?$domain=theguardian.com
 @@||handmadebydominos.com^*/socialShare.js
 @@||hd-trailers.net/images/youtube.png
+@@||hopper.com/static2/w2/images/google-$domain=hopper.com
 @@||huffpost.com/assets/js.php?*-pinterest.js
 @@||huffpost.com/images/social-profile/lightbox/snn_lightbox_close.png
 @@||hypetrak.com/images/*facebook
@@ -207,9 +216,15 @@
 @@||lifetricks.com/wp-content/plugins/nextend-facebook-connect/
 @@||lipis.github.io^$elemhide
 @@||livescience.com/images/site/social/footer_*.gif
+@@||lurkmo.re/images/*/Twitter-$~third-party
+@@||lurkmo.re/images/*YouTube.png$~third-party
+@@||lurkmore.*/images/FB_small.png$~third-party
+@@||lurkmore.so/images/*/Twitter-$~third-party
+@@||lurkmore.so/images/*YouTube.png$~third-party
 @@||marketplace.cdn.mozilla.net/media/fireplace/img/icons/brands/social-$image
 @@||mediafirerepack.net^*/facebook-page-promoter-lightbox/$script
 @@||meetmecdna.com/images/Connect/btn_facebook_custom_text.png$domain=meetme.com
+@@||megabus.com/images/megabus-socialmedia-
 @@||mhfreq.org/wp-content/uploads/*/tweet.png?
 @@||michiganlottery.com/global/share/js/$script
 @@||mlb.com/bundle?*/facebook_button.css
@@ -256,6 +271,7 @@
 @@||platform.twitter.com/widgets/follow_button.html?$subdocument,domain=rafflecopter.com
 @@||platform.twitter.com/widgets/tweet_button.html?$subdocument,domain=rafflecopter.com
 @@||platform.twitter.com^$domain=klout.com|twimg.com|twitpic.com
+@@||play.ludigames.com^*/pc_share_$image
 @@||playkeepout.com/img/common/sharing/
 @@||plus.im/static/img/facebook.png
 @@||plus.im/static/img/facebook_over.png
@@ -285,8 +301,8 @@
 @@||s10i.com/hp/images/fallback/twitter.png$domain=sky.com
 @@||s3.amazonaws.com/digital/social-media-part-*/images/social-media-part-$image,domain=circusstreet.com
 @@||s7.addthis.com/static/r07/$script,stylesheet,domain=majorgeeks.com
-@@||s7.addthis.com^*/addthis_widget.js$domain=politico.com
-@@||s7.addthis.com^*/addthis_widget.js*async=$domain=koeln.de
+@@||s7.addthis.com^*/addthis_widget.js$domain=channelnewsasia.com|politico.com
+@@||s7.addthis.com^*/addthis_widget.js*async=$domain=koeln.de|moneytalksnews.com
 @@||s7.addthis.com^*/addthis_widget.js*pubid=
 @@||s7.addthis.com^*/addthis_widget.js*username=$domain=iamsecond.com
 @@||salon.com/combo/js?*/share-buttons.js$script
@@ -339,6 +355,8 @@
 @@||tegna-tv.com^*/googleplus-user-account.js
 @@||telia.se/tse/js/socialmedia/
 @@||theinterview-movie.com/images/btn_youtube.png
+@@||themobileplaybook.com/assets-v2/images/google-mobile-playbook*.png
+@@||themobileplaybook.com/assets-v2/images/share.png
 @@||thenextweb.com/socialmedia/*?cf_action=$script
 @@||thrusto.com/images/fb-icon.png
 @@||thrusto.com/images/google+.png
@@ -359,8 +377,10 @@
 @@||twimg.com^*/tweets.js$domain=twitter.com
 @@||twitlonger.com/images/sign-in-with-twitter.png
 @@||underverse.su/min/index.php*/js/share42.js
+@@||upwork.com^*/logo-pinterest.svg
 @@||vidiload.com/media/banners/fblike.png$domain=vidiload.com
 @@||viewbug.com^*/fb_button.png
+@@||visuals.feedly.com^*/resize?url=$image
 @@||vk.com/js/al/sharebox.js
 @@||vk.me/js/al/sharebox.js
 @@||wappalyzer.com/sites/default/files/icons/$image

@@ -1,4 +1,5 @@
 ! German
+||78.46.19.203^$third-party,domain=~sprueche-zitate.net.ip
 ||adc-srv.net/retargeting.php
 ||adm24.de/hp_counter/$third-party
 ||aftonbladet.se/trafikfonden/
@@ -104,6 +105,7 @@
 ||stats.av.de^
 ||stats.blogoscoop.net^
 ||stats.clickforknowledge.com^
+||stats.computecmedia.de^
 ||stats.digital-natives.de^
 ||stats.fittkaumaass.de^
 ||stats.frankfurterneuepresse.de^
@@ -114,6 +116,7 @@
 ||stats2.algo.at^$third-party
 ||stilanzeigen.net/track/
 ||strongvpn.com/aff/
+||t.quisma.com^
 ||teleboy.ch/misc/tracker/track.php?id=
 ||top50-solar.de/solarcount/
 ||track2.dulingo.com^
@@ -158,6 +161,8 @@
 ||shofonline.org/javashofnet/ti.js
 ! French
 ||01net.com/track/
+||46.101.168.189^$third-party,domain=lematin.ch
+||46.101.246.10^$third-party,domain=lematin.ch
 ||abs.proxistore.com^
 ||affiliation.planethoster.info^$third-party
 ||analytics.freespee.com^
@@ -185,6 +190,7 @@
 ||nvc.n1bus-exp.com^
 ||nws.naltis.com^
 ||optinproject.com/rt/visit/
+||osd.oxygem.it^
 ||pagesjaunes.fr/stat/
 ||piximedia.com^$third-party
 ||scriptsgratuits.com/sg/stats/
@@ -194,9 +200,13 @@
 ||stats.buzzea.com^
 ||stats.ipmgroup.be^
 ||t.planvip.fr^$third-party
+||tag.leadplace.fr^
+||tmgr.ccmbg.com^
 ||tr.cloud-media.fr^
 ||tra.pmdstatic.net^
 ||track.byzon.swelen.net^$third-party
+||track.laredoute.fr^$image
+||trackcustomer.laredoute.com^$image
 ||tracking.ecookie.fr^
 ||tracking.netvigie.com^
 ||tracking.veille-referencement.com^
@@ -271,6 +281,7 @@
 ! Croatian
 ||tracking.vid4u.org^
 ! Czech
+||c.imedia.cz^
 ||counter.cnw.cz^
 ||h.imedia.cz^
 ||log.idnes.cz^
@@ -298,6 +309,7 @@
 ||log.ee/count.php?
 ! Finnish
 ||inpref.s3.amazonaws.com^$third-party
+||insight.fonecta.fi^
 ||sestatic.fi^*/zig.js
 ! Georgian
 ||counter.top.ge^$third-party
@@ -394,7 +406,6 @@
 ||trck.dlpo.jp^
 ||userdive.com^$third-party
 ||webtracker.jp^$third-party
-||yahoo-search.jp/img/bcn.gif?
 ||yahoo.co.jp/js/retargeting.js
 ||yahoo.co.jp/js/s_retargeting.js
 ! Korean
@@ -436,6 +447,7 @@
 ||top.skyzone.ro^
 ! Russian
 ||1in.kz/counter?
+||1l-hit.mail.ru^
 ||7host.ru/tr/*?r=$third-party
 ||adlik.akavita.com/bin/lik?
 ||agates.ru/counters/
@@ -513,7 +525,9 @@
 ||stat.tvigle.ru^
 ||stats.internet-yadro.com^
 ||t.pusk.ru^
+||target.mirtesen.ru^
 ||target.smi2.net^
+||target.smi2.ru^
 ||tbe.tom.ru^
 ||top.bur-bur.ru^
 ||top.elec.ru^

@@ -97,7 +97,6 @@
 ||gg24.de^*/count.cgi?
 ||giessener-anzeiger.de/stat/
 ||go.bluewin.ch^
-||go.giga-abs.de^
 ||golem.de/staticrl/scripts/golem_cpx_
 ||golem.de/staticrl/scripts/golem_cpxl_
 ||goyellow.de/trackbrowser.jsp
@@ -166,6 +165,7 @@
 ||pcwelt.de^*/pic.gif?
 ||pix.friendscout24.de^
 ||pixel.1und1.de^
+||pixel.4players.de^
 ||pixel.bild.de^
 ||pixel.prosieben.de^
 ||playomat.de/sfye_noscript.php?
@@ -180,6 +180,7 @@
 ||putpat.tv/tracking?
 ||pxc.otto.de^
 ||quoka.de^*/wtlog_02.js
+||radioplayer.de/v3/analytics.html?
 ||rem-track.bild.de^
 ||remixshare.com/stat/
 ||rhein-zeitung.de^*/picksel/
@@ -198,6 +199,8 @@
 ||stargate-planet.de^*counter*/c$image,script
 ||stats.bmw.de^
 ||stats.daserste.de^
+||stats01.20min.ch^
+||subpixel.4players.de^
 ||suedkurier.de/al/analytics/
 ||suite101.de/tracking/
 ||superfunblog.com/stats/stats.php
@@ -228,6 +231,7 @@
 ||tvcommunity.at/filmpicture.aspx?count=1&
 ||ui-portal.de/brbtpixel/
 ||unser-star-fuer-oslo.de^*/stats.php
+||videovalis.tv/tracking/
 ||vip.de^*/tracking.js
 ||viviano.de/cgi-bin/stat_gateway.cgi?
 ||wdm.map24.com^
@@ -256,6 +260,7 @@
 ||bloguez.com/manager/compteurs/
 ||clubic.com/editorial/publier_count.php?
 ||developpez.com/public/js/track.js
+||dm.commentcamarche.net^
 ||ea.clubic.com^
 ||ea.jeuxvideopc.com^
 ||ea.lexpress.fr^
@@ -292,6 +297,7 @@
 ||stat.webevolutis.com^
 ||stats1x1.kapaza.be^
 ||surace-jujitsu.fr/outils/compteur_php/
+||track.24heures.ch^
 ||tracker-id.cdiscount.com^
 ||tracker.cds-tracking.com^
 ||tracking.ha.rueducommerce.fr^
@@ -622,7 +628,7 @@
 ||uv.terra.com.br^
 ! Russian
 ||ad7.bigmir.net^
-||kiks.yandex.ru^
+||analytics.carambatv.ru^
 ||kommersant.ru/a.asp?p=
 ||mail.ru/count/
 ||mail.ru/counter?
@@ -635,7 +641,6 @@
 ||stat.lenta.ru^
 ||stats.lifenews.ru^
 ||vedomosti.ru/boom?
-||yandex.ru/clck/
 ||yast.rutube.ru^
 ! Serbian
 ||trak-analytics.blic.rs^

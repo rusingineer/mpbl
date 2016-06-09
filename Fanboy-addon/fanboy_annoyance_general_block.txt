@@ -44,6 +44,7 @@
 /email_follow.
 /emailbutton.
 /eprivacy.
+/fartscroll.js
 /feed-16x16.
 /feed-icon-
 /feed-rss.
@@ -121,6 +122,7 @@
 /images/rss_
 /img/*rss.gif
 /img/*rss.png
+/inscription-newsletter-
 /interstitial.js
 /interstitial_overlay*.js
 /iphoneapp-icon.
@@ -152,6 +154,7 @@
 /onlineopinionV5/*
 /opinionlab/*
 /outbrain?
+/plugins/advanced-browser-check/*$~stylesheet
 /plugins/dynamic-to-top/*
 /plugins/flattr/*
 /plugins/let-it-snow/*
@@ -159,6 +162,7 @@
 /plugins/optin-monster/*$script
 /plugins/popup-maker/*$script
 /plugins/scroll-to-top/*
+/plugins/scroll-triggered-boxes/*
 /plugins/wordpress-popup/*$~stylesheet
 /plugins/wp-emailfeedburnerpop/*
 /plugins/wp-greet-box/*$~stylesheet
@@ -322,6 +326,7 @@ _social_rss.
 /cnil-cookies_
 /cnil.js
 /coCookiesDisclaimer.
+/cookie-accept.js
 /cookie-alert.
 /cookie-bandeau.
 /cookie-banner
@@ -337,7 +342,7 @@ _social_rss.
 /cookie-eu/*
 /cookie-footer-
 /cookie-info.
-/cookie-law-
+/cookie-law-$~script
 /cookie-manager.min.js
 /cookie-master.js
 /cookie-message.
@@ -358,11 +363,14 @@ _social_rss.
 /cookie/policy-
 /cookie_acceptance_
 /cookie_alert*.js
+/cookie_banner-
 /cookie_banner.
 /cookie_bar.
 /cookie_consent.
 /cookie_consent/*
 /cookie_consent_
+/cookie_info.css
+/cookie_info.js
 /cookie_information_$script
 /cookie_law.js
 /cookie_law/*
@@ -411,7 +419,7 @@ _social_rss.
 /cookieInformerBooklet_
 /cookiejar/*
 /cookielaw.
-/cookielawinfo.
+/cookielawinfo.$~script
 /cookielex/*
 /cookiemanagement.js
 /cookieMention.
@@ -422,7 +430,9 @@ _social_rss.
 /cookiemsg.
 /cookienotice.
 /cookienotice/*$script
+/cookienotif.
 /cookieNotification.
+/CookieNotification/*
 /cookieok.js
 /cookiepolicy.
 /cookiepolicy/*
@@ -439,6 +449,8 @@ _social_rss.
 /cookies-enabler.
 /cookies-footer-
 /cookies-info.
+/cookies-monster.js
+/cookies-monster/*$script
 /cookies-notice/*
 /cookies-notification.
 /cookies-overlay.
@@ -452,10 +464,12 @@ _social_rss.
 /cookies_policy.js
 /Cookies_Pro/*
 /CookiesAgreement/*
+/cookiesbanner/*
 /cookiescontrol-
 /cookiesdisclaimer.
 /CookieSettingsManager?
 /cookieslegal.
+/cookiesLegales.
 /cookiespolicy.
 /cookiesPopup.
 /cookiewarning.
@@ -465,6 +479,7 @@ _social_rss.
 /ecookie_check/*
 /ee-cookies-min.
 /emea-cookie-
+/eprivacy-cookie.
 /eu-cookie-
 /eu-cookie.
 /EU-cookielaw.
@@ -502,11 +517,13 @@ _social_rss.
 /lma-cookie.
 /mod_cookiesaccept/*
 /mod_jbcookies/*
+/mweb.cookie/*$script
 /newprivacypolicy.
 /ocgcookie?
 /plugin_cookie/*
 /plugins/CookieInfo/*
 /plugins/EuCookie/*
+/privacy-cookies.js
 /rbicookiepolicy.
 /rtiCookieLaw.
 /SetConsentCookie.

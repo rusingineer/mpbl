@@ -49,6 +49,7 @@
 ||adidas.com^*/analytics/
 ||adprimemedia.com^*/video_report/attemptAdReport.php?
 ||adprimemedia.com^*/video_report/videoReport.php?
+||adroll.com/pixel/
 ||adv.drtuber.com^
 ||advancedmp3players.co.uk/support/visitor/index.php?
 ||advancedtracker.appspot.com^
@@ -185,6 +186,7 @@
 ||atracktive.collegehumor.com^
 ||att.com/csct.gif?
 ||attachmate.com*/pv.aspx?
+||audible.com^*/uedata/
 ||audit.macworld.co.uk^
 ||audit.pcadvisor.co.uk^
 ||audiusa.com/us/brand/en.usertracking_javascript.js
@@ -471,6 +473,7 @@
 ||debtconsolidationcare.com/affiliate/tracker/
 ||dell.com/images/global/js/s_metrics*.js
 ||dell.com/metrics/
+||depositfiles.com/stats.php
 ||derkeiler.com/gam/tag.js
 ||designtaxi.com/tracker.php
 ||despegar.com/t?
@@ -596,6 +599,7 @@
 ||farecompare.com/resources/ga/ga.js
 ||farecompare.com/trackstar/
 ||fark.com/cgi/ll.pl?
+||fark.net/imagesnoc/
 ||farmville.com/trackaction.php?
 ||farsnews.com/stcs.js.aspx?
 ||fast.forbes.com^
@@ -677,7 +681,6 @@
 ||gamerdeals.net/aggbug.aspx
 ||gamesgames.com/WebAnalysis/
 ||gamespot.com/cgi/chkpt.php?
-||gametrailers.com/neo/stats/
 ||gamezone.com/?act=
 ||gamezone.com/site/linktracker.js
 ||gardenweb.com^*/iv_footer.js
@@ -761,6 +764,7 @@
 ||gq-magazine.co.uk^*/LogPageView
 ||groupon.com/analytic/
 ||groupon.com/tracking
+||gumtree.com.au/?pc=
 ||h.cliphunter.com^
 ||hanksgalleries.com/stxt/counter.php?
 ||harrisbank.com^*/zig.js
@@ -800,6 +804,7 @@
 ||hubpages.com/c/*.gif?
 ||huffingtonpost.com/geopromo/
 ||huffingtonpost.com/include/geopromo.php
+||huffingtonpost.com/ping?
 ||huffingtonpost.com/traffic/
 ||hugedomains.com/metrics/
 ||hulkshare.com/ajax/tracker.php
@@ -883,6 +888,7 @@
 ||intelli.ageuk.org.uk^
 ||intensedebate.com/empty.php
 ||intent.cbsi.com^
+||intercom.io/gtm_tracking/
 ||investegate.co.uk/Weblogs/IGLog.aspx?
 ||io9.com/at.js.php
 ||io9.com^*/trackers.html
@@ -925,6 +931,7 @@
 ||kelkoo.co.uk/kk_track?
 ||kelkoo.co.uk^*/tracker/
 ||kelkoo.com/kk_track?
+||kiks.yandex.
 ||killerstartups.com^*/adsensev
 ||kinesisproxy.hearstlabs.com^
 ||kitsapsun.com/metrics/
@@ -961,6 +968,7 @@
 ||linkbucks.com/clean.aspx?task=record$image
 ||linkbucks.com/track/
 ||linkedin.com/analytics/
+||linkedin.com/js/analytics.js
 ||linkedin.com^*/tracker.gif?
 ||linkpuls.idg.no^
 ||linuxtoday.com/hqxapi/
@@ -986,6 +994,8 @@
 ||log.player.cntv.cn/stat.html?
 ||log.vdn.apps.cntv.cn^
 ||log.wat.tv^
+||log1.24liveplus.com^
+||logdev.openload.co^
 ||logger-*.dailymotion.com^
 ||logger.dailymotion.com^
 ||logging.goodgamestudios.com^
@@ -1120,7 +1130,6 @@
 ||naturalnews.com/NNAnalytics/
 ||nature.com^*/marker-file.nocache?
 ||naughtydog.com/beacon/
-||naukri.com/advertiser/
 ||naukrigulf.com/logger/
 ||naukrigulf.com^*/bms_display.php
 ||navlog.channel4.com^
@@ -1142,7 +1151,7 @@
 ||netmag.co.uk/matchbox/traffic/
 ||netzero.net/account/event.do?$image
 ||newegg.com/common/thirdparty/$subdocument
-||newegg.com/TrackingWeb/
+||newegg.com/tracking
 ||news-leader.com^*/analytics.js
 ||news.cn/webdig.js
 ||news.com.au/track/
@@ -1227,6 +1236,7 @@
 ||overclock.net/p/$image
 ||overstock.com/dlp?cci=$image
 ||overstock.com/uniquecount
+||ownerdriver.com.au/ga.
 ||p.ctpost.com/article?i=
 ||pages03.net/WTS/event.jpeg?
 ||pajamasmedia.com/stats/
@@ -1517,6 +1527,7 @@
 ||slide.com/tracker/
 ||smallcapnetwork.com^*/viewtracker/
 ||smartname.com/scripts/cookies.js
+||smetrics.att.com^
 ||smetrics.delta.com^
 ||snakesworld.com/cgi-bin/hitometer/
 ||snippets.mozilla.com^
@@ -1538,12 +1549,14 @@
 ||spanids.reference.com^
 ||spanids.thesaurus.com^
 ||speakertext.com/analytics/
+||speed.wikia.net^
 ||spiegel.com/spacer.gif?
 ||spinback.com/spinback/event/impression/
 ||spinmedia.com/clarity.min.js
 ||spinmediacdn.com/clarity.min.js
 ||splurgy.com/bacon/*_ct.gif$image
 ||spoonful.com^*/tracking.js
+||spoor-api.ft.com/px.gif
 ||sporcle.com/adn/yaktrack.php?
 ||sportingnews.com/px/
 ||spotlight.accuweather.com^
@@ -1787,7 +1800,7 @@
 ||tracking.moneyam.com^
 ||tracking.mycapture.com^
 ||tracking.olx-st.com^
-||tracking.olx.com^
+||tracking.olx.
 ||tracking.realtor.com^
 ||tracking.resumecompanion.com^
 ||tracking.shoptogether.buy.com^
@@ -1800,6 +1813,7 @@
 ||tracking.yourfilehost.com^
 ||trackpm.shop2market.com^
 ||trade-it.co.uk/counter/
+||tradetrucks.com.au/ga.
 ||traffic.buyservices.com^
 ||traffic.tuberip.com^
 ||trainup.com/inc/TUPTracking.js
@@ -1844,7 +1858,6 @@
 ||twitter.com/i/csp_report?
 ||twitter.com/scribe?
 ||twitter.com/scribes/
-||twitter.com^*.gif?
 ||twitter.com^*/log.json?
 ||twitter.com^*/scribe^
 ||twitvid.com/api/tracking.php$object-subrequest
@@ -1949,6 +1962,7 @@
 ||warp.prnewswire.co.uk^
 ||washingtonpost.com/rw/sites/twpweb/js/init/init.track-header-1.0.0.js
 ||washingtonpost.com/wp-srv/javascript/placeSiteMetrix.
+||washingtonpost.com/wp-stat/analytics/
 ||washingtonpost.com^*/one.gif?
 ||watchmouse.com^*/jsrum/
 ||watson.live.com^
@@ -2021,6 +2035,7 @@
 ||xbox.com^*/vortex_tracking.js
 ||xhamster.com/ajax.php?act=track_event
 ||xhamster.com/cnt.php?
+||xhamster.com/embed.log/
 ||xhamster.com/stats/
 ||xhcdn.com/js/analytics.js?
 ||xhcdn.com/js/track.min.js?
@@ -2044,7 +2059,9 @@
 ||yahoo.com^*/ultLog?
 ||yahoo.net^*/hittail.js
 ||yahooapis.com/get/Valueclick/CapAnywhere.getAnnotationCallback?
-||yandex.com/clck/$~ping
+||yandex.*/clck/$~ping
+||yandex.*/count/
+||yandex.*/hitcount/
 ||ybinst2.ec.yimg.com/ec/*&Type=Event.CPT&$domain=search.yahoo.com
 ||yellowpages.co.in/trac/
 ||yellowpages.com/images/li.gif?
@@ -2164,9 +2181,12 @@
 ! Blocking filters due to High-CPU usage bug (https://adblockplus.org/forum/viewtopic.php?f=11&t=23368)
 ||radio-canada.ca/omniture/omni_stats_base.js?
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
-/__utm.gif$domain=tellows.de
+/__utm.gif$domain=tellows.de|thewatchseries.to
 /csi?v=*&action=$domain=tellows.de
+||a.watchseries.to^$domain=thewatchseries.to
+||addthis.com/live/$domain=thewatchseries.to
 ||facebook.com*/impression.php$domain=tellows.de
 ||googleapis.com^*/gen_204?$domain=tellows.de
 ||ioam.de/?$domain=tellows.de
 ||ioam.de/tx.io?$domain=tellows.de
+||watchseries.to/piwik.js

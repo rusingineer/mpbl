@@ -27,6 +27,7 @@
 ||3xupdate.com^*/ryushare2.gif
 ||3xupdate.com^*/ryusharepremium.gif
 ||3yen.com/wfn_
+||4sex4.com/pd/
 ||4tube.com/tb/banner/
 ||4ufrom.me/xpw.gif
 ||5ilthy.com/porn.php
@@ -129,6 +130,7 @@
 ||celebritypink.com/bannedcelebs-
 ||cfake.com/images/a/
 ||chanweb.info/en/adult/hc/local_include/
+||chatrandom.com/js/slider.js
 ||chubby-ocean.com/banner/
 ||clips-and-pics.org/clipsandpics.js
 ||cloudsdns.net^$media,domain=pornleech.com
@@ -143,6 +145,7 @@
 ||creatives.pichunter.com^
 ||creepshots.com^*/250x250_
 ||damimage.com^*/DocaWedrOJPPx.png
+||daporn.com/_p4.php
 ||data18.com^*/banners/
 ||definebabe.com/db/images/leftnav/webcams2.png
 ||definebabe.com/db/js/pcme.js
@@ -150,6 +153,7 @@
 ||definefetish.com/df/js/dpcm.js
 ||deliciousbabes.org/banner/
 ||deliciousbabes.org/media/banners/
+||delivery.porn.com^
 ||depic.me/banners/
 ||destroymilf.com/popup%20floater.js
 ||devatube.com/img/partners/
@@ -317,6 +321,7 @@
 ||hotkellymadison.com^*/kelly4.jpg
 ||hotkellymadison.com^*/km_300x300.gif
 ||hotkellymadison.com^*/pf_640x100.jpg
+||hotmovs.com/*.php?*=$script
 ||hotsashagrey.com^*/Anabolic.jpg
 ||hotsashagrey.com^*/New_Sensations-1091.gif
 ||hotsashagrey.com^*/PeterNorth-800x350.jpg
@@ -417,6 +422,8 @@
 ||monstertube.com/images/vjoin_
 ||morazzia.com^*/banners/
 ||morebabes.to/morebabes.js
+||motherless.com/*.php|$script,~third-party
+||motherless.com/3c$script
 ||motherless.com/images/banners/
 ||motherman.com/*.html
 ||mp3musicengine.com/bearshare_logo.
@@ -602,7 +609,9 @@
 ||pornstreet.com/siteunder.js
 ||porntalk.com/img/banners/
 ||porntalk.com/rec/
+||porntube.com/adb/
 ||porntube.com/ads|
+||porntube.com/assets/adb$script
 ||pornup.me/js/pp.js
 ||pornvideoq.com/*.html$subdocument,~third-party
 ||pornvideoxo.com^$subdocument,~third-party
@@ -665,6 +674,8 @@
 ||sexilation.com/wp-content/uploads/2013/01/Untitled-1.jpg
 ||sexmummy.com/float.htm
 ||sexmummy.com/footer.htm
+||sexphoto.xxx/sites/
+||sexpornimg.com/css/images/banner
 ||sexseeimage.com^*/banner.gif
 ||sextube.com/lj.js
 ||sextubebox.com/ab1.shtml
@@ -685,6 +696,7 @@
 ||shanbara.jp/okusamadx.gif
 ||sharew.org/modalfiles/
 ||shoosh.co/*.php$script
+||shoosh.co/_p4
 ||shooshtime.com/ads/
 ||shooshtime.com/images/chosenplugs/
 ||shooshtimeinc.com/under.php
@@ -746,6 +758,7 @@
 ||tjoob.com/bgbb.jpg
 ||tjoob.com/kellyban.gif
 ||tnaflix.com/banner/
+||tnaflix.com/display.php?
 ||tnaflix.com/flixPlayerImages/
 ||tnaflix.com^*_promo.jpg
 ||trovaporno.com/image/incontri$image
@@ -887,8 +900,15 @@
 ||yumymilf.com^*/banners/
 ||yuvutu.com^*/banners/
 ||zazzybabes.com/misc/virtuagirl-skin.js
-! pornleech.com
-||pornleech.com/cdn-cgi/*/cloudflare/rocket.js$script
+! pornxs.com
+@@||pornxs.com/ajax.php?$xmlhttprequest
+@@||sprites.pornxs.com^$xmlhttprequest
+|http://$xmlhttprequest,domain=pornxs.com
+|https://$xmlhttprequest,domain=pornxs.com
+! liebelib.com
+@@||ajax.googleapis.com^$script,third-party,domain=liebelib.com
+|http://$script,third-party,xmlhttprequest,domain=liebelib.com
+|https://$script,third-party,xmlhttprequest,domain=liebelib.com
 ! daredteens.com
 |http://$script,third-party,xmlhttprequest,domain=daredteens.com
 |https://$script,third-party,xmlhttprequest,domain=daredteens.com

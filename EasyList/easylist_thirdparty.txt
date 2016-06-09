@@ -50,6 +50,7 @@
 ||aadvertismentt.com^$subdocument
 ||abacast.com/banner/
 ||ablacrack.com/popup-pvd.js$third-party
+||ad-v.jp/adam/
 ||ad.23blogs.com^$third-party
 ||ad.about.co.kr^
 ||ad.accessmediaproductions.com^
@@ -184,11 +185,14 @@
 ||amazonaws.com/photos.offers.analoganalytics.com/
 ||amazonaws.com/player.php?vidurl=$object-subrequest,domain=ndtv.com
 ||amazonaws.com/pmb-musics/download_itunes.png
+||amazonaws.com/promotions/
 ||amazonaws.com/publishflow/
 ||amazonaws.com/skyscrpr.js
 ||amazonaws.com/streetpulse/ads/
 ||amazonaws.com/widgets.youcompare.com.au/
 ||amazonaws.com/youpop/
+||amazonaws.com^$script,domain=mp3goo.com|streamplay.to
+||amazonaws.com^$third-party,xmlhttprequest,domain=mirrorcreator.com|vidshare.us
 ||analytics.disneyinternational.com^
 ||ancestrydata.com/widget.html?$domain=findagrave.com
 ||angelbc.com/clients/*/banners/$third-party
@@ -228,7 +232,6 @@
 ||awin1.com/cshow.php$third-party
 ||axandra.com/affiliates/
 ||axisbank.com/shopaholics-festival/$domain=ibnlive.in.com
-||azurewebsites.net/mvc/Widget/
 ||b.babylon.com^
 ||b.livesport.eu^
 ||b.sell.com^$third-party
@@ -337,6 +340,7 @@
 ||buzina.xyz^$script
 ||buzznet.com^*/showpping-banner-$third-party
 ||byzoo.org/script/tu*.js
+||bza.co^$subdocument,third-party
 ||c.netu.tv^
 ||cachefly.net/cricad.html
 ||cactusvpn.com/images/affiliates/
@@ -376,6 +380,7 @@
 ||cdnpark.com/scripts/js3.js
 ||cdnprk.com/scripts/js3.js
 ||cdnprk.com/scripts/js3caf.js
+||cdnservices.net/megatag.js
 ||centralmediaserver.com^*_side_bars.jpg
 ||centralscotlandjoinery.co.uk/images/csj-125.gif$third-party
 ||cerebral.typn.com^
@@ -398,6 +403,7 @@
 ||clicksure.com/img/resources/banner_
 ||clicktripz.com/scripts/js/ct.js
 ||clipdealer.com/?action=widget&*&partner=
+||cloudbet.com/ad/
 ||cloudfront.net/?tid=
 ||cloudfront.net/dfpd.js
 ||cloudfront.net/images/amazon/$domain=slader.com
@@ -405,7 +411,7 @@
 ||cloudfront.net/scripts/js3caf.js
 ||cloudfront.net/st.js
 ||cloudfront.net/tie.js
-||cloudfront.net^$script,domain=dailyuploads.net|divxatope.com|extratorrent.cc|extremetech.com|linksprotection.com|media1fire.com|nitroflare.com|openload.co|sparknotes.com|torrentproject.se|tubeoffline.com|vshare.eu
+||cloudfront.net^$script,domain=animeflv.net|chronos.to|dailyuploads.net|divxatope.com|extratorrent.cc|extremetech.com|jpost.com|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|nitroflare.com|openload.co|sparknotes.com|streamplay.to|torrentproject.se|tubeoffline.com|upload.so|vidshare.us|vshare.eu
 ||cloudfront.net^*ad$domain=fiaformulae.com
 ||cloudfront.net^*banner$domain=fiaformulae.com
 ||cloudzer.net/ref/
@@ -452,6 +458,7 @@
 ||d140sbu1b1m3h0.cloudfront.net^
 ||d15565yqt7pv7r.cloudfront.net^
 ||d15gt9gwxw5wu0.cloudfront.net^
+||d1635hfcvs8ero.cloudfront.net^
 ||d17f2fxw547952.cloudfront.net^
 ||d19972r8wdpby8.cloudfront.net^
 ||d1ade4ciw4bqyc.cloudfront.net^
@@ -484,6 +491,7 @@
 ||d2a0bnlkc0czvp.cloudfront.net^$domain=~gowatchit.com
 ||d2anfhdgjxf8s1.cloudfront.net^
 ||d2b2x1ywompm1b.cloudfront.net^
+||d2b560qq58menv.cloudfront.net^
 ||d2b65ihpmocv7w.cloudfront.net^
 ||d2bgg7rjywcwsy.cloudfront.net^
 ||d2cxkkxhecdzsq.cloudfront.net^
@@ -497,6 +505,7 @@
 ||d2ipklohrie3lo.cloudfront.net^
 ||d2mic0r0bo3i6z.cloudfront.net^
 ||d2mq0uzafv8ytp.cloudfront.net^
+||d2muzdhs7lpmo0.cloudfront.net^
 ||d2nlytvx51ywh9.cloudfront.net^
 ||d2o307dm5mqftz.cloudfront.net^
 ||d2oallm7wrqvmi.cloudfront.net^
@@ -505,6 +514,7 @@
 ||d2plxos94peuwp.cloudfront.net^
 ||d2r359adnh3sfn.cloudfront.net^
 ||d2s64zaa9ua7uv.cloudfront.net^
+||d2szg1g41jt3pq.cloudfront.net^
 ||d2tgev5wuprbqq.cloudfront.net^
 ||d2tnimpzlb191i.cloudfront.net^
 ||d2ubicnllnnszy.cloudfront.net^
@@ -531,6 +541,7 @@
 ||d3fzrm6pcer44x.cloudfront.net^
 ||d3irruagotonpp.cloudfront.net^
 ||d3iwjrnl4m67rd.cloudfront.net^
+||d3lc9zmxv46zr.cloudfront.net^
 ||d3lvr7yuk4uaui.cloudfront.net^
 ||d3lzezfa753mqu.cloudfront.net^
 ||d3m41swuqq4sv5.cloudfront.net^
@@ -551,6 +562,7 @@
 ||dapatwang.com/images/banner/
 ||dart.clearchannel.com^
 ||dasfdasfasdf.no-ip.info^
+||data.apn.co.nz^
 ||data.neuroxmedia.com^
 ||datafeedfile.com/widget/readywidget/
 ||datakl.com/banner/
@@ -618,6 +630,7 @@
 ||dreamstime.com/banner/
 ||dreamstime.com/img/badges/banner$third-party
 ||dreamstime.com/refbanner-
+||drf8e429z5jzt.cloudfront.net^
 ||droidnetwork.net/img/dt-atv160.jpg
 ||droidnetwork.net/img/vendors/
 ||dropbox.com^*/aff-resources/$domain=gramfeed.com
@@ -786,6 +799,7 @@
 ||giantrealm.com/saj/
 ||giantsavings-a.akamaihd.net^$third-party
 ||giffgaff.com/banner/
+||gitcdn.pw^$domain=depositfiles.com
 ||glam.com/gad/
 ||glam.com^*?affiliateid=
 ||globalprocash.com/banner125.gif
@@ -1164,6 +1178,7 @@
 ||ocp.cbs.com/pacific/request.jsp?
 ||odin.goo.mx^
 ||offers-service.cbsinteractive.com^$third-party
+||offers.lendingtree.com/splitter/$third-party
 ||offerssyndication.appspot.com^$third-party
 ||office.eteachergroup.com/leads/$third-party
 ||oilofasia.com/images/banners/
@@ -1179,9 +1194,11 @@
 ||origin.getprice.com.au/widgetnewssmall.aspx
 ||oriongadgets.com^*/banners/
 ||osobnosti.cz/images/casharena_
+||ouo.io/images/banners/
 ||outdoorhub.com/js/_bookends.min.js
 ||overseasradio.com/affbanner.php?
 ||ovpn.to/ovpn.to/banner/
+||ownx.com^*/banners/
 ||ox-i.cordillera.tv^
 ||oxygenboutique.com/Linkshare/
 ||p.pw/banners/$third-party
@@ -1363,6 +1380,7 @@
 ||screenconnect.com/miscellaneous/ScreenConnect-$image,third-party
 ||scribol.com/txwidget$third-party
 ||searchportal.information.com/?$third-party
+||seatplans.com/widget|$third-party
 ||secondspin.com/twcontent/
 ||secretmedia.s3.amazonaws.com^
 ||securep2p.com^$subdocument,third-party
@@ -1535,6 +1553,7 @@
 ||tipico.*?affiliateId=$third-party
 ||tiqiq.com/Tiqiq/WidgetInactiveIFrame.aspx?WidgetID=*&PublisherID=$subdocument,third-party
 ||tmbattle.com/images/promo_
+||tmstorage.com^$domain=radioforge.com
 ||tmz.vo.llnwd.net^*_rightrail_200x987.swf
 ||todaysfinder.com^$subdocument,third-party
 ||toksnn.com/ads/
@@ -1569,6 +1588,7 @@
 ||tritondigital.com/lt?sid*&hasads=
 ||tritondigital.com/ltflash.php?
 ||trivago.co.uk/uk/srv/$third-party
+||trust.zone/images/b/$third-party
 ||tshirthell.com/img/affiliate_section/$third-party
 ||ttt.co.uk/TMConverter/$third-party
 ||turbobit.net/ref/$third-party
@@ -1652,6 +1672,7 @@
 ||webgains.com/link.html$third-party
 ||webmasterrock.com/cpxt_pab
 ||website.ws^*/banners/
+||whistleout.com/Widgets/$third-party
 ||whistleout.s3.amazonaws.com^
 ||widgeo.net/popup.js
 ||widget.cheki.com.ng^$third-party

@@ -142,7 +142,7 @@
 -socialmedia-sprite.
 -socialMedia.$domain=~easy-socialmedia.com
 -socialmediashare.
--sociaux.
+-sociaux.$domain=~centres-sociaux.fr
 -sprite-social-
 -stumbleupon-icon-24.
 -stumbleupon_
@@ -1263,6 +1263,7 @@
 /plugins/diggclick/*$~stylesheet
 /plugins/dpSocialShare/*$~stylesheet
 /plugins/facebook-button-plugin/*
+/plugins/facebook-fanbox-popup/*
 /plugins/facebook-like-content-locker/*
 /plugins/facebook-page-promoter-$~stylesheet
 /plugins/facebookpopuppro/*
@@ -1522,6 +1523,7 @@
 /soc_media_
 /soc_twitter_
 /soc_youtube_
+/socbutton/*
 /sociables/*
 /social-16px-
 /social-48/*
@@ -1960,9 +1962,9 @@
 /twitter/lookup?
 /twitter/twitter_
 /twitter0.png
-/twitter1.png|$domain=~twitter.com
+/twitter1.png|$domain=~arstechnica.com|~twitter.com
 /twitter16x16.
-/twitter2.
+/twitter2.$domain=~arstechnica.com
 /twitter232.
 /twitter25x25.
 /twitter2_icon.

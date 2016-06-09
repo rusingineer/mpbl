@@ -80,11 +80,13 @@
 @@||actiris.be/urchin.js
 @@||actiris.be^*/urchin.js
 @@||adyoulike.omnitagjs.com^$script,domain=dl.free.fr
+@@||analytics.belgacom.be/tms/loader.js$domain=proximus.be
 @@||analytics.ladmedia.fr/parismatch/xtcore_mod2.js$domain=parismatch.com
 @@||boutiqueducourrier.laposte.fr/_ui/eboutique/scripts/xiti/part/xtcore.js
 @@||cache2.delvenetworks.com/crossdomain.xml$domain=lapresse.ca
 @@||cache2.delvenetworks.com/ps/c/v1/$object-subrequest,domain=lapresse.ca
 @@||easypari.fr^*/sitestat.js
+@@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr
 @@||leboncoin.fr/js/xiti.js
 @@||lesinrocks.com/min/?f=*/chartbeat.js
 @@||matvpratique.com/tools/min/index.php?f=*/xtclicks.js
@@ -100,13 +102,8 @@
 @@||tv5.org/cms/javascript/*/sitestat.js
 @@||tv5monde.com/cms/javascript/*/sitestat.js
 @@||ubicast.tv/statics/mediaserver/player/statistics.js
-! Arabic
 ! Bulgarian
 @@||google-analytics.com/analytics.js$domain=novatv.bg
-! Brazilian
-@@||googletagmanager.com/gtm.js?$domain=netcombo.com.br
-@@||siteapps.com^$script,domain=netcombo.com.br
-@@||stats.g.doubleclick.net/dc.js$domain=netcombo.com.br
 ! Chinese
 @@||amazonaws.com^*-google-analytics.js$domain=dcard.tw
 @@||aolcdn.com/js/mg2.js$domain=engadget.com
@@ -134,6 +131,7 @@
 ! Danish
 @@||common.tv2.dk/mpx/adobeanalytics/$script
 @@||cxense.com/cx.js$domain=common.tv2.dk
+@@||dbastatic.dk/Content/scripts/analytics.js$script
 @@||msecnd.net^*/site-tracker.js$domain=momondo.dk
 ! Dutch
 @@||bundol.nl/skin/*/js/prototype/prototype.js,*/GoogleAnalyticsPlus/
@@ -167,6 +165,7 @@
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
 @@||trc.taboola.com/inncoil/log/3/available$subdocument,domain=inn.co.il
 ! Hungarian
+@@||clicktale.net/WRc5.js$domain=telefonkonyv.hu
 @@||cloudfront.net/bugsnag-2.min.js$domain=miutcank.hu
 ! Italian
 @@||adobetag.com/d2/telecomitalia/live/Aggregato119TIM.js$domain=tim.it
@@ -177,7 +176,7 @@
 @@||codicefl.shinystat.com/cgi-bin/getswf.cgi?*PolymediaShow$object-subrequest,domain=corriereadriatico.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
 @@||corriereobjects.it^*/tracking/s_code.js
 @@||corriereobjects.it^*/tracking/TrackFunctions.js
-@@||imrworldwide.com/novms/*/ggcm*.js$domain=sky.it
+@@||imrworldwide.com/novms/*/ggcm*.js$domain=la7.it|sky.it
 @@||imrworldwide.com/v60.js$domain=corriereadriatico.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
 @@||lastampa.it/modulo/tracciatori/js/nielsen.js
 @@||maxmind.com^*/geoip.js$domain=sportube.tv
@@ -195,6 +194,7 @@
 @@/webtracking/*$domain=pasts.lv
 @@||google-analytics.com/analytics.js$domain=skaties.lv
 ! Norwegian
+@@||cloudfront.net/autoTracker.min.js$domain=direkte.vg.no
 @@||google-analytics.com/analytics.js$domain=tv3play.no
 ! Polish
 @@||gemius.pl/gstream.js
@@ -207,12 +207,14 @@
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/IbtRealTimeSJ/IbtRealTimeSJCore.js?$domain=social.economico.pt
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/ortc.js$domain=social.economico.pt
 @@||google-analytics.com/urchin.js$domain=record.xl.pt
+@@||googletagmanager.com/gtm.js?$domain=netcombo.com.br
 @@||laredoute.pt/js/byside_webcare.js
+@@||siteapps.com^$script,domain=netcombo.com.br
+@@||stats.g.doubleclick.net/dc.js$domain=netcombo.com.br
 ! Indian
 @@||playwire.com/bolt/js/zeus/$script,domain=desi-tashan.com
 ! Romanian
 @@||homebank.ro/public/HomeBankLogin/js/fingerprint/fingerprint.js
-@@||promozone.ro/wp-content/themes/nielsen/
 ! Russian
 @@||afisha.ru/proxy/videonetworkproxy.ashx?$xmlhttprequest
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
@@ -223,7 +225,7 @@
 @@||swa.mail.ru/cgi-bin/counters?$script
 @@||wargag.ru/public/js/counter.js?
 @@||widget.myrentacar.me^$script,subdocument
-@@||yandex.ru/metrika/watch.js$domain=anoncer.net|tv.yandex.ru
+@@||yandex.ru/metrika/watch.js$domain=alean.ru|anoncer.net|tv.yandex.ru
 @@||yandex.ru/watch/$xmlhttprequest,domain=anoncer.net
 @@||yandex.ru/webvisor/$xmlhttprequest,domain=anoncer.net
 ! Spanish
@@ -231,8 +233,6 @@
 @@||c5n.com^*/angulartics-google-analytics.min.js
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||segundamano.mx^*/tealium.js
-! Anti-Adblock
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 ! Swedish
 @@||google-analytics.com/analytics.js$domain=tradera.com
 @@||googletagmanager.com/gtm.js?id=$domain=tradera.com
@@ -240,7 +240,7 @@
 @@||reseguiden.se^*.siteCatalyst.js
 ! Thai
 @@||lazada.co.th/js/tracking.js
-! Turkey
+! Turkish
 @@||google-analytics.com/analytics.js$domain=ligtv.com.tr
 @@||mc.yandex.ru/metrika/watch.js$domain=f5haber.com
 @@||turkcelltvplus.com.tr^*/google_analytics/main.js?
@@ -249,3 +249,5 @@
 @@||bemobile.ua/lib/lib.js$domain=tsn.ua
 @@||gemius.pl/gplayer.js$domain=tsn.ua
 @@||uaprom.net/image/blank.gif?$image
+! Anti-Adblock
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org

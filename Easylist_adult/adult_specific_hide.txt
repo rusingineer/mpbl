@@ -27,6 +27,7 @@ primejailbait.com###advertical
 hairyclassic.com,qruq.com###advertisement
 pornative.com###advertisers
 timtube.com###advertising
+daporn.com###aff-banner
 fleshbot.com###afleft
 fleshbot.com###afright
 xxxbunker.com###agePopup
@@ -122,9 +123,11 @@ bonecasxxx.com###highlights
 prettyhotandsexy.sk###home-insert-1
 fapdu.com###home_300_250
 realgfporn.com###iknow
+tnaflix.com###imfb
 girlfriendvideos.com,pornxs.com###imfloat
 guyswithiphones.com###imglist > .noshadow
 gotgayporn.com###index4x4ad
+pornxs.com###initialize4Box
 pornxs.com###initialize4d
 eporner.com###inpdiv
 eporner.com###inplayer
@@ -156,7 +159,6 @@ askjolene.com###more_from_this
 protectlinks.com###mouselayer
 eporner.com###movieplayer-right
 starcelebs.com###mrskin-birthday-widget
-imagetwist.com###myad
 hollywoodrag.com###navcontainer
 alotporn.com,flashx.tv,myfreeblack.com###nuevoa
 ma3comic.com###omad
@@ -186,10 +188,11 @@ beardedperv.com###postRoll
 xtube.com###postrollContainer
 kaktuz.com###postroller
 imagepost.com###potd
-beardedperv.com###preRoll
+beardedperv.com,daporn.com###preRoll
 eroclip.mobi,fuqer.com###premium
 crazyshit.com###pro_tip
 youporn.com,youporngay.com###producer
+porn.com###promo
 redtube.com###puBody
 drtuber.com,nuvid.com###puFloatDiv
 foxtube.com###pub-container
@@ -267,6 +270,7 @@ stileproject.com###va5
 stileproject.com###va6
 stileproject.com###va7
 stileproject.com###va8
+motherless.com###vid-overlay
 teenist.com###video-bottom-right
 xvideos.com###video-sponsor-links
 youporn.com###videoCanvas > .grid_5[style="height: 455px;"]
@@ -330,6 +334,7 @@ askjolene.com##.aj_lbanner_container
 ah-me.com,befuck.com,pornoid.com,sunporno.com,thenewporn.com,twilightsex.com,updatetube.com,videoshome.com,xxxvogue.net##.allIM
 pinkrod.com,pornsharia.com,pornsharing.com,wetplace.com##.allIMwindow
 1loop.com##.asblock
+playvids.com##.aside-emb
 pornfun.com##.aside-spots
 literotica.com##.b-s-share-love
 fuqer.com##.b300x250
@@ -345,7 +350,7 @@ watchindianporn.net##.banner-1
 hd-porn.me##.banner-actions
 adultpornvideox.com,jojobaa.net##.banner-box
 tube8.com##.banner-container
-4tube.com##.banner-frame
+4tube.com,porntube.com##.banner-frame
 yuvutu.com##.banner-left-player
 0xxx.in##.banner-naslovna
 watchindianporn.net##.banner-vid
@@ -365,6 +370,7 @@ chubby-ocean.com,cumlouder.com,grandpaporntube.net,sexu.com,skankhunter.com##.ba
 isanyoneup.com##.banners-125
 porntubevidz.com##.banners-area
 vid2c.com##.banners-aside
+sexpornimg.com##.banners_gallery
 5ilthy.com##.bannerside
 sexoncube.com##.bannerspot-index
 thehun.net##.bannervertical
@@ -393,6 +399,7 @@ pervertslut.com##.bottom-adv
 fux.com##.bottom-baner
 xbabe.com,yumymilf.com##.bottom-banner
 playvid.com##.bottom-banners
+pornxs.com##.bottom-sidebar
 pornfun.com##.bottom-spots
 youtubelike.com##.bottom-thumbs
 youtubelike.com##.bottom-top
@@ -452,7 +459,7 @@ wankerhut.com##.float-right
 extremetube.com##.float-right[style="width: 49.9%; height: 534px;"]
 teensexyvirgins.com,xtravids.com##.foot_squares
 scio.us##.footer
-4tube.com##.footer-banners
+4tube.com,porntube.com##.footer-banners
 youporn.com,youporngay.com##.footer-element-container
 babesandstars.com##.footer_banners
 cam111.com##.g_p_con300250
@@ -513,7 +520,7 @@ tube8.com##.main-video-wrapper > .float-right
 sexdepartementet.com##.marketingcell
 lic.me##.miniplayer
 upornia.com##.mjs-closeandplay
-upornia.com##.mjs-closeplay
+hotmovs.com,upornia.com##.mjs-closeplay
 hanksgalleries.com##.mob_vids
 gangbangtubetv.com##.movielink
 redtube.com##.ntva
@@ -521,6 +528,7 @@ finaid.org##.one
 lustgalore.com,yourasiansex.com##.opac_bg
 baja-opcionez.com##.opaco2
 vporn.com##.overheaderbanner
+tnaflix.com##.pInterstitial
 tube8.com##.partner-link
 bravotube.net##.paysite
 ah-me.com##.paysite-link
@@ -666,8 +674,10 @@ beeg.com##.window
 mrskin.com##.yui3-u-1-3:last-child
 porn.com##.zone
 badjojo.com##A[href*="/out.php?siteid=13&id=0&url=http%3A%2F%2Fsyndication.traffichaus.com"]
+motherless.com##[class][style] > [width][height]
 xhamster.com##[height="280"][width="960"]
 imagehaven.net##[href="http://clicks.totemcash.com/?s=38739&p=21&pp=4"]
+motherless.com##[id] > iframe[style]
 imagevenue.com##[id^="MarketGid"]
 liveleak.com##[style="color: rgb(204, 0, 0);"]
 subimg.net##[style="float: left; padding-left: 43px; padding-top: 21px;"]
@@ -675,6 +685,7 @@ hollywoodrag.com,imagefap.com##[style="font-weight: bold; font-family: Arial; fo
 homemade-voyeur.com##[style="height:250px;"]
 starpix.us##[style="left: 644px; top: 552.5px; visibility: visible;"]
 pornerbros.com##[style="margin: -150px auto 0px; width: 920px; height: 400px;"]
+motherless.com##[style="padding-bottom: 5px;"] > iframe[style]
 myprops.org##[style="padding-top: 15px; padding-left: 81px;"]
 sexyclips.org##[style="text-align: center; width: 1000px; height: 250px;"]
 yuvutu.com##[width="480px"][style="padding-left: 10px;"]
@@ -860,12 +871,14 @@ cam111.com##div[style="width:626px; height:60px; margin-top:10px; margin-bottom:
 cam111.com##div[style="width:627px; height:30px; margin-bottom:10px;"]
 newbigtube.com##div[style="width:640px; min-height:54px; margin-top:8px; padding:5px;"]
 jizzman.com,trannyxo.com##div[style="width:717px; height:154px;text-align:center; margin-left:0px;"]
+anon-v.com##div[style="width:720px;height:200px;margin: 0 auto;"]
 jizzman.com,trannyxo.com##div[style="width:728px; height:90px; margin-bottom:20px; margin-left:auto; margin-right:auto;"]
 trannyxo.com##div[style="width:728px; text-align:center; height:90px; margin-bottom:15px;"]
 jizzman.com##div[style="width:728px; text-align:center; height:90px; margin-bottom:15px;overflow:hidden;"]
 jizzman.com,trannyxo.com##div[style="width:728px; text-align:center; height:90px;"]
 hothag.com##div[style="width:728px;height:90px;background:#FAFAFA;margin:0 0 15px 0;"]
 briefmobile.com##div[style="width:728px;height:90px;margin-left:auto;margin-right:auto;margin-bottom:20px;"]
+anon-v.com##div[style="width:728px;height:90px;margin: 0 auto;"]
 tmz.com##div[style^="display: block; height: 35px;"]
 shockingtube.com##div[style^="display: block; padding: 5px; width:"]
 eporner.com##div[style^="height:250px; width:1198px;"]
@@ -882,6 +895,7 @@ javjunkies.com##iframe[height="670"]
 youporn.com##iframe[style="height: 250px; width: 300px; position: static; float: none; clear: none; text-align: start;"]
 youporn.com##iframe[style="height: 250px; width: 950px; float: none; position: static; clear: both; text-align: center; margin: 0px auto;"]
 youporn.com##iframe[style="height: 250px; width: 950px; position: static; float: none; clear: both; text-align: center;"]
+4sex4.com,motherless.com##iframe[width="300"]
 youporn.com##iframe[width="300"][height="250"]
 yourasiansex.com##iframe[width="660"]
 imagevenue.com##iframe[width="728"][height="90"]
