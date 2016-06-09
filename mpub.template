@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+п»ї[Adblock Plus 2.0]
 ! Last modified: %timestamp%
 ! Homepage: 
 !
@@ -9,23 +9,110 @@
 !  GNU GPL 2+ Licensed
 !  coding: utf-8, expires: 5 days
 !
-! = Сайты-попапы (самостоятельно открываются в новом окне) ====================
+!-----------------------General advert blocking filters-----------------------!
+%include easylist:easylist/easylist_general_block.txt%
+%include easylist:easylist/easylist_general_block_dimensions.txt%
+%include easylist:easylist/easylist_general_block_popup.txt%
+!------------------------General element hiding rules-------------------------!
+%include easylist:easylist/easylist_general_hide.txt%
+%include easylist:easylist/easylist_whitelist_general_hide.txt%
+!---------------------------Third-party advertisers---------------------------!
+%include easylist:easylist/easylist_adservers.txt%
+%include easylist:easylist/easylist_adservers_popup.txt%
+%include easylist:easylist_adult/adult_adservers.txt%
+%include easylist:easylist_adult/adult_adservers_popup.txt%
+!-----------------------------Third-party adverts-----------------------------!
+%include easylist:easylist/easylist_thirdparty.txt%
+%include easylist:easylist/easylist_thirdparty_popup.txt%
+%include easylist:easylist_adult/adult_thirdparty.txt%
+%include easylist:easylist_adult/adult_thirdparty_popup.txt%
+!----------------------Specific advert blocking filters-----------------------!
+%include easylist:easylist/easylist_specific_block.txt%
+%include easylist:easylist/easylist_specific_block_popup.txt%
+%include easylist:easylist_adult/adult_specific_block.txt%
+%include easylist:easylist_adult/adult_specific_block_popup.txt%
+!------------------------Specific element hiding rules------------------------!
+%include easylist:easylist/easylist_specific_hide.txt%
+%include easylist:easylist_adult/adult_specific_hide.txt%
+!-----------------------Whitelists to fix broken sites------------------------!
+%include easylist:easylist/easylist_whitelist.txt%
+%include easylist:easylist/easylist_whitelist_dimensions.txt%
+%include easylist:easylist/easylist_whitelist_popup.txt%
+%include easylist:easylist_adult/adult_whitelist.txt%
+%include easylist:easylist_adult/adult_whitelist_popup.txt%
+!-----------------General tracking systems-----------------!
+%include easylist:easyprivacy/easyprivacy_general.txt%
+!-----------------Third-party tracking domains-----------------!
+%include easylist:easyprivacy/easyprivacy_trackingservers.txt%
+!-----------------International third-party tracking domains-----------------!
+%include easylist:easyprivacy/easyprivacy_trackingservers_international.txt%
+!-----------------Third-party tracking services-----------------!
+%include easylist:easyprivacy/easyprivacy_thirdparty.txt%
+!-----------------International third-party tracking services-----------------!
+%include easylist:easyprivacy/easyprivacy_thirdparty_international.txt%
+!-----------------Individual tracking systems-----------------!
+%include easylist:easyprivacy/easyprivacy_specific.txt%
+!-----------------International individual tracking systems-----------------!
+%include easylist:easyprivacy/easyprivacy_specific_international.txt%
+!-----------------------Whitelists to fix broken sites------------------------!
+%include easylist:easyprivacy/easyprivacy_whitelist.txt%
+!----------------Whitelists to fix broken international sites-----------------!
+%include easylist:easyprivacy/easyprivacy_whitelist_international.txt%
+!--------------------------General blocking rules-----------------------------!
+%include easylist:fanboy-addon/fanboy_annoyance_general_block.txt%
+%include easylist:fanboy-addon/fanboy_social_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include easylist:fanboy-addon/fanboy_annoyance_general_hide.txt%
+%include easylist:fanboy-addon/fanboy_social_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include easylist:fanboy-addon/fanboy_annoyance_thirdparty.txt%
+%include easylist:fanboy-addon/fanboy_social_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include easylist:fanboy-addon/fanboy_annoyance_specific_block.txt%
+%include easylist:fanboy-addon/fanboy_social_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include easylist:fanboy-addon/fanboy_annoyance_specific_hide.txt%
+%include easylist:fanboy-addon/fanboy_social_specific_hide.txt%
+!------------------------Rules for international sites------------------------!
+%include easylist:fanboy-addon/fanboy_annoyance_international.txt%
+%include easylist:fanboy-addon/fanboy_social_international.txt%
+!---------------------------------Whitelists----------------------------------!
+%include easylist:fanboy-addon/fanboy_annoyance_whitelist_general_hide.txt%
+%include easylist:fanboy-addon/fanboy_social_whitelist_general_hide.txt%
+%include easylist:fanboy-addon/fanboy_annoyance_whitelist.txt%
+%include easylist:fanboy-addon/fanboy_social_whitelist.txt%
+!--------------------------General blocking rules-----------------------------!
+%include easylist:fanboy-addon/fanboy_social_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include easylist:fanboy-addon/fanboy_social_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include easylist:fanboy-addon/fanboy_social_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include easylist:fanboy-addon/fanboy_social_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include easylist:fanboy-addon/fanboy_social_specific_hide.txt%
+!------------------------Rules for international sites------------------------!
+%include easylist:fanboy-addon/fanboy_social_international.txt%
+!---------------------------------Whitelists----------------------------------!
+%include easylist:fanboy-addon/fanboy_social_whitelist_general_hide.txt%
+%include easylist:fanboy-addon/fanboy_social_whitelist.txt%
+! = РЎР°Р№С‚С‹-РїРѕРїР°РїС‹ (СЃР°РјРѕСЃС‚РѕСЏС‚РµР»СЊРЅРѕ РѕС‚РєСЂС‹РІР°СЋС‚СЃСЏ РІ РЅРѕРІРѕРј РѕРєРЅРµ) ====================
 %include advblock/popup.txt%
 !
-! = Общие CSS-фильтры =========================================================
+! = РћР±С‰РёРµ CSS-С„РёР»СЊС‚СЂС‹ =========================================================
 %include advblock/general_hide.txt%
 !
-! = Общие правила блокировки ==================================================
+! = РћР±С‰РёРµ РїСЂР°РІРёР»Р° Р±Р»РѕРєРёСЂРѕРІРєРё ==================================================
 %include advblock/general_block.txt%
 !
-! = Блокировка доменов ========================================================
+! = Р‘Р»РѕРєРёСЂРѕРІРєР° РґРѕРјРµРЅРѕРІ ========================================================
 %include advblock/first_level.txt%
 ! -----------------------------------------------------------------------------
 %include advblock/thirdparty.txt%
 ! -----------------------------------------------------------------------------
 %include advblock/adservers.txt%
 !
-! = Частные правила для сайтов(блокировка и скрытие) ==========================
+! = Р§Р°СЃС‚РЅС‹Рµ РїСЂР°РІРёР»Р° РґР»СЏ СЃР°Р№С‚РѕРІ(Р±Р»РѕРєРёСЂРѕРІРєР° Рё СЃРєСЂС‹С‚РёРµ) ==========================
 %include advblock/specific_hide.txt%
 ! -----------------------------------------------------------------------------
 %include advblock/specific_block.txt%
@@ -34,5 +121,5 @@
 ! -----------------------------------------------------------------------------
 %include advblock/specific_antisocial.txt%
 !
-! = Исключения ================================================================
+! = РСЃРєР»СЋС‡РµРЅРёСЏ ================================================================
 %include advblock/whitelist.txt%
