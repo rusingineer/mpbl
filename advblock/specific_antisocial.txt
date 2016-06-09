@@ -1,0 +1,159 @@
+! Социальные фичи на сайтах, блокирующие доступ к странице.
+! Это просто запредельно неудобно, особенно если cookies периодически удаляются.
+newrezume.org###all > #popup
+newrezume.org###all > div[style="padding:1px;width:100%"]
+bankdirect.pro###bdp_ad_container
+bankdirect.pro###bdp_shadow
+062.in.ua,062.in.ua.,freerutor.com,goodhouse.ru###cboxOverlay
+fishki.net###chrome_popup
+062.in.ua,062.in.ua.,dnepr24.com.ua,goodhouse.ru,kherson.net.ua###colorbox
+olx.ua###div-gpt-listing-full-screen-container
+gitarkin.ru###dropin
+velosipedinfo.ru###dynamic-to-top
+velosipedinfo.ru###element_to_pop_up
+ofigenno.cc,ognov.ru,takprosto.cc###facebook_modal
+ofigenno.cc,takprosto.cc###facebook_modal + .jquery-modal.blocker
+porjati.ru###facebook_videoboom
+galinfo.com.ua###fader
+cinema-hd.ru,mult-online.net,tvnet.lv###fancybox-overlay
+tvnet.lv###fancybox-wrap
+humor.fm###fb-popup
+humor.fm###fb-popup-bg
+fishki.net###fishki-prompt-widget
+turkca.0pk.ru###hoverprompt
+navkolonas.com###js-dialog-social-overlay
+lifehacker.ru###lh-facebook-popup__root
+lifehacker.ru###lh_fullscreen_sub__root
+tackler.ru###mask
+tvrain.ru###milk
+autocad-master.ru###myID
+delfi.lv###nagger-wrap
+underverse.su###noty_bottomRight_layout_container
+hetaqrqire.ru###onload_popup
+syla-rozumu.blogspot.com###overlay
+gorod.cn.ua###overlay-soc
+onlinegdz.net###page > .share
+shkolapola.ru,sovsekretno.ru,xhamster-pic.com###parent_popup
+gdz-free.com###pol
+amn.com.ua###popmake-overlay
+tvrain.ru###popup
+pinu.com.ua###popup-message-background
+pinu.com.ua###popup-message-window
+advis.ru###popup3
+dictat.net,fithacker.ru,storyfox.ru###popup_bg
+rbc.ru,rbcdaily.ru,utro.ru###popup_box
+muz-tv.ru###popup_overlay
+bilshe.com,multikino.com###reachMedia
+bvedomosti.ru###sbox-overlay
+bvedomosti.ru###sbox-window
+bilshe.com,multikino.com###shadowMedia
+top.thepo.st###share-popup
+metodsilva.ru###sm_content
+metodsilva.ru###sm_olay
+charter97.org###smo_modal
+via-midgard.info###snsocial_modal_jic
+sport-express.ru###socgroup
+062.in.ua,062.in.ua.###socialpopup
+gorod.cn.ua###socials_popup
+mul-tor.ru###stickymsg
+kinozadrot.net###suboverlay
+macilove.com###subscribePopup
+fit4brain.com###welcomepopup_overlay
+fit4brain.com###welcomepopup_window
+kinozadrot.net###wid
+stalker-gsc.ru###win > .podps
+bugaga.ru,funpress.ru###z_social
+bugaga.ru,funpress.ru###z_socialBg
+glavbukh.ru##.GbShadow
+film.ru,piratbit.net##.arcticmodal-container
+film.ru,piratbit.net##.arcticmodal-overlay
+esetnod32.ru##.b-fade
+pdalife.ru##.b-mask
+esetnod32.ru##.b-mdl
+hetaqrqire.ru##.b-modal
+pdalife.ru##.b-popup
+takiedela.ru##.b-social-popup
+onlinemultfilmy.ru##.dialog-bg
+trashbox.ru##.div_modal_like
+elhow.ru##.extra-banner
+sovsport.ru,teleprogramma.pro##.facebook-bn_site-overlay
+nur.kz##.facebook__modal
+advis.ru##.fancybox-overlay
+cinema-hd.ru,mult-online.net##.fancybox-wrap
+cosmo.ru##.fb-popup-overlay
+milliarderr.com##.fb-window-wrap
+championat.asia##.fbOverlay
+kanobu.ru##.informer-popup
+maxpark.com##.innerActsWrapper
+maxpark.com##.innerOverlay
+voprosov-net.ru##.isShow.popup
+porjati.ru##.jquery-modal.blocker
+fishki.net##.like_wall.is_visible
+haba.ru##.likewall
+##.min-width-normal > #popup_container
+##.min-width-normal > #popup_container ~ #fade
+top.thepo.st##.modal-backdrop
+kinokong.net##.no_ampr
+arduino-project.net##.onp-sl-overlap-box
+muz-tv.ru##.ovl_pf
+gdz-free.com##.shadow
+klassno.tv##.spu-bg
+klassno.tv,yablyk.com##.spu-box
+lolzona.ru##.stb-container
+securitylab.ru##.ui-dialog[aria-describedby="social_dialog"]
+povar.ru##.vk.soc-banner
+blogspot.ru##.widget-content > #overlay
+rbc.ru##.win-subscribe-popup-box
+/facebook_popup.js$script,domain=study.ru
+/jquery.simplemodal.js$script,domain=holod72.ru|xn--80aa4argm.xn--p1ai|партак.рф
+/sociallocker-$domain=samiysok.com
+9111.ru##[id^="site-welcome"]
+domfailov.ru##body > #pop-up-window
+velosipedinfo.ru##body > .b-modal
+ognov.ru##body > .jquery-modal.blocker
+liga.net##body > .show.overlay
+bs-life.ru##body > .ui-widget.ui-dialog
+onlinemultfilmy.ru##body > div[class*="dialog-"]
+bomba.co,roscontrol.com##body > div[class^="remodal"]
+zismo.biz##body > div[class^="simplemodal"]
+pollee.org##body > div[data-mg-c]
+glianec.com##body > div[id$="Media"][style*="display: block"]
+tonnews.ru##body > div[id^="fancybox"]
+euro-football.ru##body > div[id^="fancybox-"]
+pinterest.com##div[class*="ScreenBanner"]
+snob.ru##div[class*="popup-eventSubscribe"]
+muzofon.com##div[class*="simplemodal"]
+championat.com##div[class^="l-popup"]
+shkolapola.ru##div[class^="popmake"]
+simplewine.ru##div[class^="popup"]
+kinobb.net##div[id$="odalWin"]
+wuzzup.ru##div[id^="arevicofancy-"]
+fishki.net##div[id^="b-close"]
+formulalubvi.com##div[id^="custom_fan_gate_overlay"]
+yagd-torr.ru##div[id^="plusplus_mw"]
+amn.com.ua##div[id^="popmake"]
+izvestia.ru##div[style*="/popup-banner/"]
+znak.com##figure[class*="st"]
+||autonews.com.ua/modalwin$script,stylesheet
+||comprofit.ru/popup/
+||computer-genius.ru/wp-content/plugins/subscribermagnet/$script
+||connect.facebook.net/ru_RU/sdk.js$script,domain=the-fun.tv
+||eventsfolder.ru/templates/ef/js/lockers-ru$script
+||gdz-free.ru/files/stuHover$script
+||inetlike.com/wp-content/plugins/like-fb/
+||interesno.cc/js/arcticmodal/
+||intermarium.com.ua/wp-content/plugins/popup-maker/
+||kernel-zone.ru/tools/kmsg/
+||mailget.net^$third-party
+||makataka.ru/templates/Default/style/fancy/
+||metylancreativ.com/js/socialPopup.js
+||photo-monster.ru/plugins/subscribermagnet/
+||podrobnosti.ua/js/jqModal.js
+||popupfiles.makedreamprofits$third-party
+||sdamgia.ru/notifications?ajax$xmlhttprequest
+||slovoidilo.ua/cp/css/reminder.css$stylesheet
+||smiruponitke.info/*arcticmodal$script
+||telezombi.ru/js/toast.js$script
+||traq.li/publisher/render/widget/
+||viks.tv/templates/Default/js/soclock.js
+||yablyk.com/wp-content/plugins/popups/
