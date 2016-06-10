@@ -1,13 +1,14 @@
 ﻿[Adblock Plus 2.0]
+! Title: Makani Private Block List
 ! Last modified: %timestamp%
 ! Homepage: https://github.com/rusingineer/mpbl
 !
-!  This is a private list,
-!  will not provide any technical support
-!  Russian support of https://github.com/rusingineer/uBlock
+! This is a private list,
+! will not provide any technical support
+! Russian support of https://github.com/rusingineer/uBlock
 ! please create issues
-!  GNU GPL 2+ Licensed
-!  coding: utf-8, expires: 5 days
+! GNU GPL 2+ Licensed
+! coding: utf-8, expires: 5 days
 !
 !-----------------------General advert blocking filters-----------------------!
 %include easylist:easylist/easylist_general_block.txt%
