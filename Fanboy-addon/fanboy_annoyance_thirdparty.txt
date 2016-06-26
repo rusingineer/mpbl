@@ -3,6 +3,7 @@
 ||2kurl.com^$third-party
 ||2leep.com^$third-party
 ||37signals.com^$third-party
+||a.mailmunch.co/app/$script,third-party
 ||a1000k.com/button.php
 ||addinto.com^$third-party
 ||advantagemedia.com^$third-party
@@ -146,6 +147,7 @@
 ||madmimi.com/signups/$third-party
 ||magimg.com/random?$third-party
 ||mail.advantagebusinessmedia.com^$third-party
+||mailjet.com/widget/$third-party
 ||mailmunch.s3.amazonaws.com^
 ||moreshare.com^$third-party
 ||mozo.com.au/widgets/$third-party
@@ -171,6 +173,7 @@
 ||plugs.co^$third-party
 ||powerjobs.com^$third-party
 ||pressly.com^$third-party
+||privy.com^$third-party
 ||promoshq.wildfireapp.com^$third-party
 ||promotion.monster.com^$third-party
 ||promotions.newegg.com^$third-party
@@ -197,6 +200,7 @@
 ||savvysource.com^$third-party
 ||scoutle.com^$third-party
 ||scribol.com^$third-party
+||scripts.mailfire.io^$third-party
 ||senzari.com^$third-party
 ||services.webklipper.com/geoip/$third-party
 ||sharenice.org^$third-party

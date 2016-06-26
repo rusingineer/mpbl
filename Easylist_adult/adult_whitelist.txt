@@ -41,6 +41,9 @@
 @@||sextoyfun.com/control/aff_banners/$~third-party
 @@||skimtube.com/advertisements.php?
 @@||starcelebs.com/logos/logo10.jpg
+@@||stec-site.xhcdn.com/js/*.search2.js|$script,domain=xhamster.com
+@@||stec-site.xhcdn.com/js/jquery-*.min.js|$script,domain=xhamster.com
+@@||stec-site.xhcdn.com/js/perfect-scrollbar-*.js|$script,domain=xhamster.com
 @@||store.adam4adam.com/affimages/$~third-party
 @@||store.adam4adam.com/images/affbanners/$~third-party
 @@||sundaysportclassifieds.co.uk/ads/$image,~third-party
@@ -75,6 +78,7 @@
 @@||gstatic.com/recaptcha/$script
 @@||image.tube8.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||image.youporn.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+@@||img.pornhub.com/gif/*.gif|$image,~third-party
 @@||keezmovies.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||phncdn.com/assets/pc/js/common.js?$script
 @@||phncdn.com/assets/pc/js/video_page_asset_list.js?$script
@@ -279,6 +283,7 @@
 @@||phncdn.com/www-static/js/vtablet/video/$script
 @@||phncdn.com/zeroclipboard-$script
 @@||phncdn.com^*/html5Uploader/$script
+@@||phncdn.com^*/streamate/client.js|$script
 @@||platform.tumblr.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||platform.twitter.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||pornhub.com/_Incapsula_Resource?$image,subdocument,xmlhttprequest
@@ -353,6 +358,7 @@
 @@||tube8.com/images/$image
 @@||tube8.es/_Incapsula_Resource?$image,subdocument,xmlhttprequest
 @@||tube8.fr/_Incapsula_Resource?$image,subdocument,xmlhttprequest
+@@||upload.pornhub.com/temp/images/$image,~third-party
 @@||upload.tube8.com^$script,xmlhttprequest
 @@||uvcdn.com^$image,script,domain=pornhub.com|redtube.com|tube8.com|youporn.com
 @@||widget.uservoice.com^$script,domain=pornhub.com|redtube.com|tube8.com|youporn.com
@@ -377,8 +383,10 @@
 @@||ad.thisav.com/player/swfobject.js
 @@||adultadworld.com/adhandler/$subdocument
 @@||bemywife.cc^$script,~third-party,domain=bemywife.cc
+@@||cntrafficpro.com/scripts/advertisement.js
 @@||crazyshit.com^$generichide
 @@||desihoes.com/advertisement.js
+@@||drtst.com^*/ads.js$script
 @@||fapxl.com^$elemhide
 @@||fuqer.com^*/advertisement.js
 @@||fux.com/assets/ads-$script
@@ -408,6 +416,7 @@
 @@||n4mo.org^$elemhide
 @@||nightchan.com/advertisement.js
 @@||noracam.com/js/ads.js
+@@||notonlyporn.net^$script,~third-party
 @@||ooporn.com/ads.js
 @@||openload.io/Ads.png
 @@||palaotog.net^$elemhide

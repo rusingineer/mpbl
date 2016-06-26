@@ -3,6 +3,10 @@
 @@/wp-content/plugins/2-click-socialmedia-buttons/js/social_bookmarks-min.js?$~third-party
 @@/wp-content/plugins/share-this-image/*$~third-party
 @@/wp-content/plugins/socialauth-wp/*$~third-party
+@@/wp-content/plugins/super-socializer/css/front.css$~third-party
+@@/wp-content/plugins/super-socializer/js/front/facebook/commenting.js$~third-party
+@@/wp-content/plugins/super-socializer/js/front/facebook/sdk.js$~third-party
+@@/wp-content/plugins/super-socializer/js/front/social_login/*$~third-party
 @@/wp-content/plugins/wordpress-social-login/*$~third-party
 @@||126.net/share/js/$script,domain=163.com
 @@||3dmark.com/proxycon/images/fb_icon.png
@@ -71,6 +75,7 @@
 @@||cbsimg.net/images/signin/spoe/signin_facebook.png$domain=cbssports.com
 @@||cbsistatic.com/cnwk.1d/html/*/Social/$script,domain=cbsnews.com|cnet.com
 @@||cbsistatic.com^*/js-build/fly/components/social-links-$domain=cbsnews.com|cnet.com
+@@||ccm2.net/www.commentcamarche.net/sites/images/$image,domain=commentcamarche.net
 @@||cdn-immedia.net/img/share/
 @@||cdn.pinknews.co.uk/images/$image,domain=pinknews.co.uk
 @@||cdnslate.com^*/social/colored-social-$image
@@ -103,6 +108,7 @@
 @@||daddydesign.com/*/wp-social-toolbar/
 @@||datacolor.com/wp-content/plugins/easy-social-share-buttons/assets/js/$script,domain=datacolor.com
 @@||dataknet.com/css/img/icon/$image,domain=webtoolhub.com
+@@||daumcdn.net^*/socialshare-*.min.js$domain=daum.net
 @@||depositphotos.com^*/depositphotos_$image,domain=depositphotos.com
 @@||deskmodder.de/blog/wp-content/uploads/$image,~third-party
 @@||discountsstory.com/image/facebook_icon.png
@@ -185,6 +191,7 @@
 @@||hopper.com/static2/w2/images/google-$domain=hopper.com
 @@||huffpost.com/assets/js.php?*-pinterest.js
 @@||huffpost.com/images/social-profile/lightbox/snn_lightbox_close.png
+@@||hulu.com/images/btn-facebook$image
 @@||hypetrak.com/images/*facebook
 @@||hypetrak.com/images/*twitter
 @@||i.po.st/static/v3/post-widget.js$domain=seenive.com
@@ -259,6 +266,7 @@
 @@||passets-cdn.pinterest.com^
 @@||patreon.com/images/fb_login_large.png
 @@||pcinpact.com/js/socialbar.js
+@@||physicsgalaxy.com/images/SignInWithfacebook.png
 @@||picozu.com/r/images/windows/intro/facebook.png
 @@||pinterest.com/images/about/buttons/$domain=pinterest.com
 @@||pinterest.com/js/pinit.js$domain=glamour.com|shape.com
@@ -419,7 +427,7 @@
 @@||xmarks.com/share/share_$~third-party
 @@||xssposed.org/images/design/sign-in-with-twitter-gray.png
 @@||yandex.st/share/share.js$domain=66.ru
-@@||yastatic.net/share2/share.js$domain=auto.ru
+@@||yastatic.net/share2/share.js
 @@||yimg.com^*/combo?*/followus.$domain=yahoo.com
 @@||yimg.com^*/combo?*/share-buttons-$script,domain=yahoo.com
 @@||yougetsignal.com/img/*_igoogle.gif

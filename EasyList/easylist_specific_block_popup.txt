@@ -4,6 +4,7 @@
 ||104.239.139.5/display/$popup
 ||4fuckr.com/api.php$popup
 ||adf.ly/*.php?$popup
+||adf.ly/_$popup
 ||adf.ly^$popup,domain=uploadcore.com|urgrove.com
 ||adx.kat.ph^$popup
 ||adyou.me/bug/adcash$popup
@@ -14,9 +15,11 @@
 ||amazonaws.com^$popup,domain=ndtv.com
 ||avalanchers.com/out/$popup
 ||bangstage.com^$popup,domain=datacloud.to
+||batmanstream.com/*.html?$popup
 ||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
 ||bestreams.net/*.html$popup
 ||bit.ly^$popup,domain=fastvideo.eu|rapidvideo.org|sh.st
+||bojem3a.info^$popup,domain=bojem3a.info
 ||casino-x.com^*&promo$popup
 ||channel4.com/ad/$popup
 ||click.aliexpress.com^$popup,domain=multiupfile.com
@@ -36,9 +39,7 @@
 ||finegame.org^$popup,domain=bestreams.net
 ||firedrive.com/appresources/$popup
 ||firedrive.com/tools/$popup
-||flashx.tv/*.php$popup
-||flashx.tv/ads/$popup
-||flashx.tv/frame/$popup
+||flashx.tv^$popup,~third-party,domain=flashx.tv
 ||free-filehost.net/pop/$popup
 ||free-stream.tv^$popup,domain=flashx.tv
 ||freean.us^*?ref=$popup

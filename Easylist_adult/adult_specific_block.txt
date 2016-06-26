@@ -63,6 +63,9 @@
 ||analtubegirls.com/js/realamateurtube.js
 ||andtube.com/ban_
 ||angelshack.com/images/under-video.png
+||anon-v.com/neverlikedcocksmuch.php
+||anon-v.com/titswerentoiledup.php
+||anonimag.es^$domain=anon-v.com
 ||anyporn.com^$image,subdocument
 ||anysex.com/b/
 ||anysex.com/content_sources/
@@ -90,6 +93,7 @@
 ||bangyoulater.com/pages/aff.php
 ||banner1.pornhost.com^
 ||banners.cams.com^
+||beardedperv.com/*.php$script
 ||befuck.com/befuck_html/
 ||befuck.com/js/adpbefuck
 ||bellyboner.com/facebookchatlist.php
@@ -191,6 +195,7 @@
 ||extreme-board.com/bannrs/
 ||extremetube.com/player_related?
 ||fantasti.cc/_special/
+||fantasti.cc^*/_ra_lib.js
 ||fapdick.com/uploads/1fap_
 ||fapdick.com/uploads/fap_
 ||fastpic.ru/js_f2.jpg
@@ -224,6 +229,7 @@
 ||fuckandcdn.com/sun/sunstatic/frms/$subdocument,domain=sunporno.com
 ||fuckuh.com/pr_ad.swf
 ||funny-games.biz/banners/
+||fux.com/adc/$script
 ||fux.com/assets/adblock
 ||galleries-pornstar.com/thumb_top/
 ||gals4free.net/images/banners/
@@ -252,6 +258,7 @@
 ||gotgayporn.com/Watermarks/
 ||grannysexforum.com/filter.php
 ||gspcdn.com^*/banners/
+||h2porn.com/ab/
 ||h2porn.com/contents/content_sources/
 ||h2porn.com/js/etu_r.js
 ||hanksgalleries.com/aff-
@@ -285,6 +292,7 @@
 ||hentai-foundry.com/themes/*/add$image
 ||hentai-foundry.com/themes/*Banner
 ||hentai-foundry.com/themes/Hentai/images/hu/hu.jpg
+||hentaihaven.org/*.php?$script
 ||hentairules.net/pop_$script
 ||hentaistream.com/out/
 ||hentaistream.com/wp-includes/images/bg-
@@ -457,6 +465,7 @@
 ||ns4w.org/images/vod_
 ||nude.hu/banners/
 ||nudebabes.ws/galleries/banners/
+||nudeflix.com/ads/video-player/
 ||nudevista.com/_/exo_
 ||nudevista.com/_/pp.
 ||nudevista.com/_/teasernet
@@ -539,7 +548,10 @@
 ||porn-w.org/images/zevera.png
 ||porn.com/assets/partner_
 ||porn.com/js/pu.js
+||porn.com^$subdocument,~third-party
+||porn.com^$~third-party,xmlhttprequest
 ||porn4down.com^*/ryuvuong.gif
+||porn5.com^$subdocument,~third-party
 ||porn8x.net/js/outtrade.js
 ||porn8x.net/js/popup.js
 ||pornalized.com/contents/content_sources/
@@ -577,6 +589,7 @@
 ||pornoid.com/js/adppornoid
 ||pornoid.com/pornoid_html/
 ||pornoinside.com/efpop.js
+||pornomovies.com/code/_b3.php
 ||pornomovies.com/js/1/login_bonus
 ||pornomovies.com/pop/
 ||pornorips.com/hwpop.js
@@ -585,6 +598,7 @@
 ||pornosexxxtits.com/rec/
 ||pornoxo.com/pxo/$subdocument
 ||pornoxo.com/tradethumbs/
+||pornpause.com/fakevideo/
 ||pornper.com/mlr/
 ||pornper.com^*/pp.js
 ||pornreleasez.com/prpop.js
@@ -718,6 +732,7 @@
 ||starcelebs.com/logos/$image
 ||static.flabber.net^*background
 ||static.kinghost.com^
+||stec-site.xhcdn.com/js/$script
 ||stockingstv.com/partners/
 ||stolenvideos.net/stolen.js
 ||submityourflicks.com/banner/
@@ -770,6 +785,7 @@
 ||tubecup.org/?t_sid=
 ||tubedupe.com/footer_four.html
 ||tubedupe.com/side_two.html
+||tubepornclassic.com^$~third-party,xmlhttprequest
 ||turboimagehost.com/p1.js
 ||twinsporn.net/images/delay.gif
 ||twinsporn.net/images/free-penis-pills.png
@@ -781,6 +797,7 @@
 ||updatetube.com/js/adpupdatetube
 ||updatetube.com/js/fab.js
 ||upornia.com/contents/content_sources/
+||vi2ishae.xhamster.com^
 ||vibraporn.com/vg/
 ||vid2c.com/js/atxpp.js?
 ||vid2c.com/js/pp.js
@@ -839,8 +856,12 @@
 ||xhamster.com/ads/
 ||xhamster.com/iframes2/
 ||xhamster.com/js/xpu.js
+||xhamster.com/movies/$script
+||xhamster.com/sdk/v1/bi.js$domain=xhamster.com
+||xhamster.com^$subdocument,~third-party
 ||xhamsterpremiumpass.com/premium_scenes.html
 ||xhcdn.com/js/12.js$domain=xhamster.com
+||xhcdn.com/js/13.js$domain=xhamster.com
 ||xhcdn.com/js/m.js$domain=xhamster.com
 ||xhcdn.com^*/ads_
 ||xogogo.com/images/latestpt.gif

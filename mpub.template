@@ -97,6 +97,11 @@
 !---------------------------------Whitelists----------------------------------!
 %include easylist:fanboy-addon/fanboy_social_whitelist_general_hide.txt%
 %include easylist:fanboy-addon/fanboy_social_whitelist.txt%
+!-----------------------General advert blocking filters China-----------------!
+%include Gythialy:Gythialy-s-List/my_custom_list.txt%
+%include Gythialy:Gythialy-s-List/my_custom_list_hide.txt%
+!-----------------------General advert blocking filters YousList--------------!
+%include YousList:YousList/youslist.txt%
 ! = Сайты-попапы (самостоятельно открываются в новом окне) ====================
 %include advblock/popup.txt%
 !

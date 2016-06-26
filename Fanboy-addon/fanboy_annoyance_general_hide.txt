@@ -359,6 +359,7 @@
 ##.moduletable_icons
 ##.moreCouponsSocial
 ##.navigation_social
+##.newsletter-sticky
 ##.nextStoryFly
 ##.next_news_item_pop_out
 ##.nrelate-popular-widget
@@ -669,6 +670,7 @@
 ###email-modal-bg
 ###email-modal-wrapper
 ###email-news-subscribe
+###email-opt-in-bottom
 ###email-popup
 ###email-popup-back
 ###email-sign-up
@@ -742,6 +744,7 @@
 ###newsletter-button
 ###newsletter-container
 ###newsletter-flag
+###newsletter-floating
 ###newsletter-footer
 ###newsletter-form-nonrail
 ###newsletter-header
@@ -793,6 +796,7 @@
 ###newsletterSidebar
 ###newsletterSidebarBox
 ###newsletterSignUp
+###newsletterSignUpDialog
 ###newsletterSignUpDivAnime
 ###newsletterSignUpHeader
 ###newsletterSignUpHeaderContainer
@@ -840,6 +844,7 @@
 ###node-email-widget
 ###nyp-newsletter-modal
 ###offer-research-center-newsletter
+###opinion-newsletter-promo
 ###pcm-subscribe
 ###pnlFooterNewsletterSignup
 ###popinNewsletter
@@ -968,6 +973,7 @@
 ##.c-newsletter-context
 ##.cS-newsletter
 ##.cambeywest-subscribe
+##.captation-email-bottom
 ##.channel__subscribe-widget
 ##.chive-newsletter
 ##.cm_mobNewsletterSignup
@@ -990,6 +996,7 @@
 ##.edm-subscribe
 ##.email-alerts
 ##.email-banner
+##.email-bar
 ##.email-news-promo-panel
 ##.email-newsletter
 ##.email-onboard-fullbleed
@@ -1054,6 +1061,7 @@
 ##.ione-widget-bp_newsletter_signup
 ##.item-newsletter
 ##.item-subscribe
+##.js-captation-email-bottom
 ##.js-newsletter
 ##.js-newsletter-signup
 ##.js-popup-newsletter
@@ -1069,6 +1077,8 @@
 ##.menu-newsletter-signup
 ##.mf-subscribe-widget
 ##.mod-newsletters
+##.modal-suggest-newsletter
+##.modal-suggest-newsletter-pro
 ##.module--email-promo
 ##.module-footer-newsletter-signup
 ##.module-newsletter
@@ -1133,6 +1143,7 @@
 ##.newsletter-signup-inarticle-container
 ##.newsletter-signup-mod
 ##.newsletter-signup-module
+##.newsletter-signup-sidebar
 ##.newsletter-signup-wrap
 ##.newsletter-simple
 ##.newsletter-social
@@ -1159,6 +1170,7 @@
 ##.newsletterThurii_rdr
 ##.newsletterWidget
 ##.newsletter_bar
+##.newsletter_bg
 ##.newsletter_box
 ##.newsletter_callout_box
 ##.newsletter_center_form
@@ -1168,6 +1180,7 @@
 ##.newsletter_register
 ##.newsletter_sign_like
 ##.newsletter_signup
+##.newsletter_signup_overlay
 ##.newsletter_signup_widget
 ##.newsletter_signupbox
 ##.newsletter_single
@@ -1311,6 +1324,7 @@
 ##.wp-nwletter-popup
 ##.yt-mailchimp-subscription-form-widget
 ! Cookie,privacy,legal Messages
+###AcceptCookieContainer
 ###AvisoCookieslaw
 ###BandeauInfoCookie
 ###BlkCookies
@@ -1338,6 +1352,7 @@
 ###CookieInformation
 ###CookieLey
 ###CookieMessaging
+###CookieMonsterNAIH
 ###CookieNotification
 ###CookieNotificationBar
 ###CookieOK
@@ -1362,12 +1377,14 @@
 ###Footer_cookieLawBox
 ###GMI_Privacy_Policy
 ###GlobalCookieBanner
+###IBTCookiePolicy
 ###PaveCookies
 ###PrivacyBanner
 ###Row1_Column1_Cell1_CookieSettings_CookieSettings
 ###SiteMasterPage_updCookieDisclaimer
 ###TNTpageContentPlaceHolder_pnlCookieMessage
 ###WP-cookie-info
+###WeUseCookiesDesktop
 ###\5f CookieText
 ###\5f _accept_cookie
 ###\5f _ic-notice
@@ -1378,6 +1395,7 @@
 ###aboutCookieUsageBox
 ###ac_cookiesvalidation
 ###accept-cookie
+###accept-cookies
 ###accept-cookies-div
 ###acceptCookie
 ###acceptCookieMeg
@@ -1417,6 +1435,7 @@
 ###bandeau-cookies
 ###bandeauCookie
 ###bandeauCookies
+###bandeau_cnil
 ###bandeau_cookie
 ###bandeau_cookies
 ###banner-cookie
@@ -1524,6 +1543,7 @@
 ###cookie-div
 ###cookie-header
 ###cookie-hint
+###cookie-holder
 ###cookie-info
 ###cookie-info-bar
 ###cookie-info-box
@@ -1538,6 +1558,7 @@
 ###cookie-law-info-again
 ###cookie-law-info-bar
 ###cookie-layer
+###cookie-legal-notice
 ###cookie-lightbox
 ###cookie-message
 ###cookie-message-container
@@ -1558,16 +1579,20 @@
 ###cookie-overlay-footer
 ###cookie-overlay-wrapper
 ###cookie-panel
+###cookie-policies
 ###cookie-policy
+###cookie-policy-accept-bar
 ###cookie-policy-banner
 ###cookie-policy-container
 ###cookie-policy-msg
 ###cookie-policy-notice
 ###cookie-policy-strap
 ###cookie-policy-warning
+###cookie-policy-wrapper
 ###cookie-popin
 ###cookie-popup
 ###cookie-prompt-fixed
+###cookie-question
 ###cookie-regle
 ###cookie-ribbon
 ###cookie-slide
@@ -1588,6 +1613,7 @@
 ###cookieAdv
 ###cookieAgreementContent
 ###cookieAlert
+###cookieAlertBox
 ###cookieAlertBoxID
 ###cookieAlertMessage
 ###cookieAlertWrapper
@@ -1607,6 +1633,7 @@
 ###cookieContainer
 ###cookieControl
 ###cookieCookieBar
+###cookieDialog
 ###cookieDisc
 ###cookieDisclaimer
 ###cookieDiv
@@ -1626,6 +1653,7 @@
 ###cookieInfoLayer
 ###cookieInfoMsgWrapper
 ###cookieInfoWrapper
+###cookieInformationBoxWrapper
 ###cookieInformerBooklet
 ###cookieLY
 ###cookieLaw
@@ -1646,6 +1674,7 @@
 ###cookieMsg
 ###cookieMsgBlock
 ###cookieMsgWrapper
+###cookieNote
 ###cookieNotes
 ###cookieNotice
 ###cookieNoticeContainer
@@ -1672,6 +1701,7 @@
 ###cookieSection
 ###cookieSpan
 ###cookieTime
+###cookieUseWarning
 ###cookieView
 ###cookieWarning
 ###cookieWarningBox
@@ -1692,6 +1722,8 @@
 ###cookie_bar_top
 ###cookie_block
 ###cookie_box
+###cookie_box_header
+###cookie_box_header_message
 ###cookie_choice
 ###cookie_clicker
 ###cookie_cnil
@@ -1699,11 +1731,13 @@
 ###cookie_content
 ###cookie_disclaimer
 ###cookie_disclaimer_wrapper
+###cookie_div
 ###cookie_hdr_showagain
 ###cookie_header
 ###cookie_info
 ###cookie_info_area
 ###cookie_info_wrapper
+###cookie_information
 ###cookie_law
 ###cookie_law_banner
 ###cookie_layer
@@ -1783,6 +1817,7 @@
 ###cookies-agreed-wrapper
 ###cookies-agreement
 ###cookies-agreement-box
+###cookies-alert
 ###cookies-alert-wrapper
 ###cookies-auth
 ###cookies-banner
@@ -1853,6 +1888,7 @@
 ###cookies_msg
 ###cookies_notification
 ###cookies_notifier
+###cookies_notify_cont_all
 ###cookies_policy
 ###cookies_warning
 ###cookiesadv
@@ -1913,11 +1949,14 @@
 ###ePrivacyBanner
 ###ePrivacyDisclaimer
 ###ec-cookie-messages-container
+###ecl-notice
 ###ee-cookies-message
 ###eimm_box_cookie_alerte_message
+###enablecookies
 ###eprivacy
 ###eu-cookie
 ###eu-cookie-bar
+###eu-cookie-bar-notification
 ###eu-cookie-compliance
 ###eu-cookie-content
 ###eu-cookie-law
@@ -1960,6 +1999,7 @@
 ###global-cookie-message
 ###golem-cookie-accept
 ###have-a-cookie
+###headCookieAccept
 ###headband-cookie
 ###headband_cookies
 ###header-info-cookie
@@ -2001,9 +2041,11 @@
 ###lca-cookie-notification
 ###legalLayer
 ###legal_policy_cookies
+###lerumCookieContainer
 ###logon-snippet-icookie
 ###lscookiesMax
 ###lsw-cookie-bottom-box
+###m-consent
 ###m_cookie_popup
 ###mainDivLegacyCookie
 ###mainPrivacyDiv
@@ -2043,6 +2085,7 @@
 ###okcookies
 ###okookie-box
 ###pCookieWarning
+###p_ciInner
 ###panel-cookies
 ###pc-cookie-notice
 ###pecr-compliance-banner
@@ -2050,6 +2093,7 @@
 ###pl_cookies
 ###plugin_cookie_int
 ###pm-cookie-consent
+###pnlCookieNotice
 ###polityka-cookies
 ###politykacooki
 ###popUpInfosLegal
@@ -2083,6 +2127,7 @@
 ###rwd-cookie-message
 ###s-cookie
 ###s112_accept_cookies
+###s_s_cookieInfoContainer
 ###scnb-cookie-bar
 ###sdbCookieLegalContainer
 ###semocookie-handler
@@ -2090,6 +2135,7 @@
 ###site-cookie-policy
 ###site-we-use-cookies
 ###site-wide-cookie-message
+###site_msg_cookie
 ###skycom-cookie-wrapper
 ###slidingCookieDiv
 ###smile-cookie-wrapper
@@ -2136,6 +2182,7 @@
 ###warn-cookies-area
 ###warning_cookie
 ###wdg_cookie_bar
+###we-use-cookies
 ###website-cookies
 ###welcomebar-wrapper
 ###widget-vrtcookiebalk
@@ -2150,9 +2197,11 @@
 ##.CookieAcceptPanel
 ##.CookieBanner
 ##.CookieChoiceContainer
+##.CookieCompliance
 ##.CookieConsent
 ##.CookieDirectiveDisplay
 ##.CookieDirectiveHeight
+##.CookieMessage
 ##.CookieMonsterBox
 ##.CookieNote
 ##.CookieNotice
@@ -2171,7 +2220,9 @@
 ##.PortletGestionDesCookiesCNIL
 ##.Section-Cookie
 ##._iph_cp_standalone
+##.accept-cookie
 ##.accept-cookies
+##.accept-cookies-wrapper
 ##.acceptCookieComponent
 ##.acceptCookies
 ##.acceptCookiesBox
@@ -2184,11 +2235,11 @@
 ##.alert-cookie
 ##.alert-cookies
 ##.alert-cookies-banner
-##.alert.alert-warning
 ##.alertcookie
 ##.alerts-manager-container
 ##.allow-cookie-stripe
 ##.alma-cookie-disclaimer
+##.approveCookiesBar
 ##.avisoCookies
 ##.b-cookie-hint
 ##.b-cookies
@@ -2202,6 +2253,7 @@
 ##.barreInfoCookies2
 ##.barre_cookies
 ##.blocCookie
+##.bloc_cookies
 ##.bloccookie
 ##.block-cookies
 ##.bmj-cookie-noticebar-content
@@ -2254,9 +2306,12 @@
 ##.cookie-confirm
 ##.cookie-consent
 ##.cookie-consent-block
+##.cookie-consent-wrapper
 ##.cookie-container
 ##.cookie-container-most
 ##.cookie-content
+##.cookie-dialog-container
+##.cookie-dialogue
 ##.cookie-disclaimer
 ##.cookie-disclosure
 ##.cookie-footer
@@ -2264,8 +2319,12 @@
 ##.cookie-header
 ##.cookie-info
 ##.cookie-info-bar
+##.cookie-info-container
 ##.cookie-info-header
 ##.cookie-info-layer
+##.cookie-info-text
+##.cookie-info-wrapper
+##.cookie-information
 ##.cookie-information-container
 ##.cookie-information-wrapper
 ##.cookie-law
@@ -2296,21 +2355,28 @@
 ##.cookie-panel-overlay
 ##.cookie-permission
 ##.cookie-policy
+##.cookie-policy-accept
+##.cookie-policy-alert
 ##.cookie-policy-box
 ##.cookie-policy-container
+##.cookie-policy-form
 ##.cookie-policy-message
 ##.cookie-policy-notice
 ##.cookie-policy-statement
 ##.cookie-pop
 ##.cookie-pop-up-container
 ##.cookie-popup
+##.cookie-processed
 ##.cookie-prompt
 ##.cookie-prompter
 ##.cookie-rules-wrapper
+##.cookie-section
 ##.cookie-siteusage-notice
 ##.cookie-warn
 ##.cookie-warn-msg
 ##.cookie-warning
+##.cookie-warning-container
+##.cookie-wrap
 ##.cookie-wrapper
 ##.cookieAccepterSlider
 ##.cookieAdvice
@@ -2361,8 +2427,10 @@
 ##.cookieToast
 ##.cookieTooltip
 ##.cookieTooltipKontener
+##.cookieUseWarning
 ##.cookieWarning
 ##.cookieWarningBox
+##.cookieWrapper
 ##.cookie__show
 ##.cookie__wrapper
 ##.cookie_accept
@@ -2370,8 +2438,10 @@
 ##.cookie_alert
 ##.cookie_bar
 ##.cookie_box
+##.cookie_box_shadow
 ##.cookie_consent
 ##.cookie_content
+##.cookie_header
 ##.cookie_info
 ##.cookie_info_content
 ##.cookie_law
@@ -2401,9 +2471,11 @@
 ##.cookiediv
 ##.cookieinfo
 ##.cookieinfobannerWrapper
+##.cookieinfoholder
 ##.cookielabel
 ##.cookielaw-container
 ##.cookieleiste
+##.cookiemessage
 ##.cookiemonster
 ##.cookienotice-bar
 ##.cookienotice-container
@@ -2454,6 +2526,7 @@
 ##.cookiesTxt
 ##.cookiesWarning
 ##.cookiesWarning-container
+##.cookies__info
 ##.cookies_bar
 ##.cookies_box
 ##.cookies_law_compliance_footer
@@ -2496,6 +2569,7 @@
 ##.eksCookieContainer
 ##.element-cookie-banner
 ##.epson_cookienotice
+##.eu-cookie-bar-notification
 ##.eu-cookie-message
 ##.eu-cookie-nag
 ##.eu-cookie-notice
@@ -2510,10 +2584,12 @@
 ##.eucookies
 ##.eupopup-container
 ##.ext-cookie
+##.fhCookieLaw
 ##.filCookiesCnil
 ##.footer-cnil
 ##.footer-cookie
 ##.footer-cookies-policy
+##.footer__cookie-info
 ##.footer__cookies
 ##.footer_cnil
 ##.fucking-eu-cookies
@@ -2532,9 +2608,11 @@
 ##.info-cookie
 ##.infoCookies
 ##.infocookies
+##.inner_cnil
 ##.j-cookieContainer
 ##.jix_acceptcookies_box
 ##.js-CookieBanner
+##.js-CookieCompliance
 ##.js-cookie-bar
 ##.js-cookie-compliance
 ##.js-cookie-disclaimer
@@ -2545,6 +2623,7 @@
 ##.js-cookie-widget
 ##.js-cookieComply
 ##.js-cookieMessage
+##.js-cookiebar
 ##.js-cookies
 ##.js-cookies-box
 ##.js-message-cookies
@@ -2616,6 +2695,7 @@
 ##.roh-cookies
 ##.row-cookies
 ##.rs-alert-cookie
+##.s-cookies
 ##.sanoma-optin-bar
 ##.sb-ncookies-alert
 ##.sc-cookies
@@ -2626,11 +2706,16 @@
 ##.sgsCookies
 ##.sh-cookie-confirmation
 ##.show-cookie
+##.show-cookie-consent
 ##.site-cookie-panel
 ##.site-cookies
 ##.site-message--cookies
+##.site-msg-cookie
+##.site-needs-cookies
 ##.sites-cookie-notice-fit
+##.sol-cookie-container
 ##.sqs-announcement-bar
+##.stampenCookieContainer
 ##.storm-cookie
 ##.sys_cc-cookies
 ##.tCook
@@ -2661,6 +2746,7 @@
 ###sliding-popup.sliding-popup-bottom
 ###sliding-popup.sliding-popup-top
 ! Ebay
+###gh > .gh-banner
 ##header > .gh-banner-active:first-child
 ! Various uk Football splashes
 ###splash_mask
@@ -2744,6 +2830,7 @@
 ##.btn_gototop
 ##.cScrollIndicatorContainer
 ##.dc-go-top
+##.enigma_scrollup
 ##.et_pb_scroll_top
 ##.fa-arrow-circle-o-up
 ##.fk-ui-goTop

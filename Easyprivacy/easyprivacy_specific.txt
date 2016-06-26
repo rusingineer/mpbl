@@ -119,6 +119,7 @@
 ||analytics.omgpop.com/log
 ||analytics.posttv.com^
 ||analytics.services.distractify.com^
+||analytics.slashdotmedia.com^
 ||analytics.teespring.com^
 ||analytics.thenest.com^
 ||analytics.twitter.com^
@@ -204,6 +205,7 @@
 ||avstop.com^*/poll.gif?
 ||axa.com/elements/js/wreport.js
 ||azfamily.com/images/pixel.gif
+||b-aws.techcrunch.com^
 ||b.huffingtonpost.com^
 ||b.imwx.com^
 ||b.myspace.com^
@@ -630,6 +632,7 @@
 ||flixist.com/img2.phtml
 ||flixster.com^*/pixels?
 ||fls-eu.amazon.co.uk^
+||fls-eu.amazon.com^
 ||fls-na.amazon.ca^
 ||flybmi.com/livetrack/
 ||flyjazz.ca/ow_ga.js
@@ -806,6 +809,7 @@
 ||huffingtonpost.com/include/geopromo.php
 ||huffingtonpost.com/ping?
 ||huffingtonpost.com/traffic/
+||huffpost.com/ping?
 ||hugedomains.com/metrics/
 ||hulkshare.com/ajax/tracker.php
 ||hulkshare.com/stats.php
@@ -983,6 +987,7 @@
 ||livestation.com^*/akamaimediaanalytics.swf
 ||livestation.com^*/statistics.swf
 ||livestream.com^*/analytics/
+||livestrong.com/services/jslogging/
 ||livesupport.zol.co.zw/image_tracker.php?
 ||lm.pcworld.com/db/*/1.gif
 ||loc.gov/js/ga.js
@@ -1248,6 +1253,7 @@
 ||partners.mysavings.com^
 ||paypal.com/webapps/beaconweb/
 ||paypalobjects.com/*/m/mid.swf$domain=paypal.com
+||pbsrc.com/common/pixel.png
 ||pch.com^*/scripts/Analytics/
 ||pch.com^*/SpectrumAnalytics.js?
 ||pckeeper.com^*/pixels/
@@ -1267,6 +1273,7 @@
 ||petersons.com^*/trackFunctionsBeta.asp
 ||petplanet.co.uk^*/js/ga.js
 ||petri.co.il/akit/?
+||philly.com/log.json?
 ||phonedog.com/geo.php
 ||photobucket.com/ss/open.php?
 ||photobucket.com/track/
@@ -1312,6 +1319,7 @@
 ||polity.org.za/count.php?
 ||popcap.com^*/interstitial_zones.js
 ||porndoo.com/lib/ajax/track.php
+||pornhd.com/api/user/tracking
 ||potterybarn.com/pbimgs/*/external/thirdparty.js
 ||potterybarnkids.com/pkimgs/*/external/thirdparty.js
 ||pound.buzzfeed.com^
@@ -1369,7 +1377,6 @@
 ||recomendedsite.com/addon/upixel/
 ||recommendation.24.com^
 ||redding.com/metrics/
-||reddit.com/static/pixel.png
 ||redeye.williamhill.com^
 ||rediff.com^*/?rkey=
 ||redtube.com/_status/pix.php
@@ -1455,7 +1462,6 @@
 ||satellite-tv-guides.com/stat/
 ||sayac.hurriyettv.com^
 ||sb.vevo.com^
-||sbs.com.au/js/tracking/
 ||sciencedaily.com/blank.htm
 ||sciencedaily.com/cache.php?
 ||scoop.co.nz/images/pixel.gif
@@ -1719,6 +1725,7 @@
 ||thesaurus.com/track/
 ||theseforums.com/track/
 ||thesmokinggun.com^*/jsmd.js
+||thewatchseries.to/analytics.html
 ||theweek.com/decor/track/
 ||thinkgeek.com/js/rts.js
 ||thrillist.com/track
@@ -2181,12 +2188,19 @@
 ! Blocking filters due to High-CPU usage bug (https://adblockplus.org/forum/viewtopic.php?f=11&t=23368)
 ||radio-canada.ca/omniture/omni_stats_base.js?
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
-/__utm.gif$domain=tellows.de|thewatchseries.to
+/__utm.gif$domain=quoka.de|tellows.de|thewatchseries.to
 /csi?v=*&action=$domain=tellows.de
 ||a.watchseries.to^$domain=thewatchseries.to
 ||addthis.com/live/$domain=thewatchseries.to
+||cpx.to^$domain=quoka.de
+||dnn506yrbagrg.cloudfront.net^$domain=quoka.de
+||exactag.com^$domain=quoka.de
 ||facebook.com*/impression.php$domain=tellows.de
+||google-analytics.com/analytics.js$domain=quoka.de
 ||googleapis.com^*/gen_204?$domain=tellows.de
+||hotjar.com^$domain=quoka.de
 ||ioam.de/?$domain=tellows.de
-||ioam.de/tx.io?$domain=tellows.de
+||ioam.de/tx.io?$domain=quoka.de|tellows.de
+||nuggad.net^$domain=quoka.de
+||theadex.com^$domain=quoka.de
 ||watchseries.to/piwik.js

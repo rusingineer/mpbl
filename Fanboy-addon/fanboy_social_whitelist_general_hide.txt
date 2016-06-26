@@ -54,7 +54,7 @@ free18.net,gadgetlove.com,nrc.gov,onbeing.org,rapgenius.com,tmz.com#@#.addthis_t
 onbeing.org#@#.addthisbuttons
 beautifulplanet4u.com#@#.advanced-social-widget
 kino-vorschau.com#@#.arqam-widget-counter
-neowin.net#@#.article-share
+banki.ru,neowin.net#@#.article-share
 nbcnews.com#@#.article_share
 opposingviews.com#@#.block-socialmedia
 airbnb.cat,airbnb.com,airbnb.de,aplus.com,crowdin.net,deezer.com,foodit.com,magine.com,meetme.com,nexoneu.com,setlist.fm,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
@@ -174,6 +174,7 @@ google.com#@#.plusone
 privatecore.com#@#.post-fb
 facebook.com#@#.post-fb-like
 imgur.com#@#.post-share-panel
+reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
 vk.com#@#.post_share
 reddit.com#@#.reddit_button
@@ -185,7 +186,7 @@ belgafiles.com,linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com#@#.share-btn
 vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,thedodo.com#@#.share-buttons
-comicbook.com,popsugar.com,popsugar.com.au,sensationrock.net#@#.share-container
+comicbook.com,gamerisle.org,popsugar.com,popsugar.com.au,sensationrock.net#@#.share-container
 mediafire.com#@#.share-facebook
 sharesansar.com#@#.share-head
 greatbritishchefs.com#@#.share-header
@@ -335,6 +336,7 @@ tumblr.com#@#a[href^="http://www.tumblr.com/share/"]
 facebook.com#@#a[href^="https://facebook.com/sharer.php?"]
 twitter.com#@#a[href^="https://twitter.com/intent/follow?"]
 forbes.com,pewinternet.org,yellosoft.us#@#a[href^="https://twitter.com/intent/tweet?"]
+facebook.com#@#a[href^="https://www.facebook.com/dialog/feed?"]
 facebook.com#@#a[href^="https://www.facebook.com/sharer.php?"]
 google.com#@#a[href^="https://www.google.com/bookmarks/mark?"]
 linkedin.com#@#a[href^="https://www.linkedin.com/cws/share?"]
@@ -350,13 +352,13 @@ allestörungen.de,google.co.nz,google.co.uk,google.com,google.com.au,google.de,j
 allestörungen.de,google.co.nz,google.co.uk,google.com,google.com.au,google.de,heise.de,maxthon.com,opendatacity.de,pcgameshardware.de,wikipedia.org#@#a[title="Youtube"]
 aliexpress.com#@#a[title="facebook"]
 digg.com#@#div[id^="digg-widget-"]
-disqus.com,eff.org,facebook.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,heise.de,hockeyapp.net,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,maxthon.com,microsoft.com,opendatacity.de,playboy.com,t3n.de,twitter.com,whatthetech.com#@#img[alt="Facebook"]
+disqus.com,eff.org,facebook.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,heise.de,hockeyapp.net,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,maxthon.com,microsoft.com,opendatacity.de,playboy.com,sky.com,t3n.de,thoughtcatalog.com,twitter.com,whatthetech.com#@#img[alt="Facebook"]
 google.co.nz,google.co.uk,google.com,google.com.au,google.de,xkcd.com,youtube.com#@#img[alt="Google+"]
 google.co.nz,google.co.uk,google.com,google.com.au,google.de,whatculture.com#@#img[alt="Instagram"]
 eff.org,google.co.nz,google.co.uk,google.com,google.com.au,google.de,linkedin.com#@#img[alt="LinkedIn"]
 breakoutlist.com,eff.org,facebook.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,microsoft.com,rantlifestyle.com#@#img[alt="Pinterest"]
 acceptableads.org,breakoutlist.com,easyicon.net,microsoft.com,rantlifestyle.com#@#img[alt="Reddit"]
-breakoutlist.com,disqus.com,eff.org,gitlab.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,hackerone.com,incgamers.com,maxthon.com,microsoft.com,opendatacity.de,twitter.com,whatculture.com,whatthetech.com#@#img[alt="Twitter"]
+breakoutlist.com,disqus.com,eff.org,gitlab.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,hackerone.com,incgamers.com,maxthon.com,microsoft.com,opendatacity.de,thoughtcatalog.com,twitter.com,whatculture.com,whatthetech.com#@#img[alt="Twitter"]
 mezzacotta.net,theverge.com,twitter.com#@#img[alt="Vine"]
 maxthon.com,opendatacity.de,whatculture.com#@#img[alt="Youtube"]
 megabus.com,uservoice.com#@#img[alt="facebook"]

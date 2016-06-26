@@ -658,7 +658,7 @@ allkpop.com,smackjuice.com###header-meta
 self.com###header-offer
 musicfeeds.com.au###header-recent-bar
 webpronews.com###header-signup
-details.com,newyorker.com###header-subs
+allure.com,details.com,newyorker.com###header-subs
 tumblr.com###header.fixed
 mentalfloss.com###header1000
 craveonline.com,superherohype.com###headerSlideContainer
@@ -1263,6 +1263,7 @@ howstuffworks.com###smToolBar
 howstuffworks.com###smToolBarSpacer
 theweek.com###sm_iconset
 cbsnews.com###smart-banner
+dailymail.co.uk###smartBanner
 deviantart.com,nzherald.co.nz,photobucket.com###smartbanner
 pcworld.com###smbRightSubscribe
 socialhype.com###smfoot
@@ -1795,6 +1796,7 @@ theweek.com##.col300_signup
 huffingtonpost.co.uk##.collection_holder
 newsok.com##.color.bar
 webmd.com##.comm_discussion_message_icon_links
+dailymail.co.uk##.comment-notification-container
 latimes.com##.comment_button_container
 utsandiego.com##.comments
 cracked.com##.comments-count
@@ -2352,7 +2354,7 @@ tapiture.com##.non-user-slider
 cafemom.com##.nonMemberContainer
 motherjones.com##.nonteaser-comment-bar
 discordapp.com,dotmailer.com,phys.org##.notice
-reed.co.uk,thecourier.co.uk,thephuketnews.com,tweakers.net##.notification
+reed.co.uk,thecourier.co.uk,thephuketnews.com##.notification
 givemesport.com##.notification-bar
 sulia.com##.notification_container
 istockphoto.com##.notifications
@@ -2402,6 +2404,7 @@ healthline.com##.pageTools
 popeater.com##.pageToolsN
 tweaktown.com##.page_load_div
 runningtimes.com##.pager
+thepostgame.com##.pager-flyout
 bbc.co.uk##.pagetools
 philly.com,wired.com##.paginate
 wired.com##.paginate-box
@@ -3100,6 +3103,7 @@ bleacherreport.com,macworld.com,myjewishlearning.com,pcworld.com,techhive.com,th
 cnbc.com###optIn-embedded
 draxe.com###optin-footer
 thenewdaily.com.au###page-overlay
+thepostgame.com###pageModalDimmed
 perezhilton.com###ph_classic_nlf
 perezhilton.com###ph_classic_nlf_bg
 newstatesman.com###popup
@@ -3164,6 +3168,7 @@ democracynow.org##.daily_digest
 generalassemb.ly##.dgd_stb_box
 grasswire.com##.digest__container
 comicbook.com##.dimmer
+babble.com##.disney-id-box
 atlassociety.org##.ePopup
 atlassociety.org##.ePopupMod
 dailysurge.com##.ebook-signup-box
@@ -3191,6 +3196,7 @@ fundable.com##.fundable_newsletter_signup
 whatuni.com##.fwrp
 nextcity.org##.header-tools
 readingthepictures.org##.hear-ye
+allure.com##.hedNewsWrap
 stylelist.com##.home-newsletter
 factmag.com##.home-social-area
 politico.com##.homepage-section-blast-sign-up
@@ -3208,17 +3214,22 @@ good.is##.mailchimp-widget
 themighty.com##.meta-join
 abc15.com##.modal--content
 breakingdefense.com##.modal-backdrop
+biznews.com##.module-cta
 ibtimes.com##.morning-insights
 newsbtc.com##.newsform
+dnaindia.com##.newsletTab
 9to5mac.com,about.com,autoguide.com,brooklynbased.com,clickhole.com,computerworld.com,consumerreports.org,csoonline.com,designntrend.com,emirates247.com,engadget.com,epicurious.com,fashionotes.com,geek.com,gizchina.com,goodnet.org,grantland.com,graziadaily.co.uk,greatbritishchefs.com,greenbot.com,guyism.com,haaretz.com,hdwallpapers.in,higherperspectives.com,hightimes.com,hodinkee.com,hottopics.ht,huffingtonpost.com,infoq.com,infoworld.com,investopedia.com,itworld.com,javaworld.com,jewishjournal.com,life.com,lifehack.org,maplin.co.uk,maxim.com,muckrock.com,multichannel.com,nerve.com,networkworld.com,newrepublic.com,npr.org,nymag.com,out-law.com,paidcontent.org,pbs.org,piriform.com,pomade.com,psfk.com,redsharknews.com,rsf.org,rumorfix.com,screencrush.com,singularityhub.com,stylecaster.com,talkandroid.com,techbeat.com,thebaffler.com,thedailybeast.com,thedrinknation.com,themeshreport.com,thenextweb.com,theregister.co.uk,topdocumentaryfilms.com,twice.com,twitchy.com,variety.com,vice.com,vulture.com,yahoo.com##.newsletter
 foxnews.com##.newsletter-form
 gizbot.com##.newsletter_form
 comicbook.com##.newsletterdiv_cmp
 consumerreports.org##.newsletters
 health.com##.nl-healthy
+babble.com##.nl-interstitial-box
+allure.com##.nlOverlay
 azcentral.com##.non-subscriber-item
 nytimes.com##.nps-promo
 stv.tv##.ns--news-article
+examine.com##.opt-in-box
 draxe.com##.optin-after
 draxe.com##.optin-sidebar
 bidnessetc.com##.outlinks
@@ -3232,6 +3243,7 @@ foreigndesknews.com##.post_mail
 windsorstar.com##.postmedia_news_alerts
 roadsandkingdoms.com##.postsubscribe
 food.com##.pushdown-message
+allure.com##.railNLUnit
 forward.com##.recommend-box
 motherjones.com##.region-connect
 bildderfrau.de##.remodal-overlay[style="display: block;"]
@@ -3293,6 +3305,7 @@ fastcompany.com##div[id$="newsletter"]
 dailycaller.com##div[id^="dc_morning_email"]
 upi.com##div[style="float: right; margin: 10px; width: 300px;"]
 upi.com##div[style="padding: 0 10px 10px 10px; border-bottom: 1px solid #cccccc;"]
+bollywoodshaadis.com##div[style^="margin:30px 0 35px"]
 medicinenet.com##iframe[width="170"]
 ! Scroll to top
 myinforms.com###arrow
@@ -3335,6 +3348,7 @@ bing.com###b_notificationContainer
 uktv.co.uk###back-to-old-site
 cc.com###balaMainContainer
 gloucester.gov.uk,ico.org.uk,sematic.com###banner
+easy2boot.com###barritaloca
 area-codes.org.uk###baselink
 blueconic.com###bcmp_fullwrap
 claireperry.org.uk###blanket
@@ -3375,6 +3389,7 @@ co-operativeinsurance.co.uk,smile.co.uk###noticePanel
 zyncro.com###noticebar
 csl-computer.com###notification
 eastlondonradio.org.uk###notification-area
+tweakers.net###notifications > .announcement
 did.ie,the42.ie###notify-container
 novapdf.com###novapdf_accept_cookies
 cimaglobal.com###optanon
@@ -3409,7 +3424,7 @@ wimbledon.com###wimPrivacyBanner
 scl.org###zeus_box
 rapidonline.com##.DisplaySiteSplitMsgDiv
 landrover.co.uk##.NotificationBar
-kenweego.com,linkedin.com,nature.com,netweather.tv,norwegian.com,twitch.tv##.alert
+bankid.com,kenweego.com,linkedin.com,nature.com,netweather.tv,norwegian.com,twitch.tv##.alert
 zombiearmy.com##.alert-box
 jotti.org##.alert-info
 autotask.com##.alertbar
@@ -3517,6 +3532,7 @@ computerworld.co.nz,computerworld.com.au,cso.com.au###rhs_newsletter
 computerworld.co.nz###rhs_techjobs
 cwtv.com###user_optin_banner
 arnnet.com.au,reseller.co.nz##.art-connect
+euroman.dk##.egmont-cookies
 newsy.com##.newsletter-popup
 newsy.com##.newsletter-popup-background
 newsy.com##.newsletter-signup-bar-container

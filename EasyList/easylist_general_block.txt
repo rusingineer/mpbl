@@ -21,6 +21,7 @@
 &adpageurl=
 &Ads_DFP=
 &adsafe=
+&adserv=
 &adserver=
 &adsize=
 &adslot=
@@ -72,6 +73,7 @@
 -ad-200x200-
 -ad-24x24.
 -ad-300x250.
+-ad-300x600-
 -ad-313x232.
 -ad-336x280-
 -ad-340x400-
@@ -140,7 +142,7 @@
 -ad_banner-
 -ad_injector/
 -ad_leaderboard/
--adap.
+-adap.$domain=~l-adap.org
 -adblack-
 -adcentre.
 -adchain.
@@ -307,6 +309,7 @@
 -seasonal-ad.
 -show-ads.
 -side-ad-
+-side-ad.
 -Skyscraper-Ad.
 -skyscrapper160x600.
 -small-ad.
@@ -917,6 +920,7 @@
 /ad/log/*
 /ad/login-
 /ad/logo/*
+/ad/material/*
 /ad/middle.
 /ad/mpu/*
 /ad/network/*
@@ -1018,7 +1022,7 @@
 /ad350.
 /ad3_ima.
 /ad3i.
-/ad4.$domain=~vereinslinie.de
+/ad4.$domain=~ad4.wpengine.com|~vereinslinie.de
 /ad41_
 /ad468.
 /ad468x60.
@@ -1034,6 +1038,7 @@
 /ad728f.
 /ad728f2.
 /ad728home.
+/ad728rod.
 /ad728s.
 /ad728t.
 /ad728w.
@@ -2212,6 +2217,7 @@
 /ads/www/*
 /ads/xtcore.
 /ads/yahoo/*
+/ads/zergnet.
 /ads/zone/*
 /ads0.
 /ads01.
@@ -2380,6 +2386,7 @@
 /adscpv/*
 /adscript.
 /adscript1.
+/adscript?
 /adscript_
 /adscripts/*
 /adscripts1.
@@ -2743,6 +2750,7 @@
 /adv-expand/*
 /adv-ext-
 /adv-f.
+/adv-scroll-
 /adv-scroll.
 /adv-socialbar-
 /adv.asp
@@ -2895,7 +2903,7 @@
 /advertises/*
 /advertisewithus_
 /advertising-$domain=~abramarketing.com|~advertising-direct.com|~outbrain.com
-/advertising.$domain=~advertising.byhoxby.com|~advertising.dailymotion.com
+/advertising.$domain=~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.theguardian.com
 /advertising/*$~xmlhttprequest,domain=~commercialplanet.eu|~temple.edu
 /advertising02.
 /advertising2.
@@ -3107,6 +3115,7 @@
 /ajax-advert.
 /ajax/ad/*
 /ajax/ads/*
+/ajax/ads_
 /ajaxAd?
 /ajaxads.
 /ajrotator/*
@@ -4025,6 +4034,7 @@
 /get_banner.asp?
 /getad.
 /getad/*
+/getAd;
 /getad?
 /getadcontent.
 /getadds.
@@ -5077,7 +5087,7 @@
 /pub/ads/*
 /pub_images/*$third-party
 /pubad.
-/pubads.$~xmlhttprequest
+/pubads.
 /pubads_
 /public/ad/*
 /public/ad?
@@ -5247,6 +5257,7 @@
 /scanscoutplugin.
 /scaradcontrol.
 /scn.php?
+/script-adv-
 /script/ad.
 /script/ads.
 /script/ads_
@@ -6000,7 +6011,7 @@
 ://a.ads.
 ://ad.*/jstag^
 ://adcl.$domain=~adcl.com
-://ads.$domain=~ads.sk
+://ads.$domain=~ads.route.cc|~ads.sk
 ://adv.$domain=~adv.ru|~adv.vg|~advids.co|~farapp.com|~forex-tv-online.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
 ://affiliates.$third-party
@@ -6152,6 +6163,7 @@
 _125ad.
 _160_ad_
 _160x550.
+_250ad.
 _300x250Banner_
 _468x60ad.
 _728x90ad_
@@ -6295,6 +6307,7 @@ _adcall.
 _adcall_
 _adchoice.
 _adchoices.
+_adcode_
 _adcom.
 _adcontent/
 _adcount=

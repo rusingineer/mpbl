@@ -1,6 +1,7 @@
 !
 !---------- Non-english Annoyances ----------
 !
+||gnezdo.ru^$third-party
 ||img.mixi.net^$third-party,domain=~mixi.jp
 ||odnoklassniki.ru^$~stylesheet,domain=~odnoklassniki.ru|~ok.ru
 ||pusha.se^$third-party
@@ -79,14 +80,17 @@ cebit.de,hannovermesse.de##.user-notes-notification
 !---------- Hungary Site Generic Hiding Rules ----------
 !
 168ora.hu###article_toolbar
-smoon.hu,tipparuhaz.hu###bottom_dialog
+poloverzum.hu,smoon.hu,tipparuhaz.hu###bottom_dialog
 hoxa.hu###container > div[style^="text-align: left;"]
 decathlon.hu###container-screen
 koloknet.hu###cookie
 freemeteo.hu###cookies
 nol.hu###didyou
+okopolc.hu###firstLogNanobar
 hrportal.hu###fixdiv
+oszkar.com###footerbar
 elittars.hu###info-bar
+boraszportal.hu,termalfurdo.hu###layout_advertising_bottom
 hbo.hu###overlay
 althir.org,nemzeti.net###suti_figyelmeztetes
 allattartas.hu###suti_figyelmeztetes_ablak_fix
@@ -220,17 +224,33 @@ bt.no##.flyout
 !
 !---------- Swedish Site Specific Hiding Rules ----------
 !
+hkr.se###c-info-box
+pensionsmyndigheten.se###cb_alert
 sfv.se###cookies
 emol.com###slidebox
 sverigesradio.se###user-message
+svensktnaringsliv.se###warning
+coop.se##.Alert
 aftonbladet.se##.abArticleToolbar
 aftonbladet.se##.abPremiumTeaserSalesPitch
-automotorsport.se,bamse.se,folkuniversitetet.se,kalleanka.se,netonnet.se,tidningenjulia.se##.alert
+armemuseum.se,atg.se,automotorsport.se,bamse.se,folkuniversitetet.se,kalleanka.se,konkurrensverket.se,netonnet.se,osthammar.se,tidningenjulia.se##.alert
+tre.se##.alert-bar
+skatteverket.se##.alertWrp
+elkedjan.se##.avalanche-message
+nacka.se##.c-message
 polisen.se##.cookie
+havkom.se,lfv.se,oru.se##.cookies
 gp.se##.gpsecGRCookieContainer
+gamerloot.se##.header-notice
+asedo.se##.infobanner
+filminstitutet.se##.js-info-banner
+smhi.se##.polopolyNotification
 emol.com##.social-tools-emol-g1
+bahnhof.se##.top-line-block
+telia.se##.tsAttention--Info
 telia.se##.tsAttention--Info--button
 google.se##div[style="min-width: 750px;"] > [style="behavior:url(#default#homePage) url(#default#userData);background-color:#5a5a5a"]
+bolagsverket.se##div[style^="margin: 0px 0px"]
 !
 !---------- Russian Site Specific Hiding Rules ----------
 !
@@ -264,13 +284,14 @@ pagesjaunes.fr###cgu
 francetvsport.fr,pourquoidocteur.fr###colorbox
 paconsulting.com###cookPop
 gmf.fr,grillofrance.fr,havas-voyages.fr,materiel.net,paris.fr,societe.com,sportetstyle.fr###cookie
-gentside.com,jules.com,laposte.fr,maxisciences.com,mybiclighter.com,ohmymag.com,showroomprive.com###cookies
+brain-magazine.fr,gentside.com,jules.com,laposte.fr,maxisciences.com,mybiclighter.com,ohmymag.com,showroomprive.com###cookies
 biomet.fr,closermag.fr,illicopharma.com###fancybox-overlay
 biomet.fr,closermag.fr,illicopharma.com###fancybox-wrap
 actu-environnement.com###footer_newsletter_content
 gamemania.be###globalmessage
 fronton.tv###ico_banner
 lepoint.fr###iframeForm
+mspy.fr###infoToolbar
 bycontext.com###lcBar
 paperblog.fr###left-block
 priceminister.com###legalNotificationEltId
@@ -309,6 +330,7 @@ rueducommerce.fr##.confidentialite_header
 118000.fr,communauto.com,ouestjob.com##.cookies
 jeuxvideo.fr,turbo.fr##.fb-overlay
 tupperware.fr##.floating
+goldenmoustache.com##.flying-related
 bouyguestelecom.fr##.hfc--nc
 mercialys.fr##.info-top
 vinted.fr##.js-notification
@@ -355,10 +377,15 @@ challenges.fr,nouvelobs.com,sciencesetavenir.fr##div[style="text-align:left;widt
 buzger.com##div[style="z-index:10000000; position:fixed; padding:10px; top:0px; width:100%; background-color:#fff; color:#888; "]
 hsbc.fr##div[style^="display: block; margin: 20px 0px 0px 0px;"]
 rtl.be##div[style^="display: block; position: fixed; bottom: 0px;"]
+supersoluce.com##div[style^="position: fixed; width: 100%;"]
 ||cnil.links-lab.fr^
 ||cookies.leadplace.fr^
 ||pourquoidocteur.fr/img2/face.png
 ||pourquoidocteur.fr/img2/in.png
+!
+!---------- Japanese Site Specific Rules ----------
+!
+yahoo.co.jp###RSAB
 !
 !---------- Spanish/Portuguese Site Specific Hiding Rules ----------
 !
@@ -406,6 +433,7 @@ wd40.it###cookie
 ||linkwelove.com^$third-party
 ||linkwelove.it^$third-party
 ||mycookies.it^$third-party
+||tim.it/js/gestione_cookie.js
 !
 !---------- Italian Site Specific Hiding Rules ----------
 !

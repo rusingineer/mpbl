@@ -3,8 +3,8 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Checksum: DGmb5u+IMp6RnSmSYRm7Ig
-! Version: 20160608
+! Checksum: HEU44Ssl8R7bqI/NQ/UE+g
+! Version: 20160625
 
 ! General element hiding rules
 ##div#adbay_adExpandDiv
@@ -77,6 +77,7 @@
 ##iframe[src^="http://daily.hankooki.com/ad/"]
 ##iframe[src^="http://dgate.joins.com/hc.aspx"]
 ##iframe[src^="http://display.ad.daum.net/imp"]
+##iframe[src^="http://ea.slrclub.com/NetInsight/"]
 ##iframe[src^="http://etc.gamechosun.co.kr/banner/"]
 ##iframe[src^="http://exttag.about.co.kr/cgi-bin/PelicanC.dll"]
 ##iframe[src^="http://file.osen.co.kr/web2/html/realclick_ad.html"]
@@ -333,6 +334,7 @@
 ||dreamsearch.or.kr/servlet/iadbn^
 ||dreamsearch.or.kr/servlet/sadbn^
 ||dt.co.kr/js/top_ad.js^
+||ea.slrclub.com/NetInsight/
 ||economy.hankooki.com/ad/
 ||edaily.co.kr/adview/
 ||esports.dailygame.co.kr/comment/ad_realclick.php^
@@ -776,6 +778,9 @@ daily.hankooki.com##div#Page_NewsSponsor
 daily.hankooki.com##div.bantop
 daily.hankooki.com##div[id^="Ad_"]
 daily.hankooki.com##div[id^="adText"]
+dailymotion.com##div#bottom_banner
+dailymotion.com##div.ad
+dailymotion.com##div.mc
 daum.net##div#adBrandingStation
 daum.net##div.ad_rightbtm
 dcinside.com##div#dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
@@ -941,7 +946,9 @@ huffingtonpost.kr##div#modulous_sponsorship_2
 huffingtonpost.kr##div.ad_lower_right_commercials_wrapper
 huffingtonpost.kr##div.ad_share_box
 hungryapp.co.kr##div#banner_11
+hungryapp.co.kr##div#banner_new
 hungryapp.co.kr##div.bannersww
+hungryapp.co.kr##div.header_menu
 ibabynews.com##div#divContentBanner
 ibabynews.com##div.LeftDiv>div[style="zoom:1; border:1px solid #DDD; height:150px; padding-top:10px;"]
 ibabynews.com##div.TopDiv>div[style="position:absolute; top: 40px; right:0px; width:230px; height:55px;"]
@@ -1078,6 +1085,11 @@ m.humoruniv.com##iframe[src^="/uad_iframe.html"]
 m.humoruniv.com##iframe[src^="http://m.humoruniv.com/ddn_300x250.html"]
 m.humoruniv.com##iframe[src^="http://m.humoruniv.com/facebook_iframe_native.html"]
 m.humoruniv.com##iframe[src^="http://m.humoruniv.com/microad_iframe_300x250.html"]
+m.hungryapp.co.kr##div.Btm-banner
+m.hungryapp.co.kr##div.banner
+m.hungryapp.co.kr##div.banner_cnt
+m.hungryapp.co.kr##div.fixed-top
+m.hungryapp.co.kr##div.m-main-banner
 m.insight.co.kr##div.ad-google-0
 m.insight.co.kr##div.googleAdSense
 m.insight.co.kr##div.page-detail-text-ad
@@ -1102,6 +1114,7 @@ m.kmib.co.kr##div.vw_txad
 m.kukinews.com##div.bnr
 m.kukinews.com##div.dw_cnt_vw>div[style="background:#fff;height:268px;overflow:hidden;text-align:center"]
 m.kukinews.com##div.dw_cnt_vw>div[style="padding-top:5px;background:#efefef"]
+m.media.daum.net##div#daumAd
 m.metroseoul.co.kr##div#ad_1
 m.metroseoul.co.kr##div#ad_2
 m.metroseoul.co.kr##div#ad_3
@@ -1189,6 +1202,10 @@ m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
 m.ytn.co.kr##div.photo_bottom_ad
 macnn.com##div.ad-slot
+macrumors.com##div#adUnder_mobile
+macrumors.com##div#contentAd
+macrumors.com##div#sideAd
+macrumors.com##div.ad
 mangafox.me##div.ad
 mangaumaru.com,shencomics.com,yuncomics.com##aside.EzAdsWidget
 mangaumaru.com,shencomics.com,yuncomics.com##div#fbanner
@@ -1210,6 +1227,8 @@ mbn.mk.co.kr##div.ad1
 mbn.mk.co.kr##div.relation_ad
 media.daum.net##div#banner250
 media.daum.net##div#daum-ad-root
+media.daum.net##div#mappingAd
+media.daum.net##div.newsview_ad
 media.daum.net##iframe#daum-ad-root-ifrm
 mediatoday.co.kr##div#adbnFloating
 mediatoday.co.kr##iframe[src*="/adItem/"]
@@ -1463,6 +1482,7 @@ pixiv.net##div.ads_area
 pixiv.net##div.cool-ad-footer
 pixiv.net##span.multi-ads-area
 ppomppu.co.kr##div#emart_banner
+ppomppu.co.kr##div#result_box>div.section:not([id])
 ppomppu.co.kr##div#shoppingbox
 ppomppu.co.kr##div.ad
 ppomppu.co.kr##div.banner
@@ -1507,6 +1527,12 @@ sisainlive.com##div#TopBanners2
 sisainlive.com##div#layerBanner
 sisainlive.com##td#articleBody>table[align="right"][width="320"][height="265"]
 skyscanner.co.kr##div.mpu-advert
+slrclub.com##div#ad1
+slrclub.com##div#ad_sk
+slrclub.com##div#brand-mall
+slrclub.com##div#slrcf
+slrclub.com##div.ad
+slrclub.com##div.ad2
 sportalkorea.com##div#topAdBox
 sportalkorea.com##p.ad_240
 sports.chosun.com##div#rad
@@ -1561,6 +1587,8 @@ theappl.com##div#pop_layer_banner
 theappl.com##div#rt_banner1
 theappl.com##div#rt_banner2
 theguardian.com##div.ad-slot
+theverge.com##div.m-ad
+theverge.com##div.m-feature__intro>aside
 thisisgame.com##div#divMsnAD
 thisisgame.com##div.ad
 thisisgame.com##div.mid-ad-part
@@ -1642,9 +1670,12 @@ vop.co.kr##div.listAD
 vop.co.kr##div.top-ad
 washingtonpost.com##div.has-subscribe-promo
 washingtonpost.com##div[class*="-ad-"]
+watchcartoononline.com##body>div[style="position: absolute; top: 0px; left: 0px; z-index: 100; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
+watchcartoononline.com##body>div[style="position: absolute; top: 0px; right: 0px; z-index: 100; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 watchcartoononline.com##body>div[style="position: fixed; top: 0px; left: 0px; z-index: 100; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 watchcartoononline.com##body>div[style="position: fixed; top: 0px; right: 0px; z-index: 100; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 watchcartoononline.com##div#leftBannerOut
+watchcartoononline.com##div#reklam_mgid
 watchcartoononline.com##div#rightBannerOut
 watchcartoononline.com##iframe[src^="http://watchcartoononline.com/ads_"][src$=".html"]
 watchcartoononline.com##iframe[src^="http://www.watchcartoononline.com/ads"][src$=".html"]

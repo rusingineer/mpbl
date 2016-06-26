@@ -8,6 +8,7 @@
 ||104.197.188.104^$script,third-party
 ||104.197.241.137^$script,third-party
 ||104.197.34.33^$script,third-party
+||104.197.4.220^$script,third-party
 ||108.166.93.81/rotate/$domain=~infowars.com.ip
 ||109.201.134.110^$domain=04stream.com
 ||110.45.173.103/ad/$third-party
@@ -210,6 +211,7 @@
 ||apnonline.com.au/img/marketplace/*_ct50x50.gif
 ||appdevsecrets.com/images/nuts/
 ||apple.com/itunesaffiliates/
+||appnext-a.akamaihd.net^
 ||appsgenius.com/images/$third-party
 ||appwork.org/hoster/banner_$third-party
 ||arcadetown.com/as/show.asp
@@ -411,7 +413,7 @@
 ||cloudfront.net/scripts/js3caf.js
 ||cloudfront.net/st.js
 ||cloudfront.net/tie.js
-||cloudfront.net^$script,domain=animeflv.net|chronos.to|dailyuploads.net|divxatope.com|extratorrent.cc|extremetech.com|jpost.com|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|nitroflare.com|openload.co|sparknotes.com|streamplay.to|torrentproject.se|tubeoffline.com|upload.so|vidshare.us|vshare.eu
+||cloudfront.net^$script,domain=addic7ed.com|animeflv.net|chronos.to|dailyuploads.net|divxatope.com|extratorrent.cc|extremetech.com|jpost.com|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|nitroflare.com|openload.co|sparknotes.com|streamplay.to|torrentproject.se|tubeoffline.com|upload.so|vidshare.us|vshare.eu
 ||cloudfront.net^*ad$domain=fiaformulae.com
 ||cloudfront.net^*banner$domain=fiaformulae.com
 ||cloudzer.net/ref/
@@ -835,6 +837,7 @@
 ||grindabuck.com/img/skyscraper.jpg
 ||groupon.com/javascripts/common/affiliate_widget/$third-party
 ||grouponcdn.com^*/affiliate_widget/$third-party
+||grscty.com/images/banner/$third-party
 ||gsniper.com/images/$third-party
 ||guim.co.uk/guardian/thirdparty/tv-site/side.html
 ||guzzle.co.za/media/banners/
@@ -1042,6 +1045,7 @@
 ||magicmembers.com/img/mgm-125x125
 ||magniwork.com/banner/
 ||mahndi.com/images/banner/
+||mantisadnetwork.com/mantodea.min.js
 ||mantra.com.au^*/campaigns/$third-party
 ||marinejobs.gr/images/marine_adv.gif
 ||marketing.888.com^
@@ -1486,6 +1490,7 @@
 ||staticworld.net/images/*_skin_
 ||stats.hosting24.com^
 ||stats.sitesuite.org^
+||stopadblock.info^$third-party
 ||storage.to/affiliate/
 ||streamtheworld.com/ondemand/ars?type=preroll$object-subrequest
 ||streamtheworld.com/ondemand/creative?
@@ -1761,7 +1766,9 @@
 ||chronophotographie.science^$third-party
 ||croix.science^$third-party
 ||d1nmk7iw7hajjn.cloudfront.net^
+||d3jgr4uve1d188.cloudfront.net^
 ||d3ujids68p6xmq.cloudfront.net^
 ||demande.science^$third-party
+||onfocus.io^$third-party
 ||secretmedia.com^$third-party
 ||zeste.top^$third-party

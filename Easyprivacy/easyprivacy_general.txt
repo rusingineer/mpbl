@@ -1,4 +1,5 @@
 &ctxId=*&pubId=*&objId=
+&http_referer=
 &pageReferrer=
 &refererPageDetail=
 &trackingserver=
@@ -209,6 +210,7 @@
 /_topic_stats?
 /_tracking/*
 /a.logrequest.yolx?
+/a.php?ref=
 /aa.php?anuid=
 /ablank.gif?
 /acbeacon2.
@@ -257,6 +259,7 @@
 /adrum.
 /ads/track/*
 /ads_tracker.
+/ads_tracking.
 /adsct?
 /adstat.
 /adstats.
@@ -492,7 +495,7 @@
 /bitrix/spread.php?
 /bizo.js
 /BKVTrack.js
-/blank.gif?
+/blank.gif?*&
 /blog/traffic/?
 /blogsectiontracking.
 /blogtotal_stats_
@@ -893,6 +896,7 @@
 /event-tracking.js
 /event.gif?
 /event/*/*?*&euidl=*&url=
+/event/pageview?
 /event?pmo=
 /event?stat_
 /eventLogServlet?
@@ -1079,6 +1083,7 @@
 /google-analytics/*
 /google.analytics.
 /google.eventTracking.js
+/google/analytics.js
 /google/analytics_
 /Google/ga.js
 /google_analitycs.
@@ -1138,7 +1143,9 @@
 /Hit.ashx?
 /hit.asp?
 /Hit.aspx?
+/hit.c?
 /hit.php?
+/hit.t?
 /hit.xiti?
 /hit/tracker
 /hit2.php
@@ -1237,6 +1244,7 @@
 /inetlog.ru/*
 /info/picksel/*
 /informerStat?
+/init_cookie.php?
 /inpl.measure.
 /insert_impressions.
 /insightXe.js
@@ -1616,6 +1624,7 @@
 /OptimostPageCode.
 /ordertrack/*
 /osGoogleAnalytics.
+/ositTracker.
 /ot_e404.gif?
 /ovstats.
 /ow_analytics.
@@ -1660,6 +1669,7 @@
 /pageviews?token=
 /PageviewsTracker.
 /pap.swf?
+/partner/transparent_pixel-$image
 /pbasitetracker.
 /PBSTrackingPlugIn.
 /pcookie_get_key
@@ -1690,10 +1700,10 @@
 /PingPixel.
 /pingServerAction?
 /pistats/cgi-bin/*
-/piwik-$domain=~piwik.org
+/piwik-$domain=~github.com|~piwik.org
 /piwik.$script,domain=~piwik.org
 /piwik.php
-/piwik/*$domain=~piwik.org
+/piwik/*$domain=~github.com|~piwik.org
 /piwik1.
 /piwik2.js
 /piwik_
@@ -1722,6 +1732,7 @@
 /pixelcounter.
 /pixelframe/*
 /PixelImg.asp
+/pixeljs/*
 /pixellog.
 /PixelNedstat.
 /pixelNew.js
@@ -1833,6 +1844,7 @@
 /recstatsv2.
 /redirectexittrack.php?
 /redx/c.gif?
+/ref_analytics.
 /refcount.
 /refer-tracking.
 /referadd?
@@ -1850,6 +1862,7 @@
 /RegisterWebPageVisit.
 /RemoteTargetingService.
 /remoteTrackingManager.cfc?*trackPage&
+/render?trackingId=
 /reporting/analytics.js
 /RequestTrackerServlet?
 /resmeter.js
@@ -1940,6 +1953,7 @@
 /SEMTracking.
 /send-impressions.html
 /seomonitor/*
+/seosite-tracker/*
 /seostats/*
 /seoTracker.
 /seotracker/*
@@ -2213,7 +2227,9 @@
 /Track/Capture.aspx?
 /track/count*js
 /track/dot.gif?
+/track/event/*
 /track/imp?
+/track/impression/*
 /track/jsinfo
 /track/mygreendot/*
 /track/pix.asp?
@@ -2283,6 +2299,7 @@
 /trackEvent.min.js?
 /trackga.
 /trackGAEvents.
+/trackhandler.ashx?
 /trackimage/*
 /trackImpression/*
 /trackimps?
