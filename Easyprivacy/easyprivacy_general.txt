@@ -1,5 +1,5 @@
 &ctxId=*&pubId=*&objId=
-&http_referer=
+&http_referer=$script
 &pageReferrer=
 &refererPageDetail=
 &trackingserver=
@@ -82,6 +82,7 @@
 .com/log?srvc
 .com/log?type
 .com/mm.gif?
+.com/o.gif?
 .com/p.gif?
 .com/pagelogger/
 .com/pv.gif?
@@ -254,6 +255,7 @@
 /admantx/*
 /admonitoring.js
 /AdobeCustomVideoMeasurement.swf
+/adonis_event/*
 /adpixel.
 /adrum-
 /adrum.
@@ -374,6 +376,7 @@
 /analyticsfeed.ashx?
 /analyticsid.
 /analyticsjs.
+/analyticsjs/*
 /AnalyticsOnDemand/*
 /analyticsscript_
 /analyticstick.
@@ -413,6 +416,7 @@
 /aslog.php?
 /aspenanalytics.
 /aspstats/index.asp?
+/assets/analytics:
 /assets/tracking-
 /assets/uts/*
 /AssyncCSStats.aspx
@@ -923,6 +927,7 @@
 /FacebookTracking.
 /fairfax_tracking.js
 /fastcounter.
+/favcyanalytics?
 /fb-app-tracker.
 /fb-ga-track-
 /fb-tracking.js
@@ -1463,6 +1468,7 @@
 /metrics/image.gif?
 /metrics/metrics
 /metrics/onload
+/metrics/stat.
 /metrics/survey/*
 /metrics/vanity/?
 /metricsISCS.
@@ -2099,6 +2105,7 @@
 /stats.php?type=
 /stats/?js
 /stats/add/*
+/stats/adonis_
 /stats/collector.js
 /stats/counter.
 /stats/CounterPage.
@@ -2353,6 +2360,7 @@
 /Tracking?id=
 /tracking_add_ons.
 /tracking_ajax.
+/tracking_clic.
 /tracking_clickevents.
 /tracking_cookie_baker.
 /tracking_frame_
@@ -2431,6 +2439,7 @@
 /triggit-analytics.
 /trk-fr.
 /trk.gif?
+/trkr.js
 /truehits.php?
 /tsrHitCounter.
 /ttt.gif?
@@ -2721,6 +2730,7 @@
 =&cs_Referer=
 =ATAtracker&
 =stats&action=
+=stats&apiVersion=
 =track_view&
 =widgetimpression&
 =xtcore.
@@ -2730,6 +2740,7 @@
 ?action=track_visitor&
 ?action=tracking_script
 ?affiliate=$third-party
+?bstat=
 ?criteoTrack=
 ?event=General.track
 ?event=log&

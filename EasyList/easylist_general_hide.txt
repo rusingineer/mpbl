@@ -871,6 +871,7 @@
 ###ad-horizontal
 ###ad-horizontal-header
 ###ad-horizontal-top
+###ad-idreammedia
 ###ad-img
 ###ad-in-post
 ###ad-index
@@ -904,6 +905,7 @@
 ###ad-left-sidebar-ad-1
 ###ad-left-sidebar-ad-2
 ###ad-left-sidebar-ad-3
+###ad-left-timeswidget
 ###ad-links-content
 ###ad-list-row
 ###ad-lrec
@@ -3745,6 +3747,7 @@
 ###block-views-Advertorial-block_7
 ###block-views-ad-directory-block
 ###block-views-advertisements-block
+###block-views-advt-story-bottom-block
 ###block-views-custom-advertisement-2-block--2
 ###block-views-custom-advertisement-block--2
 ###block-views-premium-ad-slideshow-block
@@ -4522,6 +4525,8 @@
 ###div-ad-r
 ###div-ad-r1
 ###div-ad-top
+###div-adcenter1
+###div-adcenter2
 ###div-adid-4000
 ###div-dfp-BelowContnet
 ###div-gpt-ad-lr-cube1
@@ -4658,6 +4663,7 @@
 ###embeded_ad_content_container
 ###entrylist_ad
 ###eshopad-728x90
+###eventAd
 ###event_ads
 ###events-adv-side1
 ###events-adv-side2
@@ -8133,6 +8139,7 @@
 ##.ad-720-affiliate
 ##.ad-728
 ##.ad-728-90
+##.ad-728-banner
 ##.ad-728x90
 ##.ad-728x90-1
 ##.ad-728x90-top
@@ -8189,6 +8196,7 @@
 ##.ad-banner-top
 ##.ad-banner-top-wrapper
 ##.ad-banner-vertical
+##.ad-banner-wrapper
 ##.ad-banner728-top
 ##.ad-banr
 ##.ad-bar
@@ -8308,6 +8316,7 @@
 ##.ad-div
 ##.ad-diver
 ##.ad-divider
+##.ad-dt
 ##.ad-e
 ##.ad-enabled
 ##.ad-entry-wrapper
@@ -8424,6 +8433,7 @@
 ##.ad-link-left
 ##.ad-link-right
 ##.ad-links
+##.ad-links-text
 ##.ad-loaded
 ##.ad-location
 ##.ad-location-container
@@ -8785,6 +8795,7 @@
 ##.ad250c
 ##.ad250wrap
 ##.ad250x250
+##.ad250x300
 ##.ad260x60
 ##.ad284x134
 ##.ad2content_box
@@ -9250,6 +9261,7 @@
 ##.adWideSkyscraperRight
 ##.adWidget
 ##.adWidgetBlock
+##.adWidgetSponsor
 ##.adWithTab
 ##.adWord
 ##.adWrap
@@ -9406,6 +9418,7 @@
 ##.ad_block_338
 ##.ad_block__336_d1
 ##.ad_block_leader2
+##.ad_bn
 ##.ad_body
 ##.ad_border
 ##.ad_botbanner
@@ -10723,6 +10736,7 @@
 ##.adsmaller
 ##.adsmalltext
 ##.adsmanag
+##.adsmbody
 ##.adsmedrect
 ##.adsmedrectright
 ##.adsmessage
@@ -11682,6 +11696,7 @@
 ##.banner-468x60
 ##.banner-728
 ##.banner-728x90
+##.banner-950x50
 ##.banner-ad
 ##.banner-ad-300x250
 ##.banner-ad-footer
@@ -12633,6 +12648,7 @@
 ##.dfp_ad_inner
 ##.dfrads
 ##.diggable-ad-sponsored
+##.discourse-google-dfp
 ##.display-ad
 ##.display-ads-block
 ##.display-advertisement
@@ -13115,6 +13131,7 @@
 ##.google-adsense
 ##.google-afc-wrapper
 ##.google-csi-ads
+##.google-dfp-ad-label
 ##.google-entrepreneurs-ad
 ##.google-right-ad
 ##.google-sponsored
@@ -13478,6 +13495,7 @@
 ##.homepage_block_ad
 ##.homepage_middle_right_ad
 ##.homepageinline_adverts
+##.homesmallad
 ##.homestream-ad
 ##.hor_ad
 ##.hori-play-page-adver
@@ -13523,6 +13541,7 @@
 ##.hpa-ad1
 ##.hr-ads
 ##.hr_ad
+##.hr_advt
 ##.hrad
 ##.hss-ad
 ##.hss-ad-300x250_1
@@ -14161,6 +14180,7 @@
 ##.misc-ad
 ##.misc-ad-label
 ##.miscAd
+##.ml-advert
 ##.ml-adverts-sidebar-1
 ##.ml-adverts-sidebar-2
 ##.ml-adverts-sidebar-4
@@ -15164,6 +15184,7 @@
 ##.sc_iframe_ad
 ##.scad
 ##.scanAd
+##.scb-ad
 ##.scc_advert
 ##.schedule_ad
 ##.sci-ad-main
@@ -16185,6 +16206,10 @@
 ##.topadspot
 ##.topadtara
 ##.topadtxt
+##.topadtxt120
+##.topadtxt300
+##.topadtxt428
+##.topadtxt728
 ##.topadvertisementsegment
 ##.topbar-ad-unit
 ##.topboardads
@@ -16333,12 +16358,14 @@
 ##.view-advertisements
 ##.view-advertisements-300
 ##.view-adverts
+##.view-advt-story-bottom
 ##.view-custom-advertisement
 ##.view-display-id-ads_all
 ##.view-id-Advertisment
 ##.view-id-ad
 ##.view-id-advertisements
 ##.view-id-advertisements_300
+##.view-id-advt_story_bottom
 ##.view-id-custom_advertisement
 ##.view-image-ads
 ##.view-promo-mpu-right
@@ -16356,6 +16383,7 @@
 ##.views-field-field-ad
 ##.views-field-field-adbox-1
 ##.views-field-field-adbox-2
+##.views-field-field-advertisement-image
 ##.vip-club-ad
 ##.virgin-mpu
 ##.visor-breaker-ad
@@ -16497,6 +16525,7 @@
 ##.widget_internationaladserverwidget
 ##.widget_ione-dart-ad
 ##.widget_island_ad
+##.widget_jr_125ads
 ##.widget_maxbannerads
 ##.widget_nb-ads
 ##.widget_new_sponsored_content

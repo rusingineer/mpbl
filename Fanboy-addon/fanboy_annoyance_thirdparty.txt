@@ -103,6 +103,7 @@
 ||getglue.com^$third-party
 ||getkudos.me^$third-party
 ||getmailcounter.com^$third-party
+||getscoutapp.com^$third-party
 ||getsmily.com^$third-party
 ||githubbadge.appspot.com^$third-party
 ||google.com/uds/?file=orkut&
@@ -223,7 +224,7 @@
 ||survey.constantcontact.com^$third-party
 ||survey.io^$third-party
 ||surveygizmo.com^$third-party
-||surveymonkey.com^$third-party
+||surveymonkey.com^$third-party,domain=~surverymonkey.co.uk
 ||swishu.com^$third-party
 ||taboola.com^$third-party
 ||taboolasyndication.com^$third-party

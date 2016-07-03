@@ -22,7 +22,6 @@
 ||9fine.ru^$third-party
 ||a-love.nninfo.ru^
 ||a.fobos.tv^
-||a.mayakinfo.ru^$third-party,image,object
 ||a.votpusk.ru^$third-party,image,object
 ||a24help.ru/_partners.js$third-party
 ||a24help.ru/assets/promo/$third-party
@@ -50,10 +49,11 @@
 ||addweb.ru^
 ||adgo-online.de^
 ||adhands.ru^
-||adhub.ru^
+||adhub.ru^$third-party
 ||adizer.ru^
 ||adland.ru^
 ||admaster.net^
+||admgarshino.ru^$third-party
 ||admimsy.com^$third-party
 ||admulti.ru^
 ||adpix.ru^
@@ -282,6 +282,7 @@
 ||exaccess.ru^$third-party
 ||exo.kiev.ua/?zone=
 ||exo.kiev.ua^$third-party
+||exteriormedia.ru^$third-party
 ||extool.biz/banners/
 ||factor-vesa.net/enter/?url=dont_go_away/
 ||fairlink.ru^
@@ -314,6 +315,7 @@
 ||forex-i-love-you.ru/files/
 ||forex4you.org/flash/partners/
 ||forsage.biz^$third-party
+||forumrpg.ru^$third-party,subdocument
 ||fotkidepo.ru^$third-party,script
 ||fotostrana.ru/promo/
 ||freeavalanche.ru^
@@ -372,7 +374,7 @@
 ||hitex.com.ua^$domain=~hitex.com.ua
 ||hitlist.ru^$third-party
 ||hmn.ru/mhmb_bs/viewb.js?
-||holder.com.ua^
+||holder.com.ua^$third-party
 ||homework.ru^$third-party
 ||homrus.net^
 ||host.ru/images/txt_iframe.php
@@ -453,6 +455,7 @@
 ||kioskas.lt^*/pop.php?
 ||kleo.ru/cgi-bin/
 ||knstats.com^$third-party
+||kolkhida-trade.ge^$third-party
 ||kolobok.us/button/
 ||komisite.ru/images/ban*.gif
 ||komok.com^$third-party
@@ -584,8 +587,10 @@
 ||myiphone.be^$third-party
 ||myjane.ru^$third-party
 ||myjulia.ru^$third-party
+||mylove.ru^$third-party,script
 ||myragon.ru^$third-party,~popup,popup
 ||myshopthings.com/partner-rtb.js?
+||mysiten.ucoz.net^$third-party
 ||mytraf.ru^
 ||n.vipadvert.net^
 ||nadavi.com.ua^$third-party
@@ -1021,6 +1026,7 @@
 ||vsekino.su^$third-party
 ||vsem.ru^$third-party
 ||vsemp.ru^$third-party
+||vseokino.com/rotator/$third-party
 ||vsesumki.com^$third-party
 ||vsetv.com/pic/paid/
 ||vtizr.com^

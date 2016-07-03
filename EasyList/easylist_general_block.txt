@@ -73,7 +73,9 @@
 -ad-200x200-
 -ad-24x24.
 -ad-300x250.
+-ad-300x450.
 -ad-300x600-
+-ad-303x481-
 -ad-313x232.
 -ad-336x280-
 -ad-340x400-
@@ -219,7 +221,7 @@
 -advertising2-
 -advertising_
 -advertisment-
--adwords.
+-adwords.$domain=~freelance-adwords.com|~freelance-adwords.fr
 -affiliate-link.
 -affiliates/img_
 -amazon-ads/
@@ -616,6 +618,7 @@
 .utils.ads.
 .vert.ad.
 .videoad3.
+.weborama.js
 .widgets.ad?
 .ws/ads/
 .xxx/ads/
@@ -2379,6 +2382,7 @@
 /adscalebigsize.
 /adscalecontentad.
 /adscaleskyscraper.
+/adscbg/*
 /adscloud.
 /adscluster.
 /adscontent.
@@ -2542,6 +2546,7 @@
 /adsmin/*
 /adsmm.dll/*
 /adsmodules/*
+/adsnative_
 /adsnew.
 /adsnew/*
 /adsnip.
@@ -3427,6 +3432,7 @@
 /breaking_ad/*
 /brightcovead.
 /bserver/*
+/btads/*
 /btbuckets/btb.js
 /btmads.
 /btmadsx.
@@ -3469,6 +3475,7 @@
 /category-sponsorship/*
 /catfishads/*
 /cb.php?sub$script,third-party
+/cbgads.
 /cci-ads-
 /cdn.ad.
 /cdn.ads.
@@ -3503,6 +3510,7 @@
 /clients/ads/*
 /clkads.
 /cm/ads/*
+/CME-ad-
 /cms/ads/*
 /cms/js/ad_
 /cn-advert.
@@ -4487,6 +4495,7 @@
 /jsc/ads.
 /jsfiles/ads/*
 /json/ad/*
+/jsonad/*
 /jsplayerads-
 /jspopunder.
 /jstextad.
@@ -5677,6 +5686,7 @@
 /tncms/ads/*
 /toggleAds.
 /toigoogleads.
+/toigoogleleads_
 /toolkitads.
 /tools/ad.
 /toonad.
@@ -6006,6 +6016,8 @@
 /zalando-ad-
 /zanox/banner/*
 /zanox_ad/*
+/zaz-admanager.
+/zaz-admanager/*
 /zedo_
 /~cdn/ads/*
 ://a.ads.
@@ -6346,6 +6358,7 @@ _adrotator.
 _adrow-
 _ads-affiliates_
 _ads.cgi
+_ads.cms?
 _ads.html
 _ads.js?
 _ads.php?
@@ -6566,6 +6579,7 @@ _index_ad.
 _inline_advert&
 _inlineads.
 _js/ads.js
+_js_ads.
 _js_ads/
 _jtads/
 _juiceadv.

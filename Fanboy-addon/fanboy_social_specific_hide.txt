@@ -296,6 +296,7 @@ comicbookmovie.com##.CBMFollow
 techimperia.com##.FooterLeft.paddingright0
 quora.com##.FooterSignupForm
 socialblade.com##.GoogleButton
+thegrio.com##.Modal
 ehow.com##.RightRailPromo
 scan.co.uk##.ShareWith
 avon.com,designboom.com,highstakesdb.com,hurriyetdailynews.com,revision3.com##.Social
@@ -844,6 +845,7 @@ marketwatch.com###share-bar
 wired.com###share-card
 marketwatch.com###share-tools-fixed
 dailycaller.com###share-wrapper
+indiatimes.com###shareVertHolder
 cinemablend.com##.StoryShareBar
 pcgames-download.net##.addthis_toolbox
 arnnet.com.au,cio.co.nz,cio.com.au,reseller.co.nz##.art-share
@@ -860,14 +862,16 @@ pcworld.co.nz##.header_social
 computerworlduk.com##.helpIcons
 cinemablend.com##.iSocialB
 clashdaily.com##.large-share-bar-container
+indiatimes.com##.leftsocial
 cso.com.au##.lo-header_social
 dailymail.co.uk##.pinterest
 latinomegahd.net##.rdsocial
-itunesplusaacm4a.org##.sd-sharing
+itunesplusaacm4a.org,world4.eu##.sd-sharing
 thefreedictionary.com##.share-block
 gamezone.com##.share-buttons
 dailymail.co.uk##.share-pictures-overlay
 computerworlduk.com,techworld.com##.shareIcon
+indiatimes.com##.share_toi
 cityam.com##.sharing
 gamezone.com##.social-buttons
 cityam.com##.social-click
@@ -876,6 +880,7 @@ thefreedictionary.com##.social-networks
 mtlblog.com##.social-share-bar
 computerworlduk.com,techworld.com##.socialConnect
 onlinemoviewatchs.com,onlinemoviewatchs.tv##.ssocial
+technoshouter.com##.td-post-sharing
 fullmatchesandshows.com##.td_block_social_counter
 dailymail.co.uk##.twitter
 cinemablend.com##.twitter-share-button

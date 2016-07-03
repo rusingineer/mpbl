@@ -283,6 +283,7 @@ _social_rss.
 -agree-cookies/
 -cookie-banner-
 -cookie-cnil.
+-cookie-consent/
 -cookie-filter/$script
 -cookie-law-popup.
 -cookie-law.js
@@ -392,6 +393,7 @@ _social_rss.
 /cookie_sticky_
 /cookie_ws.
 /cookie_ws/*
+/CookieAccept/*
 /cookieacceptance.
 /cookiealert.
 /CookieAlertBootStrapper.

@@ -26,6 +26,7 @@ weltwoche.ch###alteAusgabenCovers
 boligliv.dk,rumid.dk###banner-floating
 abril.com.br###barra-mini-home
 svethardware.cz###cfooter
+movieview.dk###cookie
 mojkvart.hr###dcw1
 qr.cz###eu-fck
 akcneletaky.sk###infoCoo
@@ -69,18 +70,22 @@ helpster.de###videoFlyin
 netzwelt.de##.ckch
 stern.de##.fixedHomeLink
 focus.de##.fixed_home_link
-kleiderkreisel.de##.js-notification
+kleiderkreisel.de,mamikreisel.de##.js-notification
 cushmanwakefield.de##.m-warning
 ifun.de,iphone-ticker.de##.mail
+moviepilot.de##.notification
 spiegel.de##.sticky-home-link
 cebit.de,hannovermesse.de##.user-notes-notification
+ortsdienst.de##div[style="background:#888;padding:10px;color:#FFF;font-weight:bold"]
+hl-live.de##table[width="1000"]
 ||focus.de/fol/pics/special/informiert.gif
 ||plista.com^$third-party
 !
 !---------- Hungary Site Generic Hiding Rules ----------
 !
 168ora.hu###article_toolbar
-poloverzum.hu,smoon.hu,tipparuhaz.hu###bottom_dialog
+gomarket.hu,poloverzum.hu,smoon.hu,tipparuhaz.hu###bottom_dialog
+###bottom_dialog > #bottom_dialog_inner
 hoxa.hu###container > div[style^="text-align: left;"]
 decathlon.hu###container-screen
 koloknet.hu###cookie
@@ -100,6 +105,7 @@ aig.hu##.copyright-text-header
 tesco.hu##.infoBarClosable
 roly.hu##.jq-toast-wrap
 eloben.hu##.law-accept
+mercedes-benz.hu##.mainpage_popup
 vilaglato.info##.pea_cook_more_info_popover
 vilaglato.info##.pea_cook_wrapper
 gyakorikerdesek.hu##body > div[style^="text-align: left;"]
@@ -127,13 +133,14 @@ newseria.pl###cokPyt
 bstorun.pl###comm_info
 gov.pl,osnews.pl,xfutbol.pl###cookie
 bankmillennium.pl,dobreprogramy.pl,generali.pl,newsweek.pl,play.pl,tripolo.pl###cookies
-drony.net,gadzetomania.pl,komorkomania.pl###cop
+drony.net,gadzetomania.pl,komorkomania.pl,otabletach.pl###cop
 regenersis.pl###ctl00_cpanel
 benchmark.pl###document_modal
 flyordie.pl###eucc
 di.com.pl###floating-box
 komorkomania.pl###floatingbar
 atman.pl###gbpl_oba
+opteam.pl###info_c_box
 speedtest.pl###info_container
 webelite.pl###infobar
 gsmonline.pl###jGrowl
@@ -144,22 +151,28 @@ mondeoklubpolska.pl###navbar_notice_12
 lovekrakow.pl###new-policy
 dolce-gusto.pl###nimgrowler
 e-zikoapteka.pl,tanie-leczenie.pl###notice_bar
+mkidn.gov.pl###pa
 radiomerkury.pl###privacyPolicyBox
 totalmoney.pl###right_widget
+naturo.pl###simple-modal
+naturo.pl###simple-modal-overlay
 di.com.pl###slidebox
 gornikzabrze.pl###sliding-popup
+lodz.pl###stpdueckmsg
 filmweb.pl###topBar
 mikos.com.pl,negrasport.pl###topInfoContainer0
-negrasport.pl###topInfoContainer1
+lunamarket.pl,negrasport.pl###topInfoContainer1
 goldenline.pl###topReminder
 skapiec.pl###uclaInfo
 votepush.com##.alert
 poznan.pl##.content-head-information
 alergia-allegra.pl,bitbay.pl,telepolis.pl##.cookies
+komornik.pl##.divModalDialog
 mpolska24.pl##.infoBox
 policja.pl##.informationBar
 interia.pl##.inplCCA
 vectra.pl##.jqmAlertWindow
+merixstudio.pl##.message
 filmweb.pl##.meterBottomBar
 onet.pl##.policy-box
 gda.pl##.shotimoo
@@ -168,9 +181,14 @@ virginmobile.pl##.topPanelBlock
 pl.yahoo.com##.yom-wave3-generic
 gazetapolska.pl##div[style="border: 2px solid #900; clear: left; margin-left: auto; margin-right: auto; padding: 3px; width: 984px"]
 portel.pl##div[style="font-size:10px;text-align:left;background-color: #EAF6B4;padding: 2px 7px;width:906px;margin: 0 auto;"]
+luszczyce.pl##div[style="position: fixed; bottom: 0px; width: 100%; z-index: 2000000;"]
 atakklonow.pl,mistrzowie.org,wszechpolska.pl##div[style="position: fixed; left:0; right:0; bottom:0; height:120px; background-color:#eee; border-top: 1px solid black; z-index:1000; overflow: auto"]
 sportowybar.pl##div[style="width: 100%; background-color: #eee; color: #222;"]
-mamnewsa.pl##div[style="z-index: 100000; font-family:Arial; position: fixed; bottom: 0px; left: 0; background-color: #F4EFB4; color: #000000; text-align: center; font-weight: bold; padding: 20px 0px; width:100%;"]
+mamnewsa.pl,oswiecimskie24.pl##div[style="z-index: 100000; font-family:Arial; position: fixed; bottom: 0px; left: 0; background-color: #F4EFB4; color: #000000; text-align: center; font-weight: bold; padding: 20px 0px; width:100%;"]
+nettg.pl##div[style^="background-color: #eee; text-align: center;"]
+herbaciani.pl##div[style^="float:right; padding-top:20px;"]
+mol.pl##div[style^="position: fixed; bottom: 0px;"]
+mklr.pl##div[style^="position: fixed; left:0;"]
 demotywatory.pl##div[style^="position: fixed; width: 750px; margin-left: -375px"]
 !
 !---------- Polish Site Specific Blocking Rules ----------
@@ -182,6 +200,7 @@ demotywatory.pl##div[style^="position: fixed; width: 750px; margin-left: -375px"
 ||cookies.forbes.pl^
 ||gry-online.pl/js/cookie2.js
 ||korwin-mikke.pl/js/cookies-legal-*.min.js
+||lubuskie.pl/themes/src/cookie.js
 ||muzeumwp.pl/cookies/cookies.js
 ||niewygodne.info.pl/pierwsza.htm
 ||nowehoryzonty.pl/js/cookies.js
@@ -206,6 +225,8 @@ lacajachina.fi##.cp-curtain-container
 !---------- Dutch Site Specific Hiding Rules ----------
 !
 t-mobile.nl###exposeMask
+mobil-1.nl###fancybox-overlay
+mobil-1.nl###fancybox-wrap
 techzine.nl###scrollbuddy[style="top: -20px; position: fixed;"]
 boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl#@#.Cookies
 hepatitiscgids.nl##.modal-backdrop
@@ -219,6 +240,7 @@ t-mobile.nl##.overlay
 !---------- Norway Site Specific Hiding Rules ----------
 !
 dagbladet.no###db-inger
+netonnet.no##.alert
 ruter.no##.fixed-messages
 bt.no##.flyout
 !
@@ -230,22 +252,26 @@ sfv.se###cookies
 emol.com###slidebox
 sverigesradio.se###user-message
 svensktnaringsliv.se###warning
+kvalster.se###y
 coop.se##.Alert
 aftonbladet.se##.abArticleToolbar
 aftonbladet.se##.abPremiumTeaserSalesPitch
-armemuseum.se,atg.se,automotorsport.se,bamse.se,folkuniversitetet.se,kalleanka.se,konkurrensverket.se,netonnet.se,osthammar.se,tidningenjulia.se##.alert
+armemuseum.se,atg.se,automotorsport.se,bamse.se,folkuniversitetet.se,fora.se,kalleanka.se,klaramaten.se,konkurrensverket.se,lernia.se,netonnet.se,osthammar.se,tidningenjulia.se##.alert
 tre.se##.alert-bar
+kronofogden.se##.alertWrap
 skatteverket.se##.alertWrp
 elkedjan.se##.avalanche-message
 nacka.se##.c-message
 polisen.se##.cookie
 havkom.se,lfv.se,oru.se##.cookies
+lexus.se##.disclaimer
 gp.se##.gpsecGRCookieContainer
 gamerloot.se##.header-notice
 asedo.se##.infobanner
 filminstitutet.se##.js-info-banner
 smhi.se##.polopolyNotification
 emol.com##.social-tools-emol-g1
+fass.se##.starttopdialog
 bahnhof.se##.top-line-block
 telia.se##.tsAttention--Info
 telia.se##.tsAttention--Info--button
@@ -267,6 +293,7 @@ itc.ua##.verticalPageNav
 !---------- French Site Specific Hiding Rules ----------
 !
 hotelalisee.fr###CPolicy
+ilninth.wordpress.com###MsgContainer
 gentside.com###actionreceiver
 ladepeche.fr###alerte_tracking
 lemonde.fr###bandeau_bas
@@ -281,10 +308,12 @@ zdnet.fr###catfish
 francetvsport.fr,pourquoidocteur.fr###cboxOverlay
 centerblog.net###centerbl
 pagesjaunes.fr###cgu
+marmottons.net###ck
 francetvsport.fr,pourquoidocteur.fr###colorbox
 paconsulting.com###cookPop
 gmf.fr,grillofrance.fr,havas-voyages.fr,materiel.net,paris.fr,societe.com,sportetstyle.fr###cookie
 brain-magazine.fr,gentside.com,jules.com,laposte.fr,maxisciences.com,mybiclighter.com,ohmymag.com,showroomprive.com###cookies
+materiel-velo.com###downbar
 biomet.fr,closermag.fr,illicopharma.com###fancybox-overlay
 biomet.fr,closermag.fr,illicopharma.com###fancybox-wrap
 actu-environnement.com###footer_newsletter_content
@@ -292,6 +321,7 @@ gamemania.be###globalmessage
 fronton.tv###ico_banner
 lepoint.fr###iframeForm
 mspy.fr###infoToolbar
+monster.fr###interMsgsW
 bycontext.com###lcBar
 paperblog.fr###left-block
 priceminister.com###legalNotificationEltId
@@ -308,6 +338,7 @@ lequipe.fr###rebonds
 gentside.com###signup-holder
 boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###sliding-popup
 groupon.fr###spotlight
+normaeditorial.com###styleDown
 nwglobalvending.fr###toast
 lequipe.fr###toasterQuoti
 lequipe.fr###toolbar
@@ -322,12 +353,16 @@ lesnumeriques.com##.alert
 20minutes.fr##.alerts_container
 rtl.fr##.article-mail-form
 mnt.fr##.banner
+motauto.com##.boxy-modal-blackout
+motauto.com##.boxy-wrapper
 cuisineaz.com##.cazLightbox
 pmu.fr,regionguadeloupe.fr##.cnil
-aso.fr##.confidentialite
+aso.fr,letour.fr##.confidentialite
 rueducommerce.fr##.confidentialite_header
 6play.fr,aquellefrequence.fr,midilibre.fr,migreat.fr,sudouest.fr##.cookie
 118000.fr,communauto.com,ouestjob.com##.cookies
+lexus.fr##.disclaimer
+luminaire.fr##.dnt-dialog
 jeuxvideo.fr,turbo.fr##.fb-overlay
 tupperware.fr##.floating
 goldenmoustache.com##.flying-related
@@ -352,6 +387,7 @@ nouvelobs.com##.obs-article-boutils
 nouvelobs.com##.obs-follow-nl
 leclercdrive.fr##.pWCTD609_BandeauCookies
 voici.fr##.pmd-alert
+monavislerendgratuit.com##.policy
 minutebuzz.com##.popinNl
 e-leclerc.com##.popover
 metairie.fr##.popup-notification
@@ -400,6 +436,7 @@ cincodias.com,meristation.com###capaAvisoPoliticaCookies_superior_mensajes
 aristeguinoticias.com###comparte
 cliper.pt###cook
 clementoni.pt###disclaimer
+leroymerlin.es###divFlotante
 biomet.pt###fancybox-overlay
 biomet.pt###fancybox-wrap
 canaltech.com.br###floatBar

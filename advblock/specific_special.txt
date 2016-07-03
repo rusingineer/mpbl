@@ -1,22 +1,21 @@
 ! Правила для отдельных сайтов с разношерстными правилами или групп сайтов
 !
 ! FS.to
-brb.to,cxz.to,fs.to##.b-aplayer-teasers > a
-brb.to,cxz.to,fs.to##.b-player-popup__content > div[class][style="position: relative;"]
-brb.to,cxz.to,fs.to##.b-resizable-ads-area ~ *
-brb.to,cxz.to,fs.to##.b-resizable-ads-area ~ * *
-cxz.to##.l-tab-item-content > div[id][class]
-brb.to,cxz.to##.m-content_state_without-gradient > div[class][id]
 @@||brb.to^$genericblock
 @@||brb.to^$generichide
 @@||cxz.to^$genericblock
 @@||cxz.to^$generichide
 @@||fs.to^$genericblock
 @@||fs.to^$generichide
+brb.to,cxz.to##.m-content_state_without-gradient > div[class][id]
+brb.to,cxz.to,fs.to##.b-aplayer-teasers > a
+brb.to,cxz.to,fs.to##.b-player-popup__content > div[class][style="position: relative;"]
+brb.to,cxz.to,fs.to##.b-resizable-ads-area ~ *
 brb.to,cxz.to,fs.to##[class*="-universalsmall_"]
 brb.to,cxz.to,fs.to##[class*="adproxy"]
 brb.to,cxz.to,fs.to##div[id^="admixer_async_"]
 brb.to,cxz.to,fs.to##div[id^="adsProxy"]
+cxz.to##.l-tab-item-content > div[id][class]
 ||admixer.net^$domain=brb.to|cxz.to|fs.to
 ||adproxy2.com^$domain=brb.to|cxz.to|fs.to
 ||doubleclick.net^$domain=brb.to|cxz.to|fs.to
@@ -53,12 +52,10 @@ joyreactor.cc,pornreactor.cc,reactor.cc##.prettyPhotoLink[href*=".%"]:not([href^
 joyreactor.cc,pornreactor.cc,reactor.cc##.prettyPhotoLink[href*=".Pw"]:not([href^="http://img"]):not([href*="@"]),.prettyPhotoLink[href*=".pW"]:not([href^="http://img"]):not([href*="@"])
 joyreactor.cc,pornreactor.cc,reactor.cc##.prettyPhotoLink[href*=".pw"]:not([href^="http://img"]):not([href*="@"]),.prettyPhotoLink[href*=".PW"]:not([href^="http://img"]):not([href*="@"])
 joyreactor.cc,pornreactor.cc,reactor.cc##.visitweb_ad, .visitweb_img, .visitweb_txt, .visitweb_cheat
-joyreactor.cc,pornreactor.cc,reactor.cc##a img[src*="-"]:not([src^="http://img"]):not([width]),a img[src*="-"][src^="http://img"][src*="@"]:not([width])
 joyreactor.cc,pornreactor.cc,reactor.cc##a:not([href^="http://link.reactor.cc/"]):not([href*="@"]) b,a[href*="@"]:not([href*="@link.reactor.cc/"]) b
 joyreactor.cc,pornreactor.cc,reactor.cc##a[href*=".pw/"]:not([href^="/"]):not([href^="javascript:void(0)"]):not([href*="@"]), a[href="/"] img, a[href="/"][target="_blank"]
 joyreactor.cc,pornreactor.cc,reactor.cc##a[href*="@ss."],a[href*="@Ss."],a[href*="@sS."],a[href*="@SS."],a[href*="@%"],a[href*="@s%"]
 joyreactor.cc,pornreactor.cc,reactor.cc##a[href^="http://ss."]:not([href*="@"]),a[href^="http://Ss."]:not([href*="@"]),a[href^="http://sS."]:not([href*="@"]),a[href^="http://SS."]:not([href*="@"]),a[href^="http://%"]:not([href*="@"]),a[href^="http://s%"]:not([href*="@"])
-joyreactor.cc,pornreactor.cc,reactor.cc##img[src*=".jr-"]:not([src^="http://img"]),img[src*=".jr-"][src^="http://img"][src*="@"]
 ||pw^$popup,domain=joyreactor.cc|pornreactor.cc|reactor.cc
 !
 ! Letitbit
@@ -72,99 +69,31 @@ letitbit.net##.lid-thanks_no_downloader
 ! Mail.ru и Одноклассники
 ! Объединять правила с banner в конце не стоит - там ещё другие классы перечислены часто
 ! Скрытие по-разделам
-e.mail.ru###AdLeftInformer
-e.mail.ru###SendMsgOkLeftSlot
+! Общие правила
 mail.ru###ad-sputnik
-e.mail.ru###b-slot_left_direct
-rabota.mail.ru###banner1
-tv.mail.ru###banner_240x400
 mail.ru###internet-offer
-e.mail.ru###leftcol-banners
-news.mail.ru###p-Ears-Cont
-e.mail.ru###preload_banner_1
-love.mail.ru##.TopBannerSlot
-go.mail.ru##.ad-blk
-auto.mail.ru##.addMain2
-love.mail.ru##.adv-contacts
-hi-tech.mail.ru##.article-spec-wrap
-hi-tech.mail.ru##.b-ad_200
 mail.ru##.b-ad_text
-news.mail.ru##.b-bannered
-games.mail.ru##.b-content__banner
 mail.ru##.b-context
-hi-tech.mail.ru##.b-foot_banner
-my.mail.ru##.b-fourth-pseudo-column
 mail.ru##.b-head__banner
-hi-tech.mail.ru##.b-htop__banner
-news.mail.ru##.b-index-banner
-news.mail.ru##.b-index-spring
-my.mail.ru##.b-leftmenu__li-item-app.new-app
-my.mail.ru##.b-leftmenu__li-item-hit
-hi-tech.mail.ru##.b-mainphotocol
-news.mail.ru##.b-partner_million
-hi-tech.mail.ru##.b-preview
-e.mail.ru##.b-rb
-e.mail.ru##.b-slot_banner
-news.mail.ru##.ban
+mail.ru##.ban
 mail.ru##.banner
-rabota.mail.ru##.banner-wall-container
-afisha.mail.ru##.banner_940x50
-love.mail.ru##.banner_left
 mail.ru##.bgshechka
-go.mail.ru##.block-goods
-afisha.mail.ru##.block_collapse_bottom
-lady.mail.ru##.bnr-240
-auto.mail.ru##.box[class*="rb_"][class*="_target"]
-realty.mail.ru##.box_special
-pogoda.mail.ru##.branding
-news.mail.ru##.branding-p
-lady.mail.ru##.buy
-auto.mail.ru##.cols__column_sidebar
-lady.mail.ru##.cols_clear > .cols__column_sidebar
-cloud.mail.ru##.content__left > div[id] > div[style="font-size: 13px;"] > div[style^="font-size: 90%;"]
+mail.ru##.branding-footer
 mail.ru##.daynews__banner
 mail.ru##.daynews__spring
 mail.ru##.direct
-pogoda.mail.ru##.forecast-branding-link
-health.mail.ru##.fromPartners3
-hi-tech.mail.ru##.full-splash
 mail.ru##.goods
-auto.mail.ru##.grid__item_banner
-hi-tech.mail.ru##.header-banner
-sport.mail.ru##.index-top__right
 mail.ru##.js-banner
-hi-tech.mail.ru##.js-branding-target
 mail.ru##.js-pbanner_cntr
-afisha.mail.ru##.js-popup_banner
 mail.ru##.js-popup_gallery .viewbox__side
-auto.mail.ru##.js-slot-parallax-container
-cars.mail.ru##.js-springs__top
 mail.ru##.layout__centercol__wrap > div[id^="slot_"][class="tgb"]
 mail.ru##.layout__promotoolbar
 mail.ru##.left_banner
-e.mail.ru##.leftcol__banner__direct
-e.mail.ru##.leftcol__banners__promobox-list
-love.mail.ru##.link-ad
-video.mail.ru##.lvi-r-ban
-pogoda.mail.ru##.mailru-visibility-check
-e.mail.ru##.message-sent__ads
-my.mail.ru##.notif__marketing
-horo.mail.ru##.p-box[class*=" rb_"]
-horo.mail.ru##.p-branding-top
-horo.mail.ru##.p-mimic
-news.mail.ru##.p-top-adplate
-horo.mail.ru##.p-top-banner
-lady.mail.ru##.p-top-banners
-lady.mail.ru##.parallax
-news.mail.ru##.parallax:not(#specificity-fix)
-afisha.mail.ru,auto.mail.ru,hi-tech.mail.ru##.pc-branding
-e.mail.ru##.portal-banner__marker
+mail.ru##.page-bottomad
+mail.ru##.page-topad
 mail.ru##.portal-menu__banner
-afisha.mail.ru##.promo
-cards.mail.ru##.pt10.center
 mail.ru##.rb-video-widget
 mail.ru##.rb_banner
-news.mail.ru##.rb_blockPartners
 mail.ru##.rb_body
 mail.ru##.rb_div
 mail.ru##.rb_idx
@@ -172,54 +101,142 @@ mail.ru##.rb_text
 mail.ru##.rbtopblock
 mail.ru##.rekl_eburg
 mail.ru##.resn-real
-go.mail.ru##.responses__wrapper > div[id^="js-"][id$="Block"] > div[class$="-block"]
-rabota.mail.ru##.rmr-rightbanners
-news.mail.ru##.s-article__banner-place
-news.mail.ru##.s-article__spring-place
-auto.mail.ru##.shadow.margin
-lady.mail.ru##.slot
-hi-tech.mail.ru##.sony-text-wrap
-realty.mail.ru##.spring-side
-auto.mail.ru##.spring_top-250
-lady.mail.ru##.sticky-springs
-pogoda.mail.ru##.sticky-springs > .advert
-sport.mail.ru##.sub-news_million
 mail.ru##.text-banner
 mail.ru##.text_adv
-lady.mail.ru##.top-branding-block
 mail.ru##.top_article_ban
-otvet.mail.ru##.torg-answer-banner
 mail.ru##.trg-b-banner-block
-my.mail.ru##.ui-simple-block[class*="promo"]
-my.mail.ru##.ui-simple-block[class*="reklama"]
-news.mail.ru##.viewbox__slide-inner > .viewbox__side
 mail.ru##.w-banner
-cloud.mail.ru##.w-public__content > .b-layout div[id][class][style="width: 240px;"]
-cloud.mail.ru##.w-public__content div[id] > div[style="font-size: 13px;"] > div[style^="font-size: 90%;"]
-go.mail.ru##.ya-fuab
 mail.ru##[class^="rb-million"]
-auto.mail.ru##[data-module="BrandingVideo"]
 mail.ru##a[class^="branding"]
 mail.ru##a[id^="tb-"][href*="://r.mail.ru/"]
 mail.ru##body > .ad
 mail.ru##div[class*="_branding"]
 mail.ru##div[class*="directhack"]
 mail.ru##div[class*="rb-direct-"]
-auto.mail.ru##div[class*="rb_601"]
-realty.mail.ru##div[class][data-module^="TopMail.Special."]
 mail.ru##div[class^="adv-slot-"]
-lady.mail.ru##div[class^="box rb_"]
-lady.mail.ru##div[class^="pc-bracing"]
-go.mail.ru##div[class^="ya_"][class$="_bottom"]
 mail.ru##div[data-adq-id^="adqcontainer"]
-lady.mail.ru##div[data-module="PromoPopup"]
 mail.ru##div[data-module^="Slot.Mimic"]
 mail.ru##div[data-type="direct"]
-otvet.mail.ru##div[id^="adv-slot-"]
 mail.ru##div[id^="direct__worm"]
-e.mail.ru##div[id^="dynamic_banner_"]
-cloud.mail.ru##div[id^="rb_banner"]
 mail.ru##div[id^="yandex_"]
+! Почта
+e.mail.ru###AdLeftInformer
+e.mail.ru###SendMsgOkLeftSlot
+e.mail.ru###b-slot_left_direct
+e.mail.ru###leftcol-banners
+e.mail.ru###preload_banner_1
+e.mail.ru##.b-rb
+e.mail.ru##.b-slot_banner
+e.mail.ru##.leftcol__banner__direct
+e.mail.ru##.leftcol__banners__promobox-list
+e.mail.ru##.message-sent__ads
+e.mail.ru##.portal-banner__marker
+e.mail.ru##div[id^="dynamic_banner_"]
+! News
+news.mail.ru###doubleformat_down
+news.mail.ru###p-Ears-Cont
+news.mail.ru##.b-bannered
+news.mail.ru##.b-index-banner
+news.mail.ru##.b-index-spring
+news.mail.ru##.b-partner_million
+news.mail.ru##.branding-p
+news.mail.ru##.p-top-adplate
+news.mail.ru##.parallax:not(#specificity-fix)
+news.mail.ru##.rb_blockPartners
+news.mail.ru##.s-article__banner-place
+news.mail.ru##.s-article__spring-place
+news.mail.ru##.viewbox__slide-inner > .viewbox__side
+! Погода
+pogoda.mail.ru##.branding
+pogoda.mail.ru##.forecast-branding-link
+pogoda.mail.ru##.mailru-visibility-check
+pogoda.mail.ru##.sticky-springs > .advert
+! Auto
+auto.mail.ru##.addMain2
+auto.mail.ru##.box[class*="rb_"][class*="_target"]
+auto.mail.ru##.cols__column_sidebar
+auto.mail.ru##.grid__item_banner
+auto.mail.ru##.js-slot-parallax-container
+auto.mail.ru##.shadow.margin
+auto.mail.ru##.spring_top-250
+auto.mail.ru##[data-module="BrandingVideo"]
+auto.mail.ru##div[class*="rb_601"]
+! Afisha
+afisha.mail.ru##.banner_940x50
+afisha.mail.ru##.block_collapse_bottom
+afisha.mail.ru##.js-popup_banner
+afisha.mail.ru##.promo
+! Lady
+lady.mail.ru##.bnr-240
+lady.mail.ru##.buy
+lady.mail.ru##.cols_clear > .cols__column_sidebar
+lady.mail.ru##.p-top-banners
+lady.mail.ru##.parallax
+lady.mail.ru##.slot
+lady.mail.ru##.sticky-springs
+lady.mail.ru##.top-branding-block
+lady.mail.ru##div[class^="box rb_"]
+lady.mail.ru##div[class^="pc-bracing"]
+lady.mail.ru##div[data-module="PromoPopup"]
+! Hi-Tech
+hi-tech.mail.ru##.article-spec-wrap
+hi-tech.mail.ru##.b-ad_200
+hi-tech.mail.ru##.b-foot_banner
+hi-tech.mail.ru##.b-htop__banner
+hi-tech.mail.ru##.b-mainphotocol
+hi-tech.mail.ru##.b-preview
+hi-tech.mail.ru##.full-splash
+hi-tech.mail.ru##.header-banner
+hi-tech.mail.ru##.js-branding-target
+hi-tech.mail.ru##.sony-text-wrap
+! Мой Мир
+my.mail.ru##.b-fourth-pseudo-column
+my.mail.ru##.b-leftmenu__li-item-app.new-app
+my.mail.ru##.b-leftmenu__li-item-hit
+my.mail.ru##.notif__marketing
+my.mail.ru##.ui-simple-block[class*="promo"]
+my.mail.ru##.ui-simple-block[class*="reklama"]
+! Love
+love.mail.ru##.TopBannerSlot
+love.mail.ru##.adv-contacts
+love.mail.ru##.banner_left
+love.mail.ru##.link-ad
+! Гороскопы
+horo.mail.ru##.p-box[class*=" rb_"]
+horo.mail.ru##.p-branding-top
+horo.mail.ru##.p-mimic
+horo.mail.ru##.p-top-banner
+! Облако
+cloud.mail.ru##.content__left > div[id] > div[style="font-size: 13px;"] > div[style^="font-size: 90%;"]
+cloud.mail.ru##.w-public__content > .b-layout div[id][class][style="width: 240px;"]
+cloud.mail.ru##.w-public__content div[id] > div[style="font-size: 13px;"] > div[style^="font-size: 90%;"]
+cloud.mail.ru##div[id^="rb_banner"]
+! Работа
+rabota.mail.ru###banner1
+rabota.mail.ru##.banner-wall-container
+rabota.mail.ru##.rmr-rightbanners
+! Разное
+tv.mail.ru###banner_240x400
+go.mail.ru##.ad-blk
+games.mail.ru##.b-content__banner
+go.mail.ru##.block-goods
+realty.mail.ru##.box_special
+health.mail.ru##.fromPartners3
+sport.mail.ru##.index-top__right
+cars.mail.ru##.js-springs__top
+video.mail.ru##.lvi-r-ban
+afisha.mail.ru,auto.mail.ru,hi-tech.mail.ru##.pc-branding
+cards.mail.ru##.pt10.center
+go.mail.ru##.responses__wrapper > div > [-abp-properties='width: 100%;']
+go.mail.ru##.responses__wrapper a[href="#"][target="_blank"] ~ div[class],.responses__wrapper a[href="#"][target="_blank"]
+realty.mail.ru##.spring-side
+sport.mail.ru##.sub-news_million
+otvet.mail.ru##.torg-answer-banner
+go.mail.ru##.ya-fuab
+go.mail.ru##a[href^="http://an.yandex.ru/count/"]
+go.mail.ru##div[class*="fuab_"]
+realty.mail.ru##div[class][data-module^="TopMail.Special."]
+otvet.mail.ru##div[id^="adv-slot-"]
 maps.mail.ru##img[width="200"][height="30"]
 health.mail.ru##img[width="240"][height="200"]
 ! Блокировка ресурсов в основном на самом mail.ru
@@ -246,6 +263,7 @@ health.mail.ru##img[width="240"][height="200"]
 ||mradx.net^*&link1=$subdocument
 ||news.mail.ru^*.parallaxSlot.
 ||tv.mail.ru/popup_banner/
+!
 ! Одноклассники
 ok.ru###anonymPageContent .anonym_login:after
 ok.ru###hook_Block_StickyBannerContainer
@@ -275,10 +293,11 @@ ok.ru##.update-browser_container
 @@||naruto-base.tv/video_player/$object-subrequest,domain=naruto-base.tv
 @@||s2.naruto-base.ru^$subdocument,domain=naruto-base.tv
 ||naruto-base.tv/*.htm
-||naruto-base.tv/Diz_nb/mi_wer/
+||naruto-base.tv/Diz_nb/mysrt/
 ||naruto-base.tv^$object
 ||naruto-base.tv^*banner$image
 ||narutobase.3dn.ru^$subdocument
+||usite.pro^$third-party,domain=naruto-base.tv
 !
 ! NGS.RU
 ngs.ru###ads-fix
@@ -307,7 +326,6 @@ pb.wtf,piratbit.org,piratbit.ru###main_content > div > div[style="padding-right:
 pb.wtf,piratbit.org,piratbit.ru##.bw_TRL.border.w100
 pb.wtf##.post_wp + div[id] > div[style]
 pb.wtf,piratbit.org,piratbit.ru##.post_wrap + div[id] > div[style]
-pb.wtf,piratbit.org,piratbit.ru##.post_wrap img[src][style*="visibility: visible !important; display: block ;"]
 pb.wtf,piratbit.org,piratbit.ru##[style*="important"]
 pb.wtf,piratbit.org,piratbit.ru##a[href*="/search?"][href*="pid="]
 pb.wtf,piratbit.org,piratbit.ru##a[href^="/ixt/"],a[href^="/ext/"]
@@ -318,6 +336,7 @@ pb.wtf,piratbit.org,piratbit.ru##img[style*="visibility"][style*="display"]
 ! Rambler.RU и их проекты
 rambler.ru###ban_ruler
 ferra.ru###branding_top_link
+championat.com###brend_link_add
 kanobu.ru###log_line_link
 weather.rambler.ru###prices
 rambler.ru###sidekickButton
@@ -336,9 +355,12 @@ rambler.ru##.b-article-aside__banner
 lenta.ru##.b-banner-sidebar-rtb
 rambler.ru##.b-block-travels
 autorambler.ru##.banner-board
+championat.com##.banner-top-wide
 autorambler.ru##.bannerInside
 rambler.ru##.bnr
 games.kanobu.ru##.branding
+championat.com##.branding-link
+championat.com##.fanside-goods-list
 motor.ru##.gallery-billboard
 tv.rambler.ru##.h-promo
 rambler.ru##.inbann
@@ -346,14 +368,18 @@ motor.ru##.js-adv
 motor.ru##.js-adverts
 motor.ru##.js-adverts-top
 ag.ru##.link1
+rambler.ru##.mixednews-item_partner
 rambler.ru##.mixednews__aside > :not(.mixednews-aside-item_traffic-informer)
 news.rambler.ru##.rnet.partner
 rambler.ru##.tp-bnpl
+news.rambler.ru##[class][data-partner*="rexchange.begun.ru/banner"]
 nova.rambler.ru##[class^="b-context"][style*="!important"]
 nova.rambler.ru##[class^="b-podmes_"]
+championat.com##[class^="banner"]
 ag.ru##a[href^="http://www.ag.ru/go/outer"]
 rambler.ru##div[class^="adfox-ban_"]
 rambler.ru##div[class^="b_banner_"]
+championat.com##div[class^="l-popup"]
 lenta.ru,motor.ru,rambler.ru##div[id^="AdFox_banner_"]
 lenta.ru,motor.ru##div[id^="AdFox_iframe_"]
 ||ag.ru/*/bottom_bg.jpg
@@ -368,6 +394,7 @@ lenta.ru,motor.ru##div[id^="AdFox_iframe_"]
 ||rambler.ru/upl/clients/
 ||rambler.ru/upl/partners/
 ||rambler.ru^*.ban?
+||ssp.rambler.ru/context.jsp?*Begun_Autocontext_$script
 !
 ! RBC (РБК)
 cnews.ru###mag_banner
@@ -378,18 +405,17 @@ utro.ru##.banner_bottom_art
 cnews.ru##.banner_wrapp
 rbcdaily.ru##.c-block_content_article_baner
 utro.ru##.conteiner-partner
-rbc.ru##.js-rbcslider-banner
 rbc.ru##.l-window > .teasers
 cnews.ru##.main > noindex:last-child
 ##.rbcobmen
 cnews.ru##.tizer_block
+@@||wam.solution.weborama.fr$script,domain=rbc.ru
 rbcdaily.ru##[class*="_adv"]
 autonews.ru##[class^="banner_"]
-rbc.ru##a[href*="AdBlock"][target="_blank"]
+rbc.ru##div[class][data-banner-id] *
 rbc.ru##div[id^="mlph"]
 ||banner.rbc.ru/
 ||cnews.ru/inc/banners/
-||pics.rbc.ru/img/banners/
 ||rbc.ru/img/banners/
 ||utro.ru/*/banners/
 ||zoom.cnews.ru/inc/bpic/
@@ -397,7 +423,28 @@ rbc.ru##div[id^="mlph"]
 ! SeasonVar.ru
 seasonvar.ru##.td-for-left-block
 seasonvar.ru##a[href^="#"]
+seasonvar.ru##body > noindex
 seasonvar.ru##img[src^="data:image"]
+!
+! Sports.ru
+sports.ru,tribuna.com###top-banner-place
+sports.ru,tribuna.com##.aliens__full-screen-link
+sports.ru,tribuna.com##.betting-bat_mb_10
+sports.ru,tribuna.com##.headerLayout > div[style*="margin-top: 20px;"]
+sports.ru,tribuna.com##.promo-link
+sports.ru,tribuna.com##.rightPart > .mB20
+sports.ru,tribuna.com##[data-control="Banners.AdFox"]
+sports.ru,tribuna.com##[data-control="Banners.DFP"]
+sports.ru,tribuna.com##[data-control="Banners.Direct"]
+sports.ru,tribuna.com##[data-control="Banners.Smi2"]
+sports.ru,tribuna.com##[data-control="Banners.Yandex"]
+sports.ru,tribuna.com##[data-control^="Aliens."]
+sports.ru,tribuna.com##a#sitewrapper[href][target="_blank"][style*="cursor"]
+sports.ru,tribuna.com##a[href^="http://ru.kixx.today"]
+sports.ru,tribuna.com##a[href^="https://1xbet3.com/"]
+sports.ru,tribuna.com##div[data-control="Common.AutoInit"]
+sports.ru,tribuna.com##div[data-control="Common.BetsOnline"]
+sports.ru,tribuna.com##div[data-control="Common.BetsTabs"]
 !
 ! TorrentsZona.com и связанные с нею сайты
 funtorrents.com,listtorrents.com,luxtorrents.com,torrentsline.com,torrentszona.com###footer
@@ -450,11 +497,11 @@ ukr.net##.karta
 !
 ! Yandex (Яndex)
 ###banner.b-banner__content
-pogoda.yandex.by,pogoda.yandex.kz,pogoda.yandex.ru,pogoda.yandex.ua##.adbca
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua##.adv-manager
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.b-adv
 ##.b-spec-adv
 ##.b-yabrowser-promo
+pogoda.yandex.by,pogoda.yandex.kz,pogoda.yandex.ru,pogoda.yandex.ua##.content style + div[class]
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.direct-view
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.direct-view *
 ##.i-bem.adsrv
@@ -463,6 +510,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##.direct-view *
 ##.i-bem.tv-grid__item-adv
 ##.i-bem.tv-sortable-item.tv-sortable-item_sortable_no
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.incut_type_direct-like
+pogoda.yandex.by,pogoda.yandex.kz,pogoda.yandex.ru,pogoda.yandex.ua##.info > style + div[class]
 market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua##.layout_type_search.headline__footer
 ##.search-results__guadeloupe
 ##.serp-adv
@@ -470,7 +518,6 @@ market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua##.layout_typ
 ##.serp-list + .serp-list > .serp-adv__head ~ .serp-item
 ##.spec-adv
 ##.stat_pixel_yes[onclick][class*="_layout_"][class*="_format_"]
-pogoda.yandex.by,pogoda.yandex.kz,pogoda.yandex.ru,pogoda.yandex.ua##div[class*="_pos_"][style]
 ||an.yandex.$third-party
 ||an.yandex.ru/resource/context$script
 ||an.yandex.ru/system/context$script
@@ -492,9 +539,11 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##div[data-block="banner-view"]
 ! Yandex Music
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua###js-banner
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua#@#.promo_ad
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.smalladv
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.smalladv__no-ads
-||music.yandex.*/system/context.js$xmlhttprequest
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.smalladv__no-ads *
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##div[class^="smalladv"]
+##div[class^="smalladv"] div[id^="yandex_direct"]
+##div[class^="smalladv"] div[id^="yandex_rtb"]
+||music.yandex.*/api/v*/handlers/*?target-ref=$script
 !
 ! Сайты Блокнота
 bloknot-kamyshin.ru,bloknot-krasnodar.ru,bloknot-krasnoyarsk.ru,bloknot-lipetsk.ru,bloknot-moldova.md,bloknot-morozovsk.ru,bloknot-novocherkassk.ru,bloknot-rostov.ru,bloknot-shakhty.ru,bloknot-stavropol.ru,bloknot-taganrog.ru,bloknot-urupinsk.ru,bloknot-volgodonsk.ru,bloknot-volgograd.ru,bloknot-volzhsky.ru,bloknot-voronezh.ru,bloknot-yakutsk.ru###hozvo_adv

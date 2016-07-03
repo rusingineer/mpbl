@@ -136,6 +136,7 @@
 ###as_facebook_recommend
 ###at_social
 ###atchm-sidebar-social
+###author-links-social
 ###author-socials
 ###authorshare_wrap
 ###authorsocial
@@ -431,6 +432,7 @@
 ###facebook_recommendations
 ###facebook_right
 ###facebook_share
+###facebook_slider_widget
 ###facebook_social_300
 ###facebook_social_sidebar
 ###facebook_teaser
@@ -854,6 +856,7 @@
 ###mainlist_social_stuff
 ###mainshare
 ###mainsitesocial
+###marge_socials
 ###marvel_social
 ###mashsocial
 ###mast-share
@@ -2136,6 +2139,7 @@
 ##.aboutSocialLinks
 ##.above-nav-social
 ##.abtlikebox
+##.accueil_socials
 ##.action-box-social
 ##.actions_facebook
 ##.actions_sharethis
@@ -2185,6 +2189,7 @@
 ##.addthis_container
 ##.addthis_container_alt2
 ##.addthis_custom_button
+##.addthis_default_style
 ##.addthis_digg
 ##.addthis_header
 ##.addthis_horizontal
@@ -2296,6 +2301,7 @@
 ##.articleSocialLinks
 ##.articleSocialNetwork
 ##.articleToolbarShare
+##.article__fb-share
 ##.article__footer__likes
 ##.article__footer__sharing
 ##.article__share
@@ -2834,6 +2840,7 @@
 ##.fa-reddit-square
 ##.fa-share-alt
 ##.fa-share-square-o
+##.fa-slideshare
 ##.fa-soundcloud
 ##.fa-tumblr
 ##.fa-tumblr-square
@@ -6006,6 +6013,7 @@
 ##.social_links_container
 ##.social_links_footer
 ##.social_links_top
+##.social_links_wrapper
 ##.social_list
 ##.social_logos
 ##.social_media
@@ -6422,6 +6430,7 @@
 ##.topbar-twitter
 ##.topbar-youtube
 ##.topic_socials
+##.topline-social
 ##.topmenu_facebook
 ##.topmenu_twitter
 ##.topmenu_youtube
@@ -6983,7 +6992,7 @@
 ##[title="Share on Twitter"]
 ##[title="Share this article!"]
 ##[title="Share this story"]
-##[title="Share to Facebook"]
+##[title="Share to Facebook"]:not(.wpel-icon-right)
 ##[title="Share via Facebook"]
 ##[title="Share with Digg"]
 ##[title="Share with Facebook"]

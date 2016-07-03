@@ -1965,6 +1965,7 @@ glamour.com##.flyIn
 forbes.com##.flyer_ui
 nationaljournal.com,nextgov.com##.flyin-container
 bloomberg.com,jta.org,technologyreview.com##.flyout
+bustle.com##.flyout-box
 foodnetwork.com##.fnmag-ad600
 anandtech.com,aol.com,citytv.com,complex.com,dailyfinance.com,games.on.net,rt.com,sharemyplaylists.com,slantmagazine.com,superbooyah.com,thedailyshow.com,thinq.co.uk,time.com,twitchy.com,unhearit.com,v3.co.uk,youbeauty.com,zdnet.com##.follow
 wisebread.com##.follow-block
@@ -2287,6 +2288,7 @@ examine.com##.must_get
 techvert.com##.mwp-quick-feedback-form
 fightthesmears.com##.myspace
 worldofgnome.org##.mywell-blue
+ft.com##.n-header__marketing-promo
 washingtontimes.com##.nag
 consumerist.com##.nav-article-item
 thelongandshort.org##.nav-button-next
@@ -3077,9 +3079,11 @@ firstbiz.com###fpbiz_newsletter
 pbs.org###frontline_newsletter_over
 pbs.org###frontline_newsletter_please
 draxe.com###gclidua
+playfield.io###hail-mary-modal
 readingthepictures.org###hear-ye-bg
 competitor.com###icontact_footer
 competitor.com###icontact_wrapper_inarticle
+thegrio.com###image-17
 bidnessetc.com###inputerror
 trailrunnermag.com###inside-dirt
 motherjones.com###interior-rhc-membership
@@ -3213,7 +3217,7 @@ competitor.com##.mag_nl_dsktp
 good.is##.mailchimp-widget
 themighty.com##.meta-join
 abc15.com##.modal--content
-breakingdefense.com##.modal-backdrop
+breakingdefense.com,playfield.io##.modal-backdrop
 biznews.com##.module-cta
 ibtimes.com##.morning-insights
 newsbtc.com##.newsform
@@ -3289,6 +3293,7 @@ trustedreviews.com##.tr-newsletter-email-signup
 baltimoresun.com,citypaper.com,latimes.com##.trb_nls_c
 gomechanicalkeyboard.com##.tve-leads-widget
 fortune.com##.two_ad
+stuff.co.nz##.twominutes-pointer
 iclg.co.uk##.ui-dialog
 madison.com##.whatcounts-form-container
 styleblazer.com##.widget_fashionblog_newsletter
@@ -3367,6 +3372,7 @@ malaysiaairlines.com###cookie_policy_modal
 anpost.ie,barbican.org.uk,beanstalkcharity.org.uk,co-operative.coop,emrf.eu,feyenoord.com,forbiddenplanet.co.uk,fulltilt.com,granditalia.nl,homecinemachoice.com,izikart.co.uk,jomast.co.uk,metbiocat.eu,omron.eu,phonearena.com,pokernews.com,premiumcredit.co.uk,private.com,solent.ac.uk,studentski.net,the-tls.co.uk,tsb.co.uk,volvocars.com###cookies
 tesco.com###cp
 debenhams.com###debCNwrap
+moleskine.com###disclaimer
 goccl.co.uk###divMessage
 complex.com###eucn
 tartybikes.co.uk###eureg
@@ -3376,6 +3382,7 @@ bethesda.net###jive-system-message
 adultswim.com###legal-notification
 indeed.com###legalNotice
 tmz.com###legalbar
+logicconcept.eu###mc_top_bar
 claireperry.org.uk,wts.com###message
 hmc.org.uk###modal-mask
 theson.org.uk,thisengland.co.uk###msg_top_bar
@@ -3392,6 +3399,8 @@ eastlondonradio.org.uk###notification-area
 tweakers.net###notifications > .announcement
 did.ie,the42.ie###notify-container
 novapdf.com###novapdf_accept_cookies
+professionalbatterychargers.com###nscmsboxboxsimple
+mybollox.co.uk###openglobal_privacy_widget
 cimaglobal.com###optanon
 jukegames.com,n-mobile.net###overbox3
 belkin.com###pagebanner
@@ -3408,9 +3417,9 @@ fedex.com###privacy-notice
 axs.com,virgin.com###privacy-policy
 investing.com###sideNotificationZone
 mercedes-benz.com###simplemodal-container
-mercedes-benz.com###simplemodal-overlay
+mercedes-benz.com,mercedesamgf1.com###simplemodal-overlay
 earthcp.com###site-overlay
-alcatel-lucent.com,alpha.org,bigsocietycapital.com,boomerangtv.co.uk,box.com,cartoonnetwork.co.uk,eif.co.uk,integralmemory.com,investorsinpeople.co.uk,juce.com,middleeasteye.net,neteller.com,parkinsons.org.uk,rmg.co.uk,thalesgroup.com,topuniversities.com,ucas.com###sliding-popup
+alcatel-lucent.com,alpha.org,bell-labs.com,bigsocietycapital.com,boomerangtv.co.uk,box.com,cartoonnetwork.co.uk,eif.co.uk,integralmemory.com,investorsinpeople.co.uk,juce.com,middleeasteye.net,neteller.com,parkinsons.org.uk,rmg.co.uk,thalesgroup.com,topuniversities.com,ucas.com###sliding-popup
 hlntv.com###terms-of-service-container
 nelly.com,nlyman.com###toast-container
 insights.nzherald.co.nz###top-banner-in-content
@@ -3451,17 +3460,20 @@ novantas.com##.foobar-container
 hattrick.org##.frontPage .container > .alert
 themeflood.com##.gatewayContainer
 office.com##.headPopup
+volvo.com##.headerNotification
 bing.com##.hpn_top_container
 thehanley.co.uk,twitch.tv##.i-am-new
 trustnet.com##.idPanelShow
 earthcp.com##.info
-livescore.com,livescores.com##.info-msg
+livescore.com,livescore.eu,livescores.com##.info-msg
 comscore.com##.info_banner
 napster.com##.info_box
 m.reddit.com##.infobar
 ramboll-environ.com##.infoboxHolder
 picturehouses.com##.interim-banner
 forumcommunity.net##.jnote
+princesrisborough.com##.jpiwikGrowler
+princesrisborough.com##.jpiwikOverlay
 kickstarter.com##.launch-banner__close
 kickstarter.com##.launch-banner__link
 yahoo.com##.legal-footer
@@ -3470,6 +3482,8 @@ cushmanwakefield.be,cushmanwakefield.co.uk##.m-warning
 justcause.com##.main-site-notes
 gametwist.com##.message__container
 malaysiaairlines.com##.modal-backdrop
+next.ft.com##.n-welcome
+netjetseurope.com##.nj-header-prompt
 medicalxpress.com,shire.com,techxplore.com,vcars.co.uk##.notice
 bethesda.net,dlink.com,eveningtelegraph.co.uk,fundingcircle.com,princeofwales.gov.uk,sundaypost.com,wiley.com##.notification
 gumtree.com##.notification-box
@@ -3489,12 +3503,14 @@ vocativ.com,zumba.com##.privacy-policy
 bbc.co.uk##.pulse-banner
 jdpower.com##.region-alert
 layar.com##.remarketing-banner
+msc.com##.reveal-modal-bg
 dailymotion.com##.sd_metaheader
 last.fm##.site-message
 gov.im##.site-warning
 cofunds.co.uk##.smContainerInner
 lifetechnologies.com,thermofisher.com##.specialMsg
 tbs.com,tntdrama.com##.toast
+mabknives.co.uk##.topbarBox
 uk.yahoo.com##.type_windowshade_default
 aptekaleki.co.uk##.ui-dialog
 aptekaleki.co.uk##.ui-widget-overlay
@@ -3530,9 +3546,12 @@ cinemablend.com###newsletter-button
 cio.co.nz,cio.com.au,cmo.com.au,computerworld.co.nz,computerworld.com.au,cso.com.au,pcworld.co.nz,techworld.com.au###quick-signup-article-widget
 computerworld.co.nz,computerworld.com.au,cso.com.au###rhs_newsletter
 computerworld.co.nz###rhs_techjobs
+indiatimes.com###similarNews
 cwtv.com###user_optin_banner
 arnnet.com.au,reseller.co.nz##.art-connect
 euroman.dk##.egmont-cookies
 newsy.com##.newsletter-popup
 newsy.com##.newsletter-popup-background
 newsy.com##.newsletter-signup-bar-container
+world4.eu##.pea_cook_wrapper
+technoshouter.com##.td-more-articles-box
