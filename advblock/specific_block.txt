@@ -38,6 +38,7 @@ $third-party,script,domain=free-torrents.org|nude-moon.com
 .igdz.ru^$script,domain=igdz.ru
 .igra-prestoloff.in^$script,domain=igra-prestoloff.in
 .igra-prestoloff.me^$script,domain=igra-prestoloff.me
+.igra-prestoloff.pro^$script,domain=igra-prestoloff.pro
 .igra-prestoloff.pw^$script,domain=igra-prestoloff.pw
 .imagefile.org^$script,domain=imagefile.org
 .iplayer.fm^$script,domain=iplayer.fm
@@ -70,9 +71,12 @@ $third-party,script,domain=free-torrents.org|nude-moon.com
 .online-multy.ru^$script,domain=online-multy.ru
 .online-south-park.ru^$script,domain=online-south-park.ru
 .ostfilm.org^$script,domain=ostfilm.org
+.otravlen.ru^$script,domain=otravlen.ru
 .paslab.ru^$script,domain=paslab.ru
 .pearx.ru^$script,domain=pearx.ru
+.pic4share.ru^$script,domain=pic4share.ru
 .pics2pay.ru^$script,domain=pics2pay.ru
+.piling.re^$script,domain=piling.re
 .pixl2share.ru^$script,domain=pixl2share.ru
 .prison-bot.ru^$script,domain=prison-fakes.ru
 .progrib.ru^$script,domain=progrib.ru
@@ -87,6 +91,7 @@ $third-party,script,domain=free-torrents.org|nude-moon.com
 .sharawot.com^$script,domain=sharawot.com
 .skolkovarim.ru^$script,domain=skolkovarim.ru
 .stmods.ru^$script,domain=stmods.ru
+.televizor2.ru^$script,domain=televizor2.ru
 .topwar.ru/data$script,domain=topwar.ru
 .torrent-games.net^$script,domain=torrent-games.net
 .torrent-telik.com^$script
@@ -163,11 +168,13 @@ _advideo/$object-subrequest,domain=megogo.net
 html?a=$domain=0629.com.ua
 igdz1.ru^$script,domain=igdz.ru
 |http://$third-party,domain=gigporn.tv
-|http://$third-party,script,domain=0629.com.ua|1tushkan.ru|2tushkan.ru|3tushkan.ru|antimuh.ru|baskino.club|bobfilm1.net|carproff.ru|couber.be|creativportal.ru|dolgoe.net|dom-filmov.ru|ee-mag.ru|filmix.net|fserver.pw|goldenshara.net|goldenshara.org|govoritmoskva.ru|hdgo.cc|hentaiz.org|herbaldoc.ru|hyevo.net|ikinohd.com|imageban.ru|imagefile.org|img24.org|imgclick.ru|itop-gear.ru|kino-live.red|kino-live2.org|kino-v-online.tv|kinobanda.net|kinogo-2016.net|kinogo-hd.co|kinogo-hd.net|kinogo.co|kinokong.net|kinokrad.net|kinomass.ru|kinoprofi.net|kinoprosmotr.net|krasakarpat.com|krutor.org|luxpic.ru|mega-pic.org|mega-pics-money.ru|monkeypx.ru|monkeypxl.ru|monkeypxls.ru|mp3sort.biz|mrutor.org|naruto-base.tv|onlainfilm.ucoz.ua|onlyf.tk|payforpic.ru|pic2pic.site|pic2share.ru|pic4cash.ru|picclick.ru|picforall.ru|pics-money.ru|pics2pay.ru|pics2share.ru|pix2share.ru|pixl2share.ru|pronpic.org|rufilm.tv|rugailo.net|rustorka.com|slovoprosvity.org|svetmonet.ru|tushkan.tv|tvfru.net|unionpeer.org|xhamster-pic.com|xn----jtbkliccqarf.xn--p1ai|yahooeu.ru|zerx.co|мой-торрент.рф
+|http://$third-party,script,domain=0629.com.ua|1tushkan.ru|2tushkan.ru|3tushkan.ru|antimuh.ru|baskino.club|bobfilm1.net|carproff.ru|couber.be|creativportal.ru|dolgoe.net|dom-filmov.ru|ee-mag.ru|filmix.net|foto.seksi-new.com|fserver.pw|goldenshara.net|goldenshara.org|govoritmoskva.ru|hdgo.cc|hentaiz.org|herbaldoc.ru|hyevo.net|ikinohd.com|imageban.ru|imagefile.org|img24.org|imgclick.ru|itop-gear.ru|kino-live.red|kino-live2.org|kino-v-online.tv|kinobanda.net|kinogo-2016.net|kinogo-hd.co|kinogo-hd.net|kinogo.co|kinokong.net|kinomass.ru|kinoprosmotr.net|krasakarpat.com|krutor.org|luxpic.ru|mega-pic.org|mega-pics-money.ru|monkeypx.ru|monkeypxl.ru|monkeypxls.ru|mp3sort.biz|mrutor.org|naruto-base.tv|onlainfilm.ucoz.ua|onlyf.tk|payforpic.ru|pic2pic.site|pic2share.ru|pic4cash.ru|pic4share.ru|picclick.ru|picforall.ru|pics-money.ru|pics2pay.ru|pics2share.ru|pix2share.ru|pixl2share.ru|pronpic.org|rufilm.tv|rugailo.net|rustorka.com|slovoprosvity.org|svetmonet.ru|tushkan.tv|tvfru.net|unionpeer.org|xhamster-pic.com|xn----jtbkliccqarf.xn--p1ai|yahooeu.ru|zerx.co|мой-торрент.рф
 |http://$third-party,script,subdocument,domain=lider-as.ru
+|http://$third-party,script,xmlhttprequest,domain=kinokrad.net|kinoprofi.net
 |http://*.info/wp-content/themes/Grimag/assets/js/custom.js$script
 |http://*/c.js?v=$third-party,script,domain=newsvl.ru
 |http://*boltai.com/wp-content/themes/Grimag/assets/js/custom.js$script
+|https://$third-party,script,stylesheet,domain=rustorka.com
 ||.t.ks.ua/sites/*300x300$image
 ||03-res.ru^$script,domain=zaqw.ru
 ||0gdz.ru/js$script
@@ -261,6 +268,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||advis.ru/upload/iblock/$image
 ||afisha.ru/dsn/google-
 ||agronews.ru/images/$object
+||agroxxi.ru/images/banners/
 ||agsat.com.ua/beuty/
 ||aii.su/banners/
 ||aio.media^$domain=drive.ru|drive2.ru
@@ -350,6 +358,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||astromeridian.ru/assets/images/*banner
 ||astromeridian.ru/assets/images/reklama2/$~stylesheet
 ||athlete.ru/pic/$object
+||audiopoisk.narod.ru/alexsoft.swf
 ||author24.ru^$third-party,domain=litsoch.ru
 ||auto.ria.com/images/branding/banner/
 ||auto.ru/get.php?args=
@@ -389,7 +398,6 @@ igdz1.ru^$script,domain=igdz.ru
 ||baumanki.net/templates/open-slaed/img/ban
 ||bazr.ru/player?playlist$domain=allsoch.ru|bobfilm.net|bookgdz.ru|bosova-gdz.ru|egeurok.ru|euroki.net|gdzputina.com|getsoch.ru|megaresheba.ru|mp3poisk.me|muzofon.com|muzofond.com|otbet.ru|pedportal.net|resheba.com|ronl.ru|slovo.ws|spishy-online.ru|spishy.net|stavcur.ru|teledidar.tv|zoobrilka.org
 ||bazr.ru/vast?$xmlhttprequest
-||bazr.ru/videocontent/global/js/adv.js$script
 ||bbcont.ru/avtorealnost.html
 ||bddo.ru/uploads/*_ban_
 ||belobmen.ru/go?
@@ -492,7 +500,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||clk.kaztorka.org^
 ||cloudfront.net/*.swf$object,domain=windata.ru
 ||cloudfront.net^$domain=kinovideo.tv|raidcall.com|raidcall.com.ru|tapochek.net
-||cloudleadia.com^$domain=101urist.com|avtomotoprof.ru|bib.social|creditzzz.ru|docload.ru|economic.social|fb.ru|finbazis.ru|finbook.news|goroskop.ru|hr-portal.ru|impravo.ru|ipinform.ru|ipopen.ru|jofo.ru|lgoty-expert.ru|lib.sale|medic.social|mts-help.ru|podborkadrov.com|samogonpil.ru|scibook.net|syl.ru
+||cloudleadia.com^$domain=101urist.com|avtomotoprof.ru|bib.social|creditzzz.ru|docload.ru|economic.social|fb.ru|finbazis.ru|finbook.news|goroskop.ru|hr-portal.ru|impravo.ru|ipinform.ru|ipopen.ru|jofo.ru|lgoty-expert.ru|lib.sale|medic.social|mts-help.ru|plateginfo.com|podborkadrov.com|samogonpil.ru|scibook.net|syl.ru
 ||club^$third-party,script,domain=2012gps.ru|alexnest.ru|all-tv.org|comicsgo.net|dfiles.ru|divx-kino.ru|euro-football.ru|fast-torrent.ru|fototopless.ru|gubkabob.net|hentaiz.org|j4f.tobase.ru|joyreactor.cc|kinonow.org|liveresult.ru|megatrack.info|mybb.ru|naruto-base.tv|nasmnogo.net|picusha.net|pornokinozal.net|reactor.cc|smotret-fizruk-online.su|soccer0001.com|soft-portal.club|soloman.ru|tfilm.me|topbb.ru|torrent-pirat.com|vam.in.ua|webtalk.ru|yahooeu.ru|yaporn.tv
 ||clubfile.net/files/*_banner_
 ||clubfile.net/themes/jobs/i/*_*.jpg|
@@ -857,8 +865,6 @@ igdz1.ru^$script,domain=igdz.ru
 ||idownloads.ru^*/banners/
 ||idwl.cn/brand/$image
 ||iframe.tvzavr.ru^$domain=fishki.net|kolmovo.ru|myzuka.fm
-||igra-prestoloff.pw^$third-party
-||igra-prestoloff.xyz^$third-party
 ||igromania.ru/*/banners/
 ||igromania.ru/bitrix/templates/igromania/brands.php
 ||igromania.ru/upload/iblock/*/*attract_wallpaper$image
@@ -880,6 +886,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||imgv.net^*.php?s=
 ||imhonet.ru/img/dumm/*-promo.
 ||imoneyforum.ru/files/00
+||info.sibnet.ru/legacy//static_templates$image
 ||infocar.ua/icstat/branding/
 ||inform.kz/download/
 ||ingos.ru/common/img_ru/banners/
@@ -1034,7 +1041,6 @@ igdz1.ru^$script,domain=igdz.ru
 ||leporno.org/rt
 ||leporno.org/ttnet/
 ||lets-play.tv/_/branding$image,popup
-||lib.rus.ec/ads/
 ||lib.rus.ec/sites/default/files/$object
 ||libs.kub.ru/jquery-viewportchecker$script,domain=apteki.su
 ||lifehacker.ru/promo/
@@ -1161,6 +1167,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||moevideo.net/framevideo/$domain=fileplaneta.com|freezpic.ru|mediapapa.org
 ||moevideo.net/getit/
 ||moevideo.net/img/promo/
+||moevideo.net/partner?partner$subdocument
 ||moisustav.ru/wp-content/plugins/helper/inc/jquery.hyperTeaser$script
 ||moisustav.ru/wp-content/themes/MoiSustav.ru/js/random-ads.js$script
 ||moisustav.ru/wp-content/themes/MoiSustav.ru/js/super-rotator$script
@@ -1587,10 +1594,6 @@ igdz1.ru^$script,domain=igdz.ru
 ||scrin.org/viewt.js
 ||sdelanounas.ru/b/
 ||second.by/themes/i/brand/$image
-||seedoff.net/br/
-||seedoff.net/images/banners^
-||seedoff.net/jscript/xbtit.js
-||seedoff.net/partners/
 ||semestr.ru/images/banner
 ||seocafe.info/MEDimg/
 ||sergeistrelec.ru/templates/sstr^$script
@@ -1720,6 +1723,8 @@ igdz1.ru^$script,domain=igdz.ru
 ||tfilm.club/img/kashtan.gif
 ||tfilm.tv/js/clck.js
 ||thailandproperty.tv/images/*_banner_
+||the-cinema.ru/the-bra/
+||thesame.tv/partner?partner$subdocument
 ||thg.ru/adv_img/
 ||thg.ru/images/spons/
 ||thg.ru^*_TOMS_HARDWARE_
@@ -1970,6 +1975,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||yourlifestyle.ru/images/bank/
 ||youtube.com/*autoplay$domain=newdeaf-online.net
 ||youtube.com/embed/$domain=4put.ru
+||youtube.com^*modestbranding$subdocument,domain=moevideo.net|thesame.tv|videochart.net
 ||yugopolis.ru/flash_frame/
 ||zadolba.li/img/ur.jpg
 ||zadrb.zadrottv.ru^$script
@@ -1998,9 +2004,3 @@ igdz1.ru^$script,domain=igdz.ru
 ||рефераты-и-сочинения.рф/images/hosting.gif
 !
 ! Исправления после genericblock
-||am15.net^$third-party,domain=moonwalk.cc
-||dumedia.ru^$domain=moonwalk.cc
-||googlesyndication.com^$domain=smexo.tv
-||gpm-digital.com^$domain=smexo.tv
-||mxtads.com^$domain=moonwalk.cc
-||winvideo.org^$domain=moonwalk.cc

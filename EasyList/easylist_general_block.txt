@@ -266,6 +266,7 @@
 -games/ads/
 -google-ads-
 -google-ads/
+-google-adsense.
 -google2-ad-
 -gpt-ad-$~xmlhttprequest
 -housead-
@@ -498,6 +499,7 @@
 .iads.js
 .ie/ads/
 .il/ads/
+.in/ads.
 .in/ads/
 .info/ad_
 .info/ads-
@@ -1782,6 +1784,7 @@
 /adonly468.
 /adops.
 /adops/*
+/adoptimised.
 /AdOptimizer.
 /adoptionicon.
 /adoptions.
@@ -1947,6 +1950,7 @@
 /ads.bmp?
 /ads.bundle.
 /ads.cfm?
+/ads.cms
 /ads.css
 /ads.dll/*
 /ads.gif
@@ -3136,6 +3140,7 @@
 /amazon-async-
 /amazon/iframeproxy-
 /amazon/widget/*
+/amp-ad-
 /amzn_ads.
 /amzn_omakase.
 /anchorad.
@@ -3371,6 +3376,8 @@
 /bg_adv_
 /bgads/*
 /bi_affiliate.js
+/big-ad-switch-
+/big-ad-switch/*
 /bigad.
 /bigad_
 /bigads/*
@@ -3469,6 +3476,7 @@
 /campus/ads/*
 /carbonads-
 /carbonads/*
+/carouselads.
 /carsadtaggenerator.js
 /cashad.
 /cashad2.
@@ -4262,6 +4270,7 @@
 /ifolder-ads.
 /iframe-ad.
 /iframe-ad/*
+/iframe-ad?
 /iframe-ads/*
 /iframe-mgid-
 /iframe.ad/*
@@ -5030,6 +5039,7 @@
 /popup3.js
 /popup_ad.
 /popup_code.
+/popupad/*
 /popupads.
 /popupdfp.
 /popupunder.

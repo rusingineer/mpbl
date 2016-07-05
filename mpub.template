@@ -5,7 +5,7 @@
 !
 ! This is a private list,
 ! will not provide any technical support
-! Russian support of https://github.com/rusingineer/uBlock
+! Russian support of https://github.com/rusingineer/mpbl
 ! please create issues
 ! GNU GPL 2+ Licensed
 ! coding: utf-8, expires: 5 days
@@ -129,3 +129,5 @@
 !
 ! = Исключения ================================================================
 %include advblock/whitelist.txt%
+!---------------------------------MPBL----------------------------------!
+%include mpub_increment.txt%

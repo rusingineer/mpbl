@@ -368,6 +368,7 @@
 ||catholicweb.com^*/banners/
 ||caw.*.criteo.com^$third-party
 ||caw.criteo.com^$third-party
+||cbcomponent.com^$third-party
 ||cbpirate.com/getimg.php?
 ||cccam.co/banner_big.gif
 ||cdn.adblade.com^$third-party
@@ -640,6 +641,7 @@
 ||dttek.com/sponsors/
 ||du2uh7rq0r0d3.cloudfront.net^
 ||duct5ntjian71.cloudfront.net^
+||dunhilltraveldeals.com/iframes/$third-party
 ||dvdfab.com/images/fabnewbanner/$third-party
 ||dvf2u7vwmkr5w.cloudfront.net^
 ||dvt4pepo9om3r.cloudfront.net^
@@ -1657,6 +1659,7 @@
 ||vpntunnel.se/aff/$third-party
 ||vpnxs.nl/images/vpnxs_banner
 ||vrvm.com/t?
+||vuukle.com/affinity.
 ||vuvuplaza.com^$subdocument,third-party
 ||vxite.com/banner/
 ||vze.com^$domain=uploadlw.com

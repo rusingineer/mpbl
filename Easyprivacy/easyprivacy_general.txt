@@ -129,6 +129,7 @@
 .html?wpl=
 .idge/js/analytics/
 .in/c.gif?
+.io/0.gif?
 .io/track?
 .io/w.gif?
 .it/s.gif?
@@ -266,6 +267,7 @@
 /adstat.
 /adstats.
 /adstrack.
+/adtctr.
 /adtrk/*
 /adv/tracking.
 /adviewtrack.
@@ -367,6 +369,7 @@
 /analytics?http_referer
 /analytics_embed.
 /analytics_frame.
+/analytics_id.
 /analytics_js/*
 /analytics_ping.
 /analytics_prod.
@@ -782,6 +785,7 @@
 /csi?v=*&action=
 /csi?v=2&s=
 /csi?v=3&s=
+/csm/analytics;
 /ctr_tracking.
 /ctrl.gif?ref=
 /custom-tracking.
@@ -1689,6 +1693,7 @@
 /php-stats.phpjs.php?
 /php-stats.recjs.php?
 /phpmyvisites.js
+/pic.gif?m=
 /pic.gif?url=
 /ping.*/ping.js
 /ping.gif?

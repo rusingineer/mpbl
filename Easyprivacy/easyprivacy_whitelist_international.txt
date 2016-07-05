@@ -23,6 +23,7 @@
 @@||giga.de/wp-content/plugins/econa-stats/log/video-views/log.php?id=$object-subrequest
 @@||gls.de^*/emos2.js
 @@||google-analytics.com/siteopt.js?$domain=chip.de
+@@||googletagmanager.com/gtm.js?$domain=finanzen.net
 @@||hach.de^*/emstrack.js
 @@||hammonline.de/statistik/piwik.js
 @@||hermesworld.com/tracking/urchin.js
@@ -200,6 +201,7 @@
 @@||gemius.pl/gstream.js
 @@||kropka.onet.pl^*/onet.js$domain=tvnwarszawa.pl
 @@||stat24.com/crossdomain.xml$domain=ipla.tv
+@@||wp.pl^*/dot.gif?$xmlhttprequest,domain=open.fm
 ! Portuguese
 @@||77.91.202.130/js/20050/xiti.js$domain=custojusto.pt
 @@||chiptec.net/skin/*/GoogleAnalyticsPlus/$script
@@ -211,6 +213,7 @@
 @@||hit.gemius.pl/xlgemius.js$script,domain=ojogo.pt
 @@||laredoute.pt/js/byside_webcare.js
 @@||marktest.pt/netscope-gemius.js$script,domain=ojogo.pt
+@@||nostv.pt^*/angulartics-google-analytics.js?
 @@||siteapps.com^$script,domain=netcombo.com.br
 @@||stats.g.doubleclick.net/dc.js$domain=netcombo.com.br
 ! Indian

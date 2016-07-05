@@ -319,6 +319,7 @@
 ||geocompteur.com^$third-party
 ||goyavelab.com^$third-party
 ||graphinsider.com^$third-party
+||hunkal.com^$third-party
 ||kameleoon.com^$third-party
 ||leadium.com^$third-party
 ||libstat.com^$third-party
@@ -378,6 +379,7 @@
 ||pixanalytics.com^$third-party
 ||sagetrc.com^$third-party
 ||sitebot.cn^$third-party
+||tanx.com^$third-party
 ||top-bloggers.com^$third-party
 ||topsem.com^$third-party
 ||tovery.net^$third-party
@@ -565,6 +567,7 @@
 ||gemius.pl^$third-party
 ||gostats.pl^$third-party
 ||hub.com.pl^$third-party
+||inaudium.com^$third-party
 ||legenhit.com^$third-party
 ||ngacm.com^$third-party
 ||ngastatic.com^$third-party
@@ -701,6 +704,7 @@
 ||zirve100.com^$third-party
 ! Ukranian
 |http://r.i.ua^$third-party
+||mediatraffic.com.ua^$third-party
 ||mycounter.com.ua^$third-party
 ||mycounter.ua^$third-party
 ||uapoisk.net^$third-party

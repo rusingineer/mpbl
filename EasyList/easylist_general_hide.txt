@@ -3662,6 +3662,7 @@
 ###bh_adFrame_ag_300x250_atf
 ###bh_adFrame_bh_300x250_atf
 ###bh_adFrame_bh_300x250_btf
+###big-ad-switch
 ###big-box-ad
 ###bigAd
 ###bigAd1
@@ -4662,6 +4663,7 @@
 ###embedded-ad
 ###embeded_ad_content_container
 ###entrylist_ad
+###epmads-holder
 ###eshopad-728x90
 ###eventAd
 ###event_ads
@@ -5677,6 +5679,7 @@
 ###main-advert3
 ###main-bottom-ad
 ###main-bottom-ad-tray
+###main-content-ad1
 ###main-content-adcontent1
 ###main-header-ad-wrap
 ###main-header-ad-wrap-home
@@ -5893,6 +5896,7 @@
 ###msn_header_ad
 ###msnau_ad_medium_rectangle
 ###mtSponsor
+###mt_adv
 ###mts_ad_widget
 ###mu_2_ad
 ###multiLinkAdContainer
@@ -6765,6 +6769,7 @@
 ###some-ads
 ###some-ads-holder
 ###some-more-ads
+###sortsite1-bottom-ad
 ###source_ad
 ###source_content_ad
 ###spec_offer_ad2
@@ -7354,6 +7359,7 @@
 ###videoAd
 ###videoAdvert
 ###videoCompanionAd
+###videoPauseAd
 ###videoPlayerAdLayer
 ###video_ads_background
 ###video_ads_overdiv
@@ -7387,6 +7393,7 @@
 ###votvAds_inner
 ###vsw-ads
 ###vsw_ad
+###vuukle_ads_square2
 ###wTopAd
 ###wXcds12-ad
 ###wallAd
@@ -8387,6 +8394,7 @@
 ##.ad-img300X250
 ##.ad-in-content-300
 ##.ad-in-post
+##.ad-in-results
 ##.ad-incontent-wrap
 ##.ad-index
 ##.ad-index-main
@@ -9168,6 +9176,7 @@
 ##.adResult
 ##.adResults
 ##.adRight
+##.adRightSide
 ##.adRotator
 ##.adRow
 ##.adRowTopWrapper
@@ -10332,11 +10341,13 @@
 ##.adsBottom
 ##.adsBox
 ##.adsBoxTop
+##.adsCap
 ##.adsCategoryIcon
 ##.adsCategoryTitleLink
 ##.adsCell
 ##.adsCont
 ##.adsDef
+##.adsDetailsPage
 ##.adsDisclaimer
 ##.adsDiv
 ##.adsFull
@@ -10357,6 +10368,9 @@
 ##.adsRectangleMedium
 ##.adsRight
 ##.adsRow
+##.adsSpace300x250
+##.adsSpace300x600
+##.adsSpace650x100
 ##.adsSpacing
 ##.adsTableBlox
 ##.adsTag
@@ -10743,6 +10757,7 @@
 ##.adsnippet_widget
 ##.adsns
 ##.adsonar-after
+##.adsonofftrigger
 ##.adspace
 ##.adspace-300x600
 ##.adspace-MR
@@ -11387,6 +11402,7 @@
 ##.advertisment-label
 ##.advertisment-left-panal
 ##.advertisment-module
+##.advertisment-rth
 ##.advertisment-top
 ##.advertismentBox
 ##.advertismentContainer
@@ -12608,12 +12624,14 @@
 ##.desktop-aside-ad-hide
 ##.desktop-postcontentad-wrapper
 ##.desktop_ad
+##.desktoponlyad
 ##.detail-ads
 ##.detailMpu
 ##.detailSidebar-adPanel
 ##.detail_ad
 ##.detail_article_ad
 ##.detail_top_advert
+##.details-advert
 ##.devil-ad-spot
 ##.dfad
 ##.dfad_first
@@ -13569,6 +13587,7 @@
 ##.icon-myindependentad
 ##.iconAdChoices
 ##.icon_ad_choices
+##.id-Advert
 ##.id-Article-advert
 ##.idGoogleAdsense
 ##.idMultiAd
@@ -14144,6 +14163,7 @@
 ##.mid-ad-wrapper
 ##.mid-advert
 ##.mid-page-2-advert
+##.midAd
 ##.mid_4_ads
 ##.mid_ad
 ##.mid_article_ad_label
@@ -14216,6 +14236,7 @@
 ##.mod-adcpc
 ##.mod-adopenx
 ##.mod-ads
+##.mod-big-ad-switch
 ##.mod-big-banner-ad
 ##.mod-google-ads
 ##.mod-google-ads-container
@@ -14337,8 +14358,11 @@
 ##.mslo-ad-holder
 ##.msnChannelAd
 ##.msn_ad_wrapper
+##.mst_ad_top
 ##.mt-ad-container
 ##.mt-header-ads
+##.mt_adv
+##.mt_adv_v
 ##.mtv-adChoicesLogo
 ##.mtv-adv
 ##.multiadwrapper
@@ -14497,6 +14521,7 @@
 ##.one-ad
 ##.oneColumnAd
 ##.onethirdadholder
+##.onf-ad
 ##.onsite-ads-728w
 ##.opaAd
 ##.openads
@@ -14518,6 +14543,7 @@
 ##.osan-ads
 ##.other-posts-ads
 ##.other_adv2
+##.otherheader_ad
 ##.otj_adspot
 ##.outbrain_ad_li
 ##.outbrain_dual_ad_whats_class
@@ -14653,6 +14679,9 @@
 ##.pfimgAds
 ##.pg-ad-block
 ##.pgAdSection_Home_MasterSponsers
+##.ph-ad
+##.ph-ad-desktop
+##.ph-ad-mediumrectangle
 ##.photo-ad
 ##.photoad
 ##.photobox-adbox
@@ -14874,6 +14903,8 @@
 ##.recent-post-widget-ad
 ##.recentAds
 ##.recent_ad_holder
+##.recommend-ad-one
+##.recommend-ad-two
 ##.rect-ad
 ##.rect-ad-1
 ##.rect_ad
@@ -15294,6 +15325,7 @@
 ##.side-advert
 ##.side-bar-ad-position1
 ##.side-bar-ad-position2
+##.side-mod-preload-big-ad-switch
 ##.side-sky-banner-160
 ##.side-video-ads-wrapper
 ##.sideAd
@@ -15863,6 +15895,7 @@
 ##.str-horizontal-ad-wrapper
 ##.str-slim-nav-ad
 ##.str-top-ad
+##.strawberry-ads
 ##.stream-ad
 ##.streamAd
 ##.strip-ad
@@ -16128,6 +16161,7 @@
 ##.topAdBanner
 ##.topAdCenter
 ##.topAdContainer
+##.topAdIn
 ##.topAdLeft
 ##.topAdRight
 ##.topAdWrap
@@ -16238,6 +16272,7 @@
 ##.tr-ad-adtech-placement
 ##.tr-ad-inset
 ##.tr-sponsored
+##.track_adblock
 ##.trafficAdSpot
 ##.trafficjunky-ad
 ##.trb_gptAd
@@ -16343,6 +16378,7 @@
 ##.video-player-ad-center
 ##.videoAd-wrapper
 ##.videoBoxAd
+##.videoPauseAd
 ##.video_ad
 ##.video_ads
 ##.video_ads_overdiv
@@ -16397,6 +16433,7 @@
 ##.vsw-ads
 ##.vswAdContainer
 ##.vt_h1_ad
+##.vuukle-ad-block
 ##.vw-header-ads-leader-board
 ##.vw-header-ads-wrapper
 ##.vw-single-header-ads

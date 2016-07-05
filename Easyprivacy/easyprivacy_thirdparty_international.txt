@@ -186,6 +186,7 @@
 ||live-medias.net/button.php?$third-party
 ||m6web.fr/statsd/
 ||makazi.com/tracker-
+||maradio.be^*/analytics.html
 ||neteventsmedia.be/hit.cfm?
 ||nvc.n1bus-exp.com^
 ||nws.naltis.com^
@@ -194,6 +195,7 @@
 ||pagesjaunes.fr/stat/
 ||piximedia.com^$third-party
 ||scriptsgratuits.com/sg/stats/
+||securite.01net.com^
 ||service-webmaster.fr/cpt-visites/$third-party
 ||stat.prsmedia.fr^
 ||stats-dc1.frz.io^
@@ -229,6 +231,7 @@
 ||alimama.cn/inf.js
 ||alipay.com/common/um/lsa.swf
 ||analytics.21cn.com^
+||atanx.alicdn.com^
 ||baidu.com/cpro/ui/c.js
 ||baidu.com/cpro/ui/f.js
 ||baidu.com/h.js?
@@ -325,6 +328,8 @@
 ||pagerank.g-easy.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
+! Indonesian
+||mediaquark.com/tracker.js
 ! Italian
 ||4me.it^*/incrementVisits_get?
 ||91.196.216.64^

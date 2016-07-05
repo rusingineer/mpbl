@@ -530,7 +530,6 @@
 ##.wp_email_capture_widget
 ##.wpmchimpa-overlay-bg
 ##.youtubelink
-##.zem_rp_content
 ##.zocial-rss
 ##[original-title="Toggle to share your comment"]
 ##[title="Bookmark using any bookmark manager!"]
@@ -1810,6 +1809,7 @@
 ###cookienotice-container
 ###cookienotif
 ###cookienotifier
+###cookienotify
 ###cookienotify-wrapper
 ###cookieoverlay
 ###cookiepanel
@@ -2038,6 +2038,8 @@
 ###jquery-cookie-law-script
 ###js-TosPrivacy
 ###js-cookie-notice
+###js-cookie-policy-default
+###js-cookieInfo
 ###js-ext-cookie
 ###js-infos-cookies
 ###js-message-bar-cookie-notice
@@ -2110,6 +2112,7 @@
 ###politykacooki
 ###popUpInfosLegal
 ###popinCookie
+###popup-cookie
 ###popup-cookies
 ###popup-webpage-cookie
 ###popup_cookie
@@ -2144,6 +2147,7 @@
 ###sdbCookieLegalContainer
 ###semocookie-handler
 ###shop-cookie
+###showCookieInfo
 ###site-cookie-policy
 ###site-we-use-cookies
 ###site-wide-cookie-message
@@ -2417,6 +2421,7 @@
 ##.cookieDisclaimer
 ##.cookieDisclaimerContainer
 ##.cookieDisclaimerContainerWrapper
+##.cookieHeader
 ##.cookieInfo
 ##.cookieInformation
 ##.cookieInside
@@ -2658,6 +2663,7 @@
 ##.lgcookieslaw_banner
 ##.m-cookie-banner
 ##.m-cookie-notice
+##.m-cookieInfo
 ##.m159-cookies
 ##.m_cookie
 ##.mainCookieAlerta
@@ -2707,6 +2713,7 @@
 ##.popup-alert-notice
 ##.popup-cookie
 ##.popup-cookie-notice-wrap
+##.popup-cookie-show
 ##.popup_cookie
 ##.preventAcceptance
 ##.privacy-alert

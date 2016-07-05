@@ -13,6 +13,7 @@
 @@/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs$domain=amazingpics.net
 @@/cdn-cgi/pe/bag2?*yieldbot.intent.js$domain=droid-life.com
 @@/wp-content/plugins/google-analytics-dashboard-for-wp/*$~third-party
+@@||247sports.com/site/minify.js?*/scripts/stats/$script
 @@||a.visualrevenue.com/vrs.js$domain=ebaumsworld.com|nydailynews.com
 @@||about-australia.com/*/clickheat.js
 @@||accorhotels.com^*/xtanalyzer_roi.js
@@ -391,7 +392,8 @@
 @@||netinsight.travelers.com/scripts/ntpagetaghttps.js
 @@||networkworld.com^*/demandbase.js
 @@||newrelic.com/nr-*.min.js$domain=play.spotify.com
-@@||newsinc.com^*/getPlacements.js?pid=$xmlhttprequest,domain=csmonitor.com
+@@||newsinc.com/getids?uid=$script,domain=ap.org
+@@||newsinc.com^*/getPlacements.js?pid=$xmlhttprequest,domain=ap.org|csmonitor.com
 @@||next.co.uk/Scripts/GoogleAnalytics.js?
 @@||nike.com/checkout/analytics/js/analyticFunctions.js$domain=nike.com
 @@||nintendo.com/nclood/*/bundles/analytics.min.js$domain=nintendo.com
@@ -426,7 +428,7 @@
 @@||paypalobjects.com^*/pixel.gif$domain=youngcons.com
 @@||pbskids.org/js/ga-current.js
 @@||periscope.tv^*/bugsnag-*.min.js
-@@||petametrics.com/*.js?$script,domain=nylon.com
+@@||petametrics.com^*.js?$script,domain=nylon.com|space.com
 @@||pillsbury.com/Shared/StarterKit/Javascript/ntpagetag.js
 @@||pillsbury.com/Shared/StarterKit/Javascript/UnicaTag.js
 @@||ping.hellobar.com/?*&_e=click&$image

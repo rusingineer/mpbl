@@ -389,6 +389,9 @@
 ||i.sdska.ru^*/sdb.js?
 ||ice-media.ru^
 ||id5.ru^$third-party
+||igra-prestoloff.in^$third-party
+||igra-prestoloff.pw^$third-party
+||igra-prestoloff.xyz^$third-party
 ||igromagaz.ru/partner/
 ||igrushek.net/ad/
 ||ilfumomoney.ru^$third-party
@@ -510,6 +513,7 @@
 ||luxurycash.net^
 ||m2k.ru/cgi-bin/
 ||mabila.ua^$third-party
+||magicbb.ru^$third-party,subdocument
 ||magna.ru^$third-party
 ||magnet.kiev.ua^$domain=~magnet.kiev.ua
 ||mail.banklife.ru^$third-party
@@ -587,7 +591,7 @@
 ||myiphone.be^$third-party
 ||myjane.ru^$third-party
 ||myjulia.ru^$third-party
-||mylove.ru^$third-party,script
+||mylove.ru^$third-party,script,domain=~mylove.na-chas.ru|~myloveru.com
 ||myragon.ru^$third-party,~popup,popup
 ||myshopthings.com/partner-rtb.js?
 ||mysiten.ucoz.net^$third-party
@@ -621,7 +625,6 @@
 ||novosti.dn.ua^$object
 ||nsoft-s.com^$third-party
 ||nu-stars.com^$third-party
-||numbers.md^$third-party
 ||oberegi-runi.ru/assets/
 ||oberegi-runi.ru^*partnership/
 ||obmenki.ru.com^$third-party

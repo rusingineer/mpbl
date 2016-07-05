@@ -2261,6 +2261,7 @@
 ##.article-share-count-container
 ##.article-share-link-items
 ##.article-share-list
+##.article-share-slider
 ##.article-share-tools
 ##.article-share-top
 ##.article-sharer
@@ -2492,6 +2493,7 @@
 ##.btn--social-linkedin
 ##.btn--social-twitter
 ##.btn--social-youtube
+##.btn-common-social-header
 ##.btn-facebook
 ##.btn-facebook-lg
 ##.btn-facebook-like
@@ -6896,6 +6898,7 @@
 ##.wsite-social-item
 ##.wtv-social-hidden
 ##.wtv-social-share
+##.www-m-social-buttons
 ##.wx-fb-activity
 ##.wx-local-tweets-hdr
 ##.wx-overview-twitter-module-wrap
@@ -7012,6 +7015,7 @@
 ##a[alt="follow us on twitter"]
 ##a[data-tm-ref-type-id="Follow-on-Facebook"]
 ##a[data-tm-ref-type-id="Follow-on-YouTube"]
+##a[href*="facebook.com/sharer/sharer.php?"]
 ##a[href="http://del.icio.us/post"]
 ##a[href="http://delicious.com/save"]
 ##a[href="http://twitter.com/share"]
