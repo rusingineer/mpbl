@@ -108,6 +108,7 @@
 ###art_social
 ###article-detail-social-icons
 ###article-header-share
+###article-left-side-share-panel
 ###article-reveal-share
 ###article-share-floating
 ###article-sharebar
@@ -220,6 +221,7 @@
 ###boxes-box-follow_us
 ###boxsocial
 ###breakingShare
+###bsocial
 ###btnFB
 ###btnFoursquare
 ###btnPinterest
@@ -1012,6 +1014,7 @@
 ###reseau-social
 ###reseauxsociaux
 ###reseauxsociauxHeader
+###retele-sociale
 ###retweet_bty
 ###rhs_social
 ###right-share-module
@@ -1045,6 +1048,7 @@
 ###sb-social
 ###sb_facebook
 ###sb_fb_like
+###sbookmarks_left
 ###screenShareoverlay
 ###scribol-fb-like
 ###scroll-social
@@ -1389,11 +1393,13 @@
 ###social-contact
 ###social-container
 ###social-context-container
+###social-cta
 ###social-digest
 ###social-dropdown-anchor
 ###social-engage
 ###social-facebook
 ###social-fb
+###social-fb-snapchat-cta-like
 ###social-feeds-tabs
 ###social-float
 ###social-float-block
@@ -1559,6 +1565,7 @@
 ###socialIcons
 ###socialIconsBox
 ###socialIconsContainer
+###socialIconsFoot
 ###socialInner
 ###socialInstagram
 ###socialLinks
@@ -2004,6 +2011,7 @@
 ##.BVRRSocialBookmarkingLinks
 ##.Btn-fb
 ##.Btn-tumblr
+##.ClickFacebookLike
 ##.CustomSocial
 ##.Custom_Facebook_Page
 ##.DiggThisButton
@@ -2036,6 +2044,9 @@
 ##.Logo-facebook
 ##.Logo-google-plus
 ##.Logo-youtube
+##.MBL-facebook-black
+##.MBL-google-black
+##.MBL-twitter-black
 ##.MR_Social_Sharing_Toolkit_Widget
 ##.MainListSocial
 ##.NYshareit
@@ -2068,6 +2079,8 @@
 ##.ShareToolBarTop
 ##.ShareTools
 ##.Share_Buttons
+##.Share_FB
+##.Share_TW
 ##.SidebarBox--facebook
 ##.SidebarBox--social
 ##.SidebarBox--twitter
@@ -2118,10 +2131,13 @@
 ##.TwitterICN
 ##.Twitter_Widget
 ##.VEShare
+##.Widget-social
 ##._Sharing__
 ##._socialF
 ##._wrapShares
+##.a-footer__share
 ##.a-share
+##.a2a-buttons
 ##.aToolType-share
 ##.aToolType-social
 ##.a__share
@@ -2205,6 +2221,7 @@
 ##.addtoany_list
 ##.addtoany_share_save
 ##.adfacebook
+##.adh-mobile-share
 ##.adi-share-flyout
 ##.adv-social-links
 ##.advanced-social-widget
@@ -2269,6 +2286,7 @@
 ##.article-shares-links
 ##.article-sharing
 ##.article-sharing-top
+##.article-side-share
 ##.article-sidebar-action-facebook
 ##.article-sidebar-action-twitter
 ##.article-sociable-top
@@ -2280,6 +2298,7 @@
 ##.article-social-btn
 ##.article-social-button
 ##.article-social-buttons
+##.article-social-float
 ##.article-social-opts
 ##.article-social-overlay
 ##.article-social-sharing
@@ -2303,6 +2322,7 @@
 ##.articleSocialNetwork
 ##.articleToolbarShare
 ##.article__fb-share
+##.article__footer-share-title
 ##.article__footer__likes
 ##.article__footer__sharing
 ##.article__share
@@ -2544,6 +2564,8 @@
 ##.button-facebook
 ##.button-fb
 ##.button-fblike
+##.button-network_facebook
+##.button-network_twitter
 ##.button-pinterest
 ##.button-share
 ##.button-share-facebook
@@ -2723,6 +2745,8 @@
 ##.domain-article-share-gp
 ##.domain-article-share-tw
 ##.dpArticleShare
+##.dpsp-networks-btns-share
+##.dpsp-total-share-wrapper
 ##.drop_facebook
 ##.dsp_social
 ##.dv-social-media
@@ -2789,6 +2813,7 @@
 ##.essb_item
 ##.essb_link_pinterest
 ##.essb_link_twitter
+##.essb_links
 ##.essb_links_list
 ##.essb_share
 ##.essbfc-container
@@ -2863,6 +2888,7 @@
 ##.facebook-bar
 ##.facebook-big-share
 ##.facebook-block
+##.facebook-block-height
 ##.facebook-box
 ##.facebook-box-widget
 ##.facebook-broadcasting-widget
@@ -2889,6 +2915,7 @@
 ##.facebook-like-bottom
 ##.facebook-like-box
 ##.facebook-like-button-head
+##.facebook-like-button__caption
 ##.facebook-like-large
 ##.facebook-like-message-holder
 ##.facebook-likebox
@@ -3241,6 +3268,8 @@
 ##.follow-instagram
 ##.follow-iphone
 ##.follow-label
+##.follow-link-facebook
+##.follow-link-twitter
 ##.follow-link-wrapper
 ##.follow-linkedin
 ##.follow-links
@@ -3363,6 +3392,7 @@
 ##.footer-icon-youtube
 ##.footer-instagram
 ##.footer-instagram-icon
+##.footer-links--social
 ##.footer-links-followus
 ##.footer-links-social
 ##.footer-logos--social
@@ -3418,6 +3448,7 @@
 ##.footerYouTube
 ##.footer__sharethrough
 ##.footer__social-list
+##.footer__socials
 ##.footer_followUs
 ##.footer_head_social
 ##.footer_share
@@ -3520,6 +3551,7 @@
 ##.genericon-youtube
 ##.get-social
 ##.getfaceBook
+##.getshare-button
 ##.getsocial
 ##.gf_social
 ##.gig-button-container--reddit
@@ -3607,6 +3639,7 @@
 ##.grid-socialwrap
 ##.group_share
 ##.grpSocial
+##.gs-share
 ##.gsn-social
 ##.gsn-social-sidebar
 ##.gt-social-menu
@@ -4057,6 +4090,10 @@
 ##.intro-share-container
 ##.ione-widget-facebook-activity
 ##.ione-widget-youtube_playlist
+##.ipsfocus_sFacebook
+##.ipsfocus_sGoogle
+##.ipsfocus_sTwitter
+##.ipsfocus_social
 ##.is-social
 ##.ishare
 ##.ism_box_facebook
@@ -4067,6 +4104,7 @@
 ##.item-actions__share-actions
 ##.item-basic-social
 ##.item-share-tools
+##.item-social-row
 ##.itemFacebook
 ##.itemSocial
 ##.itemSocialLink
@@ -4316,6 +4354,8 @@
 ##.mf-social-list
 ##.mgm-share-pinterest
 ##.mgm-social-share
+##.mh-share-button
+##.mh-share-buttons
 ##.mhp1138_shareBtn
 ##.microcontent-shares
 ##.minds-social
@@ -4344,6 +4384,7 @@
 ##.mod_follow_us
 ##.mod_social
 ##.mod_twitter
+##.modal-fb
 ##.module-follow
 ##.module-follow-us
 ##.module-share-tools
@@ -4549,6 +4590,7 @@
 ##.pl-social-counter
 ##.pl-social-counters
 ##.place-share
+##.player-share-toggle
 ##.plg_socialshare
 ##.pluckButtonDiv
 ##.pluckCountDiv
@@ -4599,11 +4641,13 @@
 ##.post-tweet
 ##.postDelicious
 ##.postDigg
+##.postFacebookIcon
 ##.postShare
 ##.postShareBtn
 ##.postSocial
 ##.postToFacebookFeed
 ##.postTwitter
+##.postTwitterIcon
 ##.post_share
 ##.post_share_dig
 ##.post_share_facebook
@@ -4727,6 +4771,8 @@
 ##.s_twitter
 ##.s_youtube
 ##.saboxplugin-socials
+##.sb-social-counter
+##.sb-social-counter-widget
 ##.sbCount
 ##.sbSocial
 ##.sb_share
@@ -4883,6 +4929,7 @@
 ##.share-media-side-fold
 ##.share-medium
 ##.share-menu
+##.share-module--button-wrap
 ##.share-module--count
 ##.share-more
 ##.share-nav
@@ -4966,6 +5013,7 @@
 ##.share-wrapper
 ##.share-zone
 ##.share.stumble
+##.share1
 ##.share2-vert
 ##.share24
 ##.share24_tool
@@ -5358,6 +5406,7 @@
 ##.sidebar_social
 ##.sidebarsocial
 ##.sidebartwitter
+##.sideshares-slidein
 ##.sidesocial
 ##.simple-follow-module
 ##.simple-social-icons
@@ -5369,6 +5418,7 @@
 ##.single-share
 ##.single-social
 ##.single_share
+##.single_share_bar
 ##.single_share_block
 ##.single_sharebar
 ##.single_view_top_social_wrap
@@ -5395,6 +5445,7 @@
 ##.sitewide-header-social
 ##.sl-fb-sharer-button
 ##.slickshare
+##.slide_likebox
 ##.slideout-follow
 ##.slider-social
 ##.slideshow-share-buttons
@@ -5424,6 +5475,7 @@
 ##.so_twitter
 ##.soc-bar-btn
 ##.soc-block
+##.soc-btn
 ##.soc-facebook
 ##.soc-fb
 ##.soc-google
@@ -5436,6 +5488,7 @@
 ##.soc-share-cont
 ##.soc-tu
 ##.soc-tw
+##.soc-twi
 ##.soc-twitter
 ##.soc-widget
 ##.soc-youtube
@@ -5538,6 +5591,7 @@
 ##.social-count-wrap
 ##.social-counter
 ##.social-counter-metro
+##.social-counter-wrap
 ##.social-counter-wrapper
 ##.social-counts-single
 ##.social-cta
@@ -5556,6 +5610,7 @@
 ##.social-fbook
 ##.social-feed-twitter
 ##.social-feeds-v1-content
+##.social-fixed
 ##.social-fixed-bar
 ##.social-float
 ##.social-follow
@@ -5646,6 +5701,7 @@
 ##.social-links-wrapper
 ##.social-list
 ##.social-list-container
+##.social-login
 ##.social-media
 ##.social-media-16x16
 ##.social-media-bar
@@ -5977,6 +6033,7 @@
 ##.social_collumn_container
 ##.social_connect
 ##.social_container
+##.social_counts
 ##.social_digg
 ##.social_div
 ##.social_facebook
@@ -6056,6 +6113,7 @@
 ##.social_share_tw
 ##.social_shares
 ##.social_sharing
+##.social_sharing_module
 ##.social_sidebar
 ##.social_slide_in
 ##.social_sm
@@ -6404,9 +6462,11 @@
 ##.tooltip_facebook
 ##.tooltip_google
 ##.tooltip_twitter
+##.top-article-social
 ##.top-nav-facebook
 ##.top-nav-twitter
 ##.top-social-icon
+##.top-social-icons
 ##.top-social-item
 ##.top-social-links
 ##.top-subscribe-facebook
@@ -6487,6 +6547,7 @@
 ##.tweetmeme-sharer
 ##.tweetmeme_div
 ##.tweets
+##.tweets-box
 ##.tweets_footer
 ##.twiticon
 ##.twitshare
@@ -6883,6 +6944,8 @@
 ##.wpdev-twitter
 ##.wps-seo-booster-social-buttons
 ##.wpsc-share
+##.wpsocial-shareBox
+##.wpsocials
 ##.wpsr-floatbar-movable
 ##.wpsr-floatbar-white
 ##.wpzoom-facebook-3

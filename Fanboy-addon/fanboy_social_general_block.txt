@@ -178,6 +178,7 @@
 -youtube-icon-24.
 -youtube-icon.
 -youtube-s.
+.facebookLikePopUp.
 .fbshare.js
 .pluckCount.
 .shareaholic-
@@ -1274,6 +1275,7 @@
 /plugins/getsocial/*
 /plugins/knxdt-bookmarks-wordpress-plugin/*
 /plugins/light-social/*$~stylesheet
+/plugins/like-fb/*
 /plugins/pinterest-$~stylesheet
 /plugins/rt-social/*$~stylesheet
 /plugins/sexybookmarks/*$~stylesheet
@@ -1425,6 +1427,7 @@
 /share_save_
 /share_sprite.
 /share_sprite_
+/share_tf-
 /share_toolbar.
 /share_twitter.
 /share_twitter_
@@ -1524,6 +1527,8 @@
 /soc_facebook_
 /soc_med_
 /soc_media_
+/soc_twi-
+/soc_twi.
 /soc_twitter2.
 /soc_twitter_
 /soc_youtube_

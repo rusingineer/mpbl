@@ -12,6 +12,7 @@
 -ClickTale.
 -comscore.
 -criteo.
+-event-tracking.
 -ga-track.
 -geoIP.js
 -google-analytics.
@@ -194,6 +195,7 @@
 /1x1_imp.gif?
 /1x1p.gif?
 /1x1tracker.
+/?&pid=*&subid=$image
 /?com=visit*=record&
 /?dm=*&blogid=$script
 /?livehit=
@@ -202,6 +204,7 @@
 /__ssobj/sync?$image
 /__sttm.gif?
 /__tm3k.gif?
+/__ub.gif?
 /__utm.gif
 /__utm.js
 /__varnish_geoip
@@ -215,6 +218,7 @@
 /a.php?ref=
 /aa.php?anuid=
 /ablank.gif?
+/aby.gif?
 /acbeacon2.
 /AccessCounter/*
 /AccessTrackingLogServlet?
@@ -254,7 +258,7 @@
 /admantx-
 /admantx.
 /admantx/*
-/admonitoring.js
+/admonitoring.
 /AdobeCustomVideoMeasurement.swf
 /adonis_event/*
 /adpixel.
@@ -318,6 +322,7 @@
 /amazon-affiliate-
 /amdhfp/a.do?param$image
 /amdhfp/t.do?id$image
+/amp-analytics-
 /amplitude-*.js$script
 /analiz.php3?
 /AnalTrack.js
@@ -326,8 +331,10 @@
 /analytic_data_
 /analyticReporting.
 /analyticReportingAS3.$domain=~miniclip.com
+/analytics-assets/*
 /analytics-beacon-
 /analytics-dotcom/*
+/analytics-event-
 /analytics-js.
 /analytics-tag.
 /analytics-v1.
@@ -338,7 +345,7 @@
 /analytics.do
 /analytics.gif?
 /analytics.google.js
-/analytics.html?action=
+/analytics.html?
 /analytics.min.
 /analytics.php.
 /analytics.php?
@@ -496,6 +503,7 @@
 /bi.tracking/*
 /bicomscore.
 /bicomscore_
+/biddr-analytics.
 /bidiq.
 /bin/reff.php
 /bin/stats?
@@ -503,6 +511,7 @@
 /bizo.js
 /BKVTrack.js
 /blank.gif?*&
+/blockstat?
 /blog/traffic/?
 /blogsectiontracking.
 /blogtotal_stats_
@@ -692,6 +701,7 @@
 /CntRpt.aspx?
 /cnvtr.js
 /cnwk.1d/*/apex.js
+/CofinaHits.
 /cognitive_match/*
 /collect?callback=
 /collector/*/*?*&euidl=*&url=
@@ -709,6 +719,7 @@
 /ComScoreSWF.
 /condenet-metric.
 /connect_counter.js
+/contador.gif?
 /containertag?
 /ContentTrackingCall.
 /control/tracking.php?
@@ -839,6 +850,7 @@
 /DownloadTracker.
 /drads?referrer=
 /dspixel.js
+/dst.gif?
 /dstracking.
 /dtm_cm.js
 /dtmtag.js
@@ -907,6 +919,7 @@
 /event/pageview?
 /event?pmo=
 /event?stat_
+/event?t=*&__seed=
 /eventLogServlet?
 /eventtracker.js
 /evercookie.
@@ -1058,6 +1071,7 @@
 /geocompteur.
 /geocounter.
 /geoip.html
+/geoip?
 /geoip_cc
 /geoip_script?
 /geoipAPI.js?
@@ -1159,6 +1173,7 @@
 /hit/tracker
 /hit2.php
 /hit?artefactId=
+/hit?t=*&__seed=
 /hit_count?
 /hit_counter
 /hit_img.cfm?
@@ -1309,6 +1324,7 @@
 /js/hbx.js
 /js/indextools/*
 /js/livestats_
+/js/logger?
 /js/quantcast-
 /js/sophus/*
 /js/tagging/tagtrack.js
@@ -1322,6 +1338,7 @@
 /jscounter.
 /jslogger.php?ref=
 /json?referer=
+/jsstat.
 /jstats.php
 /jstats/js/*
 /jtracking/*
@@ -1418,6 +1435,7 @@
 /logger.pageperf?
 /logger/p.gif?
 /logger?d=
+/logger?description=
 /logging-code.
 /logging/pixel?
 /logging_requests.
@@ -1594,6 +1612,7 @@
 /ocount.php
 /ocounter.
 /odoscope.js
+/oewa_pixel_
 /olx/tracker.
 /om_ctrack.
 /om_tracking_
@@ -1783,6 +1802,7 @@
 /popupCookieWriter.
 /popuplog/*
 /postlog?
+/postview.gif?
 /powercount.
 /pphlogger.
 /pr.php?
@@ -1810,10 +1830,12 @@
 /pvserver/pv.js
 /PvServlet?
 /px.gif?
+/px.js?ch=$script
 /px_trans.gif
 /pxa.min.js
 /pxl.cgi?
 /pxlctl.
+/pxls/*
 /pxtrk.gif
 /pzn/proxysignature
 /qtracker-
@@ -1963,6 +1985,7 @@
 /semanticTagService.js
 /SEMTracking.
 /send-impressions.html
+/sensor/statistic?
 /seomonitor/*
 /seosite-tracker/*
 /seostats/*
@@ -2063,7 +2086,9 @@
 /stat.aspx?
 /stat.gif?
 /stat.htm?
+/stat.js?
 /stat.php?
+/stat.png?
 /stat.tiff?
 /stat/count
 /stat/event?
@@ -2119,6 +2144,7 @@
 /stats/ga.
 /stats/impression
 /stats/imr.
+/stats/init.
 /stats/log.
 /stats/mark?
 /stats/metrica.
@@ -2256,6 +2282,7 @@
 /track/visits/?
 /track2.php
 /track;adv
+/track?browserId
 /track?event=
 /track?referer=
 /track_clicks_
@@ -2363,6 +2390,7 @@
 /tracking/widget/*
 /tracking202/*
 /Tracking?id=
+/Tracking?t=
 /tracking_add_ons.
 /tracking_ajax.
 /tracking_clic.
@@ -2446,6 +2474,7 @@
 /trk.gif?
 /trkr.js
 /truehits.php?
+/tse/tracking.
 /tsrHitCounter.
 /ttt.gif?
 /turn-proxy.html?
@@ -2465,6 +2494,7 @@
 /UnicaTag.
 /UniqueUserVisit?
 /Universal-Federated-Analytics.
+/universal-tracking-
 /universalPixelStatic.
 /updateBotStatus.do?
 /updateStats.
@@ -2544,6 +2574,7 @@
 /visitor.gif?ts=
 /visitor.js?key=
 /visitor.min.js
+/visitor/identity?
 /visitor/index.php?*referrer$image
 /VisitorAPI.js
 /visitortracker.pl?
@@ -2730,6 +2761,7 @@
 ://mint.*/?js
 ://piwik.$third-party
 ://sett.*/log.js
+://sp.*/xyz?$image
 ://tracking.*/beacon/
 ;manifest-analytics.js
 =&cs_Referer=
@@ -2753,6 +2785,7 @@
 ?eventtype=request&pid=
 ?googleTrack=
 ?hmtrackerjs=
+?log_visibility=
 ?record&*&serve_js
 ?ref=*&itemcnt=
 ?stwc_cz=

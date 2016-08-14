@@ -162,7 +162,7 @@
 /plugins/let-it-snow/*
 /plugins/nrelate-related-content/*$~stylesheet
 /plugins/optin-monster/*$script
-/plugins/popup-maker/*$script
+/plugins/popup-maker/*$script,domain=~tracktion.com
 /plugins/scroll-to-top/*
 /plugins/scroll-triggered-boxes/*
 /plugins/wordpress-popup/*$~stylesheet
@@ -283,6 +283,7 @@ _social_rss.
 -agree-cookies/
 -cookie-banner-
 -cookie-cnil.
+-cookie-consent.
 -cookie-consent/
 -cookie-filter/$script
 -cookie-law-popup.
@@ -421,7 +422,7 @@ _social_rss.
 /cookiecutter.js
 /cookied.js
 /cookiedirective*.js
-/cookieDisclaimer.js
+/cookiedisclaimer.
 /cookiedisclosure.
 /cookiehint.
 /CookieInfo.
@@ -494,6 +495,7 @@ _social_rss.
 /eprivacy-cookie.
 /eu-cookie-
 /eu-cookie.
+/eu-cookie/*
 /EU-cookielaw.
 /eu_cookie_$script,stylesheet
 /eu_cookies.
@@ -514,6 +516,7 @@ _social_rss.
 /fp_cookie.
 /g4cookies.
 /GestionCookiesCNILPlugin/*
+/header.cookies.
 /icit-cookie-law/*
 /ico_cookies.
 /icocookies.
@@ -558,6 +561,7 @@ _cookie_cnil.
 _cookie_compliance.
 _cookie_consent/
 _cookie_law.js
+_cookie_notice.
 _cookie_policy.
 _cookie_policy_
 _cookiebar_
@@ -566,6 +570,7 @@ _cookielaw_mip.
 _cookieMsgBox/
 _cookieNotice.
 _cookies_disclosure/
+_cookieschecker.
 _cookiewarn.
 _eu_cookie_
 _eucookie_compliance_

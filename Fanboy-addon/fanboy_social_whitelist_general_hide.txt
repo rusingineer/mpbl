@@ -31,7 +31,7 @@ last.fm#@##sharebuttons
 bufferapp.com#@##sharer
 renren.com#@##sharevideo
 birebin.com#@##social-container
-mozilla.org#@##social-footer
+arstechnica.com,mozilla.org#@##social-footer
 appspot.com#@##social-header
 fitocracy.com#@##social-media
 prism-break.org#@##social-networks
@@ -87,7 +87,7 @@ bandsintown.com#@#.fa-facebook-square
 setlist.fm#@#.fa-google
 academia.edu,foodit.com,magine.com,sendspace.com#@#.fa-google-plus
 slideshare.net#@#.fa-linkedin
-imagecloud.tv#@#.fa-share-alt
+imagecloud.tv,smallbusinessbank.com#@#.fa-share-alt
 magine.com,sendspace.com,setlist.fm#@#.fa-twitter
 imagecloud.tv#@#.fa-youtube-play
 azurewebsites.net#@#.facebook-btn
@@ -155,7 +155,7 @@ instagram.com#@#.instagram-follow
 thenewamerican.com#@#.itemSocialSharing
 sap.com#@#.j-social-actions
 sap.com#@#.j-social-button
-facebook.com,forum.albiononline.com,kat.cr,katproxy.com#@#.likeButton
+facebook.com,forum.albiononline.com#@#.likeButton
 linkedin.com,peerlyst.com#@#.linkedin.icon
 pan.baidu.com#@#.list-share
 theverge.com#@#.m-article__share-buttons
@@ -183,7 +183,7 @@ hootsuite.com#@#.retweet
 sciencemag.org#@#.rssFeed
 nasa.gov#@#.section-social
 californiasunday.com,youtube.com#@#.share-bar
-belgafiles.com,linkedin.com,way2sms.com#@#.share-box
+belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com#@#.share-btn
 vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,thedodo.com#@#.share-buttons
@@ -209,6 +209,7 @@ viewbug.com#@#.share-with-friends
 linkedin.com#@#.share-wrap
 vimeo.com#@#.share-wrapper
 franceculture.fr#@#.share-zone
+kp.by,kp.ru#@#.shareBox
 martindoor.com#@#.shareButton
 scan.co.uk#@#.shareContainer
 hootsuite.com#@#.shareCount
@@ -240,7 +241,7 @@ wat.tv#@#.social-block
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 buzzerie.com,gog.com,udemy.com#@#.social-btn
 fastcompany.com,golem.de#@#.social-button
-airbnb.cat,airbnb.com,airbnb.de,cheezburger.com,musixmatch.com,ozy.com#@#.social-buttons
+adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,cheezburger.com,musixmatch.com,ozy.com#@#.social-buttons
 cheezburger.com#@#.social-container
 github.com#@#.social-count
 golem.de#@#.social-counter

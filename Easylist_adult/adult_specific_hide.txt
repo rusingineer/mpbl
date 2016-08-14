@@ -60,6 +60,7 @@ iafd.com###bantop
 desktopangels.net###bg_tab_container
 pornflex53.com###bigbox_adv
 xxxbunker.com###blackout
+xcum.com###block-adv
 upornia.com###bns
 chaturbate.com###botright
 porntube.com###bottomBanner
@@ -112,6 +113,7 @@ efukt.com###friends
 homemoviestube.com###friendscontents
 netasdesalim.com###frutuante
 cantoot.com###googlebox
+pornhub.com###hd-rightColVideoPage > div[class]:first-child
 nangaspace.com###header
 freepornvs.com###header > h1 > .buttons
 aan.xxx###header-banner
@@ -202,7 +204,7 @@ crazyshit.com###pro_tip
 youporn.com,youporngay.com###producer
 porn.com###promo
 redtube.com###puBody
-drtuber.com,nuvid.com###puFloatDiv
+drtuber.com,nuvid.com,viptube.com###puFloatDiv
 foxtube.com###pub-container
 hd-porn.me###publicidad-videoancho
 xvideoslatino.com###publicidadlateral1
@@ -210,6 +212,7 @@ xvideoslatino.com###publicidadlateral2
 pussy.org###pussyhbanner
 pussy.org###pussytextlinks
 ma3comic.com###pxhead
+javhub.net###r18_banner
 bootyoftheday.co###random-div-wrapper
 flurl.com###rectbanner
 yourlust.com###relatedBanner
@@ -255,6 +258,7 @@ fleshasiadaily.com###text-13
 fleshasiadaily.com###text-14
 fleshasiadaily.com###text-15
 fleshasiadaily.com###text-8
+nuvid.com###th_advertisement + script + [class]
 fapgames.com###the720x90-spot
 filhadaputa.tv###thumb[width="959"]
 hiddencamshots.com,videarn.com###top-banner
@@ -395,9 +399,10 @@ tub99.com##.bigimg2
 drtuber.com##.bl[style="height: auto;"]
 twilightsex.com##.bl_b_l
 hdzog.com##.block-advertise
-japan-whores.com##.block-banners
+japan-whores.com,xcum.com##.block-banners
 anyporn.com##.block-btm
 mylifetime.com##.block-doubleclick
+hdzog.com##.block-showtime
 youx.xxx##.block-sites
 thenude.eu##.blockBnr
 thenude.eu##.blockBnrCenter
@@ -425,6 +430,7 @@ sublimedirectory.com##.browseAd
 xaxtube.com##.bthums
 babesandstars.com##.btn-block
 realgfporn.com##.btn-info
+xcum.com##.btn-ponsor
 4tube.com,tube8.com##.btnDownload
 redtube.com##.bvq
 redtube.com##.bvq-caption
@@ -454,6 +460,7 @@ fapdu.com##.disp-underplayer
 keezmovies.com##.double_right
 cameltoe.com##.downl
 pinkrod.com,pornsharia.com,wetplace.com##.download
+viptube.com##.download_adv_text_video
 realgfporn.com##.downloadbtn
 hellporno.com##.dvb-advertisements
 pornsharia.com##.eciframe
@@ -461,6 +468,7 @@ pornsharia.com##.eciframeright
 efukt.com##.ef_block_wrapper
 goldporntube.com##.embadv
 grandpaporntube.net##.embed_banners
+viptube.com##.envelope + div[class]
 grandpaporntube.net##.exo
 porn.com##.fZone
 imagepost.com##.favsites
@@ -515,9 +523,11 @@ pornhub.com,spankwire.com,tube8.com,youporn.com##.join_link
 overthumbs.com##.joinnow
 zuzandra.com##.jx-bar
 fantasti.cc##.l3ft-b4nn34
+tnaflix.com##.lastLiAv
 fantasti.cc##.left-banner
 gamcore.com##.left-side-skin
 tnaflix.com##.leftAbsoluteAdd
+sextingpics.com##.leftMAIN
 xxxporntalk.com##.left_col
 taxidrivermovie.com##.left_right_border
 xxxporntalk.com##.leftsidenav
@@ -544,10 +554,12 @@ tnaflix.com##.pInterstitial
 tube8.com##.partner-link
 bravotube.net##.paysite
 ah-me.com##.paysite-link
+hdzog.com##.pl_showtime1_wr2
 hclips.com##.pl_wr
 hdzog.com##.player-advertise
 txxx.com##.player-desk
 madmovs.com,pornosexxxtits.com##.player-outer-banner
+hdzog.com##.player-showtime
 xnxxvideoporn.com##.player_bn
 4tube.com##.player_faq_link
 4tube.com##.player_sub_link
@@ -580,6 +592,7 @@ pornxs.com##.right-sb
 gamcore.com##.right-side-skin
 porn.com##.right300
 tnaflix.com##.rightAbsoluteAdd
+sextingpics.com##.rightMAIN
 tabletporn.com##.right_pos
 xxxporntalk.com##.rightalt-1 > center > a[target="_blank"] > img[width="160"]
 anysex.com##.rightbnr
@@ -644,6 +657,8 @@ amateurvoyeurforum.com##.tborder[width="99%"][cellpadding="6"]
 imagepost.com##.textads1
 extremetube.com##.title-sponsor-box
 galleries-pornstar.com##.title_slider
+tube8.com##.tjFooterMods
+tube8.com##.tjUpperMods
 popporn.com,xxxlinks.es##.top-banner
 sunporno.com##.top-player-link
 10movs.com##.top_banner
@@ -675,12 +690,14 @@ japan-whores.com##.video-provider
 heavy-r.com##.video-slider
 alphaporno.com,tubewolf.com##.video-sponsor
 redtube.com.br##.video-wrap > .bvq
+pornhub.com##.video-wrapper > #player + div[class]
 youporn.com##.videoBanner
 tube8.com##.videoPageSkin
 tube8.com##.videoPageSkin1
 tube8.com##.videoPageSkin2
 4tube.com##.videoSponsor
 h2porn.com##.video_banner
+voyeurperversion.com##.video_right
 bonertube.com##.videoad940
 indianpornvideos.com##.videoads
 porndoo.com##.videosite
@@ -714,9 +731,12 @@ exgirlfriendmarket.com##[width="728"][height="150"]
 264porn.blogspot.com##[width="728"][height="90"]
 matureworld.ws##a > img[height="180"][width="250"][src*=".imageban.ru/out/"]
 asspoint.com,babepedia.com,babesource.com,gaytube.com,girlsnaked.net,pichunter.com,pornoxo.com,rogreviews.com,starcelebs.com,the-new-lagoon.com,tube8.com,xxxhdd.com,youjizz.com,youporn.com##a[href*=".com/track/"]
+pornhub.com##a[href*=".download/"]
 keezmovies.com,tube8.com##a[href*="/affiliates/idevaffiliate.php?"]
 monstercockz.com,xxxhdd.com##a[href*="/go/"]
 thumbzilla.com,tube8.com##a[href*="?coupon="]
+pornhub.com##a[href*="abbp"]
+pornhub.com##a[href*="pleasedontslaymy"]
 gaytube.com##a[href="/external/meet_and_fuck"]
 porn99.net##a[href="http://porn99.net/asian/"]
 xhamster.com##a[href="http://premium.xhamster.com/join.html?from=no_ads"]
@@ -725,6 +745,7 @@ footfetishtube.com##a[href="http://www.footfetishtube.com/advertising_banner.php
 twinsporn.net##a[href="http://www.herbostore.net/mens-health/spermomax.html"]
 stockingstv.com##a[href="http://www.stockingstv.com/banners/default.php"]
 hornywhores.net##a[href="https://cosyupload.com/affiliate"]
+pornhub.com##a[href] > div[style*="height: 250px;"]
 imagevenue.com##a[href^=" http://www.pinporn.com"]
 fux.com##a[href^="/adc/"]
 gaytube.com##a[href^="/external/premium/"]
@@ -813,10 +834,14 @@ imagevenue.com##a[target="_blank"][href*="&utm_campaign="]
 imagevenue.com##a[target="_blank"][href*="http://trw12.com/"]
 youporn.com##a[target="_blank"][href^="http://www.youporn.com/"] > img[src^="http://www.youporn.com/"]
 picfoco.com##a[title="Sponsor link"]
+pornhub.com##aside > [style="display: block;"] > table
+pornhub.com##aside > span:first-child
 pornxs.com##aside[style="height: 532px;"]
 pornxs.com##aside[style="height: 532px;display:block !important;"]
 showyourdick.org##center + hr + table[width="800"][align="center"]
 drtuber.com##div + style[id] + div[class]
+pornhub.com##div > .removeAdLink + [style]
+pornhub.com##div > aside > aside
 xhamster.com##div > noscript + div[style]
 youporn.com##div:first-child > div[style^="float:"]
 sex3dtoons.com##div[align="center"] > table[width="940"][cellspacing="0"][cellpadding="0"][border="0"]
@@ -829,6 +854,7 @@ voyeurhit.com##div[id^="div-ad-"]
 pornuppz.info##div[id^="dyn"][style^="position: fixed; left: 30px; top: 20px; z-index:"]
 videobank.xxx##div[id^="hornyspots_"]
 hentaistream.com##div[id^="hs_ad"]
+tube8.com##div[id^="tj-zone"]
 eporner.com##div[style$=" border:1px solid #666666;"]
 casanovax.com##div[style="background-color: #5B1111; width: 728px; height: 90px; text-align: center; margin: auto;"]
 xtravids.com##div[style="background-color:#DDD; padding:5px;"]
@@ -919,10 +945,12 @@ eporner.com##div[style^="width:300px; height:250px;"]
 xhamster.com##div[style^="width:315px; height:300px;"]
 imgflare.com##div[style^="width:604px; height:250px;"]
 youporn.com##em > span > figure
+pornhub.com##figure > [id][style="display: block;"]
 rateherpussy.com##font[size="1"][face="Verdana"]
 nude.hu##font[stlye="font: normal 10pt Arial; text-decoration: none; color: black;"]
 cliphunter.com##h2[style="color: blue;"]
 luvmilfs.com##iframe + div > div[style="position: absolute; top: -380px; left: 200px; "]
+tube8.com##iframe + div[id][class]
 javjunkies.com##iframe[height="670"]
 watchteencam.com##iframe[src^="http://watchteencam.com/images/"]
 youporn.com##iframe[style="height: 250px; width: 300px; position: static; float: none; clear: none; text-align: start;"]
@@ -931,11 +959,10 @@ youporn.com##iframe[style="height: 250px; width: 950px; position: static; float:
 motherless.com##iframe[style]
 thisav.com##iframe[width="160"][height="600"]
 4sex4.com,imagefap.com,motherless.com##iframe[width="300"]
-thisav.com,youporn.com##iframe[width="300"][height="250"]
+thisav.com,tnaflix.com,youporn.com##iframe[width="300"][height="250"]
 yourasiansex.com##iframe[width="660"]
 imagevenue.com,thisav.com##iframe[width="728"][height="90"]
 videosgls.com.br##iframe[width="800"]
-motherless.com##iframe[width]
 xxxgames.biz##img[height="250"][width="300"]
 pornhub.com##img[src^="http://www.pornhub.com/album/strange/"]
 imagewaste.com##img[style="border: 2px solid ; width: 160px; height: 135px;"]
@@ -956,7 +983,7 @@ anetakeys.net,angelinacrow.org,cherryjul.eu,madisonparker.eu,nikkythorne.com,sex
 171gifs.com##img[width="500"][height="180"]
 171gifs.com##img[width="640"][height="90"]
 fleshasiadaily.com##img[width="700"]
-171gifs.com,babeshows.co.uk,jessie-rogers.com##img[width="728"][height="90"]
+171gifs.com,4fuckr.com,babeshows.co.uk,jessie-rogers.com##img[width="728"][height="90"]
 mofosex.com##li[style="width: 385px; height: 380px; display: block; float: right;"]
 hardporn8.com##style + div[style^="visibility: visible;"]
 pornleech.com##style + div[style^="z-index: "]

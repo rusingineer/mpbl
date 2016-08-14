@@ -186,7 +186,6 @@
 ||live-medias.net/button.php?$third-party
 ||m6web.fr/statsd/
 ||makazi.com/tracker-
-||maradio.be^*/analytics.html
 ||neteventsmedia.be/hit.cfm?
 ||nvc.n1bus-exp.com^
 ||nws.naltis.com^
@@ -448,6 +447,7 @@
 ||webstats.sapo.pt^
 ||xl.pt/api/stats.ashx?
 ! Romanian
+||profiling.avandor.com^
 ||t5.ro/static/$third-party
 ||top.skyzone.ro^
 ! Russian
@@ -539,6 +539,7 @@
 ||top.bur-bur.ru^
 ||top.elec.ru^
 ||top.sec.uz^
+||track.recreativ.ru^
 ||track.revolvermarketing.ru^
 ||track.rtb-media.ru^
 ||traktor.ru^*/counter.php?
@@ -582,6 +583,8 @@
 ||counter.mtgnewmedia.se^
 ||stats.dominoplaza.com^
 ||vizzit.se^$third-party
+! Turkish
+||hit.dogannet.tv^
 ! Ukranian
 ||counter.opinion.com.ua^
 ||metalportal.com.ua/count.php?

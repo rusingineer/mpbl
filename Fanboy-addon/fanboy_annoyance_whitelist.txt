@@ -1,3 +1,4 @@
+@@/cookie_law/plugin.js$script,~third-party
 @@/rutorrent/plugins/rss/*$image,~third-party
 @@||3dmark.com/proxycon/js/jquery.cookiesdirective.js
 @@||4ka.sk/js/cookiebar.min.js
@@ -17,6 +18,7 @@
 @@||config.parsely.com/config/$script,domain=dailystar.co.uk|express.co.uk
 @@||cookielawinfo.com^$~third-party
 @@||disqus.com^*/social-icons.png
+@@||eblogx.com/js/jquery.cookiebar.js
 @@||ebuddy.com/website/*social-icons.png
 @@||ecache.vzw.com/imageFiles/Myacct/*/onlineopinionV5/
 @@||egmnow.com/wp-content/plugins/egm-interstitial/js/interstitial.js
@@ -30,11 +32,13 @@
 @@||google.com/friendconnect/$script,domain=blogspot.com
 @@||hp.com^*/caas-privacy-cookie-$script
 @@||huffpost.com/images/social/benefits/signup/
+@@||images.taboola.com/taboola/$image,domain=indiatimes.com
 @@||inglenookproductions.com/css/website-disclaimer---cookies-policy.css
 @@||jamendo.com/images/libs/social/
 @@||klout.com/static/images/*icon
 @@||l.yimg.com/zz/combo?*social
 @@||libreprojects.net/logos/
+@@||lightningmaps.org^*/cookieconsent.js
 @@||livefyre.com/site_media/images/auth/$image
 @@||makeuseoflimited.netdna-cdn.com/pages/*/images/social.png$domain=makeuseof.com
 @@||my.leadpages.net/template/$script,domain=weddingjams.com
@@ -63,5 +67,6 @@
 @@||wayback.archive.org/web/jsp/Interstitial.jsp?
 @@||williams-sonoma.com^*/js/external/coremetrics.js
 @@||ws.audioscrobbler.com^$domain=diffuser.fm
+@@||xboxarcade.pl/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js
 @@||yimg.com/uq/syndication/yad.js$domain=zdnet.com
 @@||zdnet.com/images/base/sprites-social.png

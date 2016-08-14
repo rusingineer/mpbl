@@ -58,6 +58,7 @@
 ||admulti.ru^
 ||adpix.ru^
 ||adpro.com.ua^
+||adregain.com^$third-party
 ||adregain.ru^$third-party
 ||adriverm.narod.ru^$third-party
 ||adriverm.narod2.ru^$third-party
@@ -108,6 +109,7 @@
 ||apress-barmen.ru/banner_shape_images/
 ||arsfu.ru^$third-party
 ||artbanner.com.ua^
+||artluch.ru^$third-party
 ||asg.vidigital.ru^
 ||askmarket.net^$third-party
 ||assessoria.hotbox.ru^
@@ -159,6 +161,7 @@
 ||beseed.ru^$third-party,domain=~facebook.com|~ok.ru|~twitter.com|~vk.com
 ||bestclick.ru^
 ||bestexotic.com^
+||betfaq.ru^$third-party
 ||bezlimitvideo.com^
 ||bigbord.net^$third-party
 ||bigbuzzy.ru/m/proposal/banner/
@@ -383,6 +386,7 @@
 ||hotels.ru/content/images/poster/
 ||hotels24.ua^$third-party
 ||hotinga.ru^
+||hsm5azph84.com^$third-party
 ||hypernews.ru^
 ||hypo.ufanet.ru^$image
 ||i.j2j.ru^
@@ -513,7 +517,6 @@
 ||luxurycash.net^
 ||m2k.ru/cgi-bin/
 ||mabila.ua^$third-party
-||magicbb.ru^$third-party,subdocument
 ||magna.ru^$third-party
 ||magnet.kiev.ua^$domain=~magnet.kiev.ua
 ||mail.banklife.ru^$third-party
@@ -608,6 +611,7 @@
 ||neosmi.ru^$third-party
 ||netporno.org^$third-party
 ||newclick.org^$third-party
+||news.mirtesen.ru/data/$third-party
 ||news.rin.ru^$third-party
 ||newsprom.ru/img/
 ||nextonmarket.com/i/banners/
@@ -633,6 +637,7 @@
 ||ongm.net^*/images/banner.png
 ||onlineresume.ru/banner*?
 ||only4men.ru^$third-party
+||onlyrichgames.com^$third-party
 ||oowl.ru/ab/
 ||open.by/bnrs/
 ||openlinks.ru^$third-party
@@ -812,6 +817,7 @@
 ||scrool.ru^$third-party
 ||searchmeta.webhost.ru^
 ||secure-it.imrworldwide.com/cgi-bin/m?
+||segamen.ru^$third-party
 ||selectornews.com^$third-party
 ||senseagency.ru^$third-party
 ||seo-monster.ru/img_
@@ -939,6 +945,7 @@
 ||topbrokers.com.ua^$third-party
 ||topcto.ru^$third-party
 ||topdownloads.ru/charts/
+||topwot.ru^$third-party
 ||torgnn.ru^$third-party
 ||torrent-windows.net^$third-party
 ||trade7.ru^$third-party
@@ -1076,10 +1083,12 @@
 ||wq3.ru^
 ||wwwomen.ru^$third-party
 ||x-ero.ru^$third-party
+||x-love.com^$third-party
 ||x-traf.ru^
 ||x4u.ru^$third-party
 ||xap.ru^$third-party,script
 ||xchange.cc/banner/
+||xn-----6kcabjzj3azhemz8a4p.xn--p1ai/js/consultant.js$third-party
 ||xstats.in^
 ||xxx-news.$third-party
 ||yandex-games.ru/ok/banners/
@@ -1096,11 +1105,13 @@
 ||zheton.com^$third-party
 ||zipmonster.ru^$third-party
 ||zizu.lv^$third-party
+||zmoe.ru^$third-party
 ||znews.su^$third-party
 ||zorkabiz.ru^$third-party
 ||zozocash.biz^$third-party
 ||zremcom.ru/anim
 ||zto.h16.ru^$third-party
+||zybu.ru^$third-party
 ||компжив.рф/images/banners/
 !
 ! - Информеры (реклама товаров и клик-байт с промежуточными страницами) -------

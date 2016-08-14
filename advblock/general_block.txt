@@ -107,6 +107,7 @@
 /clk.js|
 /code/bshow.php?$third-party
 /code/click.php?id=$popup
+/comabacker.php$xmlhttprequest
 /comebacker.js$xmlhttprequest
 /comebacker.php$xmlhttprequest
 /content/get?*&previous_ad_id=
@@ -327,9 +328,10 @@ _tizers.
 ||ua/upload/jackets/
 ||ua/uploads/banners/
 ||ucoz.*/img/ma/cv.gif
-||v.adfox.ru^$object-subrequest
+||v.adfox.ru^$object-subrequest,xmlhttprequest
 ||рф/banner/
 ! Какой-то рекламный движок для ucoz-форумов.
+/:\/\/20\d\d\d\d\d\d\..*\.html/$third-party,subdocument
 ||am/rtr/$script
 ||biz/rtr/$script
 ||by/rtr/$script

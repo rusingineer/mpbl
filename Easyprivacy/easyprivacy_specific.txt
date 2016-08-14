@@ -25,6 +25,7 @@
 ||a.huluad.com/beacons/
 ||a.jango.com^
 ||a7.org/infol.php?
+||aax-us-iad.amazon.com^
 ||abc.net.au/counters/
 ||abc.net.au^*/stats/
 ||abebooks.com/timer.gif?
@@ -109,6 +110,7 @@
 ||analytics.archive.org^
 ||analytics.bloomberg.com^
 ||analytics.femalefirst.co.uk^
+||analytics.global.sky.com^
 ||analytics.go.com^
 ||analytics.gorillanation.com^
 ||analytics.ifood.tv^
@@ -405,6 +407,7 @@
 ||collector.ksax.com^
 ||collector.kstptv5.com^
 ||collector.shopstream.co^
+||collector.shorte.st^
 ||collector.statowl.com^
 ||collector.tescocompare.com^
 ||collector.trendmd.com^
@@ -509,6 +512,7 @@
 ||drpeterjones.com/stats/
 ||dslreports.com/tp?
 ||dsm.com^*/searchenginetracking.js
+||duckduckgo.com/t/iaui?$image
 ||dump8.com/js/stat.php
 ||dvdempire.com/images/empty2.asp
 ||dvdempire.com/include/user/empty2.asp?
@@ -595,6 +599,7 @@
 ||facebook.com/ct.php
 ||facebook.com/friends/requests/log_impressions
 ||facebook.com/search/web/instrumentation.php?
+||facebook.com/xti.php?
 ||facebook.com^*/impression_logging/
 ||fanfiction.net/eye/
 ||fanhow.com/script/tracker.js
@@ -1078,7 +1083,6 @@
 ||microsoft.com^*/surveytrigger.js
 ||military.com/cgi-bin/redlog2.cgi?
 ||military.com/Scripts/mnfooter.js
-||military.com^*/statistic?
 ||miniclip.com^*/swhsproxy.swf?
 ||miningweekly.com/count.php?
 ||miniurls.co/track/
@@ -1300,6 +1304,7 @@
 ||pixel.facebook.com^
 ||pixel.honestjohn.co.uk^
 ||pixel.klout.com^
+||pixel.newscgp.com^
 ||pixel.newsdiscover.com.au^
 ||pixel.pcworld.com^
 ||pixel.propublica.org^
@@ -1362,7 +1367,6 @@
 ||racinguk.com/images/home_sponsors/
 ||radio-canada.ca/lib/TrueSight/markerFile.gif?
 ||radio.cz/assets/js/analytics.js
-||radioplayer.co.uk/v3/analytics.html?
 ||rainbow-uk.mythings.com^
 ||rakuten-static.com/com/rat/
 ||ralphlauren.com^*/icg.metrics.js
@@ -1667,6 +1671,7 @@
 ||sundayskylb1.com/sst.gif?
 ||supermediastore.com/web/track?
 ||superpages.com/ct/clickThrough?
+||surinenglish.com/acceso.php?
 ||surveys.cnet.com^
 ||sysomos.com/track/
 ||t-ak.hulu.com^
@@ -1728,7 +1733,6 @@
 ||thesaurus.com/track/
 ||theseforums.com/track/
 ||thesmokinggun.com^*/jsmd.js
-||thewatchseries.to/analytics.html
 ||theweek.com/decor/track/
 ||thinkgeek.com/js/rts.js
 ||thrillist.com/track
@@ -1746,6 +1750,7 @@
 ||tivo.com/__ssobj/track?
 ||tk.kargo.com^
 ||tmagazine.com/js/track_
+||tools.ranker.com^
 ||top.wn.com^
 ||topix.com/t6track/
 ||torrentz.eu/ping?
@@ -1758,6 +1763,7 @@
 ||totalporn.com/videos/tracking/?url=
 ||tottenhamhotspur.com/media/javascript/google/
 ||toyota.com/analytics/
+||tp.ranker.com^
 ||tqn.com/px/?
 ||tracelog.www.alibaba.com^
 ||tracer.perezhilton.com^
@@ -1853,7 +1859,7 @@
 ||tubeplus.me/geoip.php?
 ||tubeplus.me/imp.php?
 ||tubepornclassic.com/js/111.js
-||tumblr.com/analytics.html
+||tubxporn.com/track.php
 ||tumblr.com/impixu?
 ||turn.com/js/module.tracking.js
 ||turnsocial.com/track/
@@ -1974,6 +1980,7 @@
 ||washingtonpost.com/wp-srv/javascript/placeSiteMetrix.
 ||washingtonpost.com/wp-stat/analytics/
 ||washingtonpost.com^*/one.gif?
+||watch-series.to/analytics.html
 ||watchmouse.com^*/jsrum/
 ||watson.live.com^
 ||wavescape.mobi/rest/track/

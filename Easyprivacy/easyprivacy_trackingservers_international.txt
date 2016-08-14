@@ -115,6 +115,7 @@
 ||generaltracking.de^$third-party
 ||getcounter.de^$third-party
 ||gezaehlt.de^$third-party
+||gft2.de^$third-party
 ||giga-abs.de^$third-party
 ||google-pr7.de^$third-party
 ||google-rank.org^$third-party
@@ -238,6 +239,7 @@
 ||spider-mich.com^$third-party
 ||sponsorcounter.de^$third-party
 ||spring-tns.net^$third-party
+||srvtrck.com^$third-party
 ||ssl4stats.de^$third-party
 ||static-fra.de^*/targeting.js
 ||static-fra.de^*/tracking.js
@@ -377,6 +379,7 @@
 ||oadz.com^$third-party
 ||phpstat.com^$third-party
 ||pixanalytics.com^$third-party
+||ptengine.cn^$third-party
 ||sagetrc.com^$third-party
 ||sitebot.cn^$third-party
 ||tanx.com^$third-party
@@ -523,6 +526,7 @@
 ||mobylog.jp^$third-party
 ||omiki.com^$third-party
 ||owldata.com^$third-party
+||ptengine.jp^$third-party
 ||research-artisan.com^$third-party
 ||rtoaster.jp^$third-party
 ||trackfeed.com^$third-party
@@ -587,6 +591,7 @@
 ||brat-online.ro^$third-party
 ||gtop.ro^$third-party
 ||hit100.ro^$third-party
+||profitshare.ro^$third-party
 ||statistics.ro^$third-party
 ||top-ro.ro^$third-party
 ||trafic.ro^$third-party
@@ -598,11 +603,16 @@
 ||a-counter.kiev.ua^$third-party
 ||announcement.ru^$third-party
 ||apkonline.ru^$third-party
+||audsp.com^$third-party
+||audtd.com^$third-party
+||bid.run^$third-party
 ||botscanner.com^$third-party
+||bumlam.com^$third-party
 ||cityua.net^$third-party
 ||clubcollector.com^$third-party
 ||cnstats.ru^$third-party
 ||e-kuzbass.ru^$third-party
+||exe.bid^$third-party
 ||faststart.ru^$third-party
 ||gdeslon.ru^$third-party
 ||gostats.ru^$third-party
@@ -623,6 +633,7 @@
 ||logz.ru^$third-party
 ||lookmy.info^$third-party
 ||lugansk-info.ru^$third-party
+||madnet.ru^$third-party
 ||mediametrics.ru^$third-party
 ||mediaplan.ru^$third-party
 ||mediatoday.ru^$third-party
@@ -633,6 +644,7 @@
 ||pmbox.biz^$third-party
 ||proext.com^$third-party
 ||quick-counter.net^$third-party
+||r24-tech.com^$third-party
 ||sarov.ws^$third-party
 ||sensor.org.ua^$third-party
 ||seo-master.net^$third-party
@@ -641,8 +653,11 @@
 ||skylog.kz^$third-party
 ||stat24.ru^$third-party
 ||stattds.club^$third-party
+||targetix.net^$third-party
 ||tbex.ru^$third-party
+||tds.io^$third-party
 ||toptracker.ru^$third-party
+||tpm.pw^$third-party
 ||uarating.com^$third-party
 ||uptolike.com^$third-party
 ||uzrating.com^$third-party

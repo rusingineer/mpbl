@@ -16,6 +16,7 @@
 ||arte.tv^*=countstats,
 ||banner.t-online.de^$image
 ||baur.de/servlet/LandmarkServlet?
+||beacon.gutefrage.net^
 ||berliner-zeitung.de/analytics/
 ||berlinonline.de^*/cp.php?
 ||bild.de/code/jiffy,*.js
@@ -179,7 +180,6 @@
 ||putpat.tv/tracking?
 ||pxc.otto.de^
 ||quoka.de^*/wtlog_02.js
-||radioplayer.de/v3/analytics.html?
 ||rem-track.bild.de^
 ||remixshare.com/stat/
 ||rhein-zeitung.de^*/picksel/
@@ -302,6 +302,7 @@
 ||tracker.mspy.com^
 ||tracking.ha.rueducommerce.fr^
 ||unblog.fr/cu.js
+||universfreebox.com/js/analytics.js
 ||virginmobile.fr/ea.js
 ||zonecss.fr/images/stat_robocop.gif?
 ||zonecss.fr/images/statscreen.gif?
@@ -312,6 +313,7 @@
 ! Chinese
 /pos?act=dur$object-subrequest,domain=tudou.com
 ||17173.com/ping.js
+||2cat.or.tl/pmccounter.swf
 ||55bbs.com/pv.js
 ||56img.com/script/fn/stat/
 ||591.com.tw/action/stat/
@@ -337,6 +339,7 @@
 ||count.kandian.com^$object-subrequest
 ||count.newhua.com^
 ||count.qiannao.com^
+||count.taobao.com^
 ||count.video.sina.com.cn^
 ||count.vrs.sohu.com^$object-subrequest
 ||count5.pconline.com.cn^
@@ -489,6 +492,7 @@
 ! Hebrew
 ||bravo.israelweather.co.il^
 ||cellstats.mako.co.il^
+||ds.haaretz.co.il^
 ||events.walla.co.il/events.asp
 ||inn.co.il/Controls/HPJS.ashx?act=log
 ||nana10.co.il/statistics/
@@ -633,13 +637,16 @@
 ||mail.ru/count/
 ||mail.ru/counter?
 ||montblanc.lenta.ru^
+||rambler.ru/cnt/
 ||rbc.ru/click?
 ||rbc.ru/count/
 ||rutube.ru/counters.html?
 ||rutube.ru/dbg/player_stat?
 ||rutube.ru/img/playerstats.gif?
+||ssp.rambler.ru^
 ||stat.lenta.ru^
 ||stats.lifenews.ru^
+||sync.rambler.ru^
 ||vedomosti.ru/boom?
 ||yast.rutube.ru^
 ! Serbian
@@ -668,6 +675,7 @@
 ||analytics.codigo.se^
 ||beacon.mtgx.tv^
 ||blocket.se/js/trafikfonden.js
+||falkenbergtorget.se/sc.gif?
 ||fusion.bonniertidskrifter.se^
 ||prisjakt.nu/js.php?p=trafikfonden
 ||prod-metro-collector.cloudapp.net^

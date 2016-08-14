@@ -13,12 +13,14 @@
 @@||classistatic.de^*/hitcounter.js$domain=mobile.de
 @@||cloudfront.net/bugsnag-$script,domain=tvnow.de
 @@||code.etracker.com/t.js?et=$script,domain=apotheken-umschau.de|compo-hobby.de|diabetes-ratgeber.net|giz.de|kaguma.com|krombacher.de
+@@||computer-bild.de/imgs/*/Google-Analytics-$image,domain=computerbild.de
 @@||count.rtl.de/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||css.ch/stats/tracker.js?$xmlhttprequest
 @@||cxense.com/cx.js$domain=tagesanzeiger.ch
 @@||darmstadt.ui-traffic.de/mobile/webapp/bower_components/heatmap.js$domain=darmstadt.ui-traffic.de
 @@||eltern.de/min.php?*/clickTracking.js
 @@||email.1und1.de/appsuite/api/*/1and1_integration/tracking/tracking.js$domain=email.1und1.de
+@@||eventim.de/obj/global/feature/tagCommander/tc_header.min.$script
 @@||getgoods.de^*/emstrack.js
 @@||giga.de/wp-content/plugins/econa-stats/log/video-views/log.php?id=$object-subrequest
 @@||gls.de^*/emos2.js
@@ -86,7 +88,9 @@
 @@||boutiqueducourrier.laposte.fr/_ui/eboutique/scripts/xiti/part/xtcore.js
 @@||cache2.delvenetworks.com/crossdomain.xml$domain=lapresse.ca
 @@||cache2.delvenetworks.com/ps/c/v1/$object-subrequest,domain=lapresse.ca
+@@||diwancorp.fr^*/angular-google-analytics.min.js
 @@||easypari.fr^*/sitestat.js
+@@||estat.com/js/$script,domain=francetvsport.fr
 @@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr
 @@||leboncoin.fr/js/xiti.js
 @@||lesinrocks.com/min/?f=*/chartbeat.js
@@ -151,6 +155,7 @@
 @@||googletagmanager.com/gtm.js?$domain=cdon.fi
 @@||hise.spring-tns.net/survey.js$domain=hintaseuranta.fi
 @@||hise.spring-tns.net^*^cp=$image,domain=hintaseuranta.fi
+@@||k-ruokakauppa.fi/fi/static/js/counter.js$domain=k-ruokakauppa.fi
 @@||lekane.net/lekane/dialogue-tracking.js$domain=sonera.fi
 ! Greek
 @@||stats.e-go.gr/rx.asp?$object-subrequest,domain=megatv.com
@@ -163,11 +168,13 @@
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=eloan.co.il
 @@||player.flix.co.il/scripts/GoogleAnalytics.js
 @@||stats.g.doubleclick.net/dc.js$domain=reshet.tv
+@@||tapuz.co.il/general/dotomi/statistics.js?$~third-party
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
 @@||trc.taboola.com/inncoil/log/3/available$subdocument,domain=inn.co.il
 ! Hungarian
 @@||clicktale.net/WRc5.js$domain=telefonkonyv.hu
 @@||cloudfront.net/bugsnag-2.min.js$domain=miutcank.hu
+@@||rtl.hu/javascripts/UserTracking.js
 ! Italian
 @@||adobetag.com/d2/telecomitalia/live/Aggregato119TIM.js$domain=tim.it
 @@||androidgalaxys.net/wp-content/plugins/*/google-analyticator/$script
@@ -227,6 +234,7 @@
 @@||google-analytics.com/ga.js$domain=carambatv.ru
 @@||itv.1tv.ru/stat.php?
 @@||labrc.pw/advstats/$xmlhttprequest
+@@||megafon.ru/static/?files=*/tealeaf.js
 @@||swa.mail.ru/cgi-bin/counters?$script
 @@||wargag.ru/public/js/counter.js?
 @@||widget.myrentacar.me^$script,subdocument
@@ -236,6 +244,7 @@
 ! Spanish
 @@||acb.com/javascripts/jv_feeder_stats.js
 @@||c5n.com^*/angulartics-google-analytics.min.js
+@@||estafeta.com/shared/js/tracking.js
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||segundamano.mx^*/tealium.js
 ! Swedish
