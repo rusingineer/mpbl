@@ -271,6 +271,7 @@
 ##.essb-fans-rss
 ##.et_bloom_flyin
 ##.et_bloom_optin
+##.fa-icon-rss
 ##.fa-rss
 ##.fa-rss-square
 ##.fby-tab
@@ -358,6 +359,7 @@
 ##.module--next-story-slideout
 ##.moduletable_icons
 ##.moreCouponsSocial
+##.msc-rss
 ##.navigation_social
 ##.newsletter-sticky
 ##.nextStoryFly
@@ -679,6 +681,7 @@
 ###email-subscribe
 ###email-subscription-modal
 ###email-widget-wrapper
+###emailAcqPopupContainer
 ###emailSignupOverlay
 ###emailWidgetFormWrapper
 ###email_sub_popover
@@ -717,6 +720,7 @@
 ###inline-newsletter
 ###instory_newsletter_signup
 ###it_newsletters
+###jFrame-email-signup
 ###js-newslettermodal
 ###leftcol_subscribe
 ###macro-leadership-newsletter-signup
@@ -847,6 +851,7 @@
 ###nyp-newsletter-modal
 ###offer-research-center-newsletter
 ###opinion-newsletter-promo
+###overlay-email-signup
 ###pcm-subscribe
 ###pnlFooterNewsletterSignup
 ###popinNewsletter
@@ -883,6 +888,7 @@
 ###signup_newsletter
 ###signup_right_sidebar
 ###singlesignup
+###sleek-subscribe
 ###slidead-popup
 ###sssubscribe-wrapper
 ###st-email-signup
@@ -929,6 +935,7 @@
 ###widgetNewsletter
 ###wp-subscribe
 ##.ALS_IL_Holder
+##.CheatNewsletter
 ##.DFNewsletterSignup
 ##.InlineNewsletter
 ##.NewsLetterLeftSide
@@ -950,6 +957,7 @@
 ##.article_newsletter_signup
 ##.article_page_right_subscribe
 ##.aside-subscribe-module
+##.banner_newsletter
 ##.bar_newsletter
 ##.be-newsletter-widget
 ##.bg-emailshare
@@ -975,6 +983,7 @@
 ##.bpage-email-signup
 ##.btmNewsletter
 ##.btn_newsletter
+##.button-subscribe
 ##.c-newsletter-context
 ##.cS-newsletter
 ##.cambeywest-subscribe
@@ -1011,6 +1020,7 @@
 ##.email-popup
 ##.email-promo-box
 ##.email-signpost
+##.email-signup-box
 ##.email-signup-form
 ##.email-signup-form-wrapper
 ##.email-signup-holder
@@ -1052,11 +1062,13 @@
 ##.form-signup-articlebottom
 ##.free-enewsletters-widget
 ##.ftr-nwsltr
+##.gform_widget
 ##.giga-email-subscribe
 ##.go-bsocial-cta
 ##.go_newsletter_widget
 ##.h-register-newsletter
 ##.h-subscribe
+##.header__social--email
 ##.hz-newsletter
 ##.icoNewsletterBig
 ##.icon-newsletter
@@ -1070,6 +1082,7 @@
 ##.ione-widget-bp_newsletter_signup
 ##.item-newsletter
 ##.item-subscribe
+##.jetpack_subscription_widget
 ##.js-captation-email-bottom
 ##.js-newsletter
 ##.js-newsletter-signup
@@ -1102,6 +1115,8 @@
 ##.news-letter-signup-wrapper
 ##.newsSignupRR
 ##.news_form_wraper
+##.newsletter--article
+##.newsletter--container
 ##.newsletter-advertisement
 ##.newsletter-anon
 ##.newsletter-article-cta
@@ -1112,6 +1127,7 @@
 ##.newsletter-box
 ##.newsletter-button
 ##.newsletter-call-to-action
+##.newsletter-col
 ##.newsletter-compact
 ##.newsletter-container
 ##.newsletter-dialog-box
@@ -1146,6 +1162,7 @@
 ##.newsletter-signup-bait
 ##.newsletter-signup-bar-container
 ##.newsletter-signup-box
+##.newsletter-signup-component
 ##.newsletter-signup-container
 ##.newsletter-signup-dialog
 ##.newsletter-signup-form
@@ -1165,6 +1182,7 @@
 ##.newsletter-tease
 ##.newsletter-topimg
 ##.newsletter-trigger
+##.newsletter-variation
 ##.newsletter-widget
 ##.newsletter-wrapper
 ##.newsletter1
@@ -1266,7 +1284,9 @@
 ##.small-newsletter
 ##.social-link-mail
 ##.social_newsletter_box
+##.sticky-signup
 ##.story-follow-module
+##.subhed-email
 ##.subscrOptWide
 ##.subscrbe-module-floating
 ##.subscribe-article-bottom
@@ -1314,6 +1334,7 @@
 ##.ui-newsticker-wrapper
 ##.unit--newsletter
 ##.widget-newsletter
+##.widget-newsletter-block
 ##.widget-ngs-subscribe
 ##.widget-subscribe
 ##.widget__subscribe
@@ -1339,6 +1360,7 @@
 ##.widget_woo_subscribe
 ##.wp-nwletter-popup
 ##.yt-mailchimp-subscription-form-widget
+##img[title="Subscribe to our daily email"]
 ! Cookie,privacy,legal Messages
 ###AcceptCookieContainer
 ###AvisoCookieslaw
@@ -1514,6 +1536,7 @@
 ###cnil-cookie-panel
 ###cnil-layer
 ###cnil-msg
+###cnilFooter
 ###cnilNotification
 ###cnil_alert
 ###cnil_bandeau
@@ -1652,6 +1675,7 @@
 ###cookieCompliance
 ###cookieComplianceMessage
 ###cookieCompliancyModal
+###cookieConatiner
 ###cookieConsent
 ###cookieConsentBar
 ###cookieConsentForm
@@ -1690,6 +1714,7 @@
 ###cookieLawHeader
 ###cookieLawText
 ###cookieLayer
+###cookieLevelIntercept
 ###cookieLine
 ###cookieMessage
 ###cookieMessageContainer
@@ -1867,6 +1892,7 @@
 ###cookies-message-main
 ###cookies-messages
 ###cookies-modal
+###cookies-monster
 ###cookies-msg
 ###cookies-notice
 ###cookies-overlay
@@ -1984,6 +2010,7 @@
 ###div_cookie
 ###divcook
 ###dlgCookies
+###doc-banner-cookie
 ###dvCookie
 ###eCookieConsentDialog
 ###eCookieMsg
@@ -2139,6 +2166,7 @@
 ###okookie-box
 ###pCookieWarning
 ###p_ciInner
+###panel-cookie
 ###panel-cookie-usage
 ###panel-cookies
 ###pc-cookie-notice
@@ -2160,6 +2188,7 @@
 ###pricacy_popup
 ###privacy-bar
 ###privacy-message-bar
+###privacy-policy-notice
 ###privacy-policy-panel
 ###privacyBar
 ###privacyOuterContainer
@@ -2371,6 +2400,7 @@
 ##.cookie-banner
 ##.cookie-banner-bottom
 ##.cookie-bar
+##.cookie-barre
 ##.cookie-block
 ##.cookie-box
 ##.cookie-check
@@ -2388,6 +2418,7 @@
 ##.cookie-dialogue
 ##.cookie-disclaimer
 ##.cookie-disclosure
+##.cookie-div
 ##.cookie-footer
 ##.cookie-footer-dialog
 ##.cookie-header
@@ -2723,6 +2754,7 @@
 ##.js-cookies-box
 ##.js-message-cookies
 ##.js-toast-cookies
+##.jsCookiesMessage
 ##.js_cookie_law
 ##.k4-cookie
 ##.layerCookie
@@ -2854,6 +2886,8 @@
 ##.wrapper--cookies-disclaimer
 ##.wrapperCookies
 ##.wsa-cookielaw
+! Cookie tag element
+##XK-COOKIE-POLICY-WARNING
 ! Common Cookie element
 ###sliding-popup.sliding-popup-bottom
 ###sliding-popup.sliding-popup-top
@@ -2912,6 +2946,7 @@
 ###scroll-to-top
 ###scroll-top
 ###scroll-top-link
+###scrollToTop
 ###scroll_back_to_top
 ###scrolltotop_button
 ###to-the-top

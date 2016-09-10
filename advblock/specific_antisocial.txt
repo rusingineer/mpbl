@@ -7,9 +7,11 @@ bankdirect.pro###bdp_shadow
 062.in.ua,062.in.ua.,goodhouse.ru###cboxOverlay
 fishki.net###chrome_popup
 062.in.ua,062.in.ua.,dnepr24.com.ua,gazeta.zp.ua,goodhouse.ru,kherson.net.ua###colorbox
+tengrinews.kz###container > div[id^="search_"]
 olx.ua###div-gpt-listing-full-screen-container
 gitarkin.ru###dropin
 velosipedinfo.ru###dynamic-to-top
+zaporpobedim.ru###ecl-notice
 velosipedinfo.ru###element_to_pop_up
 ognov.ru###facebook_modal
 porjati.ru###facebook_videoboom
@@ -35,7 +37,7 @@ syla-rozumu.blogspot.com###overlay
 gorod.cn.ua###overlay-soc
 zn.ua###overlay_fb_modal
 onlinegdz.net###page > .share
-shkolapola.ru,sovsekretno.ru,xhamster-pic.com###parent_popup
+shkolapola.ru,sovsekretno.ru,xhamster-pic.com,zvamynews.blogspot.com###parent_popup
 easypronunciation.com###please_share
 gdz-free.com###pol
 amn.com.ua###popmake-overlay
@@ -43,7 +45,7 @@ tvrain.ru###popup
 pinu.com.ua###popup-message-background
 pinu.com.ua###popup-message-window
 advis.ru###popup3
-dictat.net,fithacker.ru,storyfox.ru###popup_bg
+cluber.com.ua,dictat.net,fithacker.ru,storyfox.ru###popup_bg
 rbc.ru,rbcdaily.ru,utro.ru###popup_box
 muz-tv.ru###popup_overlay
 funnymir.net,intersnoznat.ru###popupwindow
@@ -95,6 +97,8 @@ kanobu.ru##.informer-popup
 maxpark.com##.innerActsWrapper
 maxpark.com##.innerOverlay
 voprosov-net.ru##.isShow.popup
+wildberries.ru##.jqmOverlay
+wildberries.ru##.jqmWindow
 porjati.ru##.jquery-modal.blocker
 lingvo.ua##.js-rateus-popup
 fishki.net##.like_wall.is_visible
@@ -104,10 +108,12 @@ butik.izum.ua##.m-subscribe.b-popup
 ##.min-width-normal > #popup_container ~ #fade
 top.thepo.st##.modal-backdrop
 svadbavo.ru##.modal-baner + .mask,.modal-baner
+womenzone.org##.modalFacebook
 kinokong.net##.no_ampr
 arduino-project.net##.onp-sl-overlap-box
 online-fotoshop.ru##.onp-sl-overlap-locker-box
 muz-tv.ru##.ovl_pf
+unn24.com.ua##.popmake-overlay
 gdz-free.com##.shadow
 klassno.tv##.spu-bg
 klassno.tv,yablyk.com##.spu-box
@@ -118,8 +124,10 @@ povar.ru##.vk.soc-banner
 blogspot.ru##.widget-content > #overlay
 rbc.ru##.win-subscribe-popup-box
 /facebook_popup.js$script,domain=study.ru
+/jquery.arcticmodal$script,stylesheet,domain=iz.com.ua|smiruponitke.info|sud.ua
 /jquery.simplemodal.js$script,domain=holod72.ru|xn--80aa4argm.xn--p1ai|партак.рф
 /sociallocker-$domain=online-fotoshop.ru|samiysok.com
+/wp-content/plugins/popup-maker/$domain=info-life.in.ua|intermarium.com.ua|paragraf.net.ua|unn24.com.ua|varota.com.ua
 9111.ru##[id^="site-welcome"]
 gavag.ru##body > #bodypopup
 mos-holidays.ru##body > #colorbox *
@@ -135,6 +143,8 @@ onlinemultfilmy.ru##body > div[class*="dialog-"]
 factroom.ru##body > div[class^="facebook-"]
 bomba.co,roscontrol.com##body > div[class^="remodal"]
 zismo.biz##body > div[class^="simplemodal"]
+moypodval.ru##body > div[class^="tccSm"]
+professionali.ru##body > div[data-control="dialog"]
 pollee.org##body > div[data-mg-c]
 glianec.com##body > div[id$="Media"][style*="display: block"]
 tonnews.ru##body > div[id^="fancybox"]
@@ -159,15 +169,16 @@ znak.com##figure[class*="st"]
 ||connect.facebook.net/ru_RU/sdk.js$script,domain=the-fun.tv
 ||creu.ru/wp-content/plugins/adv-popup-plugin/
 ||detstrana.ru/externals/fancybox/
+||dopestory.ru/wp-content/themes/yelly/Popup/
+||elise.com.ua/wp-content/plugins/popups/
 ||eventsfolder.ru/templates/ef/js/lockers-ru$script
 ||gdz-free.ru/files/stuHover$script
 ||glazey.info/template/js/popup-mail.js$script
 ||golbii.ru/wp-content/plugins/facebook-like-page-locker/
 ||hdkinoshka.com/js/usocial.js
 ||inetlike.com/wp-content/plugins/like-fb/
-||info-life.in.ua/wp-content/plugins/popup-maker/
 ||interesno.cc/js/arcticmodal/
-||intermarium.com.ua/wp-content/plugins/popup-maker/
+||iomedia.ru/static/jquery.bpopup.min.js
 ||kernel-zone.ru/tools/kmsg/
 ||linkis.com/ajax/get-popup-html$xmlhttprequest
 ||live-hd.ru/fb24.htm
@@ -178,7 +189,6 @@ znak.com##figure[class*="st"]
 ||myfishka.com/templates/js/jquery.smartbanner.js$script
 ||ofigenno.com/js/jquery.modal.js
 ||ofigenno.com/js/modal-popup.js
-||paragraf.net.ua/wp-content/plugins/popup-maker/
 ||photo-monster.ru/plugins/subscribermagnet/
 ||podrobnosti.ua/js/jqModal.js
 ||popupfiles.makedreamprofits$third-party
@@ -187,16 +197,15 @@ znak.com##figure[class*="st"]
 ||rusmonitor.com/wp-content/plugins/popup-by-supsystic/
 ||sdamgia.ru/notifications?ajax$xmlhttprequest
 ||slovoidilo.ua/cp/css/reminder.css$stylesheet
-||smiruponitke.info/*arcticmodal$script
 ||sovkusom.ru/wp-content/plugins/as-social-popup/
-||sud.ua^*/jquery.arcticmodal$script,stylesheet
 ||takprosto.cc/wp-content/plugins/as-social-popup/
 ||telezombi.ru/js/toast.js$script
 ||traq.li/publisher/render/widget/
 ||tvoy-smartphone.com/wp-content/plugins/popups/
-||varota.com.ua/wp-content/plugins/popup-maker/
+||twizz.ru/wp-content/plugins/facebook-popup-rotator/
 ||viks.tv/templates/Default/js/soclock.js
 ||visagistprofi.ru/wp-content/plugins/wpt-tea-coffee-dance/
+||web2edu.ru/script/leaves.js
 ||womanadvice.ru/sites/all/modules/facebook_modal/
 ||wtalks.com/sites/all/modules/facebook_modal/
 ||yablyk.com/wp-content/plugins/popups/

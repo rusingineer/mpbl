@@ -10,6 +10,8 @@
 @@/wp-content/plugins/wordpress-social-login/*$~third-party
 @@||126.net/share/js/$script,domain=163.com
 @@||3dmark.com/proxycon/images/fb_icon.png
+@@||4game.com^*/facebook.js
+@@||4game.com^*/twitter.js
 @@||4shared.com/images/icons/social-connect-buttons.png
 @@||about.me^*/googleplus?
 @@||acceptableads.org/images/manifesto/reddit.png
@@ -268,6 +270,7 @@
 @@||passets-cdn.pinterest.com^
 @@||patreon.com/images/fb_login_large.png
 @@||pcinpact.com/js/socialbar.js
+@@||pgol.it/scripts/layerPos.js$script
 @@||physicsgalaxy.com/images/SignInWithfacebook.png
 @@||picozu.com/r/images/windows/intro/facebook.png
 @@||pinterest.com/images/about/buttons/$domain=pinterest.com
@@ -346,6 +349,7 @@
 @@||spiceworks.com/assets/community/icons/social/$image
 @@||spiceworks.com/assets/community/join/$image
 @@||spotify.edgekey.net^*/images/facebook-sm.png$domain=spotify.com
+@@||springboardplatform.com/storage/js/social_widget/$script
 @@||sputnik.md/min/js/plugins/social-likes.min.js
 @@||sputniknews.com/min/js/plugins/social-likes.min.js
 @@||ssl-images-amazon.com/images/*/socialmedia/$image,domain=affiliate-program.amazon.co.uk|affiliate-program.amazon.com|affiliate-program.amazon.in|affiliate.amazon.co.jp|afiliados.amazon.es|associados.amazon.com.br|associates.amazon.ca|associates.amazon.cn|partenaires.amazon.fr|partnernet.amazon.de|programma-affiliazione.amazon.it

@@ -42,6 +42,7 @@
 /promoredirect?*&campaign=*&zone=$popup
 /punder.php$popup
 /realmedia/ads/*$popup
+/Redirect.a1b?$popup
 /Redirect.eng?$popup
 /Redirect.engine$popup
 /Redirect.rb?$popup
@@ -51,13 +52,17 @@
 /showads/*$popup
 /spopunder^$popup
 /srvclk.php?$popup
+/xdirect.html?$popup
 /yesbaby.$popup
 ://ads.$popup
 ://adv.$popup
 =popunder&$popup
 =popunders&$popup
+?ad_domain=$popup
 ?AdUrl=$popup
 ?bannerid=*&punder=$popup
 ?iiadext=$popup
 ?zoneid=*_bannerid=$popup
 _popunder+$popup
+! Used with many websites to generate multiple popups
+data:text/html;base64$popup

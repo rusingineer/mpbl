@@ -26,6 +26,7 @@
 -social-tracking.
 -tracking-pixel.
 -tracking.js?
+-trackingScript.
 -xtcore.js
 .AdmPixelsCacheController?
 .asis?Log=
@@ -151,6 +152,7 @@
 .net/trck/
 .net/trk.php?
 .net/vtrack|
+.net/z.gif?
 .ntpagetag.
 .nz/t.gif?
 .org/?js|
@@ -180,6 +182,7 @@
 .tv/t.png?
 .uk/o.gif?
 .uk/t.gif?
+.uk/track?
 .uk/traffic/?
 .usertracking_script.js
 .vn/0.gif?
@@ -303,6 +306,7 @@
 /aggbug.aspx?
 /agof/iam-
 /ajax-hits-counter/*
+/ajax/analytics/*
 /ajax/heatmap-
 /ajax/log?
 /ajax/optimizely-
@@ -900,6 +904,7 @@
 /emos2-$script
 /emos2.js$~xmlhttprequest
 /emstrack.
+/entry_stats?
 /envoy.sb?sbaid
 /epf_v1_95.js
 /error/js/log?
@@ -911,6 +916,7 @@
 /etracker/*
 /etrackercode.
 /eu-survey.js
+/ev/co/*?eventid=
 /event-log/*
 /event-report?*&uid=
 /event-tracking.js
@@ -1036,6 +1042,7 @@
 /gaclicktracking.
 /gaCustom.
 /gadsfuncs.
+/gaEventTracking.
 /GAFOAWrapper.swf?
 /GAInit.js|
 /galinks-
@@ -1337,6 +1344,7 @@
 /js_tracker.
 /jscounter.
 /jslogger.php?ref=
+/json/stats?
 /json?referer=
 /jsstat.
 /jstats.php
@@ -1509,6 +1517,7 @@
 /mint8/?
 /mintstats/?js
 /mistats/*
+/mixpanel-*.js
 /mixpanel-measurement.
 /mixpanel.
 /mixpanel_beacon.
@@ -1759,6 +1768,7 @@
 /pixel_iframe.
 /pixel_track.
 /pixel_tracking.
+/pixelappcollector.
 /pixelcounter.
 /pixelframe/*
 /PixelImg.asp
@@ -1882,6 +1892,7 @@
 /refer-tracking.
 /referadd?
 /referer.gif?
+/referer_frame.
 /refererRecord.
 /referral_tracker.
 /referral_tracking.
@@ -2246,6 +2257,7 @@
 /tpix.gif?
 /tPx.gif?
 /tr.gif?
+/tr/p.gif?
 /track-compiled.js
 /track-referrals.js
 /track.ads/*
@@ -2367,6 +2379,7 @@
 /tracking/beacon/?
 /tracking/clicks
 /tracking/create?
+/tracking/csp?
 /tracking/epixels.
 /tracking/impression/*
 /tracking/index.
@@ -2577,6 +2590,8 @@
 /visitor/identity?
 /visitor/index.php?*referrer$image
 /VisitorAPI.js
+/visitorCookie.
+/VisitorIdentification.js
 /visitortracker.pl?
 /visits_contor.
 /VisitTracking?
@@ -2837,9 +2852,11 @@ _NielsenNetRatings.
 _ntpagetag.
 _OpinionLab/$script
 _pages_tracker.
+_pixel_test/?
 _pixelmap.js
 _promo_id=
 _quantcast.swf
+_quantcast_tag.
 _resource/analytics.js
 _sdctag1_
 _sdctag2.

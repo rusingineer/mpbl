@@ -116,6 +116,7 @@
 ||alipay.com/service/clear.png?
 ||aliyun.com/actionlog/
 ||allanalpass.com/track/
+||alooma.io/track/?
 ||alphasitebuilder.co.za/tracker/
 ||amatomu.com/link/log/
 ||amatomu.com/log.php?
@@ -262,6 +263,7 @@
 ||b-aws.aol.com^
 ||b.bedop.com^
 ||b5media.com/bbpixel.php
+||bab.frb.io^
 ||bango.net/exid/*.gif?
 ||bango.net/id/*.gif?
 ||barium.cheezdev.com^
@@ -428,11 +430,13 @@
 ||cnt.mastorage.net^
 ||coinbase.com/assets/application-*.js$third-party
 ||collect.igodigital.com^
+||collect.rewardstyle.com^
 ||collection.acromas.com^
 ||collector.air.tv^
 ||collector.apester.com^
 ||collector.leaddyno.com^
 ||collector.nextguide.tv^
+||collector.sspinc.io^
 ||comet.ibsrv.net^
 ||comic-rocket.com/metrics.js
 ||communicatorcorp.com^*/conversiontracking.js
@@ -604,6 +608,7 @@
 ||dufue2m4sondk.cloudfront.net^
 ||dw.cbsi.com^
 ||dw.com.com^
+||dymlo6ffhj97l.cloudfront.net^
 ||dzxxxg6ij9u99.cloudfront.net^
 ||e-activist.com^*/broadcast.record.message.open.do?
 ||e-merchant.com/^*/edr.js$third-party
@@ -737,6 +742,8 @@
 ||github.com/notifications/beacon/
 ||glam.com/cece/agof/
 ||glam.com/ctagsimgcmd.act?
+||glam.com/jsadimp.gif?
+||glam.com^*/log.act?
 ||glbdns.microsoft.com^
 ||go-stats.dlinkddns.com^$third-party
 ||go.optifuze.com^
@@ -921,6 +928,7 @@
 ||log000.goo.ne.jp^$third-party
 ||log1.survey.io^
 ||logger.logidea.info^
+||logger.snackly.co^
 ||logger.sociablelabs.com^
 ||logging.carambo.la^
 ||loggingapi.spingo.com^
@@ -1006,6 +1014,7 @@
 ||mmpstats.mirror-image.com^
 ||mochiads.com/clk/
 ||modules.ooyala.com^*/analytics-
+||movementventures.com/_uid.gif
 ||mozilla.org/page/*/open.gif$third-party
 ||mp.pianomedia.eu^
 ||msecnd.net/jscripts/HA-$script
@@ -1206,6 +1215,7 @@
 ||recs.atgsvcs.com^$third-party
 ||redir.widdit.com^$third-party
 ||redplum.com^*&pixid=$third-party
+||reevoo.com/assets/ga.$script
 ||reevoo.com/track/
 ||reevoo.com/track_url/
 ||reevoo.com^*/track/
@@ -1343,6 +1353,7 @@
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
 ||stats.olark.com^
+||stats.openload.co^
 ||stats.ozwebsites.biz^
 ||stats.polldaddy.com^
 ||stats.qmerce.com^
@@ -1507,6 +1518,7 @@
 ||tracker.mtrax.net^
 ||tracker.myseofriend.net^$third-party
 ||tracker.neon-images.com^
+||tracker.neon-lab.com^
 ||tracker.roitesting.com^
 ||tracker.seoboost.net^$third-party
 ||tracker.timesgroup.com^
@@ -1647,6 +1659,7 @@
 ||visualstudio.com/v2/track$third-party
 ||vivociti.com/images/$third-party
 ||viximo.com/1px.gif?
+||vizual.ai^*/click-stream-event?
 ||vizury.com/analyze/
 ||vk.com/rtrg?
 ||vk.com/videostats.php
@@ -1686,7 +1699,6 @@
 ||webworx24.co.uk/123trace.php
 ||webzel.com/counter/
 ||wetpaint.com^*/track?
-||whatismyip.akamai.com^
 ||whoson.creativemark.co.uk^$third-party
 ||whosread.com/counter/
 ||wibiya-actions.conduit-data.com^

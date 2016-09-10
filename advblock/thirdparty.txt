@@ -24,7 +24,8 @@
 ||a.fobos.tv^
 ||a.votpusk.ru^$third-party,image,object
 ||a24help.ru/_partners.js$third-party
-||a24help.ru/assets/promo/$third-party
+||a24help.ru/assets/$third-party
+||a24help.ru^*scalc/$third-party
 ||abcfilm.org^$third-party
 ||abelus.ru/index/ms_reklam_
 ||abs.ispsystem.com^
@@ -80,6 +81,7 @@
 ||aff.sportsevents365.com^*/banners/
 ||affilates.doktordick.com^
 ||affiliate.vsemayki.ru^$third-party
+||aforextrading.com^$third-party
 ||agava.ru/b/
 ||agentbilet.com/sites/$third-party
 ||agitmedia.com^
@@ -133,6 +135,7 @@
 ||b.itvnet.lv^
 ||b.madplace99.com^
 ||b.nwave.de^
+||b1.kasjauns.lv^$third-party
 ||b2bcontext.ru^$third-party,script
 ||b2bvideo.ru^
 ||b81x63nc.ws.md^
@@ -173,6 +176,7 @@
 ||blowclick.ru^
 ||bn.ohah.ru^
 ||bn.orthodoxy.ru^
+||bn.vsenovostroyki.com.ua^$third-party
 ||bnfest.com^$third-party
 ||bomb-club.com/aff/
 ||bongacams.com/promo.
@@ -203,7 +207,7 @@
 ||chitika.org^
 ||chromebrowser.ru^$third-party
 ||cinemateka3d.ru^$third-party
-||citilink.ru^$third-party
+||citilink.ru^$third-party,domain=~retailrocket.net
 ||city-advertising.ru^$third-party
 ||click.readme.ru^
 ||click4wm.ru^
@@ -327,11 +331,13 @@
 ||freshmac.ru^$third-party
 ||frogadvert.ru^
 ||fsimg.ru/elephant/
+||funcoin.club^$third-party
 ||funkit.ru/i/partner_banners/
 ||funnation.ru^$third-party
 ||fxbn.fxcd.ru^
 ||fxcast.com^$third-party
 ||g2a.com/widget_
+||gaby.hit.gemius.pl^$third-party
 ||galaxymeet.ru^$third-party
 ||gamblingbuilder.com^$third-party
 ||gamebook.pw^$third-party,subdocument
@@ -354,6 +360,7 @@
 ||glows.ru^
 ||gnezdo.ru^
 ||go.bb.ru/images/
+||go.sampo.ru/splash/js/loader.js$third-party,script
 ||golden-fishka.com^$third-party
 ||goldfishkapartners.com^
 ||goldline.pro^$third-party
@@ -501,6 +508,7 @@
 ||listsites.ru^$third-party
 ||litres.ru/pages/get_vidget/?
 ||liveclix.net^
+||liveexpert.ru^$third-party
 ||loadmovie.ru^
 ||loadmult.ru^
 ||loadpartners.com^
@@ -521,6 +529,7 @@
 ||magnet.kiev.ua^$domain=~magnet.kiev.ua
 ||mail.banklife.ru^$third-party
 ||mainlink.ru^$third-party
+||mamavika.com^$third-party
 ||mambo.kiev.ua^$domain=~mambo.kiev.ua
 ||mamyshev.ru/bn/
 ||managermest.ru^
@@ -678,6 +687,7 @@
 ||personalspy.ru^$third-party
 ||picbay.ru^$third-party
 ||pickegg.com^
+||picturer.xyz^$third-party
 ||pingmedia.ru^$third-party
 ||pinkintim.com/image/$third-party
 ||pirojok.net^$third-party
@@ -792,6 +802,7 @@
 ||rus-porno.ru^$third-party
 ||ruscams.com^$third-party
 ||ruscontext.com^$third-party
+||rushkolnik.ru^$third-party
 ||ruskompas.ru/incs/
 ||rusmedserv.com^$third-party
 ||rusnabat.com^$third-party
@@ -965,6 +976,7 @@
 ||trafogon.ru^
 ||trafunder.$third-party
 ||travelpayouts.com/content?promo_id=$third-party,image,object
+||trening-maximum.ru^$third-party
 ||trusearch.net/affblock/
 ||trustlink.ru^$third-party
 ||tryanka.ru^
@@ -1106,6 +1118,7 @@
 ||zipmonster.ru^$third-party
 ||zizu.lv^$third-party
 ||zmoe.ru^$third-party
+||znate.ru^$third-party
 ||znews.su^$third-party
 ||zorkabiz.ru^$third-party
 ||zozocash.biz^$third-party

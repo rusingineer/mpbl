@@ -92,6 +92,7 @@
 ||alot.com/tb/cookiewriter.php?
 ||amazon.*/uedata/
 ||amazon.com/clog/
+||amazon.com/empty.gif?$image
 ||amazon.com/gp/forum/email/tracking?
 ||amazon.com/gp/yourstore/recs/
 ||amazon.com^*/amazon-clicks/
@@ -248,6 +249,7 @@
 ||beacon.nuskin.com^
 ||beacon.search.yahoo.com^
 ||beacon.walmart.com^
+||beacon.wikia-services.com^
 ||beacon.www.theguardian.com^
 ||beacons.helium.com^
 ||beacons.vessel-static.com/xff?
@@ -464,6 +466,7 @@
 ||dailymotion.com/track/
 ||dailymotion.com^*/tag.gif?
 ||dainikbhaskar.com/tracking/
+||data.mic.com^
 ||data.ninemsn.com.au/*GetAdCalls
 ||data.ryanair.com^
 ||data.younow.com^
@@ -1045,6 +1048,7 @@
 ||mayoclinic.org/js/gconversion.js
 ||mayoclinic.org/js/tracker.js
 ||mdmpix.com/js/connector.php?
+||mealime.com/assets/mealytics.js
 ||media-imdb.com/images/*/imdbads/js/beacon-$script
 ||media-imdb.com^*/adblock.swf
 ||mediabistro.com/blogshare/js/trackingheader.js
@@ -1075,6 +1079,7 @@
 ||metroweekly.com/tools/blog_add_visitor/
 ||mf2fm.com/php/stats.php?
 ||microsoft.com/blankpixel.gif
+||microsoft.com/collect/
 ||microsoft.com/getsilverlight/scripts/silverlight/SilverlightAtlas-MSCOM-Tracking.js
 ||microsoft.com/getsilverlight/scripts/Tracker.js
 ||microsoft.com/library/svy/
@@ -1236,7 +1241,6 @@
 ||optimum.net^*=pageview&
 ||optionsxpress.com^*/tracking.js
 ||orain.org/w/index.php/Special:RecordImpression?
-||orange.co.uk/jsincludes/webtrends*.js
 ||origin-tracking.trulia.com^
 ||origin.chron.com^
 ||osalt.com/js/track.js
@@ -1370,6 +1374,7 @@
 ||rainbow-uk.mythings.com^
 ||rakuten-static.com/com/rat/
 ||ralphlauren.com^*/icg.metrics.js
+||rambler.ru/cnt/
 ||rangers.co.uk^*/tracking.js
 ||rarefilmfinder.com^*/cnt-gif1x1.php
 ||rat.rakuten.co.jp^
@@ -1575,6 +1580,7 @@
 ||spotlight.accuweather.com^
 ||squidoo.com/track/
 ||srt.pch.com^
+||ssc.api.bbc.com^
 ||ssl-stats.wordpress.com^
 ||startpage.*/do/avt?$image
 ||startpage.*/elp?
@@ -1709,6 +1715,7 @@
 ||tfl.gov.uk/tfl-global/scripts/stats-config.js
 ||tfl.gov.uk/tfl-global/scripts/stats.js
 ||tgw.com/1/t.gif
+||the-watch-series.to/analytics.html
 ||the42.ie/i.php
 ||theage.com.au^*/behave.js
 ||theconversation.com/javascripts/lib/content_tracker_hook.js
@@ -1889,6 +1896,7 @@
 ||ultimedia.com/deliver/statistiques/
 ||ultra-gamerz-zone.cz.cc/b/stats?
 ||unicornapp.com^*/Metrics/
+||unid.go.com^
 ||unionleader.com/js/ul/ga.js
 ||unisys.com^*/dcsMultiTrack.js
 ||unisys.com^*/dcsMultiTrackFastSearch.
@@ -1961,6 +1969,7 @@
 ||vodpod.com/stats/
 ||vogue.co.uk/_/logic/statistics.js
 ||votigo.com/contests/t/
+||voxmedia.com/needle?
 ||voyages-sncf.com^*/vsca.js
 ||voyeurhit.com/js/a2210.js
 ||vs.target.com^
@@ -1981,6 +1990,7 @@
 ||washingtonpost.com/wp-stat/analytics/
 ||washingtonpost.com^*/one.gif?
 ||watch-series.to/analytics.html
+||watch8x.com/JS/analytics.js
 ||watchmouse.com^*/jsrum/
 ||watson.live.com^
 ||wavescape.mobi/rest/track/
@@ -2139,6 +2149,7 @@
 ||zylom.com/pixel.jsp
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
+||zytpirwai.net/track/
 ! Preliminarily blocking Omniture s_code tracking scripts (versions H.25 - H.25.2) due to breakage (https://adblockplus.org/forum/viewtopic.php?f=10&t=11378)
 ||abc.com/service/gremlin/js/files/s_code.js?$domain=abc.go.com
 ||adobe.com^*/omniture_s_code.js

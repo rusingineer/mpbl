@@ -1,7 +1,7 @@
 .link/$popup,domain=bigfile.to
 /sendspace-pop.$popup,domain=sendspace.com
 ^utm_source=$popup,domain=exashare.com|sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
-|http:$popup,third-party,domain=24avarii.ru|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|extreme-board.com|fastspics.net|filepost.com|filmovizija.com|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|openload.co|pic2pic.site|promptfile.com|thevideo.me|twer.info|vid.ag|vidspot.net|watchcartoononline.com|xtshare.com|youwatch.org
+|http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extreme-board.com|fastspics.net|filepost.com|filmovizija.com|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|openload.co|pic2pic.site|pornparadise.org|promptfile.com|thevideo.me|twer.info|vid.ag|vidspot.net|watchcartoononline.com|xtshare.com|youwatch.org
 ||104.239.139.5/display/$popup
 ||4fuckr.com/api.php$popup
 ||adf.ly/*.php?$popup
@@ -27,6 +27,7 @@
 ||cloudzilla.to/cam/wpop.php$popup
 ||comicbookmovie.com/plugins/ads/$popup
 ||conservativepost.com/pu/$popup
+||content.powvideo.net^$popup,domain=powvideo.net
 ||csgofast.com^$popup,domain=hltv.org
 ||deb.gs^*?ref=$popup
 ||eafyfsuh.net^*/?name=$popup
@@ -57,7 +58,6 @@
 ||hadik.info/*.html$popup
 ||haouzy.info/*.html$popup
 ||hide.me^$popup,domain=ncrypt.in
-||homerun.re/adServe/$popup
 ||homets.info/queen_file?$popup
 ||hotelscombined.com^$popup,domain=torrents.de|torrentz.ch|torrentz.com|torrentz.eu|torrentz.in|torrentz.li|torrentz.me|torrentz.ph
 ||houndmirror.com/out.php$popup
@@ -66,7 +66,6 @@
 ||imageshack.us/ads/$popup
 ||imageshack.us/newuploader_ad.php$popup
 ||intradayfun.com/news_intradayfun.com.html$popup
-||itv.com/itv/adclick/$popup
 ||jizz.best^$popup,domain=vivo.sx
 ||jokertraffic.com^$popup,domain=4fuckr.com
 ||kalemaro.com^$popup,domain=filatak.com
@@ -83,7 +82,7 @@
 ||openload.co^*/_$popup
 ||pamaradio.com^$popup,domain=secureupload.eu
 ||park.above.com^$popup
-||pasted.co/reds/first.php$popup
+||pasted.co/*.php$popup
 ||photo4sell.com^$popup,domain=filmovizija.com
 ||plarium.com/play/*adCampaign=$popup
 ||playhd.eu/test$popup
@@ -98,6 +97,7 @@
 ||spendcrazy.net^$popup,third-party,domain=animegalaxy.net|animenova.tv|animetoon.tv|animewow.eu|gogoanime.com|goodanime.eu|gooddrama.net|toonget.com
 ||sponsorselect.com/Common/LandingPage.aspx?eu=$popup
 ||streamcloud.eu/deliver.php$popup
+||streamplay.to/apu$popup
 ||streamtunerhd.com/signup?$popup,third-party
 ||subs4free.com/_pop_link.php$popup
 ||taboola.com^$popup,domain=ndtv.com|scoopwhoop.com

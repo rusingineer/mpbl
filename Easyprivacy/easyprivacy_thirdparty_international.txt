@@ -8,6 +8,7 @@
 ||analytics.cnd-motionmedia.de^$third-party
 ||analytics.gameforge.de^
 ||analytics.loop-cloud.de^$third-party
+||analytics.praetor.im^$third-party
 ||analytics.unister-gmbh.de^
 ||andyhoppe.com/count/
 ||asci.freenet.de^
@@ -182,6 +183,7 @@
 ||free.fr/cgi-bin/wwwcount.cgi?
 ||free.fr/services/compteur_page.php?
 ||i-services.net^*/compteur.php?
+||lepoint-stat.sdv.fr^
 ||linguee.fr/white_pixel.gif
 ||live-medias.net/button.php?$third-party
 ||m6web.fr/statsd/
@@ -477,6 +479,7 @@
 ||counter.photopulse.ru^
 ||counter.pr-cy.ru^
 ||counter.rian.ru^
+||counter.star.lg.ua^
 ||counter.tovarro.com^
 ||counter.wapstart.ru^
 ||dp.ru/counter.gif?

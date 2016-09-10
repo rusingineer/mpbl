@@ -360,6 +360,7 @@
 .adforge.
 .adframesrc.
 .adgearpubs.
+.adgoitechnologie.
 .adlabs.$domain=~adlabs.ru
 .admarvel.
 .adnetwork.$domain=~adnetwork.ie|~adnetwork.sk
@@ -1409,7 +1410,7 @@
 /adcde.js
 /adcdn.
 /adcell/*
-/adcenter.$script
+/adcenter.$script,domain=~m-m-g.com
 /adcentral.
 /adCfg.
 /adcframe.
@@ -1690,7 +1691,7 @@
 /adlift4_
 /adline.$domain=~adline.co.il
 /adlink-$domain=~adlinktech.com
-/adlink.$domain=~adlinktech.com
+/adlink.$domain=~adlink.guru|~adlinktech.com
 /adlink/*$domain=~adlinktech.com
 /adLink728.
 /adlink_
@@ -1833,6 +1834,7 @@
 /adpix/*
 /adplace/*
 /adplace5_
+/adPlaceholder.
 /adplacement.
 /adplay.
 /adplayer-
@@ -2255,6 +2257,7 @@
 /ads18.
 /ads2.
 /ads2/*
+/ads20.
 /ads2012/*
 /ads2013/*
 /ads2015/*
@@ -3097,6 +3100,7 @@
 /affiliate/ads/*
 /affiliate/banner/*
 /affiliate/banners/*
+/affiliate/displayWidget?
 /affiliate/promo-
 /affiliate/promo/*
 /affiliate/script.php?
@@ -3942,7 +3946,7 @@
 /flashpeelads/*
 /flatad.
 /flesh_banner
-/fleshlight.
+/fleshlight.$domain=~fleshlight.com|~fleshlight.zendesk.com
 /fleshlightcash_
 /flexads?
 /fliionosadcapture-
@@ -4754,6 +4758,7 @@
 /n4403ad.
 /n_ads/*
 /namediaad.
+/nativead.
 /NativeAdManager.
 /nativeads-
 /nativeads/*
@@ -5971,7 +5976,6 @@
 /wp-content/uploads/useful_banner_manager_banners/*
 /wp-popup-scheduler/*
 /wp-srv/ad/*
-/wp_ad_250.
 /wp_ad_250_
 /wp_pro_ad_system/*
 /wpads/iframe.
@@ -6741,6 +6745,8 @@ takeover_banner_
 ||online.*/promoredirect?key=
 ||ox-d.*^auid=
 ||serve.*/promoload?
+! prebid scripts
+/prebid.$script
 ! Doubleclick
 /jquery.dfp.js$script
 /jquery.dfp.min.js$script
@@ -6752,6 +6758,7 @@ takeover_banner_
 /cdn-cgi/pe/bag2?r[]=*adk2.co
 /cdn-cgi/pe/bag2?r[]=*ads.exoclick.com
 /cdn-cgi/pe/bag2?r[]=*az708531.vo.msecnd.net
+/cdn-cgi/pe/bag2?r[]=*clkrev.com
 /cdn-cgi/pe/bag2?r[]=*content.ad
 /cdn-cgi/pe/bag2?r[]=*cpx.to
 /cdn-cgi/pe/bag2?r[]=*eclkmpbn.com
@@ -6763,6 +6770,7 @@ takeover_banner_
 /cdn-cgi/pe/bag2?r[]=*popads.net
 /cdn-cgi/pe/bag2?r[]=*popcash.net
 /cdn-cgi/pe/bag2?r[]=*revcontent.com
+/cdn-cgi/pe/bag2?r[]=*revdepo.com
 /cdn-cgi/pe/bag2?r[]=*srvpub.com
 /cdn-cgi/pe/bag?r[]=*cpalead.com
 /cdn-cgi/pe/bag?r[]=*pubads.g.doubleclick.net
@@ -6797,6 +6805,7 @@ takeover_banner_
 /adblocker-leader.
 /adblocker.js
 /adBlockerTrack_
+/adblockkiller.
 /adbuddy.
 /adsblocker.
 /anti-adblock/*$~stylesheet
@@ -6807,6 +6816,7 @@ takeover_banner_
 /BlockerBanner/*$xmlhttprequest
 /Disable%2BAdblock.
 /fuckadb.js
+/fuckingadblockplus.
 /ibd-block-adblocker/*
 /no-adblock/*
 /wp-content/plugins/anti-block/*

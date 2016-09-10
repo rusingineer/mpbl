@@ -48,7 +48,7 @@ zattoo.com###corporate_sharing
 domainthenet.com###ctl00_Image2
 domainthenet.com###ctl00_Image3
 domainthenet.com###ctl00_Image4
-complex.com###ctoolbar
+allmusic.com,complex.com###ctoolbar
 windowsnetworking.com###ctu-fb
 windowsnetworking.com###ctu-goog
 windowsnetworking.com###ctu-twi
@@ -122,6 +122,7 @@ fark.com,opposingviews.com###gplus
 brunchnews.com###greyBG
 fansshare.com###hang-lh
 marketwatch.com###hat_tab_mw
+cloudcomputingadmin.com,insideaws.com,isaserver.org,msexchange.org,virtualizationadmin.com,windowsecurity.com###header-connect
 discovery.com###header-secondary
 thetrekcollective.com###header2
 forzaitalianfootball.com###header3-1-right
@@ -324,6 +325,7 @@ goodnet.org##.article_like
 techtimes.com##.at-like
 rt.com##.b-buttons_header
 wargaming.net##.b-resource
+watchfree.to##.backdrop
 moviesdbz.com##.backgroundPopup
 dezeen.com,huffingtonpost.com##.badges
 peruthisweek.com##.bg2
@@ -353,6 +355,7 @@ littlecaesars.com##.callout
 care2.com##.care2_side_float
 dailydot.com##.carousel-dot
 inquirer.net##.cct-socmed
+cambridge.org##.cdo-hdr__soc
 cheezburger.com##.chz-social
 neatorama.com##.col-4
 gamingonlinux.com##.col-md-12 > .greybackground
@@ -372,6 +375,7 @@ channelnewsasia.com##.ct-contains
 loop21.com##.ctbtextshr
 explosm.net##.custom-comic-social-button-group
 unlockboot.com##.danka
+linkis.com##.deeper-overlay
 alternativeto.net##.delicious
 freewoodpost.com##.dgd_stb_box
 brightside.me##.dialog-bg
@@ -433,6 +437,7 @@ thehill.com##.follow-the-hill
 theverge.com##.follow-the-verge
 mashable.com##.follow-trigger
 thisoldhouse.com##.followLink
+forbes.com##.follow_links
 parent24.com##.follow_news
 bet.com##.followstorieslikethis
 indiatimes.com##.folow_box
@@ -464,6 +469,7 @@ hollywood.com##.gsfn-widget-tab
 geektyrant.com##.gtFace
 wonderhowto.com##.guide-flyout-container
 opposingviews.com##.header-icons
+sfchronicle.com##.header-share
 calvertjournal.com,cloth5.com,hothardware.com,musicfeeds.com.au,sourcefed.com,thedailybeast.com,thinkprogress.org##.header-social
 visual.ly##.headerCallToActionContainer
 globalpost.com##.header_button_group--right
@@ -538,6 +544,7 @@ deccanchronicle.com##.medial-icons-wrapper
 inyminy.com##.menu-menu4_home-container
 whatuni.com##.mn_icons
 space.com##.mod-hdr
+watchfree.to##.modal
 cpuboss.com,ssdboss.com##.modal-backdrop
 mic.com##.modal-prompt
 propublica.org##.module-2013-follow
@@ -594,6 +601,8 @@ classicalite.com##.s_sns
 gadling.com##.sandbox
 huffingtonpost.com##.sbm-main-new
 funnyjunk.com##.sbmtBttn
+redstate.com##.sc-fb
+redstate.com##.sc-tw
 oracle.com##.scl-icons
 sdsu.edu##.sdsuuniverse_above_header_right
 oneplus.net##.sec-follow
@@ -798,6 +807,10 @@ thefreedictionary.com##a[href^="https://plus.google.com/"]
 yourcityoffice.com##a[href^="https://twitter.com/"]
 goibibo.com##a[href^="https://twitter.com/"] > button
 theadvocate.com##a[href^="https://www.facebook.com/sharer/"]
+talkingpointsmemo.com##div[class^="FeatureShare_"]
+legacy.com##div[class^="Footer__footerFollow_"]
+legacy.com##div[class^="GalleryOvCarousel__share_"]
+legacy.com##div[class^="SocialSharing_"]
 gog.com##div[gog-social="gplus"]
 spiegel.de##div[id^="iframeTwitter"]
 goal.com##div[id^="shareicon-"]
@@ -827,6 +840,7 @@ planetivy.com##div[style="width:100%;height:90px"]
 fansshare.com##div[style="width:192px;height:90px;float:left;padding-left:6px;"]
 thebangkokglobe.com,yournewswire.com##div[style^="-moz-border-radius: 10px; border-radius: 10px;"]
 quickmeme.com##div[style^="box-shadow: 0px 0px 10px black;"]
+dw.com##iframe[src^="http://social.dw.com/tw/widgets/"]
 spiegel.de##iframe[src^="http://www.facebook.com/connect/"]
 suberapps.com##img[title="Follow @SUBERAPPS on Twitter!"]
 cgeyeltd.com##img[width="32"][height="32"]
@@ -855,6 +869,7 @@ dailycaller.com###share-wrapper
 indiatimes.com###shareVertHolder
 cinemablend.com##.StoryShareBar
 pcgames-download.net##.addthis_toolbox
+androidsage.com##.aps-social-icon-wrapper
 arnnet.com.au,cio.co.nz,cio.com.au,computerworld.com.au,reseller.co.nz##.art-share
 arnnet.com.au##.art-topbar_share
 pcworld.co.nz##.article_social
@@ -866,6 +881,7 @@ mtlblog.com##.clip-sharing-social-wrapper
 clashdaily.com##.essb_links
 jiwangmovie.com##.et_social_sidebar_networks
 dailymail.co.uk##.googleplus
+soccity.net##.header-special-social
 pcworld.co.nz##.header_social
 computerworlduk.com##.helpIcons
 cinemablend.com##.iSocialB
@@ -884,9 +900,11 @@ cityam.com##.sharing
 gamezone.com##.social-buttons
 cityam.com##.social-click
 vilaglato.info##.social-links
+allmusic.com##.social-nav
 thefreedictionary.com##.social-networks
 mtlblog.com##.social-share-bar
 computerworlduk.com,techworld.com##.socialConnect
+ndtv.com##.socialshare-icons2
 onlinemoviewatchs.com,onlinemoviewatchs.tv##.ssocial
 technoshouter.com##.td-post-sharing
 fullmatchesandshows.com##.td_block_social_counter
