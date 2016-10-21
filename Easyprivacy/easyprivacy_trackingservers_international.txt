@@ -141,7 +141,6 @@
 ||ipcount.net^$third-party
 ||ipcounter.net^$third-party
 ||iptrack.biz^$third-party
-||ivwbox.de^$third-party
 ||iyi.net^$third-party
 ||keytrack.de^$third-party
 ||klamm-counter.de^$third-party
@@ -284,7 +283,6 @@
 ||webttracking.de^$third-party
 ||wecount4u.com^$third-party
 ||welt-der-links.de^$third-party
-||wemfbox.ch^$third-party
 ||wipe.de^$~script,third-party
 ||xa-counter.com^$third-party
 ||xcounter.ch^$third-party
@@ -369,6 +367,7 @@
 ||eyeota.net^$third-party
 ||gostats.cn^$third-party
 ||gridsum.com^$third-party
+||growingio.com^$third-party
 ||gtags.net^$third-party
 ||hotrank.com.tw^$third-party
 ||irs01.$third-party
@@ -588,13 +587,11 @@
 ||tailtarget.com^$third-party
 ! Romanian
 ||best-top.ro^$third-party
-||brat-online.ro^$third-party
 ||gtop.ro^$third-party
 ||hit100.ro^$third-party
 ||profitshare.ro^$third-party
 ||statistics.ro^$third-party
 ||top-ro.ro^$third-party
-||trafic.ro^$third-party
 ||trafix.ro^$third-party
 ||zontera.com^$third-party
 ! Russian
@@ -634,7 +631,6 @@
 ||lookmy.info^$third-party
 ||lugansk-info.ru^$third-party
 ||madnet.ru^$third-party
-||mediametrics.ru^$third-party
 ||mediaplan.ru^$third-party
 ||mediatoday.ru^$third-party
 ||mokuz.ru^$third-party

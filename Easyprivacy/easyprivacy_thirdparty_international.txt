@@ -258,6 +258,9 @@
 ||etwun.com:8080/counter.php?
 ||haostat.qihoo.com^
 ||ifengimg.com/sta_collection.*.js
+||imp.ad-plus.cn^
+||imp.go.sohu.com^
+||imp.optaim.com^
 ||js.letvcdn.com/js/*/stats/
 ||js.static.m1905.cn/pingd.js
 ||log.hiiir.com^
@@ -326,6 +329,7 @@
 ||walla.co.il/stats/
 ! Hungarian
 ||gpr.hu/pr.pr?
+||onet.pl/eclk/
 ||pagerank.g-easy.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
@@ -344,6 +348,7 @@
 ||contatore-di-visite.campusanuncios.com^
 ||corriereobjects.it^*/tracking/
 ||counter.ksm.it^
+||counter2.condenast.it^
 ||dd3p.com/sensor/ddsense.aspx?
 ||digiland.it/count.cgi?
 ||diritalia.com^*/seosensor.js
@@ -435,6 +440,7 @@
 ||stats.asp24.pl^
 ||stats.media.onet.pl^
 ||statystyki.panelek.com^
+||tracker.advisable.pl^
 ||tracking.novem.pl^
 ||wymiana.org/stat/
 ! Portuguese
@@ -456,6 +462,7 @@
 ||1in.kz/counter?
 ||1l-hit.mail.ru^
 ||7host.ru/tr/*?r=$third-party
+||a.tovarro.com^
 ||adlik.akavita.com/bin/lik?
 ||agates.ru/counters/
 ||all-top.ru/cgi-bin/topcount.cgi?
@@ -489,6 +496,7 @@
 ||gnezdo.ru/cgi-bin/$third-party
 ||hubrus.com^$third-party
 ||ifolder.ru/stat/?
+||imgsmail.ru/gstat?
 ||infopolit.com/counter/
 ||inforotor.net/rotor/
 ||izhevskinfo.ru/count/
@@ -587,6 +595,8 @@
 ||stats.dominoplaza.com^
 ||vizzit.se^$third-party
 ! Turkish
+||analytic.piri.net^
+||analyticapi.piri.net^
 ||hit.dogannet.tv^
 ! Ukranian
 ||counter.opinion.com.ua^

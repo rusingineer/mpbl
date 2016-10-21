@@ -134,10 +134,11 @@
 @@||csfd.cz/log?
 @@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|sportrevue.cz|zive.cz
 ! Danish
-@@||common.tv2.dk/mpx/adobeanalytics/$script
+@@||bilka.dk/assets/ext/adobe/VisitorAPI.js
 @@||cxense.com/cx.js$domain=common.tv2.dk
 @@||dbastatic.dk/Content/scripts/analytics.js$script
 @@||msecnd.net^*/site-tracker.js$domain=momondo.dk
+@@||tv2.dk/js/adobeanalytics/AppMeasurement.js$script
 ! Dutch
 @@||bundol.nl/skin/*/js/prototype/prototype.js,*/GoogleAnalyticsPlus/
 @@||globecharge.com/images/ping.gif?
@@ -189,6 +190,7 @@
 @@||imrworldwide.com/v60.js$domain=corriereadriatico.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
 @@||lastampa.it/modulo/tracciatori/js/nielsen.js
 @@||maxmind.com^*/geoip.js$domain=sportube.tv
+@@||paginegialle.it/js/shinystat.js
 @@||repstatic.it^*/Nielsen.js
 @@||timvision.it/libs/fingerprint/fingerprint.js
 @@||tiscali.it/js/webtrends/$script,domain=mail.tiscali.it
@@ -209,7 +211,7 @@
 @@||gemius.pl/gstream.js
 @@||kropka.onet.pl^*/onet.js$domain=tvnwarszawa.pl
 @@||stat24.com/crossdomain.xml$domain=ipla.tv
-@@||wp.pl^*/dot.gif?$xmlhttprequest,domain=open.fm
+@@||wp.pl^*/dot.gif?$xmlhttprequest,domain=open.fm|wp.tv
 ! Portuguese
 @@||77.91.202.130/js/20050/xiti.js$domain=custojusto.pt
 @@||chiptec.net/skin/*/GoogleAnalyticsPlus/$script
@@ -234,8 +236,11 @@
 @@||google-analytics.com/analytics.js$domain=poiskstroek.ru
 @@||google-analytics.com/ga.js$domain=carambatv.ru
 @@||itv.1tv.ru/stat.php?
+@@||k12-company.ru^*/statistics.js$script
 @@||labrc.pw/advstats/$xmlhttprequest
+@@||matchid.adfox.yandex.ru/?url=$script,domain=ctc.ru
 @@||megafon.ru/static/?files=*/tealeaf.js
+@@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
 @@||swa.mail.ru/cgi-bin/counters?$script
 @@||wargag.ru/public/js/counter.js?
 @@||widget.myrentacar.me^$script,subdocument

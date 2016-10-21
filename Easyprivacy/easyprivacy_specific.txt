@@ -76,6 +76,7 @@
 ||alarabiya.net^*/googleid.js
 ||alibaba.com/js/beacon_
 ||alibi.com/tracker.gif?
+||alicdn.com/js/aplus_*.js
 ||aliexpress.com/js/beacon_
 ||alipay.com/web/bi.do?ref=
 ||allafrica.com/img/static/s_trans_nc.gif
@@ -90,6 +91,7 @@
 ||allvoices.com/track_page
 ||alot.com/js/tracking.js
 ||alot.com/tb/cookiewriter.php?
+||amazon.*/gp/r.html?
 ||amazon.*/uedata/
 ||amazon.com/clog/
 ||amazon.com/empty.gif?$image
@@ -115,6 +117,7 @@
 ||analytics.go.com^
 ||analytics.gorillanation.com^
 ||analytics.ifood.tv^
+||analytics.iraiser.eu^
 ||analytics.localytics.com^
 ||analytics.mindjolt.com^
 ||analytics.msnbc.msn.com^
@@ -136,6 +139,7 @@
 ||analyzer52.fc2.com^
 ||androidcommunity.com/ws/?js
 ||androidfilehost.com/libs/otf/stats.otf.php?
+||androidtv.news/ezoic/
 ||angelfire.com/cgi-bin/count.cgi
 ||anntaylor.com/webassets/*/page_code.js
 ||anp.se/track?
@@ -376,6 +380,7 @@
 ||click2.cafepress.com^
 ||clicks.hurriyet.com.tr^
 ||clicks.traffictrader.net^
+||clientlog.portal.office.com^
 ||climatedesk.org*/pixel.gif
 ||clk.about.com^
 ||clkstat.china.cn^
@@ -405,6 +410,7 @@
 ||collect2.sas.com^
 ||collection.theaa.com^
 ||collector-cdn.github.com^
+||collector-medium.lightstep.com^
 ||collector.githubapp.com^
 ||collector.ksax.com^
 ||collector.kstptv5.com^
@@ -418,6 +424,7 @@
 ||commercialappeal.com/metrics/
 ||comms-web-tracking.uswitchinternal.com^
 ||computerarts.co.uk/*.php?cmd=site-stats
+||computershopper.com/wsgac/
 ||computing.co.uk^*/webtrends.js
 ||confirm-referer.glrsales.com^
 ||consumerreports.org^*/js/conversion.js
@@ -431,6 +438,7 @@
 ||count.prx.org^
 ||count.rin.ru^
 ||counter.entertainmentwise.com^
+||counter.joins.com^
 ||counter.promodeejay.net^
 ||counter.sina.com.cn^
 ||counter.theconversation.edu.au^
@@ -683,6 +691,7 @@
 ||funbrain.com/a2.gif
 ||furk.net/counter.yadro.ru/
 ||fwmrm.net^*/AnalyticsExtension.
+||g.deathandtaxesmag.com^
 ||g.msn.com^
 ||g.techweekeurope.co.uk^
 ||g2a-com.newsletter.com.pl^$image,third-party
@@ -747,6 +756,7 @@
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
 ||gmonitor.aliimg.com^
+||go.com/disneyid/responder?
 ||go.com/globalelements/utils/tracking
 ||go.com/stat/
 ||go.com^*/analytics.js
@@ -807,6 +817,7 @@
 ||hostels.com/includes/thing.php?
 ||hotelplanner.com/TT.cfm
 ||hothardware.com/stats/
+||hotnews.ro/pageCount.htm?
 ||houzz.com/js/log?
 ||hoverstock.com/boomerang?
 ||howcast.com/images/h.gif
@@ -815,6 +826,8 @@
 ||hrblock.com/includes/pixel/
 ||hsn.com/code/pix.aspx
 ||hubpages.com/c/*.gif?
+||huffingtonpost.*/vanity/?
+||huffingtonpost.com/click?
 ||huffingtonpost.com/geopromo/
 ||huffingtonpost.com/include/geopromo.php
 ||huffingtonpost.com/ping?
@@ -1079,6 +1092,7 @@
 ||metroweekly.com/tools/blog_add_visitor/
 ||mf2fm.com/php/stats.php?
 ||microsoft.com/blankpixel.gif
+||microsoft.com/click/
 ||microsoft.com/collect/
 ||microsoft.com/getsilverlight/scripts/silverlight/SilverlightAtlas-MSCOM-Tracking.js
 ||microsoft.com/getsilverlight/scripts/Tracker.js
@@ -1179,6 +1193,8 @@
 ||newsletter.mybboard.net/open.php?
 ||newstatesman.com/js/NewStatesmanSDC.js
 ||newswire.ca/rt.gif?
+||nexon.net/log/
+||nexon.net/tagging/
 ||next.co.uk/log.php
 ||nfl.com/imp?
 ||nhk.jp^*/bc.gif?
@@ -1389,6 +1405,7 @@
 ||recomendedsite.com/addon/upixel/
 ||recommendation.24.com^
 ||redding.com/metrics/
+||redditmedia.com/gtm/jail?
 ||redeye.williamhill.com^
 ||rediff.com^*/?rkey=
 ||redtube.com/_status/pix.php
@@ -1405,6 +1422,7 @@
 ||register.it/scripts/track_
 ||rel.msn.com^
 ||rent.com/track/visit/
+||report-zt.allmusic.com^
 ||report.shell.com^
 ||reporter-times.com/js/tk.js?
 ||reporternews.com/metrics/
@@ -1450,6 +1468,7 @@
 ||rt.rakuten.co.jp^
 ||rta.dailymail.co.uk^
 ||rte.ie/player/playertracker.js
+||rtn.thestar.com^
 ||rumble.com/l/$image
 ||runnersworld.com^*/universalpixel.html
 ||russellgrant.com/hostedsearch/panelcounter.aspx
@@ -1541,6 +1560,7 @@
 ||skyrock.net/js/stats_blog.js
 ||skyrock.net/stats/
 ||slacker.com/beacon/page/$image
+||slashdot.org/images/js.gif?$image
 ||slashgear.com/stats/
 ||slide.com/tracker/
 ||smallcapnetwork.com^*/viewtracker/
@@ -1638,6 +1658,7 @@
 ||stats.suite101.com^
 ||stats.thevideo.me^
 ||stats.townnews.com^
+||stats.tvmaze.com^
 ||stats.uswitch.com^
 ||stats.video.search.yahoo.com^
 ||stats.visistat.com^
@@ -1682,12 +1703,14 @@
 ||sysomos.com/track/
 ||t-ak.hulu.com^
 ||t.9gag.com^
+||t.cinemablend.com^
 ||t.dailymail.co.uk^
 ||t.eharmony.com^
 ||t.hulu.com/beacon/
 ||t.kck.st^
 ||t.paypal.com^
 ||t.vimeo.com^
+||t.wayfair.com^
 ||t2.hulu.com^
 ||t2.huluim.com^
 ||t3.com/js/trackers.js
@@ -1779,6 +1802,7 @@
 ||track.cbs.com^
 ||track.codepen.io^
 ||track.collegehumor.com^
+||track.dictionary.com^
 ||track.engagesciences.com^
 ||track.ft.com^
 ||track.fxstreet.com^
@@ -1789,6 +1813,7 @@
 ||track.promptfile.com^
 ||track.pushbullet.com^
 ||track.slideshare.net^
+||track.thesaurus.com^
 ||track.webgains.com^
 ||track.websiteceo.com^
 ||track.wildblue.com^
@@ -2048,6 +2073,7 @@
 ||ws.elance.com^*&referrer=
 ||ws.md/c.png?
 ||ws.yellowpages.ca^
+||wstream.video/js/analytics.js
 ||wtk.db.com^
 ||wunderground.com/tag.php
 ||wusstrack.wunderground.com^
@@ -2118,15 +2144,12 @@
 ||youtube-nocookie.com/gen_204?
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
+||youtube.com/*_204?$~xmlhttprequest
 ||youtube.com/api/stats/ads?
-||youtube.com/gen_204?$~xmlhttprequest
 ||youtube.com/get_video?
-||youtube.com/live_204?
-||youtube.com/player_204?
 ||youtube.com/ptracking?
 ||youtube.com/s?
 ||youtube.com/set_awesome?
-||youtube.com/stream_204?
 ||ypcdn.com/webyp/javascripts/client_side_analytics_
 ||yuku.com/stats?
 ||yupptv.com/yupptvreports/stats.php^

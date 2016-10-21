@@ -138,6 +138,7 @@
 ||datefree.com^$third-party
 ||ddfcash.com/iframes/$third-party
 ||ddstatic.com^*/banners/
+||deal.maabm.com^$image,third-party
 ||desk.cmix.org^
 ||devilgirls.co/images/devil.gif
 ||devilgirls.co/pop.js
@@ -185,6 +186,7 @@
 ||geo.camazon.com^$third-party
 ||geo.cliphunter.com^
 ||geo.frtya.com^
+||geo.frtyd.com^
 ||geobanner.adultfriendfinder.com^
 ||geobanner.alt.com^
 ||geobanner.blacksexmatch.com^$third-party
@@ -226,6 +228,7 @@
 ||interracialbangblog.info/banner.jpg
 ||interracialbangblog.info^*-ban.png
 ||ipornia.com/frends/$subdocument
+||istripper.com^$third-party,domain=~istripper.eu
 ||ivitrine.buscape.com^$third-party
 ||js.picsomania.info^$third-party
 ||just-nude.com/images/ban_$third-party

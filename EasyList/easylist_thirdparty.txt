@@ -194,8 +194,8 @@
 ||amazonaws.com/streetpulse/ads/
 ||amazonaws.com/widgets.youcompare.com.au/
 ||amazonaws.com/youpop/
-||amazonaws.com^$script,domain=globes.co.il|mp3goo.com|streamplay.to
-||amazonaws.com^$third-party,xmlhttprequest,domain=bigfile.to|imgchili.net|mirrorcreator.com|sadeempc.com|thevideobee.to|vidshare.us|watchers.to|yourvideohost.com
+||amazonaws.com^$script,domain=forbes.com|globes.co.il|mp3goo.com|streamplay.to|usersfiles.com
+||amazonaws.com^$third-party,xmlhttprequest,domain=bdupload.info|bigfile.to|frendz4m.com|imgchili.net|mirrorcreator.com|nachostime.net|sadeempc.com|thevideobee.to|vidshare.us|watchers.to|yourvideohost.com
 ||analytics.disneyinternational.com^
 ||ancestrydata.com/widget.html?$domain=findagrave.com
 ||angelbc.com/clients/*/banners/$third-party
@@ -267,6 +267,7 @@
 ||banners.smarttweak.com^$third-party
 ||banners.videosz.com^$third-party
 ||banners.webmasterplan.com^$third-party
+||bannersnack.com/iframe/$third-party
 ||bbcchannels.com/workspace/uploads/
 ||bc.coupons.com^$third-party
 ||bc.vc/js/link-converter.js$third-party
@@ -294,6 +295,7 @@
 ||bijk.com^*/banners/
 ||binbox.io/public/img/promo/$third-party
 ||binopt.net/banners/
+||bit.ly^$image,domain=planepictures.net
 ||bit.ly^$subdocument,domain=adf.ly
 ||bitcoindice.com/img/bitcoindice_$third-party
 ||bitcoinwebhosting.net/banners/$third-party
@@ -417,7 +419,7 @@
 ||cloudfront.net/scripts/js3caf.js
 ||cloudfront.net/st.js
 ||cloudfront.net/tie.js
-||cloudfront.net^$script,domain=addic7ed.com|animeflv.net|chronos.to|dailyuploads.net|divxatope.com|downloadming.io|extratorrent.cc|extremetech.com|eztv.ag|goodvideohost.com|imgchili.net|jpost.com|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|nitroflare.com|omghype.com|openload.co|sadeempc.com|sparknotes.com|streamplay.to|thevideobee.to|torrentproject.se|tubeoffline.com|upload.so|vidshare.us|vshare.eu|watchers.to|world4ufree.be|yourvideohost.com
+||cloudfront.net^$script,domain=addic7ed.com|animeflv.net|bdupload.info|chronos.to|coreimg.net|dailyuploads.net|divxatope.com|downloadming.io|extratorrent.cc|extremetech.com|eztv.ag|frendz4m.com|goodvideohost.com|imgchili.net|jpost.com|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|nachostime.net|nitroflare.com|omghype.com|onhax.me|openload.co|reevown.com|sadeempc.com|scambiofile.info|sparknotes.com|streamplay.to|thevideobee.to|torrentproject.se|tubeoffline.com|upload.so|usersfiles.com|vidshare.us|vshare.eu|watchers.to|world4ufree.be|yourvideohost.com
 ||cloudfront.net^*ad$domain=fiaformulae.com
 ||cloudfront.net^*banner$domain=fiaformulae.com
 ||cloudzer.net/ref/
@@ -766,6 +768,7 @@
 ||freewheel.mtgx.tv^$~object-subrequest
 ||freshbooks.com/images/banners/$third-party
 ||friedrice.la/widget/$third-party
+||friends2follow.com^$subdocument,third-party
 ||frogatto.com/images/$third-party
 ||frontsight.com^*/banners/
 ||ft.pnop.com^
@@ -831,6 +834,7 @@
 ||gold4rs.com/images/$third-party
 ||goldmoney.com/~/media/Images/Banners/$third-party
 ||goo.gl^$image,domain=cracksfiles.com
+||goo.gl^$script,domain=transphoto.ru
 ||goo.gl^$subdocument,domain=backin.net|uploadlw.com
 ||google.com/pagead/
 ||google.com/uds/afs?*adsense$subdocument
@@ -894,6 +898,7 @@
 ||i.ligatus.com/*-placements/$third-party
 ||i.lsimg.net^*/sides_clickable.
 ||i.lsimg.net^*/takeover/
+||ibsrv.net/ForumSponsor/
 ||ibsrv.net/sidetiles/125x125/
 ||ibsrv.net/sponsor_images/
 ||ibsys.com/sh/sponsors/
@@ -928,7 +933,7 @@
 ||imgdino.com/gsmpop.js
 ||imgehost.com^*/banners/$third-party
 ||imgpop.googlecode.com^$third-party
-||imgur.com^$image,domain=talksport.com
+||imgur.com^$image,domain=filerev.cc|talksport.com
 ||imptestrm.com/rg-main.php?
 ||indeed.fr/ads/
 ||indian-forex.com^*/banners/$third-party
@@ -1266,6 +1271,7 @@
 ||pjatr.com/i/$third-party
 ||pjtra.com/b/$third-party
 ||pjtra.com/i/$third-party
+||platform.tout.com^$third-party
 ||play-asia.com/paos-$third-party
 ||play-asia.com^$image,third-party
 ||playata.myvideo.de^$subdocument,third-party
@@ -1459,6 +1465,7 @@
 ||slot.union.ucweb.com^
 ||slysoft.com/img/banner/$third-party
 ||smart.styria-digital.com^
+||smartasset.com/embed.js
 ||smartdestinations.com/ai/$third-party
 ||smblock.s3.amazonaws.com^
 ||smilepk.com/bnrsbtns/
@@ -1546,6 +1553,7 @@
 ||syndication1.viraladnetwork.net^
 ||taboola.com^$domain=scoopwhoop.com
 ||tag.regieci.com^$third-party
+||tags2.adshell.net^
 ||take2.co.za/misc/bannerscript.php?
 ||takeover.bauermedia.co.uk^$~stylesheet
 ||talkfusion.com^*/banners/

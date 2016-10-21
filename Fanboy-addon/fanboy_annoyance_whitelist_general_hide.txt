@@ -12,6 +12,8 @@ libcom.org#@##main-share
 thefirefly.com#@##newsletter-popup
 dnevnik.bg#@##newsletterBar
 cnn.com#@##outbrain_widget_0
+mozilla.org#@##privacy-policy
+thehunt.com#@##signup-popup
 blaklader.uk,chansluts.com#@##to-the-top
 uservoice.com#@##uservoice-feedback
 uservoice.com#@##uservoice-feedback-tab
@@ -28,6 +30,7 @@ uktv.co.uk#@#.cookie-notice
 hm.com,prosiebengames.de,stories.com#@#.cookie-notification
 hearst.co.uk#@#.cookie-policy
 mediapart.fr#@#.cookie-warn
+bezeq.co.il#@#.cookieAlert
 lautoentrepreneur.fr#@#.cookieBanner
 morizon.pl,tweakers.net#@#.cookieBar
 moniteurautomobile.be#@#.cookieBox
@@ -39,7 +42,7 @@ jaguar.com#@#.eucookie
 electnext.com,youtube.com#@#.feed-icon
 squareup.com#@#.feedback-button
 billabong.com#@#.newsletter-popup
-aklagare.se,nzherald.co.nz,pokemon.com,shopstyle.com#@#.no-cookies
+aklagare.se,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
 outbrain.com#@#.outbrain
 seznam.cz#@#.rss-feed
 wired.com#@#.rss-widget
@@ -49,6 +52,7 @@ scribol.com#@#.scribol
 advids.co,mortgageguy.com.au,paperless-insurance.com#@#.scroll-to-top
 scan.co.uk#@#.scroll_top
 github.com,kifi.com#@#.signup-email
+twit.tv#@#.subscribe-panel
 wtfast.com#@#.subscribe_box
 reddit.com#@#.subscription-box
 theonion.com#@#.taboola-inbetweener

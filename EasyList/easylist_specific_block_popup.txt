@@ -1,7 +1,9 @@
 .link/$popup,domain=bigfile.to
 /sendspace-pop.$popup,domain=sendspace.com
 ^utm_source=$popup,domain=exashare.com|sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
-|http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extreme-board.com|fastspics.net|filepost.com|filmovizija.com|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|openload.co|pic2pic.site|pornparadise.org|promptfile.com|thevideo.me|twer.info|vid.ag|vidspot.net|watchcartoononline.com|xtshare.com|youwatch.org
+|http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extreme-board.com|eztv.ag|fastspics.net|filepost.com|filmovizija.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|openload.co|pic2pic.site|pixsense.net|pornparadise.org|promptfile.com|thevideo.me|twer.info|uptobox.com|uptostream.com|vid.ag|vidspot.net|watchcartoononline.com|xtshare.com|youwatch.org|yts.ag
+|https:$popup,third-party,domain=eztv.ag|flashx.tv|imagerar.com|thevideo.me|uptobox.com|uptostream.com|yts.ag
+||104.198.221.99^$popup,domain=viralitytoday.com
 ||104.239.139.5/display/$popup
 ||4fuckr.com/api.php$popup
 ||adf.ly/*.php?$popup
@@ -60,9 +62,9 @@
 ||hide.me^$popup,domain=ncrypt.in
 ||homets.info/queen_file?$popup
 ||hotelscombined.com^$popup,domain=torrents.de|torrentz.ch|torrentz.com|torrentz.eu|torrentz.in|torrentz.li|torrentz.me|torrentz.ph
-||houndmirror.com/out.php$popup
 ||href.li^$popup,domain=300mblink.com
 ||ifly.com/trip-plan/ifly-trip?*&ad=$popup
+||imagepearl.com/view/$popup,~third-party
 ||imageshack.us/ads/$popup
 ||imageshack.us/newuploader_ad.php$popup
 ||intradayfun.com/news_intradayfun.com.html$popup
@@ -75,6 +77,7 @@
 ||military.com/data/popup/new_education_popunder.htm$popup
 ||miniurls.co^*?ref=$popup
 ||multiupload.nl/popunder/$popup
+||mydirtyhobby.de^$popup,domain=flashx.tv
 ||nesk.co^$popup,domain=veehd.com
 ||newsgate.pw^$popup,domain=adjet.biz
 ||nosteam.ro/pma/$popup

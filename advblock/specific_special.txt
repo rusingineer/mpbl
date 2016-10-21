@@ -30,6 +30,9 @@ cxz.to##.l-tab-item-content > div[id][class]
 !
 ! GISMeteo domains
 gismeteo.by,gismeteo.kz,gismeteo.ru,gismeteo.ua#@##ad-top
+tourism.gismeteo.ru###box-banner
+gismeteo.ru###content.wrap .rframe:not([id]):not(.wblock)
+beta.gismeteo.ru###media-top
 gismeteo.by,gismeteo.lt,gismeteo.lv,gismeteo.md,gismeteo.ru###rbc
 gismeteo.md###rek-kp
 gismeteo.com,gismeteo.kz,gismeteo.lv,gismeteo.ru###rek-lb
@@ -48,16 +51,22 @@ gismeteo.ua###weather-rbkua
 gismeteo.com,gismeteo.kz,gismeteo.lt,gismeteo.lv,gismeteo.md,gismeteo.ru,gismeteo.ua###weather-right
 gismeteo.by,gismeteo.lv,gismeteo.ru###yandex
 gismeteo.by,gismeteo.com,gismeteo.lt,gismeteo.lv,gismeteo.md,gismeteo.ru#@#.adv
-gismeteo.by##.media_frame
-gismeteo.by##.media_middle
+tourism.gismeteo.ru##.footer-ban
+tourism.gismeteo.ru##.header-ban
+gismeteo.ru##.links-blue
+beta.gismeteo.ru,gismeteo.by##.media_frame
+gismeteo.ru##.media_left
+beta.gismeteo.ru,gismeteo.by,gismeteo.ru##.media_middle
+gismeteo.ru##.rframe:not([id]) > .fcontent[id]
 gismeteo.by,gismeteo.com,gismeteo.lt,gismeteo.lv,gismeteo.md,gismeteo.ru##.rframe[id^="ad-"]
 gismeteo.by##.side > .side__i
 gismeteo.by,gismeteo.ru##.side > noindex
 gismeteo.ru,gismeteo.ua##.side__i
 gismeteo.ru##.title_image.aif.extra
+@@||a.votpusk.ru^$image,domain=tourism.gismeteo.ru
 gismeteo.kz,gismeteo.ru##div[id^="rek-gis-news"]
 ||gismeteo.*/rian.html|
-||gismeteo.ru^*?target-ref=*&redir$xmlhttprequest,domain=gismeteo.ru
+||gismeteo.ru/tipo$xmlhttprequest,domain=gismeteo.ru
 !
 ! Letitbit
 goclips.tv###video_player_content
@@ -152,7 +161,6 @@ news.mail.ru##.viewbox__slide-inner > .viewbox__side
 ! Погода-Mail
 pogoda.mail.ru##.branding
 pogoda.mail.ru##.forecast-branding-link
-pogoda.mail.ru##.mailru-visibility-check
 pogoda.mail.ru##.sticky-springs > .advert
 ! Auto
 auto.mail.ru##.addMain2
@@ -160,6 +168,7 @@ auto.mail.ru##.box[class*="rb_"][class*="_target"]
 auto.mail.ru##.cols__column_sidebar
 auto.mail.ru##.grid__item_banner
 auto.mail.ru##.js-slot-parallax-container
+auto.mail.ru##.mailru-visibility-check
 auto.mail.ru##.margin_bottom_20[class*="rb_"]
 auto.mail.ru##.rb
 auto.mail.ru##.shadow.margin
@@ -180,6 +189,7 @@ lady.mail.ru##.parallax
 lady.mail.ru##.slot
 lady.mail.ru##.sticky-springs
 lady.mail.ru##.top-branding-block
+lady.mail.ru##div[class*="spring rb_"]
 lady.mail.ru##div[class^="box rb_"]
 lady.mail.ru##div[class^="pc-bracing"]
 lady.mail.ru##div[data-module="PromoPopup"]
@@ -200,6 +210,7 @@ my.mail.ru##.b-fourth-pseudo-column
 my.mail.ru##.b-leftmenu__li-item-app.new-app
 my.mail.ru##.b-leftmenu__li-item-hit
 my.mail.ru##.notif__marketing
+my.mail.ru##.ui-simple-block > .banner-undefined
 my.mail.ru##.ui-simple-block[class*="promo"]
 my.mail.ru##.ui-simple-block[class*="reklama"]
 ! Love
@@ -214,8 +225,6 @@ horo.mail.ru##.p-branding-top
 horo.mail.ru##.p-mimic
 horo.mail.ru##.p-top-banner
 ! Облако
-cloud.mail.ru##.b-layout__col_2_2.b-layout__col > style:nth-child(1) + div[id]
-cloud.mail.ru##.content__along > style:nth-child(1) + div[id]
 cloud.mail.ru##.content__left > div[id] > div[style="font-size: 13px;"] > div[style^="font-size: 90%;"]
 cloud.mail.ru##.w-public__content > .b-layout div[id][class][style="width: 240px;"]
 cloud.mail.ru##.w-public__content div[id] > div[style="font-size: 13px;"] > div[style^="font-size: 90%;"]
@@ -245,9 +254,8 @@ go.mail.ru##.responses__wrapper a[href="#"][target="_blank"] ~ div[class],.respo
 realty.mail.ru##.spring-side
 sport.mail.ru##.sub-news_million
 otvet.mail.ru##.torg-answer-banner
-go.mail.ru##.ya-fuab
 go.mail.ru##[-abp-properties='width: 240px;']
-go.mail.ru##[class*="layout-rightcol_fuab"]
+go.mail.ru##[class*="fuab"]
 go.mail.ru##a[data-pxt*="|premium|"]:not(#id)
 go.mail.ru##a[href^="http://an.yandex.ru/count/"]
 realty.mail.ru##div[class][data-module^="TopMail.Special."]
@@ -262,6 +270,9 @@ health.mail.ru##img[width="240"][height="200"]
 //rs.mail.ru/b*.swf|$domain=~my.mail.ru
 /brandingVideo.js$domain=mail.ru
 /mrg-context.$script,stylesheet,domain=mail.ru
+|$websocket,domain=afisha.mail.ru|auto.mail.ru|cloud.mail.ru|e.mail.ru|games.mail.ru|hi-tech.mail.ru|lady.mail.ru|minigames.mail.ru|my.mail.ru|news.mail.ru|sport.mail.ru
+|blob:$script,subdocument,domain=afisha.mail.ru|auto.mail.ru|cloud.mail.ru|e.mail.ru|games.mail.ru|hi-tech.mail.ru|lady.mail.ru|minigames.mail.ru|my.mail.ru|news.mail.ru|sport.mail.ru
+|ws*://$domain=afisha.mail.ru|auto.mail.ru|cloud.mail.ru|e.mail.ru|games.mail.ru|hi-tech.mail.ru|lady.mail.ru|minigames.mail.ru|my.mail.ru|news.mail.ru|sport.mail.ru
 ||bs.mail.ru^$image,domain=mail.ru
 ||c-cdn.coub.com^$script,domain=mail.ru
 ||imgsmail.ru/js/onair2.$script
@@ -330,11 +341,12 @@ ok.ru##.update-browser_container
 naruto-base.su##a[href*="/clck.ru/"]
 naruto-base.su##a[href*="bit.ly"]
 naruto-base.su##a[href*="goo.gl"]
+naruto-base.su##a[href^="/r_e/n_"]
 |http://$third-party,script,subdocument,domain=naruto-base.su
 ||naruto-base.su/*.htm
-||naruto-base.su/*mywars$script
-||naruto-base.su/Diz_nb/m3se/
-||naruto-base.su/Script/naruto.js
+||naruto-base.su/BludReins/
+||naruto-base.su/Diz_nb/bn
+||naruto-base.su/n_
 ||naruto-base.su^$object
 ||naruto-base.su^*banner$image
 ||narutobase.3dn.ru^$subdocument
@@ -365,14 +377,28 @@ pb.wtf,piratbit.org,piratbit.ru##[style*="important"]
 pb.wtf,piratbit.org,piratbit.ru##a[href*="/search?"][href*="pid="]
 pb.wtf,piratbit.org,piratbit.ru##img[style*="visibility"][style*="display"]
 !
+! Pornolab.NET
+pornolab.net##.post_body + style ~ table
+pornolab.net##.post_body style ~ table
+pornolab.net##tbody > .row3.tCenter ~ .row3 + *
+pornolab.net##tbody > tr > td > style + [class]
+!
+pornolab.net###pl-speedbar
+pornolab.net###sidebar1_wrap > div[style]
+pornolab.net###tor-fl-bgn
+pornolab.net##.tCenter.nowrap.mrg_12
+pornolab.net##a[href*="vsexshop.ru"]
+pornolab.net##a[onclick*="vsexshop.ru"]
+!
 ! Progorod и их сайты
 pg12.ru,pg13.ru,pg21.ru,prochepetsk.ru,progorod11.ru,progorod33.ru,progorod43.ru,progorod58.ru,progorod59.ru,progorod76.ru,progorodnn.ru,progoroduhta.ru##div[class^="Banner"]
-ru/userfiles/b/$domain=pg12.ru|pg13.ru|pg21.ru|prochepetsk.ru|progorod11.ru|progorod33.ru|progorod43.ru|progorod58.ru|progorod59.ru|progorod76.ru|progorodnn.ru|progoroduhta.ru
+||ru/userfiles/b/$domain=pg12.ru|pg13.ru|pg21.ru|prochepetsk.ru|progorod11.ru|progorod33.ru|progorod43.ru|progorod58.ru|progorod59.ru|progorod76.ru|progorodnn.ru|progoroduhta.ru
 !
 ! Rambler.RU и их проекты
 rambler.ru###ban_ruler
 ferra.ru###branding_top_link
 championat.com###brend_link_add
+rambler.ru###directData
 kanobu.ru###log_line_link
 weather.rambler.ru###prices
 rambler.ru###sidekickButton
@@ -396,10 +422,12 @@ autorambler.ru##.bannerInside
 rambler.ru##.bnr
 games.kanobu.ru##.branding
 championat.com##.branding-link
+news.rambler.ru##.cemetery__item.partner
 championat.com##.fanside-goods-list
 motor.ru##.gallery-billboard
 tv.rambler.ru##.h-promo
 rambler.ru##.inbann
+news.rambler.ru##.j-cluster-aside__item.cluster-aside__item.partner.active
 motor.ru##.js-adv
 motor.ru##.js-adverts
 motor.ru##.js-adverts-top
@@ -407,6 +435,7 @@ ag.ru##.link1
 rambler.ru##.mixednews-item_partner
 rambler.ru##.mixednews__aside > :not(.mixednews-aside-item_traffic-informer)
 news.rambler.ru##.rnet.partner
+championat.com##.subheader
 rambler.ru##.tp-bnpl
 news.rambler.ru##[class][data-partner*="rexchange.begun.ru/banner"]
 nova.rambler.ru##[class^="b-context"][style*="!important"]
@@ -419,6 +448,7 @@ rambler.ru##div[class^="b_banner_"]
 championat.com##div[class^="l-popup"]
 lenta.ru,motor.ru,rambler.ru##div[id^="AdFox_banner_"]
 lenta.ru,motor.ru##div[id^="AdFox_iframe_"]
+rambler.ru.yn-direct
 ||ag.ru/*/bottom_bg.jpg
 ||ag.ru/*/flash.swf
 ||ag.ru/*/top_bg.jpg
@@ -469,16 +499,9 @@ rbc.ru##div[id^="mlph"]
 ! Rustorka.ru
 rustorka.com##.post_body div[align="center"] > a[href]
 @@||rustorka.com/adframe.js$script,domain=rustorka.com
-rustorka.com##a[href^="/forum/index"] img[src^="images/avatars/"]
+rustorka.com##a[href^="/forum/cyka-"]
 rustorka.com##center > a[href]
 rustorka.com##div[class*="teaser"]
-!
-! SeasonVar.ru
-seasonvar.ru##.td-for-left-block
-seasonvar.ru##a[href^="#"]
-seasonvar.ru##body > noindex
-seasonvar.ru##div[id^="bn_"]
-seasonvar.ru##img[src^="data:image"]
 !
 ! Sports.ru
 sports.ru,tribuna.com###branding-layout > a[href][target="_blank"]
@@ -604,6 +627,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##.direct-view *
 ##.i-bem.tv-sortable-item.tv-sortable-item_sortable_no
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.incut_type_direct-like
 market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua##.layout_type_search.headline__footer
+yadi.sk##.ns-view-publicResourceInfoAside
 yandex.ru##.org.i-bem.org_js_inited > div[style^="border-bottom"]
 yandex.ru##.org__sidebar > .org__links + div[style^="margin-top"]
 yadi.sk##.public-resource-info-row
@@ -626,6 +650,7 @@ yandex.ru##div[class$="ear_js_inited"] > a[href^="//awaps.yandex.ru"]
 ||yandex.net/get-direct/
 ||yastatic.net/daas/
 ! Прочее
+yandex.by,yandex.kz,yandex.ru,yandex.ua##.BlaBlaCarSegment
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.b-direct
 rasp.yandex.by,rasp.yandex.kz,rasp.yandex.ru,rasp.yandex.ua##.b-yadirect
 yadi.sk##.content-poster-public__bg
@@ -636,14 +661,12 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##div[data-block="banner-view"]
 ! Погода-Yandex
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.clearfix.content__top > .navigation-city_meteum > div[class]:first-child:not(.title)
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.clearfix.content__top > .navigation-city_meteum > div[class]:first-child:not(.title) ~ *
-yandex.by,yandex.kz,yandex.ru,yandex.ua##.content > div[class*="info_pos_"] > .info__map > div[class]:first-child:not(.teaser-fox)
-yandex.by,yandex.kz,yandex.ru,yandex.ua##.content > div[class*="info_pos_"] > .info__map > div[class]:first-child:not(.teaser-fox) ~ *
+yandex.by,yandex.kz,yandex.ru,yandex.ua##.content div[class*="info_pos_"] > .info__map > div[class]:first-child:not(.teaser-fox)
+yandex.by,yandex.kz,yandex.ru,yandex.ua##.content div[class*="info_pos_"] > .info__map > div[class]:first-child:not(.teaser-fox) ~ *
 ! Новости-Yandex
-news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua##.page-content__col > .filters[data-bem]
 news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua##.page-content__col > .widget_for_auto[data-bem]
 news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua##.page-content__extra-item > [class][data-bem]
 news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua##.page-content__left > .auto-update ~ [data-bem]
-news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua##.page-content__left > .pager[data-bem]
 news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua##.page-content__left > .quote__info ~ [data-bem]
 news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua##.page-content__right > [class][data-bem]
 news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua##div[class][-abp-properties="display*block*important"]

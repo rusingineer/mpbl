@@ -1,5 +1,7 @@
 @@/followbutton.js$domain=instagram.com
 @@/share-sprite-$domain=askubuntu.com|mathoverflow.net|serverfault.com|stackapps.com|stackexchange.com|stackoverflow.com|superuser.com
+@@/socialmedia_$domain=defacto.expert
+@@/static/themes/*/img/icons/*$image,~third-party
 @@/wp-content/plugins/2-click-socialmedia-buttons/js/social_bookmarks-min.js?$~third-party
 @@/wp-content/plugins/share-this-image/*$~third-party
 @@/wp-content/plugins/socialauth-wp/*$~third-party
@@ -27,6 +29,7 @@
 @@||agar.io/mc/img/Facebook_$image
 @@||agar.io/mc/img/FB_Arrow.png$image
 @@||agar.io/mc/img/Twitter_$image
+@@||akamai.net^*/social/avatars/
 @@||akamaihd.net/media/client/Components/FollowButton*.js$domain=rdio.com
 @@||akamaihd.net/media/client/Components/ShareButton*.js$domain=rdio.com
 @@||akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/social_$image,domain=ted.com
@@ -142,6 +145,7 @@
 @@||facebook.com/widgets/like.php?$domain=farmville.com|likearea.com
 @@||fark.net/images/*/links/
 @@||fbcdn.net/connect.php/js/FB.Share$domain=jamendo.com
+@@||fdcdn.co.uk/img/icons/
 @@||feedburner.google.com^$image,domain=feeds.feedburner.com
 @@||feedly.com/feedburner/feedly.png$domain=feeds.feedburner.com
 @@||filmstarts.de^*/picto_social.png
@@ -201,6 +205,7 @@
 @@||iconizer.net/files/*_social_$image
 @@||iconpedia.net/uploads/$image,third-party
 @@||iconspedia.com/icon/$image,~third-party
+@@||ignimgs.com^*/social/avatars/
 @@||imdb.com^*/facebook-button-small.png
 @@||imgur.com/images/access/third-party-*.png
 @@||immowelt.de/_scripts/iwag/socialmedia/
@@ -211,6 +216,8 @@
 @@||inoreader.com/images/login/but_facebook.png
 @@||instantlogosearch.com/svg/$image
 @@||interlinkexpress.com/apps/tracking/images/google-$~third-party
+@@||ix.de/imgs/*/linkedin-$image,domain=heise.de
+@@||ix.de/scale/geometry/*/linkedin-$image,domain=heise.de
 @@||jailbreakqa.com/m/default/media/images/openid/
 @@||joinsnapcard.com/thema/img/reddit.png
 @@||jrjimg.cn/js.do?f=/share/js/
@@ -266,6 +273,7 @@
 @@||onesecond.designly.com/img/*.gif$~third-party
 @@||opendatacity.de/prism/assets/img/logos/logo_facebook_$image
 @@||opensat4all.com/forums/public/$stylesheet
+@@||origin.com/views/socialmedia.html$xmlhttprequest,domain=origin.com
 @@||panzi.github.io/SocialSharePrivacy/
 @@||passets-cdn.pinterest.com^
 @@||patreon.com/images/fb_login_large.png
@@ -310,6 +318,7 @@
 @@||ren-tv.com/img/images/social/icoFb.png
 @@||ren-tv.com/img/images/social/icoVk.png
 @@||rfi.fr/sites/all/modules/maison/aef_boulangerie/$image
+@@||robinlinus.github.io/socialmedia-leak/demo.js
 @@||rorr.im/static/images/reddit-icon.png
 @@||s10i.com/hp/images/fallback/twitter.png$domain=sky.com
 @@||s3.amazonaws.com/digital/social-media-part-*/images/social-media-part-$image,domain=circusstreet.com
@@ -373,11 +382,13 @@
 @@||themobileplaybook.com/assets-v2/images/google-mobile-playbook*.png
 @@||themobileplaybook.com/assets-v2/images/share.png
 @@||thenextweb.com/socialmedia/*?cf_action=$script
+@@||thimble.mozilla.org^$generichide,~third-party
 @@||thrusto.com/images/fb-icon.png
 @@||thrusto.com/images/google+.png
 @@||thrusto.com/images/login-with-facebook.png
 @@||timecatcher.github.io/img/facebook.png
 @@||tinydeal.com/Images/follow_us.png
+@@||tipranks.com/social-auth/images/buttons/$image
 @@||tnwcdn.com/wp-content/blogs.dir/*_twitter-$domain=thenextweb.com
 @@||tnwcdn.com/wp-content/blogs.dir/*_twitter.$domain=thenextweb.com
 @@||torrentfreak.com/images/google-$~third-party
@@ -426,6 +437,7 @@
 @@||wp.com/wp-content/mu-plugins/post-flair/sharing/images/icon-twitter.png
 @@||wphub.com/wp-content/uploads/2010/05/design-freebies-vector-social-icon-set1-138x98.png
 @@||wsj.net^*/social_icons.png$domain=marketwatch.com
+@@||wwe.com^*/btn_facebook_
 @@||www.google.*/images/*google.png
 @@||www.google.*/images/*googleplus.png
 @@||www.google.*/landing/now/images/integrations/$image,~third-party
@@ -442,6 +454,7 @@
 @@||yougetsignal.com/img/*_igoogle.gif
 @@||yourport.com/logos/$image,~third-party
 @@||yukons.net/share.js$domain=zuuk.net
+@@||zaphod.uk.vvhp.net/image/social_network/$image,~third-party
 @@||zdnet.de/wp-content/uploads/*-logo-$image,~third-party
 @@||zillowstatic.com/*-social-share-
 @@||zillowstatic.com^*-google-plus-$script,domain=zillow.com

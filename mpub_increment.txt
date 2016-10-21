@@ -173,6 +173,7 @@ cdn1ht.traffichaus.com
 .net/news.js
 .ru/news.js
 .com/news.js
+.tv/news.js
 xexyc.com^$script
 wjzvx.com^$script
 bytde.com^$script
@@ -209,13 +210,23 @@ nenrk.us^$script
 dabca.top^$script
 ahial.top^$script
 svotu.top^$script
+dtudz.top^$script
+rxtbb.top^$script
+qcjam.top^$script
+tggay.top^$script
+oogzc.top^$script
+nenrk.us^$script
+dlski.space^$script
+aoodw.top^$script
+jaqmk.top^$script
+mxxpa.top^$script
 v.zxpxt.space^$script
 v.uaadi.com^$script
-xpbgo.top
-tqqjk.top
-daopz.top
-iwtra.top
-okcbb.top
+xpbgo.top^$script
+tqqjk.top^$script
+daopz.top^$script
+iwtra.top^$script
+okcbb.top^$script
 rustorka.com##[href*="pidaras"]
 rustorka.com##[gandon]
 vulkan-vulkan.net
@@ -344,6 +355,13 @@ ma-static.ru/sticker/
 globalteaser.ru/show/
 mstat.acestream.net/metrika.js
 dominasy.com
+dynsrvaba.com
+/exo_backend_loader.php
+news.yandex.ru##:xpath(//ul[contains(@class,"search-list")]/li[contains(@class,"search-item")][.//text()="Яндекс.Директ"])
+lriver.ru
+google.megapost.org
+/exo/frontend_loader.js
+/exo/backend_loader.php
 !  Anti-Adblock Killer
 caminspector.net^$inline-script
 ! Google specific
@@ -365,3 +383,6 @@ googletagservices.com/tag/js/gpt_mobile.js
 @@/admodule.min.css^$domain=ololo.fm
 @@/admodule.min.js^$domain=ololo.fm
 @@||imgsmail.ru/mail/ru/images/js/myjs/mm/out/min/audio-player/track.js$domain=videoapi.my.mail.ru
+@@||overclockers.ru/images/*_brand.
+@@vid.lsw.hd.redtubefiles.com^$media,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+@@vid.lsw.redtubefiles.com^$media,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com

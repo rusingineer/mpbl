@@ -32,6 +32,7 @@
 /btnMobile.
 /btnRSS.
 /buttons/rss_
+/cdn-cgi/pe/bag2?*odb.outbrain.com
 /commentshareicons.
 /conversional-popup.
 /dealsaver/widget/*
@@ -160,11 +161,13 @@
 /plugins/dynamic-to-top/*
 /plugins/flattr/*
 /plugins/let-it-snow/*
+/plugins/mega-subscribe-popup/*
 /plugins/nrelate-related-content/*$~stylesheet
 /plugins/optin-monster/*$script
 /plugins/popup-maker/*$script,domain=~tracktion.com
 /plugins/scroll-to-top/*
 /plugins/scroll-triggered-boxes/*
+/plugins/sme-facebook-
 /plugins/wordpress-popup/*$~stylesheet
 /plugins/wp-emailfeedburnerpop/*
 /plugins/wp-greet-box/*$~stylesheet
@@ -263,6 +266,7 @@
 /wp-content/plugins/tab-slide/*
 /wp-content/plugins/thrive-leads/*$script
 /wp-content/plugins/vto_plus/*
+/wysija-newsletters/*
 /yammer_16.
 =newsLetterRegistrationBlock&
 _backToTop.
@@ -302,6 +306,7 @@ _social_rss.
 -eucookie.
 -privacy-cookie-
 .cookie-law.$script
+.cookie-policy.
 .cookie_law.
 .cookiebar.js
 .cookieconsent.
@@ -355,6 +360,7 @@ _social_rss.
 /cookie-manager.min.js
 /cookie-master.js
 /cookie-message.
+/cookie-notice-
 /cookie-notice.
 /cookie-notice/*$~stylesheet
 /cookie-notif.
@@ -425,6 +431,7 @@ _social_rss.
 /cookiedirective*.js
 /cookiedisclaimer.
 /cookiedisclosure.
+/cookieGatekeeper.
 /cookiehint.
 /CookieInfo.
 /cookieinfo/*$script
@@ -453,6 +460,7 @@ _social_rss.
 /cookiepolicybanner.
 /cookiepolicydisclaimer.
 /cookiePolicyEN.
+/cookiePolicyEUPopin_
 /cookiepopup?
 /CookiePrompter-
 /CookieReportsDisclaimer.
@@ -464,6 +472,7 @@ _social_rss.
 /cookies-info.
 /cookies-monster.js
 /cookies-monster/*$script
+/cookies-notice.
 /cookies-notice/*
 /cookies-notification.
 /cookies-overlay.
@@ -521,6 +530,8 @@ _social_rss.
 /icit-cookie-law/*
 /ico_cookies.
 /icocookies.
+/implied-consent.
+/implied-consent/*
 /impresacookiepolicy/*
 /InfoCookies.
 /iubenda_cs.
@@ -543,6 +554,7 @@ _social_rss.
 /privacy-cookies.js
 /rbicookiepolicy.
 /rtiCookieLaw.
+/script_cookies.js
 /SetConsentCookie.
 /SetCookieBanner.
 /sni_cookie_privacy/*
@@ -571,6 +583,7 @@ _cookieCgu.
 _cookielaw_mip.
 _cookieMsgBox/
 _cookieNotice.
+_CookiePolicy.
 _cookies_disclosure/
 _cookieschecker.
 _cookiewarn.

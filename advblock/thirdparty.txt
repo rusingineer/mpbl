@@ -11,6 +11,7 @@
 ||24s.ru^
 ||2baksa.net^$third-party
 ||2da2.ru^$third-party
+||2vs2.ru^$third-party
 ||2x2.kz^
 ||3d-ero.com^$third-party
 ||3rs.ru^$third-party
@@ -193,6 +194,7 @@
 ||bvf.ru/upchk/
 ||bx.metka.ru^
 ||c.tbex.ru^$third-party
+||capricornus.cc^$third-party,script
 ||captainsofcrush.ru^$third-party
 ||carambis.ru/images/promo_b/
 ||casas-mario.ru^$third-party
@@ -337,7 +339,6 @@
 ||fxbn.fxcd.ru^
 ||fxcast.com^$third-party
 ||g2a.com/widget_
-||gaby.hit.gemius.pl^$third-party
 ||galaxymeet.ru^$third-party
 ||gamblingbuilder.com^$third-party
 ||gamebook.pw^$third-party,subdocument
@@ -366,6 +367,7 @@
 ||goldline.pro^$third-party
 ||good-teasers.ru^
 ||goodadvert.com.ua^
+||goodbody.ru^$third-party
 ||goodkukhni2.ru^$third-party
 ||goon.ru^$third-party
 ||gorodnews.ru/bb/
@@ -381,6 +383,7 @@
 ||heroeswm.ru/some_junk/
 ||hideme.ru/images/static-$third-party
 ||hit-sales.ru^
+||hit.gemius.pl^$third-party
 ||hitex.com.ua^$domain=~hitex.com.ua
 ||hitlist.ru^$third-party
 ||hmn.ru/mhmb_bs/viewb.js?
@@ -556,6 +559,7 @@
 ||megaban.com.ua^
 ||megaline.kz/images/$object
 ||meganews.kiev.ua^$domain=~meganews.kiev.ua
+||megapeer.org^$third-party
 ||megastock.ru^$third-party
 ||megatrack.org^$third-party,script,domain=~mega-track.info|~mega-track.org|~megatrack.info
 ||megawmr.ru^$third-party
@@ -571,6 +575,7 @@
 ||miralinks.ru^$third-party
 ||mirmaek.ru^$third-party
 ||mirvolos.com$third-party
+||mixnews.lv^$third-party
 ||mlgame.ru/wiki/attach/Referal/
 ||mlsn.ru/specials/
 ||mmcispartners.com^$third-party
@@ -652,11 +657,13 @@
 ||openlinks.ru^$third-party
 ||or.ru/inner|
 ||oru.ru^$third-party
+||otgerpesa.ru^$third-party
 ||owap.su^
 ||owebmoney.ru^$third-party
 ||oxysoft.ru^$third-party
 ||palantir.in/showban*.php?
 ||pammru.net^$third-party
+||pandastream.cc^$third-party,script
 ||parimatch.com/jss/$object
 ||partner.alfa.kz^
 ||partner.allsoft.ru^
@@ -792,7 +799,7 @@
 ||rot.rusoul.ru/rotator/
 ||rotapost.ru^$third-party
 ||rotator.$third-party
-||rozetka.com.ua^$domain=~rozetka.com.ua
+||rozetka.com.ua^$~stylesheet,domain=~rozetka.com.ua
 ||rrru.ru/img.php?
 ||rs-context.ru^$third-party
 ||rssnewser.ru/add
@@ -828,6 +835,7 @@
 ||scrool.ru^$third-party
 ||searchmeta.webhost.ru^
 ||secure-it.imrworldwide.com/cgi-bin/m?
+||secure.ognyvo.ru^$third-party
 ||segamen.ru^$third-party
 ||selectornews.com^$third-party
 ||senseagency.ru^$third-party
@@ -854,6 +862,7 @@
 ||sexprice.ru^$third-party
 ||sextalk.com.ru^$domain=~sextalk.com.ru
 ||sherlockseries.ru^$third-party
+||shopcn.ru^$third-party
 ||shopik.tv^$third-party,subdocument
 ||simplechange.ru/promo/
 ||simplity.ru^$third-party
@@ -892,6 +901,7 @@
 ||starphotoblog.com^$third-party
 ||stat.webtrack.biz/api/impression/
 ||statcontent.ru^$third-party
+||static.fortfs.com/images/bnrs/$third-party
 ||static.terrhq.ru^
 ||stdate.ru^
 ||steam-sell.ru^$third-party
@@ -938,6 +948,7 @@
 ||thebestphotos.ru/exper.jpg
 ||thebestphotos.ru/wp-content/uploads/banners/
 ||ticount.ru^
+||tidycdn.com^$third-party
 ||tigame.ru/div/?
 ||timedirect.ru^
 ||timeweb.ru/img/b/
@@ -1075,6 +1086,7 @@
 ||webocat.ru^
 ||webproficlub.ru^
 ||websurf.ru/?
+||webtransfer-finance.com/upload/partner_banner/
 ||weclever.ru/block.php?
 ||westbyte.com/scripts/bs/bc.php?bi=
 ||wewonurgold.ws^$third-party
@@ -1100,7 +1112,7 @@
 ||x4u.ru^$third-party
 ||xap.ru^$third-party,script
 ||xchange.cc/banner/
-||xn-----6kcabjzj3azhemz8a4p.xn--p1ai/js/consultant.js$third-party
+||xn-----6kcabjzj3azhemz8a4p.xn--p1ai/js/$third-party
 ||xstats.in^
 ||xxx-news.$third-party
 ||yandex-games.ru/ok/banners/
