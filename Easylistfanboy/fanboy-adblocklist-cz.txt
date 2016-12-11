@@ -1,11 +1,12 @@
 [Adblock Plus 1.1]
-! Checksum: ibZi9uyB8cC7Rs5Du2Q1bQ
+! Checksum: S3VuSHiqsoxLmNmt85N/Bw
 ! Title: Fanboy's Czech
-! Updated: 9 Dec 2012
+! Updated: 17 Apr 2016
 ! This list expires after 4 days
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: fanboyadblock@googlegroups.com
 ! Homepage: http://www.fanboy.co.nz/
+! Redirect: https://adblock-czechoslovaklist.googlecode.com/svn/filters.txt
 ! Forums: http://forums.fanboy.co.nz/
 !
 ! ---------- Generic Blocking Rules ----------
@@ -62,6 +63,7 @@ _clickthru.swf?
 ||data.idnes.cz/soutez/
 ||digitalnitelevize.cz/obrazky/reklamni_odkazy/
 ||digitalnitelevize.cz/vsuvky/reklama/
+||dobresenajim.cz/idnesbanner?
 ||espoluprace.cz/affiliate/
 ||fdb.cz/ad/
 ||flash.stream.cz/get_sklik/
@@ -76,6 +78,7 @@ _clickthru.swf?
 ||i.mimibazar.cz/h/bc/b/
 ||i.stream.cz/img-mnt/player_brand/
 ||i0.cz/realitymix/ext-data/
+||idnes.cz/foto.aspx?*&ad=
 ||idnes.cz/js/ad/
 ||idnes.cz/r.asp?
 ||idnes.cz^*/body-$image
@@ -94,6 +97,7 @@ _clickthru.swf?
 ||portalymest.cz/obrazky/eshop
 ||presentation.lmc.cz/aliance/
 ||prvnizpravy.cz/repository/banner
+||raketa.cz/idnesbanner?
 ||rocketdock.com/images/screenshots/thumbnails/8-3.png
 ||romea.cz/296x186.swf
 ||romea.cz/images/servis/banner
@@ -107,6 +111,7 @@ _clickthru.swf?
 ||superhry.cz/design/09/banner120.gif
 ||superhry.cz/fox_$subdocument
 ||superhry.cz/media/
+||topkontakt.cz/banner/
 ||uloz.to/bannery/
 ||uloz.to/img/bannery/
 ||uschovna.cz/dt-dancer-234x60.swf
@@ -266,7 +271,6 @@ war-board.net##.mainmenu[style="color: red; font-weight: bold;"]
 !
 !---------- Czech Generic Element Hiding Rules ----------
 !
-###P_reklama_120x600
 ###bnrhacksky
 ###bnrhacksqr
 ###bnrskyr
@@ -277,6 +281,7 @@ war-board.net##.mainmenu[style="color: red; font-weight: bold;"]
 ###etarget-container
 ###etarget-container-big
 ###full_ad_note
+###P_reklama_120x600
 ###reklama-etarget
 ###reklama-nudle
 ###reklamy
@@ -296,13 +301,13 @@ war-board.net##.mainmenu[style="color: red; font-weight: bold;"]
 ##.reklama-lista
 ##.reklama-right
 ##.reklama-top
-##.reklamaBottom
-##.reklamaHorniLista
-##.reklamaOdkazyVeVetachDole
 ##.reklama_ahead
 ##.reklama_box_standard
 ##.reklama_square
 ##.reklama_title_flat
+##.reklamaBottom
+##.reklamaHorniLista
+##.reklamaOdkazyVeVetachDole
 ##.reklamni-up-1
 ##.reklamni-up-2
 ##.sklik-block
@@ -323,38 +328,32 @@ alfacomp.cz###middlebanner
 alfacomp.cz##.rtxtbannerh4
 autoesa.cz###bannerPopup
 autorevue.cz###adblock-leaderboard-clip
-autorevue.cz##.banner
-autotube.cz##.rklh
+autorevue.cz,businessworld.cz,computerworld.cz,drumandbass.cz,gamepark.cz,pcworld.cz,recepty.vareni.cz,securityworld.cz,tvfreak.cz,zive.cz##.banner
 autotube.cz##.rklv
-autoweb.cz##.rklh
+autotube.cz,autoweb.cz##.rklh
 blisty.cz##.botadv
 blisty.cz##.midadv
 blisty.cz##.topadv
 blog.cz###mainBanner
 bohemians.cz###reklama_uvod
-businessworld.cz###skyscraper
-businessworld.cz##.banner
-businessworld.cz##.square_banner
+businessworld.cz,computerworld.cz##.square_banner
+businessworld.cz,computerworld.cz,hyperinzerce.cz,pcworld.cz###skyscraper
 cdr.cz##.not4bbtext
 centrum.cz###top-banner
 centrum.cz##.container-adfox
 centrum.cz##.najisto
 ceskatelevize.cz###commercialBox
 ceskatelevize.cz###etargetBox
-ceskatelevize.cz##.commercialBox
-ceskenoviny.cz##.hypertexty
+ceskatelevize.cz,ct24.cz##.commercialBox
+ceskenoviny.cz,financninoviny.cz##.hypertexty
 cesky-jazyk.cz###playamo
 cesky-jazyk.cz###splayamo
 cesky-jazyk.cz##.cornerbox
 cesky-jazyk.cz##.heurekaIframeHeader
 cestovani.tiscali.cz###zone-tiscali-cestovani-wide
-computerworld.cz###skyscraper
 computerworld.cz##.ad-obal
-computerworld.cz##.banner
-computerworld.cz##.square_banner
 csfd.cz##.ad-samsung
 csfd.cz##.ct-general.th-5
-ct24.cz##.commercialBox
 cztorrent.net###banner_header
 cztorrent.net###banner_skyscraper_right
 cztorrent.net###hracky
@@ -364,12 +363,10 @@ diit.cz##.footer_links
 diit.cz##.leftbox-main
 doktorka.cz###zone-doktorka-box
 doktorka.cz###zone-doktorka-sky
-doktorka.cz##.ban1
-drumandbass.cz##.banner
+doktorka.cz,hokej.cz##.ban1
 extrawindows.cnews.cz###block-block-1
 extrawindows.cnews.cz###block-block-2
 extrawindows.cnews.cz###block-block-5
-financninoviny.cz##.hypertexty
 fotoaparat.cz###banner2
 fotoaparat.cz##[style="border:1px solid #c7d0dc; text-align: center;"]
 fotoaparat.cz##[style="border:1px solid #c7d0dc; text-align: center;font-family: Arial,\"Geneva CE\",sans-serif;"]
@@ -381,28 +378,22 @@ fotoradce.cz###reklamad-vlevo
 fotoradce.cz###reklamavlevo
 gamepark.cz###bmenu
 gamepark.cz###supersize
-gamepark.cz##.banner
 gamepark.cz##.headerpicture
 google.com,google.cz###mbEnd
 google.com,google.cz###tads
 hcplzen.cz###ads_top_box
-hokej.cz##.ban1
 hokej.cz##.dolni_reklama
 hokej.cz##.top_banner
 hokej.cz##.top_banner_second
 hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
-hyperinzerce.cz###skyscraper
 idnes.cz###advert
 idnes.cz###eTargetContent
 idnes.cz###hyper300
 idnes.cz###r
 idnes.cz###r-billboard
-idnes.cz###self-box
-idnes.cz###self-promo
 idnes.cz###topkontakt-ahead
 idnes.cz##.adbox-regiobox
-idnes.cz##.ahead
 idnes.cz##.catchbox-dual-l
 idnes.cz##.col-r
 idnes.cz##.m54
@@ -410,7 +401,10 @@ idnes.cz##.r-head
 idnes.cz##.r-text
 idnes.cz##.raketa_dacan
 idnes.cz##.sme-art
-idnes.cz##.widesquare
+idnes.cz,lidovky.cz###self-box
+idnes.cz,lidovky.cz###self-promo
+idnes.cz,lidovky.cz##.ahead
+idnes.cz,lidovky.cz##.widesquare
 ihned.cz###eTargetScript
 ihned.cz###r-big-ozn
 ihned.cz###r-drazby
@@ -432,19 +426,14 @@ kurzy.cz##.box4
 kurzy.cz##.box9
 kurzy.cz##.textovka
 kurzy.cz##div[style="border: 1px silver solid; float: left;"]
-lamer.cz##.square
+lamer.cz,moda.cz##.square
 lidovky.cz###reality-idnes
-lidovky.cz###self-box
-lidovky.cz###self-promo
-lidovky.cz##.ahead
 lidovky.cz##.col-d
-lidovky.cz##.widesquare
 lupa.cz###speed-promo
 mediafax.cz##.bannercauta
 mediafax.cz##.casetaright
 medop.cz###block-nodesinblock-0
 mesec.cz###jobs
-moda.cz##.square
 moda.cz##div[style="clear:both; padding-top:30px; width:540px;"]
 mojevideo.sk###brnd_koz
 naakup.cz###ad-selfpromo
@@ -473,13 +462,10 @@ osel.cz##.right
 parlamentnilisty.cz###prezentace
 parlamentnilisty.cz###square-dole
 parlamentnilisty.cz##.wallpaper
-pcworld.cz###skyscraper
-pcworld.cz##.banner
 penize.tiscali.cz###zone-tiscali-penize-wide
 podnikatel.cz##.promo-in-article
 prague.cz##table[bgcolor="BLACK"]
 pravidla.cz##.advtick
-recepty.vareni.cz##.banner
 restaurace.cz##.banner-120-600
 restaurace.cz##.banner-300-300
 ronnie.cz###fixedMenu
@@ -490,7 +476,6 @@ root.cz###box-64bit-eu
 root.cz###promo-box
 root.cz###servers-promo
 search.seznam.cz##.sklik
-securityworld.cz##.banner
 smartmania.cz###tely-top
 smartmania.cz##.bAdvert
 smartmania.cz##.heureka3-content
@@ -511,7 +496,6 @@ topzine.cz###vyjizdeciBoxikDiv
 tv.sms.cz##.P_nadpis[style="text-align:center;height:1em"]
 tv.sms.cz##[style="background-color:#cccccc;margin-top:.5em;padding-left:.7em;padding-right:.7em;padding-top:.1em;padding-bottom:.1em;width:90%"]
 tv.sms.cz##[style="border:1px solid #B7B7B7;width:320px"]
-tvfreak.cz##.banner
 tvfreak.cz##.sidebar-banner
 tvfreak.cz##.skyscrapper-right
 tvt-online.cz###a3f
@@ -539,7 +523,6 @@ zeny.cz##.commercehead
 zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
 zive.cz###ctl01_jobs
-zive.cz##.banner
 zive.cz##.banner-box
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###reklama
@@ -549,9 +532,9 @@ zvraceny.cz##.reklama-vodorovne
 !
 !---------- For EasyList Users ----------
 !
-###adSkyPosition
 ###ad_img_banner
 ###adcontextlinks
+###adSkyPosition
 ###advert-ahead
 ###advert-sky
 ###advert-stickysky

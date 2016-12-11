@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 4Fu3lghBftka4b/afKuxgQ
+! Checksum: e9qvNhGx6zTZgAbQDSygRA
 ! Title: Fanboy's Swedish
-! Updated: 9 Dec 2012
+! Updated: 5 Nov 2016
 ! This list expires after 4 days
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: fanboyadblock@googlegroups.com
@@ -26,25 +26,39 @@
 !
 ||ads.aftonbladet.se^
 ||ads.tyda.se^
+||blocket.com/fif.html?
+||blocket.se/inverted_classifieds.html
 ||bubblare.se/getMovieSplinks?
 ||corren.se/img/$object
 ||dagenshandel.se^*/annons_
+||dreamfilmhd.bz/testpop$script
 ||flashback.info/img/b/
 ||flashback.org/img/b/
+||flashback.se/img/banners/
 ||fusion.expressen.se^
+||fz.se/media$image,domain=automotorsport.se
 ||gamereactor.se/ad/
 ||gp.se/polopoly_fs/*.swf
 ||hd.se/static/banners/
+||nyheter24.se/ad.html
 ||oas.dn.se^
 ||oskar.tradera.com/$object
 ||sifomedia.idg.se^
 ||svd.se/traffic/
+||swefilmer.com/templates/fastphp/images/arka.jpg
 ||tradera.com/search/google.aspx
 ||ungdomar.se^*/darren_
 ||ungdomar.se^*/karolinska
 ||viastream.viasat.tv/Commercials/
 ||videofy.me/preroll?
 ||videoplaza.tv/creatives/
+! dreamfilmhd.bz
+@@||ajax.googleapis.com^$domain=dreamfilmhd.bz
+@@||vkpass.com^$third-party,script,domain=dreamfilmhd.bz
+|blob:$script,domain=dreamfilmhd.bz
+|http://$script,xmlhttprequest,third-party,domain=dreamfilmhd.bz
+! websocket
+$websocket,domain=dreamfilmhd.bz
 !
 ! ---------- General blocking rules ----------
 !
@@ -58,9 +72,9 @@
 !
 existenz.se###slidebox
 !
-!---------- Swedish Popups (Adblock Plus Pop-up Addon required) ----------
+!---------- Swedish Popups ----------
 !
-||filesonic.se^$image,~image,popup
+||filesonic.se^$popup
 !
 ! ---------- 3rd party blocking rules ----------
 !
@@ -68,14 +82,18 @@ existenz.se###slidebox
 ||ad-emea.doubleclick.net/ad/$domain=aftonbladet.se
 ||adaptlogic.com^$third-party
 ||adoperator.com^$third-party
+||adten.eu^$third-party
 ||adtomafusion.com^$third-party
 ||adtoox.com^$third-party
 ||adtooxcloud.com^$third-party
 ||atemda.com^$third-party
 ||banner.mrgreen.com^$third-party
+||bettersales.se^$subdocument,third-party
+||blocket.se^$third-party
 ||careerbuilder.se^$third-party
 ||casinotoplists.com^$third-party
 ||de17a.com^$third-party
+||edynpub.com^$third-party
 ||emediate.eu^$third-party
 ||emediate.se^$third-party
 ||mraffiliate.com^$third-party
@@ -102,6 +120,7 @@ existenz.se###slidebox
 ||tyda.se/js/siteclick.js
 ||videoplaza.com/proxy/tracker?
 ||videoplaza.tv/proxy/tracker?
+||youplay.se/track?
 !
 !---------- Swedish Whitelist ------------
 !
@@ -122,6 +141,7 @@ existenz.se###slidebox
 !
 aftonbladet.se###abExtraColumnOuter
 aftonbladet.se###abHeaderAdStreamer
+aftonbladet.se###abSticky-articleRightCol
 aftonbladet.se##.abTopStreamer
 aftonbladet.se##div[class^="abTeaserImageColumn abBoxTheme"]
 allehanda.se##.mf_banner
@@ -140,13 +160,16 @@ blocket.se###jobb_gallery
 blocket.se###minimedia_list_view
 blocket.se###motesplatsen_list_view
 blocket.se###motesplatsen_top
+blocket.se###panorama
 blocket.se###partners
 blocket.se###sport_trips
 blocket.se##.banner_top
 blocket.se##.eas_container
 blocket.se##.eas_expander
+blocket.se##.fif
 blocket.se##.motesplatsen
 bohuslaningen.se##.cg-teaserWrapper
+cartoonnetwork.se###header
 corren.se###lokusSearchDiv
 corren.se###topjobs
 corren.se##.open-house-container
@@ -159,8 +182,24 @@ destination.se###topbanner
 destination.se###tower
 dn.se###board-enirolinks
 dn.se##.box.box-html.box-first
+dn.se##.lp_logobox
+dreamfilmhd.bz##.hidden-sm
+dreamfilmhd.bz##A[href="http://byggboss.se"]
+dreamfilmhd.bz##A[href="http://dreamfilmhd.bz/go-small.html"]
+dreamfilmhd.bz##A[href="http://dreamfilmhd.bz/go.html"]
+dreamfilmhd.bz##A[href="http://www.hagopro.se"]
+dreamfilmhd.bz##A[href^="http://bit.ly/"]
+dreamfilmhd.bz##A[rel="dofollow"] > IMG[style="width:100%"]
+dreamfilmhd.com##div[style="background-color:rgba(0,0,0,0.1);width:750px;height:100px;margin:0 5px 0 5px"]
+dreamfilmhd.com##div[style="width:750px;clear:both;margin:0 0 10px 0;padding:0;"]
+expo.se,nyteknik.se,svd.se##.ad
 expressen.se##a[href^="http://marketnews.se/"]
+falkenbergtorget.se##.banner
+falkenbergtorget.se##.banner-top
+falkenbergtorget.se##.jobbtipsaren
+falkenbergtorget.se##.sponsored
 flashback.org##.banner_text
+flashback.se###top-banner
 folkbladet.se##[style="border: 1px solid rgb(126, 169, 204); font-family: arial; font-size: 12px; background-color: rgb(255, 255, 255); width: 200px;"]
 folkbladet.se##[style="margin-bottom: 15px; width: 200px; background-color: rgb(199, 231, 231);"]
 fragbite.se###adblock_info
@@ -181,7 +220,9 @@ nd.se##td[align="right"][width="200"]
 nordichardware.se##table[align="center"][width="490"]
 nordichardware.se##td[bgcolor="#FFFFFF"][width="500"]
 nordichardware.se##td[bgcolor="#FFFFFF"][width="576"]
+nyheter24.se##.advertisement
 nyheter24.se##.module_
+nyheter24.se##.wrapper > .gutter
 nyteknik.se##.banner
 nyteknik.se##.job-teaser
 nyteknik.se##.jobs
@@ -190,20 +231,17 @@ ostran.se##.clsImageCenter
 ostran.se##.clsMainAdsHead
 ostran.se##.clsRightAds
 ostran.se##.clsTopJobs
+poporock.com##.ads
 rakaka.se##img[src="content/annons.jpg"]
 realtid.se##p[style="margin: 0pt 0pt 3px; clear: both;"]
 svd.se###in-between-2
-svd.se##.ad
 sweclockers.com##.banner[style="min-height: 122px;"]
 sweclockers.com##div[style="min-height: 250px;"]
+swefilmer.com##.a-el
+swefilmer.com##div[style="text-align:center;font-size:14px;color:gray"]
 tankafetast.com##.rightColBox
 tradera.com###bannerSkyscraper
 tradera.com###bannerTop
 tradera.com##.topBannerContainerSlim
 unt.se###lokusspan
 unt.se##.annonsbox
-!
-!---------- For EasyList Users ----------
-!
-/AdGenerator.
-||herokuapp.com^$third-party

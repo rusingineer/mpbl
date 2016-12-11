@@ -134,6 +134,7 @@
 ||mm.welt.de^
 ||mobilcom-debitel.de/track/
 ||mopo.de/uid/
+||motorsport-total.com/z.php?
 ||ms.computerbild.de^
 ||msn.com^*/detrack.js
 ||msxstudios.de^*/system/stats/
@@ -225,6 +226,7 @@
 ||tracking.sport1.de^
 ||tracking.statravel.de^
 ||tracking.tchibo.de^
+||tracksrv.zdf.de^
 ||ts.faz.net^
 ||ts.otto.de^
 ||ts.rtl.de^
@@ -325,6 +327,8 @@
 ||analytics.nextmedia.com^
 ||analytics.zhihu.com^
 ||atm.youku.com^
+||baidu.com/billboard/pushlog/
+||baidu.com/dalog/
 ||baidu.com/tb/pms/img/st.gif?
 ||baidu.com^*/c.gif?
 ||baidu.com^*/s.gif?
@@ -548,6 +552,7 @@
 ||track.tesiteca.it^
 ||tracking.gruppo.mps.it^
 ||trk.m.libero.it^
+||tuttogratis.it/gopix.php?
 ||video.mediaset.it/polymediashowanalytics/
 ||videogame.it/a/logview/
 ||virgilio.it/clientinfo.gif?
@@ -619,6 +624,7 @@
 ||dna.uol.com.br^
 ||g.bit.pt^
 ||g.bitmag.com.br^
+||globo.com/geo?
 ||iol.pt/js/analytics.js
 ||lancenet.com.br/pw.js
 ||log.r7.com^
@@ -701,7 +707,7 @@
 /ping.gif?$domain=gamestar.de
 ||gamestar.de/_misc/tracking/$domain=gamestar.de
 ||google-analytics.com/analytics.js$domain=gamestar.de
-||googletagmanager.com/gtm.js?$third-party$domain=gamestar.de
+||googletagmanager.com/gtm.js?$third-party,domain=gamestar.de
 ||ioam.de/tx.io?$domain=gamestar.de
 ||scorecardresearch.com^$domain=gamestar.de
 ! Focus.de

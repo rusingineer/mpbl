@@ -50,7 +50,7 @@
 ||addnow.ru^$third-party
 ||addweb.ru^
 ||adgo-online.de^
-||adhands.ru^
+||adhands.ru^$third-party
 ||adhub.ru^$third-party
 ||adizer.ru^
 ||adland.ru^
@@ -91,6 +91,7 @@
 ||akavita.com^$third-party
 ||alawar.ru/onlinegames/*&link=
 ||alfainternet.su^
+||allnews24.me^$third-party
 ||allnewspoint.com^$third-party
 ||allnokia.ru^$third-party
 ||allsiemens.com^$third-party
@@ -109,13 +110,13 @@
 ||anyreads.com^$third-party
 ||ap-jam.com^$third-party
 ||app4u.today^$third-party
-||apress-barmen.ru/banner_shape_images/
 ||arsfu.ru^$third-party
 ||artbanner.com.ua^
 ||artluch.ru^$third-party
 ||asg.vidigital.ru^
 ||askmarket.net^$third-party
 ||assessoria.hotbox.ru^
+||astro7.ru^$third-party
 ||astroinf.ru^$third-party
 ||atlassolutions.com^
 ||autocentre.ua^$third-party,subdocument
@@ -271,7 +272,6 @@
 ||ecosigara.com.ua/partners/
 ||effad.ru^
 ||elektronauka.ru^$third-party
-||elephant.fotostrana.ru^
 ||elfmoney.ru^$third-party
 ||emnodar.ru^
 ||entercash.ru^
@@ -382,6 +382,7 @@
 ||hd-tube.ru^$third-party
 ||heroeswm.ru/some_junk/
 ||hideme.ru/images/static-$third-party
+||highflyers.ru^$third-party
 ||hit-sales.ru^
 ||hit.gemius.pl^$third-party
 ||hitex.com.ua^$domain=~hitex.com.ua
@@ -445,6 +446,7 @@
 ||itizer.ru^$third-party
 ||itsellservice.com.ua^$domain=~itsellservice.com.ua
 ||itsmygame.com.ua^$domain=~itsmygame.com.ua
+||j-shops.ru^$third-party
 ||jenugolok.com^$third-party,object
 ||jet3.ayola.net/cn.php?
 ||job.ws/_bann/
@@ -652,9 +654,11 @@
 ||onlineresume.ru/banner*?
 ||only4men.ru^$third-party
 ||onlyrichgames.com^$third-party
+||onlytrailer.ru/embed/$third-party
 ||oowl.ru/ab/
 ||open.by/bnrs/
 ||openlinks.ru^$third-party
+||opershop.ru^$third-party
 ||or.ru/inner|
 ||oru.ru^$third-party
 ||otgerpesa.ru^$third-party
@@ -799,7 +803,6 @@
 ||rot.rusoul.ru/rotator/
 ||rotapost.ru^$third-party
 ||rotator.$third-party
-||rozetka.com.ua^$~stylesheet,domain=~rozetka.com.ua
 ||rrru.ru/img.php?
 ||rs-context.ru^$third-party
 ||rssnewser.ru/add
@@ -835,7 +838,6 @@
 ||scrool.ru^$third-party
 ||searchmeta.webhost.ru^
 ||secure-it.imrworldwide.com/cgi-bin/m?
-||secure.ognyvo.ru^$third-party
 ||segamen.ru^$third-party
 ||selectornews.com^$third-party
 ||senseagency.ru^$third-party
@@ -861,6 +863,7 @@
 ||sexplay.com.ua^$third-party
 ||sexprice.ru^$third-party
 ||sextalk.com.ru^$domain=~sextalk.com.ru
+||sexualmastery.ru^$third-party
 ||sherlockseries.ru^$third-party
 ||shopcn.ru^$third-party
 ||shopik.tv^$third-party,subdocument
@@ -1016,6 +1019,7 @@
 ||uptracker.ru^$third-party
 ||usde.biz^$third-party
 ||userator.ru/img/ban/
+||uznatpochemu.ru^$third-party
 ||v-kino.net/pay_click_
 ||vareza.net^
 ||vba.ru^
@@ -1113,6 +1117,7 @@
 ||xap.ru^$third-party,script
 ||xchange.cc/banner/
 ||xn-----6kcabjzj3azhemz8a4p.xn--p1ai/js/$third-party
+||xn--b1aygfn8d.xn--p1ai/informer/$third-party
 ||xstats.in^
 ||xxx-news.$third-party
 ||yandex-games.ru/ok/banners/
@@ -1137,7 +1142,9 @@
 ||zremcom.ru/anim
 ||zto.h16.ru^$third-party
 ||zybu.ru^$third-party
+||заявка-на-ремонт.рф/js/$third-party
 ||компжив.рф/images/banners/
+||твоярф.рф/informer/$third-party
 !
 ! - Информеры (реклама товаров и клик-байт с промежуточными страницами) -------
 !#informer.bookmark

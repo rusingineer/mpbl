@@ -86,8 +86,10 @@ computerwissen.de###simpleCatfish
 web.de###slide-module
 gmx.net###slideBox
 duden.de###sliding-popup
+groupon.de###spotlight
 helpster.de###videoFlyin
 netzwelt.de##.ckch
+zentrum-der-gesundheit.de##.component-recommended-products
 stern.de##.fixedHomeLink
 focus.de##.fixed_home_link
 kleiderkreisel.de,mamikreisel.de##.js-notification
@@ -259,15 +261,14 @@ demotywatory.pl##div[style^="position: fixed; width: 750px; margin-left: -375px"
 !---------- Finnish Site Specific Hiding Rules ----------
 !
 nyt.fi###next-teaser
-k-citymarket.fi,k-market.fi##.Pbox-sm
 americanairlines.fi,pizza-online.fi##.alert
 sonera.fi##.attention-notice
 sonera.fi##.bottom-notifications
 hs.fi##.cb-container
-vertaa.fi##.cg-74
 blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
 lacajachina.fi##.cp-curtain-container
 suomi24.fi##.s24_cc_banner-wrapper
+vertaa.fi##div[data-bind*="!$data.isOpen()"]
 !
 !---------- Dutch Site Specific Hiding Rules ----------
 !
@@ -535,19 +536,24 @@ castroelectronica.pt##div[style="height: 35px; background:#2a2a2a; position:abso
 !---------- Italian Site Specific Blocking Rules ----------
 !
 educazioneemotiva.it###Cookie
+ubuntu-it.org###\5f ubuntu-it_cookie_policy
 comicsbox.it###bottom-banner
 enel.it###contenitoredisclaimer
 wd40.it###cookie
+euronics.it###note
 cinquantamila.it###privacy
 elettrocasa.it##.bottomBarMessage
 tomshw.it##.content-autopromo
 radioitalia.it##.cookies
+forumfree.it##.jnote
 email.it##script + div[style^="background: #000000;"]
+||booster3d.com^$third-party
 ||edintorni.net^$third-party
 ||js.adv.dadapro.net/collector.js/prcy.js?
 ||linkwelove.com^$third-party
 ||linkwelove.it^$third-party
 ||mycookies.it^$third-party
+||publy.com^$third-party
 ||tim.it/js/gestione_cookie.js
 !
 !---------- Italian Site Specific Hiding Rules ----------

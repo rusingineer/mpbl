@@ -16,11 +16,11 @@
 .xbn.ru
 0verstyle.ru##table[style="border: 2px dashed rgb(153, 153, 153);"]
 24new.ru^
-2baksa.net,2baksa.ws##.td_blocks + td > :not([style*="px 5px 10px;"]):not(.smalltext):not(.theme-news-home-title):not(.pageswitch):not(#container):not([style="padding-left: 3px;"])
-2baksa.net,2baksa.ws##.td_blocks + td > div > div[style*="clear:"][style*="float:"]
 2baksa.net,2baksa.ws##a[href*="/go.php?url="]:not([href*=".webmoney."]):not([href*=".google."])
-3dnews.ru##.mbanner
-7sl.ru###slider7
+2baksa.net,2baksa.ws##td.td_blocks + td > :not([style*="px 5px 10px;"]):not(.smalltext):not(.theme-news-home-title):not(.pageswitch):not(#container):not([style="padding-left: 3px;"])
+2baksa.net,2baksa.ws##td.td_blocks + td > div > div[style*="clear:"][style*="float:"]
+3dnews.ru##div.mbanner
+7sl.ru##div#slider7
 @@.rbcdaily.ru/jslib/
 @@acid3.acidtests.org/
 @@forum.antichat.ru/antichat/pic/
@@ -41,55 +41,55 @@
 @@||zaycev.net/m3_images/mp3player.swf?
 advesti.ru##img[width="170"][height="340"][border="0"]
 advesti.ru##img[width="570"][height="80"][border="0"]
-ag.ru###rotating_banners:first-child
-ag.ru###upadbg2.mt5:last-child
-ag.ru##.newsbot.bbg + br + center
-ag.ru##.s2:first-child + .s[width="19%"][nowrap][align="center"]
+ag.ru##div#rotating_banners:first-child
+ag.ru##div#upadbg2.mt5:last-child
+ag.ru##div.newsbot.bbg + br + center
 ag.ru##div[id="top_campaign"][class="top_s_bar"]
-ag.ru##tr:first-child > td:first-child > .mt3[width="100%"]:first-child
+ag.ru##td.s2:first-child + td.s[width="19%"][nowrap][align="center"]
+ag.ru##tr:first-child > td:first-child > table.mt3[width="100%"]:first-child
 allbest4free.ru##noindex
-anime-zone.ru##.maintable + * + noindex
-anime-zone.ru##.maintable + div
-anime-zone.ru##.menu_reklama
-anime-zone.ru##.window:first-child + * + .window
 anime-zone.ru##body > noindex:last-child
-anime-zone.ru##nofollow:first-child > center:last-child > table:first-child + * + * + .window[cellspacing="0"]
-anime-zone.ru##noindex > nofollow > .window:last-child
-anode.ru##.cban
-anonymouse.org###mouselayer
+anime-zone.ru##div.menu_reklama
+anime-zone.ru##nofollow:first-child > center:last-child > table:first-child + * + * + table.window[cellspacing="0"]
+anime-zone.ru##noindex > nofollow > table.window:last-child
+anime-zone.ru##table.maintable + * + noindex
+anime-zone.ru##table.maintable + div
+anime-zone.ru##table.window:first-child + * + table.window
+anode.ru##div.cban
+anonymouse.org##div#mouselayer
 azart.net.ua##a[href="/adv.php"]
-bash.org.ru###page > hr
-bash.org.ru##div:not(#ads) > .q > div:not(.vote):first-child
+bash.org.ru##div#page > hr
+bash.org.ru##div:not(#ads) > div.q > div:not(.vote):first-child
 beautiful-4-you.moy.su###adBaraM5xvgM
 beautiful-4-you.moy.su###adTextaM5xvgM
-binmovie.ru##.block_text[align="center"]
-binmusic.ru##.news_text[valign="top"][align="center"]
+binmovie.ru##td.block_text[align="center"]
+binmusic.ru##td.news_text[valign="top"][align="center"]
 bodyclick.net^
-catode.ru###fixed > #bottomWrapper > .dashed
-catode.ru###wrapper > #container > #content > #left > .block:last-child
-catode.ru##div > #wrapper > #right > .block:last-child
+catode.ru##div > div#wrapper > div#right > div.block:last-child
+catode.ru##div#fixed > div#bottomWrapper > div.dashed
+catode.ru##div#wrapper > div#container > div#content > div#left > div.block:last-child
 cifrovik.ru##.mvideo_banner
-citysmile.ru##.informer_skyfoto
 citysmile.ru##div[style="text-align: justify; font-size: 9pt;"]
+citysmile.ru##table.informer_skyfoto
 citysmile.ru##table[style="border: medium none rgb(255, 0, 0);"] > tbody:first-child:last-child
 cnews.ru###mag_banner
 cnews.ru##img[width="600"][height="90"]
-computerra.ru##._reachbanner_ td[width="240"]:last-child
-copypast.ru###fishi
-cwer.ru###wrap > #leftside:first-child > #block-block-15
-cwer.ru###wrap > #rightside > #block-blockcache-49 > *
+computerra.ru##table._reachbanner_ td[width="240"]:last-child
+copypast.ru##td#fishi
+cwer.ru##div#wrap > div#leftside:first-child > div#block-block-15
+cwer.ru##div#wrap > div#rightside > div#block-blockcache-49 > *
 cwer.ru##noindex
-cyber39.ru###fp_adv + * + * + div[align="center"]
-cyber39.ru###top:first-child
-cyber39.ru##.block:last-child
+cyber39.ru##div#fp_adv + * + * + div[align="center"]
+cyber39.ru##div#top:first-child
+cyber39.ru##div.block:last-child
 cyberforum.ru##div[style="padding: 3px; border: 1px solid rgb(0, 51, 153);"]
 cyberinfo.ru##div[style="border: 1px solid rgb(127, 196, 255); padding: 10px 20px; background: rgb(228, 241, 252) none repeat scroll 0% 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; text-align: center;"]
 cyberinfo.ru#DIV(id=bl_05)
 demotivators.ru##table[style="border: 0px solid rgb(204, 204, 204); background: rgb(255, 255, 255) none repeat scroll 0% 0%; width: 100%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; border-collapse: separate; border-spacing: 4px; line-height: 1.2em;"]
 denwer.ru#IMG(src=i/ya_direct_sample2.gif)
-depositfiles.com###download_url + div[style="margin: 2em auto 0pt; width: 300px;"]
 depositfiles.com##.dg_t1
-depositfiles.com##.zhMain
+depositfiles.com##div#download_url + div[style="margin: 2em auto 0pt; width: 300px;"]
+depositfiles.com##div.zhMain
 depositfiles.com##div[id^="zhlobam_net"]
 depositfiles.com##div[style="text-align: center;"]
 design.ru-deluxe.ru###mixkt_4294948230
@@ -98,83 +98,83 @@ digital.ru##div[class*="Banner"]
 dimonvideo.ru##body > table noindex > div
 doktorhaus.ru##table[style="border-spacing: 5px;"]
 domik.net###hright
-dosugcz.biz##.feed
-dreamprogs.net###topbanner
-dreamprogs.net##.content div#lfwar:first-child
-dreamprogs.net##.content div:first-child + noindex
-dreamprogs.net##.war3
+dosugcz.biz##table.feed
+dreamprogs.net##div#topbanner
+dreamprogs.net##div.content div#lfwar:first-child
+dreamprogs.net##div.content div:first-child + noindex
+dreamprogs.net##div.war3
 dump.ru##a[rel="nofollow"][target="_blank"] > img
 dwg.ru##body > table > tbody > tr:nth-child(3) > td:nth-child(5)
 dwg.ru##td[background="../img/back22.gif"] > table
-emuparadise.org###framework > tbody:first-child > tr:first-child > td:last-child > p
-emuparadise.org###framework > tbody:first-child > tr:first-child table#index:last-child
-emuparadise.org###index p[align="center"]
-emuparadise.org###index p[align="center"] + div[align="center"]
-emuparadise.org###rmiad
-emuparadise.org###yo
+emuparadise.org##div#rmiad
+emuparadise.org##div#yo
+emuparadise.org##table#framework > tbody:first-child > tr:first-child > td:last-child > p
+emuparadise.org##table#framework > tbody:first-child > tr:first-child table#index:last-child
+emuparadise.org##table#index p[align="center"]
+emuparadise.org##table#index p[align="center"] + div[align="center"]
 epidem.ru##a[href="http://onlinetrax.ru"]
 epidem.ru##div[id*="AdBar"]
 epidem.ru##td[width="131"] > p
 eropop.ru/
 exler.ru##div[id^="Banner"]
-exnews.org##.column + td center
 exnews.org##noindex > div[class$="body"]
+exnews.org##td.column + td center
 fanacmilan.com##div[id^="adText"]
-fast-torrent.ru##.ad_block
-ferra.ru##.notik,DIV.oki
-file-online.ru##.block_text
-fishki.net###line + table tr:first-child > td:last-child > script[src*="xajax"] + table
-fishki.net###line + table tr:first-child > td:last-child > script[src*="xajax"] + table + br + table
+fast-torrent.ru##td.ad_block
+ferra.ru##div.notik,DIV.oki
+file-online.ru##div.block_text
 fishki.net##a[href^="http:"]:not([href*="fishki.net"]):not([href*=".live"]) :not([src*="bonus"]):not([src*="fishki_net"])
-fishki.net##body > table tr:first-child > td:first-child > .baner_l + * + * + * + .block
+fishki.net##body > table tr:first-child > td:first-child > div.baner_l + * + * + * + div.block
 fishki.net##body > table[width="100%"] > tbody:first-child > tr:last-child > td:last-child > div:first-child
-fishki.net##div[id^="medialand_adland"] + .block
+fishki.net##div#line + table tr:first-child > td:last-child > script[src*="xajax"] + table
+fishki.net##div#line + table tr:first-child > td:last-child > script[src*="xajax"] + table + br + table
+fishki.net##div[id^="medialand_adland"] + div.block
 fishki.net##iframe
-forum.ixbt.com##.top_ad2
 forum.ixbt.com##div[style="border: 1px solid rgb(141, 8, 8); padding: 4px; width: 600px;"]
+forum.ixbt.com##table.top_ad2
 forum.ixbt.com##td[style="padding-right: 4px; width: 14%; max-width: 240px;"]
 forum.ru-board.com##body > center table:first-child
 forum.ru-board.com##body > link:first-child + * + table[width="100%"][height="67"]
 forum.ru-board.com##body > table[cellpadding="2"] td.sh1[align="left"]:first-child
 forum.sevstar.net##div[style="padding: 2px; float: right;"]
-forum.tomsknet.ru##.banner.nocp
+forum.tomsknet.ru##table.banner.nocp
 forum.wiaderko.com##div[style="position: relative; display: block; font-weight: normal; text-align: left; width: auto; height: 125px; background: none repeat scroll 0% 0% transparent; padding: 0pt; margin: 10px 0pt 0pt; clear: left; overflow: hidden;"]
 forum.zloy.org/streez/
 forums.overclockers.ru##body > style:first-child + TABLE,FORM.headerspace + TABLE,FORM#jumpbox + table
-foto.mail.ru##.brd
-foto.rambler.ru##.pi_b2
+foto.mail.ru##div.brd
+foto.rambler.ru##div.pi_b2
 free-torrents.org##table[style="border-spacing: 5px;"]
 freesoft.ru##a[href^="/clicks/click.php?adv="]
-fullgames.ru###footer
-fullgames.ru###footer + table td > div + * + #ms
-fullgames.ru###footer + table td#left > center
-fullgames.ru###footer + table td#main > center:first-child
-fullgames.ru###footer + table td#main > index > center
-fullgames.ru###jbe_top
-fullgames.ru###up + table td#right
+fullgames.ru##div#footer
+fullgames.ru##div#footer + table td > div + * + div#ms
+fullgames.ru##div#footer + table td#left > center
+fullgames.ru##div#footer + table td#main > center:first-child
+fullgames.ru##div#footer + table td#main > index > center
+fullgames.ru##div#jbe_top
+fullgames.ru##div#up + table td#right
 fullz.ru#B
-gde.ru###main-content2 > #central-content-result:first-child > .search:first-child > li:first-child
+gde.ru##div#main-content2 > div#central-content-result:first-child > ol.search:first-child > li:first-child
 gelbooru.com##div[id^="note-box"]
 gismeteo.com,gismeteo.ru##div[class*="bnr"]
 gismeteo.com,gismeteo.ru##div[class^="container rian_block"]
-goldenbank.kiev.ua##.mag_tab
-goldenbank.kiev.ua##body > table table:first-child + * + table div:first-child + * + .Verdana10 td:first-child + * + * + td:last-child
+goldenbank.kiev.ua##body > table table:first-child + * + table div:first-child + * + table.Verdana10 td:first-child + * + * + td:last-child
+goldenbank.kiev.ua##table.mag_tab
 goldtraf.su^
 google.com,google.ru###mbEnd
 google.com,google.ru###tads
-habrahabr.ru##.banner
+habrahabr.ru##div.banner
 hardwareportal.ru,hwp.ru##div[class*="tbann"]
 hardwareportal.ru,hwp.ru##div[class^="promo"]
 hdtracker.ru##td[width="100%"] + td[width="160"][valign="top"]
 hmn.ru##body > table[width="100%"]:first-child
-hmn.ru##index > center:last-child > .m11[width="480"]
+hmn.ru##index > center:last-child > table.m11[width="480"]
 hmn.ru##index > center:last-child > table[width="95%"]
-hotcharts.ru##.archive + noindex
-hotcharts.ru##.comment
 hotcharts.ru##a[href^="http://li.ru/go?"]
 hotcharts.ru##body > noindex:first-child
+hotcharts.ru##div.comment
 hotcharts.ru##div[class^="text_ad_"]
 hotcharts.ru##noindex > table:not(.menu) > tbody > tr > td > :not(.menu)
+hotcharts.ru##table.archive + noindex
 htaccess.net.ru##p[style="margin: 0px; visibility: visible; text-decoration: underline; color: brown; font-size: 9px; line-height: 11px; background-color: rgb(255, 255, 255); font-family: Verdana; text-align: left;"]
 http://dndd.ru/
 http://dyxi.ru
@@ -191,30 +191,30 @@ ifolder.ru##.b-orject
 imagereverb.com##iframe
 images.google.com,images.google.ru##table[style^="padding: 8px; background: rgb(255, 248, 221) none repeat scroll 0%"]
 infanata.org##div[style="border: 1px solid rgb(161, 32, 62);"]
-intv.ru###minirPromo
-itc.ua###ad_top
-itc.ua##.b240x350
+intv.ru##div#minirPromo
+itc.ua##div#ad_top
+itc.ua##div.b240x350
 itnews.com.ua##tr + * > td[bgcolor="#ebebeb"][style="height: 96px;"]:first-child
 ixbt.com##h4#nl_header
-izone.ru###slider5
-job.ru##.tb_container
-keep4u.ru###r_bottom
-keep4u.ru###r_top
+izone.ru##div#slider5
+job.ru##div.tb_container
+keep4u.ru##div#r_bottom
+keep4u.ru##div#r_top
 keep4u.ru##div[style="text-align: justify;"]
 keep4u.ru##table[bgcolor="#aaaaaa"] > tbody > tr[bgcolor="#ffffff"]
 keep4u.ru##td[width="255"] + td[style="font-size: 7pt;"]
-kinobaza.net##.rightside:last-child > div[style="padding-left: 6px; padding-top: 10px;"]
 kinobaza.net##[href^="http://kinobaza.net/ero"]
 kinobaza.net##[width="600"] div
 kinobaza.net##body > div[style="font-family: tahoma; padding-top: 4px;"]
 kinobaza.net##table div.story:last-child
-kleo.ru###color + table
+kinobaza.net##td.rightside:last-child > div[style="padding-left: 6px; padding-top: 10px;"]
+kleo.ru##div#color + table
 kotomatrix.ru##noindex > a[target="_blank"] > img
-kp.ru##.banner-middle
+kp.ru##div.banner-middle
 ksweb.ru##img[style="width: 500px; height: 300px;"]
-legalwarez.ru,soft-teleport.ru###dle-content > div > p[align="justify"][style="margin: 0pt 0px;"]
-legalwarez.ru,soft-teleport.ru###table4,TABLE#table46,TABLE#table6,TABLE#table65
-lifehacker.ru###banner-column
+legalwarez.ru,soft-teleport.ru##div#dle-content > div > p[align="justify"][style="margin: 0pt 0px;"]
+legalwarez.ru,soft-teleport.ru##table#table4,TABLE#table46,TABLE#table6,TABLE#table65
+lifehacker.ru##div#banner-column
 lifehacker.ru##img[alt="Ads"]
 liveinternet.ru##img[width="500"][height="45"][border="0"]
 liveinternet.ru#IMG(width=200)(height=60)(border=0)
@@ -223,45 +223,45 @@ livejournal.com##[class*="-adv"]
 livejournal.com##[class^="adv"]
 livejournal.com##div[class^="ljad"]
 lostfilm.tv##a[href="http://romyl.ru"]
-macovod.net###top-band-2
-macradar.ru##.reclame
+macovod.net##div#top-band-2
+macradar.ru##div.reclame
 macradar.ru/*_ad.
-mail.rambler.ru###banner-right
-mail.ru###agentToolbarId.agentToolBar[style]
-mail.ru###eurosport
-mail.ru###lite_top_banner
-mail.ru##.text_adv
+mail.rambler.ru##div#banner-right
+mail.ru##div#agentToolbarId.agentToolBar[style]
+mail.ru##div#eurosport
+mail.ru##div#lite_top_banner
 mail.ru##div[class*="Game"]
 mail.ru##div[class^="ban"]
 mail.ru##div[id^="begunTable"]
-market.autoua.net###mabila-market:first-child
+mail.ru##table.text_adv
+market.autoua.net##div#mabila-market:first-child
 maxnet.ua##a > img[width="88"]
 mirsofta.ru#IMG(src=650x80.jpg)
-mozilla-russia.org###modex
+mozilla-russia.org##div#modex
 mozilla-russia.org##div[id$="Col_advC"]
 mozilla-russia.org##span[id^="modex"][style="font-size: 80%;"]:last-child
 mp3hall.net##img:first-child:last-child
 mskd.ru##center > b > font[color="red"]
-mts.ru##.container:first-child > .grid.nop
-mts.ru##.visual_container.red:last-child
-muzoff.ru###ibp
+mts.ru##div.container:first-child > table.grid.nop
+mts.ru##div.visual_container.red:last-child
 muzoff.ru##a[href^="http:"]:not([href*="muzoff.ru"])
-new-films.biz###dle-content > noindex
-newestsoft.com##.mk_body_bg > table[bgcolor="#ffffff"][style="border: 1px solid rgb(193, 209, 253);"]
+muzoff.ru##div#ibp
+new-films.biz##div#dle-content > noindex
 newestsoft.com##a[href="http://reviewsoft.ru/"]
+newestsoft.com##div.mk_body_bg > table[bgcolor="#ffffff"][style="border: 1px solid rgb(193, 209, 253);"]
 ngs.ru###advblock,[class*="adv-top"],[class*="banner"],[class*="ban-top"],DIV.adv
-ngs.ru##div > object > a > IMG,TABLE#nbs-block,TD.blank-td + .nb
+ngs.ru##div > object > a > IMG,TABLE#nbs-block,td.blank-td + td.nb
 ngs.ru##div[align="center"] > noindex
 ngs.ru#div(class$=nb)
 nightmail.ru#TABLE(id=magnaInformer)
 nnm-club.ru##center > table[id^="mc_"]
-nnm.ru###branding_link
-nnm.ru###rightMenu
 nnm.ru##[class*="banner"]
 nnm.ru##[id*="banner"]
+nnm.ru##a#branding_link
+nnm.ru##div#rightMenu
 novafilm.tv##div[style="display: block;"]
-nowa.cc##.mc_cars_row
-nvworld.ru##.adv
+nowa.cc##td.mc_cars_row
+nvworld.ru##div.adv
 nyaatorrents.org##div[class$="ad"]
 obnimau.ru##table[style="background: none repeat scroll 0% 0% rgb(255, 255, 255); width: auto;"]
 obnimau.ru##table[width="170"][height="300"]
@@ -269,13 +269,13 @@ ochevidec.net##a[href^="http:"]:not([href*="ochevidec.net"]):not([href*="livejou
 ochevidec.net##iframe
 odnotrahniki.com^
 online-v-kontakte.com^
-opennet.ru###adv
+opennet.ru##center#adv
 opennet.ru##table[border="1"][bgcolor="#441144"]
 opennet.ru##td[bgcolor="#D9DAC6"][align="RIGHT"]
 opensharing.org,opensharing.ru##div[id*="banner"],DIV#content center > a[target="_blank"],DIV#sidebar center > a
-oper.ru##.banners,DIV#onlinedengi
+oper.ru##div.banners,DIV#onlinedengi
 oplati.ru##td[style="margin-right: 0pt;"]
-otvali.ru###rotvali
+otvali.ru##div#rotvali
 otvali.ru##div[id="otvali.ru_nas_1_xxx_news"]
 otvali.ru##div[style="position: relative; width: auto; height: auto;"]
 overclockers.ru###MarketGid3204
@@ -287,32 +287,32 @@ overclockers.ru##table[width="100%"][height="60"]
 overclockers.ru##table[width="302"][height="245"]
 partner.loveplanet.ru##table
 pics.goods.turist.ru/turist.goods_pics/$domain=~turist.ru
-pindosoff.net###dle-content > table:first-child td.copy
-pindosoff.net##.nav a[target="_blank"]
+pindosoff.net##div#dle-content > table:first-child td.copy
 pindosoff.net##div[class^="copyright"] > noindex
+pindosoff.net##td.nav a[target="_blank"]
 pirat.ca##div[id^="sidebar"] div[class^="spacer_"] + div[align="left"] > div[align="left"] > div[class^="spacer_"] + div[align="left"]
 pixshock.net##p[style="text-align: center;"]
-pochta.ru###tionline
-pochta.ru##.bottomadvert
-pochta.ru##.gamesBlock
-pochta.ru##.loveplanet
+pochta.ru##div#tionline
+pochta.ru##div.bottomadvert
+pochta.ru##div.gamesBlock
+pochta.ru##div.loveplanet
 pochta.ru#DIV(id=tionline)
 pochta.ru#TABLE(id=magnaInformer)
 poshalim.name^
 poshalim.net^
-powertracker.org##.post_body > .postLink[target="_blank"]
+powertracker.org##div.post_body > a.postLink[target="_blank"]
 powertracker.org#TD(height=100)(align=center)(width=100%)
-qwe.ru##.caption + .bodytable > table[width="100%"] td
-qwe.ru##body > table > tbody > tr > .default_menu table[width="500"] div
-qwe.ru##body > table > tbody > tr > td > .border + * + * + * + * + * + * + * + .border
+qwe.ru##body > table > tbody > tr > td > div.border + * + * + * + * + * + * + * + div.border
+qwe.ru##body > table > tbody > tr > td.default_menu table[width="500"] div
+qwe.ru##div.caption + div.bodytable > table[width="100%"] td
 qwe.ru##noindex > a
 rabota.mail.ru##div[style="text-align: center; padding-top: 10px;"]
 rabota.mail.ru##img[width="240"][height="400"][border="0"]
-rabota.ru##.block7
-radikal.ru##.inner-box
+rabota.ru##div.block7
 radikal.ru##body > noindex > a + table > tbody > tr:first-child > td:first-child
-rambler.ru##.r--b728
-rambler.ru##.rb--TopTeaser
+radikal.ru##div.inner-box
+rambler.ru##div.r--b728
+rambler.ru##div.rb--TopTeaser
 rbc.ru###flashrst_121053_firstpage_end
 rbc.ru##.banner
 rbc.ru##.leftBanner
@@ -320,29 +320,29 @@ rbc.ru##.topBanner
 rbc.ru##[style="width: 234px; height: 200px; background-color: rgb(255, 255, 255); text-align: center;"]
 rbc.ru##[style="width: 234px; height: 400px; background-color: rgb(255, 255, 255); text-align: center;"]
 rg-be.ru
-rl-team.net##.border_all.tiban
+rl-team.net##div.border_all.tiban
 rl-team.net##div[style="overflow: hidden; background-color: rgb(252, 247, 221); width: 100%; display: block; font-family: Tahoma,Arial,Helvetica,sans-serif; font-size: 13px; color: rgb(51, 102, 204); padding-bottom: 5px;"]
 rl-team.net#DIV(style=padding: 10px; overflow: hidden; float: left;)
 rpgcodex.net##center > iframe
 ruero.com###topbar
-runews.radeant.com###lamur
-russianews.ru##.chapterbans[width="15%"]:last-child
+runews.radeant.com##div#lamur
+russianews.ru##td.chapterbans[width="15%"]:last-child
 russianews.ru/img/b/
 rutor.org###MarketGid5190
 rutor.org##a[style="font-size: 14px; color: rgb(255, 114, 0);"]
 s.clx.ru
 s.tfile.ru/images/kfforex.jpg
-samlab.ws###left > div:nth-child(n+3)
-samlab.ws###soft-new a[target="_blank"] > img
-samlab.ws##.main > div:not(.about):first-child
-samlab.ws##.main > table
-samlab.ws##.soft-day:not(:first-child) > .box
+samlab.ws##div#left > div:nth-child(n+3)
+samlab.ws##div.main > div:not(.about):first-child
+samlab.ws##div.main > table
+samlab.ws##li.soft-day:not(:first-child) > div.box
+samlab.ws##ol#soft-new a[target="_blank"] > img
 samlab.ws/img/azoff.gif
 samlab.ws/img/casino.gif
 samlab.ws/img/fullgames
 samlab.ws/img/server.gif
 samlab.ws/img/tech.jpg
-samouchka.net##.topbanner
+samouchka.net##div.topbanner
 scriptiks.ru##noindex
 scteam.ru##a[target="blank"] > span
 scteam.ru##td[valign="top"] > br + * + * + * + * + * + table[width="100%"] > tbody > tr:first-child > td[style="border-left: 1px solid rgb(249, 170, 49); border-right: 1px solid rgb(249, 170, 49); border-bottom: 1px solid rgb(249, 170, 49); padding: 5px;"]:first-child
@@ -350,9 +350,9 @@ scteam.ru##td[width="185"][valign="top"]:last-child > table:first-child + * + * 
 security.opennet.ru##table[bgcolor="#441144"]
 severodvinska.net##img[width="868"][height="60"][border="0"]
 sitehistory.ru##noindex a
-slo.ru##.tb_dashed
 slo.ru##center > table:first-child:last-child *
 slo.ru##img[width="300"][hspace="1"][height="200"][border="0"]
+slo.ru##table.tb_dashed
 smart60.ru##center > DIV,CENTER > table
 soft-arena.ru##img[width="468"][height="60"]
 soft-arena.ru##td[style="font-size: 12px; padding-left: 5px;"]
@@ -362,37 +362,37 @@ soft-best.ws/$object
 soft-free.ru##a[href="http://goldfin.ru"]
 soft-free.ru##td + * form + * + * + * + * + * + * td.modulecontent
 softall.com.ua##table[style="border: 0px solid rgb(204, 204, 204); width: 100%; background: none repeat scroll 0% 0% rgb(255, 255, 255); border-collapse: separate; border-spacing: 4px; line-height: 1.2em;"]
-softnavigator.ru###table11
+softnavigator.ru##table#table11
 softnavigator.ru#DIV(style=text-align: left;)
 softoroom.net##div[id^="fo_cblock"]
 softportal.com#IMG(border=0)
 sport-express.ru##div[style*=".sport-express.ru/img/banners/"]
 sticker.yadro.ru##html
 stopvirus.ru##img[width="468"][height="60"]
-styanulo.ru##.banner
-sudga.ru##.alt3
+styanulo.ru##div.banner
+sudga.ru##td.alt3
 tabulorasa.info##td[style="padding: 10px;"]
 tabulorasa.info#IMG(src=http://tabulorasa.info/img/11.jpg)
-tehnosila.ru###banner_street
+tehnosila.ru##div#banner_street
 terabit.biz##img[border="0"]:first-child:last-child
 terabit.biz##noindex
-tfile.ru###home_c td#lcol:first-child
 tfile.ru##div[id$="_ban"]
 tfile.ru##iframe
-torrents.ru###f-11:last-child
-torrents.ru###page_footer > table[style="margin: 8px auto 6px;"]
-torrents.ru###sidebar1 div.tCenter > form
-torrents.ru##.tCenter.mrg_12
+tfile.ru##table#home_c td#lcol:first-child
+torrents.ru##div#page_footer > table[style="margin: 8px auto 6px;"]
+torrents.ru##div.tCenter.mrg_12
 torrents.ru##iframe
-torrentz.com##.download > h2 + dl
+torrents.ru##td#sidebar1 div.tCenter > form
+torrents.ru##tr#f-11:last-child
+torrentz.com##div.download > h2 + dl
 torrentz.com##div[style="width: 1000px; margin: 0pt auto;"]
-translate.ru###b_adv
-translate.ru###ctl00_SiteContent_trasnlform_OurPartners
-translate.ru##.bgn_content
+translate.ru##div#b_adv
+translate.ru##div#ctl00_SiteContent_trasnlform_OurPartners
+translate.ru##div.bgn_content
 translate.ru/App_Themes/Default/begLoad/
 turbobit.net##img[width="490"][height="100"]
-turist.rbc.ru##.advertBlock
-tutu.ru##.plink:first-child:last-child
+turist.rbc.ru##div.advertBlock
+tutu.ru##td.plink:first-child:last-child
 tutusun.ru##table[style="border: 1px solid rgb(204, 204, 204); width: 100%; background: none repeat scroll 0% 0% rgb(255, 255, 255); border-collapse: separate; border-spacing: 4px; line-height: 1.2em;"]
 ukr.net##div[id*="Banner"]
 upload/*/mega-announce$domain=hardwareportal.ru|hwp.ru
@@ -400,52 +400,52 @@ upload/bx/$domain=hardwareportal.ru|hwp.ru
 uploder.ws##center:last-child
 uploder.ws/static/*0x
 video-clips.ru/images/sms240.gif
-video.mail.ru###want-talk
-video.mail.ru##.rb_body
+video.mail.ru##div#want-talk
+video.mail.ru##div.rb_body
 video.mail.ru##img[width="240"][height="400"][border="0"]
 videofiles.com.ua##center
-videosaver.ru###ad
-vkontakte.ru###sideBar > .leftAd
-vkontakte.ru##.ad_box
+videosaver.ru##div#ad
+vkontakte.ru##a.ad_box
+vkontakte.ru##div#sideBar > div.leftAd
 vkontakte.ru##div[style="margin-top: 3px; font-size: 10px; text-align: center;"] > a[href="help.php?page=target"]
-voffka.com##.blog > div[align="center"]:last-child
+voffka.com##div.blog > div[align="center"]:last-child
 voffka.com##noindex
 vsamare.net##img[width="501"][height="90"]
 wawname.ru^
 webex.ru
-webpark.ru###Experts
-webpark.ru##.kontent a[target^="_blank"][href^="http:"]:not([href*="webpark.ru"]) img
+webpark.ru##div#Experts
+webpark.ru##div.kontent a[target^="_blank"][href^="http:"]:not([href*="webpark.ru"]) img
 webpark.ru##iframe
 webpark.ru##NOINDEX TABLE,DIV[style*="height:"][style*="00px"]:first-child
-webplanet.ru##.marketnews
+webplanet.ru##div.marketnews
 webplanet.ru##iframe
-win.mail.ru###load_banner_2 *
-win.mail.ru##.cont
+win.mail.ru##div#load_banner_2 *
 win.mail.ru##div[style="margin: 10px 0pt; height: 52px;"]
 win.mail.ru##img[width="240"][height="400"][border="0"]
 win.mail.ru##span:first-child:last-child
+win.mail.ru##td.cont
 www.animenfo.com/radio/meganimedvd.swf
 x-console.com##a[href*="=banner&"]:not([href*=".x-console.com%2Fmagazine"]),[id*="banner"],[class*="banner"]
-x-torrents.ru##.reklam
+x-torrents.ru##td.reklam
 xtreme.ws#TABLE(width=500)
 xuk.ru/dev/
 xuk.ru/img/*/
 xxl-zona.ru##table[style="border: 0px none;"]:last-child
 yandex.ru###direct
-yandex.ru##.ad,DIV.go-ad-all,DIV.intadv,DIV#banner
+yandex.ru##div.ad,DIV.go-ad-all,DIV.intadv,DIV#banner
 yandex.ry##.spec-adv
 youtube.com##div[class*="ad-div"]
-zadolba.li##.banner
-zaycev.net###ibp
-zaycev.net##.advlinks
+zadolba.li##p.banner
 zaycev.net##.menu1
 zaycev.net##:not([nowrap="nowrap"]) > a[href^="http:"]:not([href*="zaycev.net"])
+zaycev.net##div#ibp
+zaycev.net##table.advlinks
 zaycev.net#IFRAME
 zhmak.info###fp_adv2
 zhmak.info##a[rel="nofollow"]
 zhmak.info##td[valign="top"] > noindex
 zoneofgames.ru$object
-zr.ru##.br
+zr.ru##div.br
 ||0lik.ru^
 ||100.smi.ru/cgi-bin/banner/
 ||100aromatov.ru/banners/

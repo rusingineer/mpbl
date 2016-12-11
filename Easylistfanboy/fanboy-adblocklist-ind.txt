@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: GZyEDCFJwGTfT20GxESMIA
+! Checksum: WVgjbM0x5zs2FLetsArIMA
 ! Title: Fanboy's Indian
-! Updated: 20 Aug 2012
+! Updated: 17 Apr 2016
 ! This list expires after 4 days
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: fanboyadblock@googlegroups.com
@@ -205,7 +205,7 @@ andhra4you.com##.style47
 andhra4you.com##.style5
 andhra4you.com##table[style="width: 100%; height: 76px"]
 andhra4you.com##td[style="width: 127px"]
-andhraprabhaonline.com##.mediumrectangle
+andhraprabhaonline.com,prajasakti.com,visalaandhra.com##.mediumrectangle
 apniisp.com##[width="140"]
 asklaila.com##.spnsrSrpOffer
 athirvu.com##.clsR1C20
@@ -242,8 +242,8 @@ hotbollywoodactress.net###rssincl-box-221564
 in.specials.yahoo.com###index-nt1
 indiaglitz.com##table[width="740"]
 indiainfo.com###ind_biz_top_adv
-indianetzone.com##[height="100"]
 indianetzone.com##[height="110"]
+indianetzone.com,telugugreetings.org##[height="100"]
 intoday.in##[style="background-color: rgb(61, 61, 61); margin-right: 15px; padding: 5px 0pt 10px; width: 315px;"]
 irctc.co.in##div[style="width:850px; height:133px; margin:12px auto 0 auto;"]
 irctc.co.in##table[style="margin-top:6px;"]
@@ -269,19 +269,17 @@ musicmaza.com##[width="349"]
 musicmaza.com##[width="476"]
 musicmaza.com##table[width="245"]
 musicplug.in##[style="height: 100px; width: 100%; border-bottom-color: rgb(255, 0, 0);"]
-nakkheeeran.com##table[style="WIDTH: 300px; BORDER-COLLAPSE: collapse; height: 250px"]
+nakkheeeran.com,nakkheeran.in##table[style="WIDTH: 300px; BORDER-COLLAPSE: collapse; HEIGHT: 250px"]
 nakkheeran.in###Add1
 nakkheeran.in###Add6
 nakkheeran.in###Add8
 nakkheeran.in###ctl00_Add1
 nakkheeran.in##[style="background-color: rgb(239, 239, 239); width: 128px; vertical-align: top;"]
-nakkheeran.in##table[style="WIDTH: 300px; BORDER-COLLAPSE: collapse; height: 250px"]
 oneindia.in###a4p1
 oneindia.in##[style="width:300px;float:left;"]
 oneindia.in##[style="width:300px;float:left;padding-top:5px;padding-bottom:1px;"]
 oneindia.in##[style="width:300px;height:88px;clear:both;text-align:left;clear:both;border:0px solid red;"]
 prajasakti.com##.bodybanner
-prajasakti.com##.mediumrectangle
 prajasakti.com##.skyscraper
 prajasakti.com##.wideskyscraper
 raaga.com###AE1D21A6-A178-11DD-B52D-811056D89593
@@ -325,13 +323,11 @@ tamilwin.com##.gtrevda-gen
 tamilwin.com##.gtrevda-preosta
 tamilwire.com###default_adpB
 tarakash.com###Mod30
-telugugreetings.org##[height="100"]
 telugupeople.com##[width="200"]
 tubeq.com##[style="float: right; width: 207px; height: 600px; text-align: center;"]
 uthayan.com##.Bot340
 uthayan.com##.Mid340
 uthayan.com##.Top340
-visalaandhra.com##.mediumrectangle
 webdunia.com##.wdp_ad336
 webdunia.com##[style="height: 250px; width: 250px; float: left; padding: 0px 10px 10px 0px;"]
 webdunia.com##[style="height:250px;width:250px;float:left; padding:0px 10px 10px 0px"]

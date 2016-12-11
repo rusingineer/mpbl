@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 ! Title: Makani Private Block List Incremental Update
-! Last modified: 10 Sep 2016 12:00 UTC
+! Last modified: 11 Dec 2016 13:00 UTC
 ! Homepage: https://github.com/rusingineer/mpbl
 !  This is a private list,
 !  will not provide any technical support
@@ -174,6 +174,7 @@ cdn1ht.traffichaus.com
 .ru/news.js
 .com/news.js
 .tv/news.js
+aenjj.com^$script
 xexyc.com^$script
 wjzvx.com^$script
 bytde.com^$script
@@ -227,6 +228,16 @@ tqqjk.top^$script
 daopz.top^$script
 iwtra.top^$script
 okcbb.top^$script
+lptiu.top^$script
+koova.top^$script
+tgnvk.top^$script
+fttmayia.xyz^$script
+mcbag.top^$script
+nxstx.top^$script
+clhko.top^$script
+ozdau.top^$script
+fmhcj.top^$script
+/TotemTools/PModelsEngine.swf
 rustorka.com##[href*="pidaras"]
 rustorka.com##[gandon]
 vulkan-vulkan.net

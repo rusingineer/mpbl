@@ -60,6 +60,7 @@ kino-vorschau.com#@#.arqam-widget-counter
 banki.ru,neowin.net#@#.article-share
 nbcnews.com#@#.article_share
 opposingviews.com#@#.block-socialmedia
+kcrw.com#@#.bottom-social
 adespresso.com,airbnb.cat,airbnb.com,airbnb.de,aplus.com,appspot.com,crowdin.net,deezer.com,foodit.com,magine.com,meetme.com,nexoneu.com,setlist.fm,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
 nexoneu.com,secure.allocine.fr,techinasia.com#@#.btn-fb
 foodit.com,theoldreader.com#@#.btn-google-plus
@@ -76,6 +77,7 @@ nationalgeographic.com#@#.btn_fb
 pinterest.com#@#.button-pinterest
 terravision.eu#@#.button-share
 slideshare.net#@#.button-social
+pinterest.com#@#.clk-pinit
 smzdm.com#@#.comment_share
 echo.msk.ru#@#.contentshare
 samsung.com#@#.cookie-warning
@@ -86,11 +88,12 @@ delicious.com#@#.delicious
 post.com.tr#@#.detail-share-item
 digg.com#@#.digg-button
 digg.com#@#.digg_button
-usatoday.com#@#.embed-twitter
+tvline.com,usatoday.com#@#.embed-twitter
 science-et-vie.com#@#.entry-share
 azurewebsites.net#@#.facebook-btn
 bitbucket.org,ebuddy.com,geekli.st,globalcitizen.org,musixmatch.com,plug.dj#@#.facebook-button
 twitter.com#@#.facebook-container
+vimeo.com#@#.facebook-icon
 thehunt.com#@#.facebook-link
 facebook.com#@#.facebook-widget
 modhoster.com,mozillamessaging.com,pinterest.com#@#.facebook.icon
@@ -132,6 +135,7 @@ appspot.com,google.com#@#.g-plusone
 academia.edu#@#.google-btn
 9gag.com,google.com#@#.google-plus
 google.com,inoreader.com#@#.google_plus
+youtube.com#@#.gplus-icon
 vk.com#@#.group_share
 airbnb.cat,airbnb.com,airbnb.de,aitnews.com,comicbook.com,di.fm,fastcompany.com,gleam.io,imgur.com,shared.com,songkick.com,squidoo.com,theoldreader.com,yourstory.com#@#.icon-facebook
 lockerdome.com#@#.icon-facebook2
@@ -168,6 +172,7 @@ renren.com#@#.photo-share
 pinterest.com#@#.pin-it-button
 feedly.com#@#.pinButton
 pinterest.com#@#.pinit-btn
+pinterest.com#@#.pinit-btn-container
 pinterest.com#@#.pinit-button
 llbean.com#@#.pinit-overlay
 pinterest.com#@#.pinit_btn
@@ -189,17 +194,18 @@ nasa.gov#@#.section-social
 californiasunday.com,youtube.com#@#.share-bar
 belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com#@#.share-btn
-vimeo.com#@#.share-button
+kcrw.com,vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,thedodo.com#@#.share-buttons
 bbcccnn.com.ua,comicbook.com,dogs-magazin.de,gamerisle.org,popsugar.com,popsugar.com.au,sensationrock.net#@#.share-container
 mediafire.com#@#.share-facebook
 bild.de#@#.share-fb
+alwaysdata.net#@#.share-group
 sharesansar.com#@#.share-head
 greatbritishchefs.com#@#.share-header
 vimeo.com#@#.share-icon
 tumblr.com#@#.share-item
 recite.com#@#.share-left
-askubuntu.com,baidu.com,broadcast.app.net,imgur.com,mammothhq.com,mathoverflow.net,openstreetmap.org,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com#@#.share-link
+askubuntu.com,baidu.com,broadcast.app.net,imgur.com,mammothhq.com,mathoverflow.net,openstreetmap.org,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
 pornhub.com#@#.share-link-container
 channelnewsasia.com,imgur.com#@#.share-links
 channelnewsasia.com,recite.com#@#.share-list
@@ -261,7 +267,7 @@ deadspin.com,gawker.com,gizmodo.com,io9.com,jezebel.com,kinja.com,kotaku.com,lif
 4players.de#@#.social-gplus
 attn.com,wonderhowto.com#@#.social-header
 deathandtaxesmag.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
-udemy.com#@#.social-icon
+udemy.com,washingtonexaminer.com#@#.social-icon
 deathandtaxesmag.com,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
 accountkiller.com#@#.social-image
 asos.com#@#.social-link
@@ -291,6 +297,7 @@ academia.edu#@#.social_container
 maximumpc.com#@#.social_links_top
 fitocracy.com#@#.social_row
 neoseeker.com#@#.social_share
+meilleurmobile.com#@#.social_tabs
 leica-camera.com#@#.social_toolbar
 ruliweb.com#@#.social_wrapper
 web2.0calc.com#@#.socialbar
@@ -312,6 +319,7 @@ bitbucket.org,geekli.st,plug.dj,twitter.com#@#.twitter-button
 flightradar24.com#@#.twitter-feed
 bme.jhu.edu#@#.twitter-follow-button
 twitter.com#@#.twitter-hashtag
+youtube.com#@#.twitter-icon
 nypost.com#@#.twitter-image
 arstechnica.com#@#.twitter-link
 electnext.com#@#.twitter-share
@@ -325,6 +333,7 @@ si.com#@#.ui-share-component
 research.gigaom.com#@#.vertical-social
 minutebuzz.com#@#.wrapper-share
 hootsuite.com#@#.x-facebook
+youtube.com#@#.youtube-icon
 youtube.com#@#.youtube_subscribe_module
 twitter.com#@#[alt="retweet"]
 addthis.com#@#[href="http://www.addthis.com/bookmark.php"]

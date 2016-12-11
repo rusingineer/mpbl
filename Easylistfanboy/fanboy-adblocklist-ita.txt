@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: qP4JjX3gYbc1BdkeRWOYrQ
+! Checksum: 7uDeBBKxitfP8GIaY4G4EA
 ! Title: Fanboy's Italian
-! Updated: 27 Oct 2012
+! Updated: 17 Apr 2016
 ! This list expires after 4 days
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: fanboyadblock@googlegroups.com
@@ -441,9 +441,8 @@ digital-sat.it##[height="90"][style="border: 1px solid rgb(255, 255, 255);"]
 foxlife.it##[style="width: 728px; height: 90px; margin: 0px auto;"]
 ilfattoquotidiano.it##[style="width: 235px; height: 75px; overflow: hidden; float: left;"]
 ilmattino.it##table[width="300"][style="padding-bottom: 5px; border: 1px solid rgb(204, 204, 204);"]
-libero.it##[style="height: 90px; text-align: center; overflow: hidden; max-height: 90px;"]
 libero.it##[style="height: 90px; text-align: center;"]
-libero.milanofinanza.it##[style="height: 90px; text-align: center; overflow: hidden; max-height: 90px;"]
+libero.it,libero.milanofinanza.it##[style="height: 90px; text-align: center; overflow: hidden; max-height: 90px;"]
 mymovies.it##div[style="text-align: center; top: 0px; margin-left: auto; margin-right: auto; height: 270px; left: 0px; float: left; width: 100%; overflow: hidden;"]
 mymovies.it##td[style="height: 45px; background-color: rgb(255, 255, 255);"]
 napolisport.net##[style="height: 70px; width: 1000px; text-align: justify;"]
@@ -454,15 +453,15 @@ tio.ch##[style="border: 1px solid rgb(1, 84, 136);"]
 !
 !---------- Italian Generic Element Hiding Rules ----------
 !
+###adagio300x250
+###adnaffzone1
+###adnaffzone2
+###advheader
 ###ADVleaderboard
 ###ADVleaderpiede
 ###ADVrettangolo
 ###ADVrettangolopiede
 ###ADVstriscia
-###adagio300x250
-###adnaffzone1
-###adnaffzone2
-###advheader
 ###annunci_google
 ###bannerTop
 ###divPubblicita
@@ -474,7 +473,6 @@ tio.ch##[style="border: 1px solid rgb(1, 84, 136);"]
 ###pubblicita
 ###shopping_kelkoo
 ###top_banner_container
-##.CWReviewsProdInfoAd
 ##.addx
 ##.adnaff
 ##.ads-articolo
@@ -484,6 +482,7 @@ tio.ch##[style="border: 1px solid rgb(1, 84, 136);"]
 ##.banner300_azzurro
 ##.barraSipra
 ##.cont-adv
+##.CWReviewsProdInfoAd
 ##.ollo_advbanner
 ##.promo_sp
 ##.sponsoredtextlinkseo_container
@@ -494,11 +493,10 @@ tio.ch##[style="border: 1px solid rgb(1, 84, 136);"]
 !
 !---------- Italian Site Specific Element Hiding Rules ----------
 !
-01net.it###bottoni
-adnkronos.com##.banner
+01net.it,eurosat-online.it###bottoni
 adnkronos.com##.leogoo
+adnkronos.com,agi.it,avvenire.it,mrwebmaster.it,rai.it,rainews24.it,webmasterpoint.org##.banner
 affaritaliani.it###idealista
-agi.it##.banner
 agi.it##.headerbanner
 agichina24.it##.strip
 agichina24.it##.topbanner1
@@ -506,16 +504,16 @@ agimondo.it###overhp
 agoravox.it##.publarge
 albanesi.it##.beead_Footer
 alfemminile.com##iframe[id^="SaS_InsertionID"]
-allaguida.it###top-banner
+allaguida.it,buttalapasta.it,derapate.it,ecoo.it,finanza.com,gaywave.it,nextmoto.it,pourfemme.it,stylosophy.it,suipedali.it,tecnocino.it,televisionando.it,trackback.it,vostrisoldi.it###top-banner
 angolotesti.it###leo-adv
 angolotesti.it###sponsoredby
 annunci.tiscali.it##.w300
 ansa.it###banner970x30strip
 ansa.it###banner984x45strip
-ansa.it##.adv
 ansa.it##.adv-4
 ansa.it##.text-link
 ansa.it##a[style="display: block; height: 611px; left: 0px; position: fixed; top: 0px; width: 100%;"]
+ansa.it,ilpost.it,menstyle.it,panorama.it,romagnaoggi.it,tiscali.it,virgilio.it,wired.it##.adv
 asylumitalia.it##.topBanner
 ausilium.it###dhtmlwindowholder
 autoblog.it###bglink
@@ -527,7 +525,6 @@ avvenire.it###ctl00_MasterContent_ctl05_box
 avvenire.it###ctl00_MasterContent_ctl06_box
 avvenire.it###ctl00_MasterContent_ctl08_box
 avvenire.it###ctl00_MasterContent_ctl09_box
-avvenire.it##.banner
 axn.it###block-spti_ga-spti_ga_adwords
 axn.it###block-spti_operative-spti_operative_square
 beppegrillo.it###lasettimanaskip
@@ -545,18 +542,17 @@ bitcity.it###banner-leaderboard
 bitcity.it###banner-mpu
 bitcity.it###banner-normal
 bitcity.it###banner-sky
-blogville.it##.advertise
 blogville.it##.advertisements
-blogville.it##.google
 blogville.it##.top_banner
+blogville.it,pcworld.it##.advertise
+blogville.it,prezzibenzina.it##.google
 bmwpassion.com##[style="width:180px; height:90px; text-align:center"]
 bora.la##.headerbtm
-bresciaoggi.it##.header-box
+bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.header-box
 businessonline.it###spotgoogle
 businessonline.it##.adv1
 businessonline.it##.adv3
 businessonline.it##table[bgcolor="#ece9e2"][width="90%"]
-buttalapasta.it###top-banner
 cani.com###headerBoard-box
 canonclubitalia.com##td[width="160px"]
 channelinsider.it###leaderBoard
@@ -564,25 +560,24 @@ ciao.it###productlevellink
 ciao.it##.priceComp
 ciao.it##.specialOfferMod
 ciaopeople.com###adv-300
-ciaopeople.com###cboxOverlay
-ciaopeople.com###colorbox
 ciaopeople.com###comment-banner
 ciaopeople.com##.adv.top
+ciaopeople.com,doveconviene.it###cboxOverlay
+ciaopeople.com,doveconviene.it###colorbox
 cinguettare.com###sads
 classmeteo.weather.com###content_annunci
+comingsoon.it###advSkin
+comingsoon.it###banner1
 comingsoon.it###BnrRight1
 comingsoon.it###BnrRight2
 comingsoon.it###ExpTop
-comingsoon.it###advSkin
-comingsoon.it###banner1
 comingsoon.it##.expanding-footer-container
 contattimsg.com##[style="float: left; margin: 0px 0px 0px 25px; height: 95px; width: 780px; text-align: left;"]
-corriere.it###BoxAdv2
 corriere.it###atcasa_ppn
 corriere.it###box-viaggi-home-cor
 corriere.it###box-viaggi-home-cor-single
+corriere.it###BoxAdv2
 corriere.it###vxFlashPlayerStaticIMUFrame
-corriere.it##.bacheca-mkt
 corriere.it##.bacheca-pub
 corriere.it##.bacheca-pub-home
 corriere.it##.box-corriere-superenalotto
@@ -591,13 +586,13 @@ corriere.it##.collaborazione
 corriere.it##.collection
 corriere.it##.dove
 corriere.it##.royal_mkt
+corriere.it,gazzetta.it##.bacheca-mkt
 cronacaqui.it##.manchette
 delcinema.it##.banner200x200
 delcinema.it##.banner300x300
 delleconomia.it##.adv180
 delleconomia.it##.adv200
 delrock.it##.banner728
-derapate.it###top-banner
 diariodelweb.it##.publi
 diariodelweb.it##.publi_h_d
 diariodelweb.it##.publi_h_i
@@ -605,20 +600,16 @@ digital-sat.it##.banner_120
 digital-sat.it##.banner_centrale
 digital-sat.it##[height="64"][style="border:1px solid #178AA5;"]
 digital-sat.it##[height="90"][style="border:1px solid #FFFFFF;"]
-donnamoderna.com###immob_box_ricerca
-doveconviene.it###cboxOverlay
-doveconviene.it###colorbox
+donnamoderna.com,ladige.it###immob_box_ricerca
 dreambox.it##a[href^="http://ad.zanox.com/"]
 dubidoo.it###right2
 dubidoo.it###right3
-ecoo.it###top-banner
 edreams.it###m3
 edreams.it###m6
 edreams.it###superbanner
 elenchitelefonici.it##[width="110"]
 estrazioni-del-lotto-e-superenalotto.com##table[width="479"]
 europelowcost.com##.border-banner
-eurosat-online.it###bottoni
 everyeye.it###richmedia
 everyeye.it##.compra_lungo
 everyeye.it##a[href^="http://www.everyeye.it.cloud.seeweb.it/www/delivery/"]
@@ -626,29 +617,26 @@ f1grandprix.it###container4
 fanpage.it##.featured
 fantagazzetta.com##[style="width: 250px; float: right; height: 250px; padding: 0pt; margin-bottom: 4px; overflow: hidden;"]
 fantagazzetta.com##[style="width: 728px; height: 90px; background-color: rgb(255, 255, 255); float: left; margin-bottom: 4px; border: 1px solid rgb(141, 161, 187);"]
-fantascienza.com###delosstore-box
 fantascienza.com###long-banner
 fantascienza.com###partners
+fantascienza.com,horrormagazine.it,sherlockmagazine.it,thrillermagazine.it###delosstore-box
 fcinternews.it##.banner_sx_160x600
-finanza.com###top-banner
 flashgames.it##[style="clear:both; width:722px; height:102px; margin-bottom:10px; background-color: #; border:1px dotted #EAEAEA;"]
 flashgames.it##[style="width:129px; height:550px; background-image:url(/img/sf.linguettasp3.gif); background-position:bottom; background-repeat:no-repeat; text-align:left; padding-top:7px; padding-left:5px; padding-right:4px;"]
 forum.tgmonline.it##td[width="305"][valign="top"][align="right"]
-fotografidigitali.it##.banner300x250
-fotografidigitali.it##.banner728x90
+fotografidigitali.it,rai.it,tvtech.it##.banner728x90
+fotografidigitali.it,tvtech.it##.banner300x250
 foxlife.it##[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:#000;"]
 fuorissimo.com##td[width="752"][height="100"]
 gamberorosso.it###testata_banner
 gamemag.it###adv300top
 gamesvillage.it##.banner-bottom
-gaywave.it###top-banner
-gazzetta.it###tv-adv
-gazzetta.it##.bacheca-mkt
 gazzetta.it##.container-pubb
 gazzetta.it##.poker
 gazzetta.it##.pubblicita
 gazzetta.it##.pushbar
 gazzetta.it##.rightcol_div_openx2
+gazzetta.it,video.corriere.it###tv-adv
 gazzettadelsud.it###fwnetblocco160x600
 gazzettadelsud.it##td[valign="middle"][align="center"][height="30"]
 gazzettadelsud.it##td[valign="top"][height="250"]
@@ -670,7 +658,6 @@ google.it###pmocntr2
 google.it###tads
 hdblog.it###banner_titolo
 hdblog.it###vetrine_kelkoo
-horrormagazine.it###delosstore-box
 html.it###banner_728
 html.it###banner_basso
 html.it###banner_blog
@@ -682,12 +669,12 @@ html.it###banner_video
 html.it###banner_webapp
 html.it###premium-links-up
 html.it###side-banner
-html.it###sponsor
 html.it###suggested-links
 html.it##.banner-container
 html.it##.premium-links-2
 html.it##.premium-links-container-home-ms
 html.it##.premium-links-container-home-www
+html.it,qds.it,ticinolibero.ch###sponsor
 iammepress.it##.iamm_page_advtop
 iammepress.it##[style="width:252px;height:260px;float:right; display:block;padding:5px; padding-right:0px; margin-top:5px; margin-bottom:5px"]
 ilfattoquotidiano.it##[style="width:235px; height:75px; overflow:hidden; float:left"]
@@ -698,11 +685,9 @@ ilgiornale.it###leaderboard
 ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
 ilgiornalediragusa.it##.moduletable_mod_banner
-ilgiornaledivicenza.it##.header-box
-ilmanifesto.it###banner
+ilmanifesto.it,milanoweb.com,pokeritalia24.it,secoloditalia.it###banner
 ilmattino.it##table[width="300"][style="padding-bottom:5px;border:1px solid #cccccc"]
 ilmessaggero.it###promoflip
-ilpost.it##.adv
 ilsalvagente.it###bannerBottomExtra
 ilsalvagente.it###bannerDx
 ilsalvagente.it###bannerInt
@@ -716,8 +701,8 @@ ilsecoloxix.it###zona_181
 ilsecoloxix.it##.artbanner
 ilsole24ore.com###block300x250
 ilsole24ore.com##.ad
-ilsole24ore.com##.vetrina
 ilsole24ore.com##[style="width: 300px; margin-top: 6px;"]
+ilsole24ore.com,quotidiano.net##.vetrina
 infomotori.com###leaderboard-top
 infomotori.com###strisciamenu
 infomotori.com##.chiudi
@@ -727,8 +712,8 @@ iosposa.style.it##.box_promo_new
 it.reuters.com##.pagesponsor
 italia-news.it###box_ricerca
 italia-news.it##.gcon_banners_label
-italiatopgames.it##.testo[height="112"][align="center"]
 italiatopgames.it##table[height="112"][width="756"]
+italiatopgames.it##td.testo[height="112"][align="center"]
 itespresso.it###megabanner
 itespresso.it###overbox
 itespresso.it###text-666537101
@@ -739,13 +724,10 @@ jimey.tv##.floatright
 jugo.it##.Shopping
 julienews.it###banner_articoli_box
 julienews.it###banner_destra
-kisskiss.it###adv
-la7.it###La7Consiglia
-la7.it###adv
+kisskiss.it,la7.it,panorama.it,samp.tv###adv
 la7.it###advintup
 la7.it###advup
-ladige.it###immob_box_ricerca
-larena.it##.header-box
+la7.it###La7Consiglia
 lasicilia.it###scroller
 lastampa.it###spazialti
 lastampa.it###spazioalto1
@@ -764,8 +746,7 @@ libero-news.it##td[style="height: 112px;"]
 libero-news.it##td[style="width: 994px;"]
 libero.it###b300s
 libero.it###libero_header_adv
-libero.it##[style="height: 90px; text-align: center; overflow: hidden; max-height: 90px"]
-libero.milanofinanza.it##[style="height: 90px; text-align: center; overflow: hidden; max-height: 90px"]
+libero.it,libero.milanofinanza.it##[style="height: 90px; text-align: center; overflow: hidden; max-height: 90px"]
 liberoquotidiano.it###bannerbox1
 liberoquotidiano.it##.banner_apertura
 liguriawebcam.com###extra
@@ -787,7 +768,6 @@ mediaset.it###footersponsor
 mediaset.it###spacer300x250
 megalab.it###left_skyscraper
 megalab.it##.bnr_728x90
-menstyle.it##.adv
 menstyle.it##.promo
 meteo.it##.Banner300x250
 meteo.it##.BannerBottoni
@@ -796,13 +776,11 @@ metronews.it###banner728_top
 metronews.it###contentenitore_banner
 metronews.it###spot_top
 metropolisweb.it##.BannerMezzoNotizia
-milanoweb.com###banner
 monde-diplomatique.it###spotsinistra
 moto.it###rchm_overlay
 moto.it###topboard
 motonline.com###box-bacheca
 motonline.com###box-bachecapremium
-mrwebmaster.it##.banner
 mrwebmaster.it##.box_sky
 mrwebmaster.it##.highlight
 mymovies.it##[style="min-width:200px; width:25%; text-align:right;"]
@@ -810,31 +788,23 @@ mymovies.it##[style="text-align:center; top:0px; margin-left:auto; margin-right:
 mymovies.it##[style="width:728px; height:90px;"]
 napolisport.net##[style="height:70px; width:1000px; text-align:justify"]
 napolisport.net##[style="width:458px; background-color:#F8F8F8; color:#000066; border-width:1px; border-style:solid; padding:5px; font-size:11px; line-height:17px"]
+newsfood.com###banner_top
 newsfood.com###SpotSquare
 newsfood.com###SpotSquare2
-newsfood.com###banner_top
 newsfood.com##.SpotRet5
-nextmoto.it###top-banner
 omniauto.it##.box.nopadding
 omniauto.it##[style="height:90px; background:url(/2.0/banners/footer_articolo.gif) bottom right no-repeat #fff;"]
 paginegialle.it###leaderboardWrap
-panorama.it###adv
 panorama.it###leadermarketing
 panorama.it###text-581011181
-panorama.it##.adv
 panorama.it##.leaderboard
 pctuner.net###boxbanner
 pcworld.it###FlashToolbar
-pcworld.it###Leaderboard
 pcworld.it###pangoraBox
-pcworld.it##.advertise
 pcworld.it##[style="padding:0; border:3px solid #c00; background:#fff; margin: 10px; text-align:center;"]
+pcworld.it,rai.it###Leaderboard
 pianetacellulare.it##.banner2
-pokeritalia24.it###banner
-pourfemme.it###top-banner
-prezzibenzina.it##.google
 prezzibenzina.it##.sponsorTop
-qds.it###sponsor
 quattroruote.it###advmenu
 quattroruote.it###bannerqrt
 quattroruote.it###topautopromo
@@ -846,7 +816,6 @@ quicomo.it##.b121x120
 quicomo.it##.b350x120
 quicomo.it##.b468x60
 quotidiano.net##.adv_mondiali
-quotidiano.net##.vetrina
 radioitalia.it###advbox
 radioitalia.it###bannerLeader
 radioitalia.it###box
@@ -856,14 +825,10 @@ radioitalia.it###sky
 radiovaticana.org###Layer1
 radiovaticana.org##[style="background-image:url(../img_common/sf_pub_234.gif); width:320px; height:64px;"]
 radiovaticana.org##[style="background-image:url(../img_common/sf_pub_780.gif); width:780px; height:94px;"]
-rai.it###Leaderboard
 rai.it##.Leaderboard
-rai.it##.banner
-rai.it##.banner728x90
 rai.tv##.placeholder300x250
-rainews24.it##.banner
-repubblica.it###OAS_Right
 repubblica.it###assiContainer
+repubblica.it###OAS_Right
 repubblica.it##.fantacalcio-box.clearfix
 retesport.it##.big_banner
 retesport.it##.rect_banner
@@ -872,39 +837,31 @@ revenews.info###leaderboardspace
 romagnaoggi.it###annunciGoogle
 romagnaoggi.it###banner990
 romagnaoggi.it###publiredazionale
-romagnaoggi.it##.adv
-rumors.it###block-block-26
-rumors.it###block-block-27
-rumors.it###block-block-4
-rumors.it###block-block-5
-samp.tv###adv
+rumors.it,trendystyle.it###block-block-26
+rumors.it,trendystyle.it###block-block-27
+rumors.it,trendystyle.it###block-block-4
+rumors.it,trendystyle.it###block-block-5
 samp.tv###samptvsponsor
 sanmarinortv.sm##.bannerone
 screenweek.it###googleads-swblogbox1
 screenweek.it###googleads-swblogbox2
-secoloditalia.it###banner
 secoloditalia.it##.link_ext
 secondamano.it##.moreblock
-sherlockmagazine.it###delosstore-box
 siap-polizia.org###popup_interstitial
 spartoo.it##.cust_bottom_link
-spaziogames.it###b728
 spaziogames.it###banner300
+spaziogames.it,webmasterpoint.org###b728
 streamingdb.net###bottombar
 studenti.it##.boxConsiglia
 style.it###flipAdv
 style.it##.info-box
 style.it##.slide-items
-stylosophy.it###top-banner
 subito.it##.partner_column
-suipedali.it###top-banner
 technologyreview.it###plusdx[style="background-color: rgb(255, 255, 255);"]
 technologyreview.it##[width="188"][align="center"]
 technologyreview.it##[width="730"]
-tecnocino.it###top-banner
 tecnozoom.it###header-banner
 telefonino.net###lh_header_top
-televisionando.it###top-banner
 tempoitalia.it###headerBanner
 tempoitalia.it##.box-banner
 tempoitalia.it##.box-two-banner
@@ -912,39 +869,27 @@ tempoitalia.it##.doubleBlock
 tgcom.mediaset.it##.ContentSpecial
 tgmonline.it###topbanner
 theinquirer.it##.pubind1
-thrillermagazine.it###delosstore-box
-ticinolibero.ch###sponsor
 tio.ch##[style="border:1px solid #015488;"]
-tiscali.it###banner300x250c20
 tiscali.it###banner304x860
 tiscali.it##.ADV
-tiscali.it##.adv
-tiscali.it##.boxBanner
 tiscali.it##.box_assicurazioni
-tiscali.it##.c1c6
+tiscali.it##.boxBanner
 tiscali.it##.cont_sponsor
 tiscali.it##.new-headbanner
 tiscali.it##.teaserDx
 tiscali.it##.ts-headbanner
 tiscali.it##.tsrAdv
 tiscali.it##.wM.brd1d
+tiscali.it,unita.it###banner300x250c20
+tiscali.it,unita.it##.c1c6
 tomshw.it##div[style="width:100%;height:92px;clear:both;"]
 toronews.net###store_banner
 toronews.net##.banner_234x60
-trackback.it###top-banner
-trendystyle.it###block-block-26
-trendystyle.it###block-block-27
-trendystyle.it###block-block-4
-trendystyle.it###block-block-5
 tuttosport.com##.box_LeaderBoard
 tvdream.net###advsingle
-tvtech.it##.banner300x250
-tvtech.it##.banner728x90
-unita.it###UNITIS_ads_300250
-unita.it###banner300x250c20
 unita.it###mainBox
+unita.it###UNITIS_ads_300250
 unita.it##.banner-adv
-unita.it##.c1c6
 unita.it##.dannperdere
 urbananew.net###TB_load
 urbananew.net###TB_overlay
@@ -957,19 +902,15 @@ viamichelin.it##.gdhBlockV2
 viamichelin.it##.pubContent
 viamichelin.it##.pubTitle
 viamichelin.it##.vm-pub-home300
-video.corriere.it###tv-adv
-virgilio.it###IE9
 virgilio.it###adsGooglePos
 virgilio.it###adv7
 virgilio.it###adv_sponsor_canale_tematico
 virgilio.it###boxIs
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
+virgilio.it###IE9
 virgilio.it###telecom_offerta
 virgilio.it###telecom_offertavers04
-virgilio.it##.VirgilioAdsSignedLower
-virgilio.it##.VirgilioManchette
-virgilio.it##.adv
 virgilio.it##.advTuning
 virgilio.it##.mezzo
 virgilio.it##.newboxIs > .main
@@ -977,13 +918,11 @@ virgilio.it##.newboxIsOrizz
 virgilio.it##.primo
 virgilio.it##.promo_spalla
 virgilio.it##.ultimo
+virgilio.it##.VirgilioAdsSignedLower
+virgilio.it##.VirgilioManchette
 voceditalia.it##.banner_casino
-vostrisoldi.it###top-banner
 wallstreetitalia.com###SHcontenuti
-webmasterpoint.org###b728
-webmasterpoint.org##.banner
 webmasterpoint.org##.immagine
-wired.it##.adv
 wired.it##.adv-list
 wired.it##.banner-top
 wired.it##.banner1
@@ -994,8 +933,8 @@ zingarate.com##.top_trecentodieci
 !
 !---------- Italian Hiding Rules With Exceptions ----------
 !
-~gelocal.it,~repubblica.it###advtop
 ~bakeca.it,~fileserve.com,~genova.repubblica.it,~mail.google.com##.ads:not(body)
+~gelocal.it,~repubblica.it###advtop
 !
 !---------- Easylist-specific ----------
 !

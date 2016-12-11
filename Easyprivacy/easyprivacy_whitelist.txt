@@ -59,6 +59,7 @@
 @@||api.academia.edu^*/stats?callback$script,~third-party
 @@||api.chartbeat.com^$script,domain=betabeat.com|couriermail.com.au|financialpost.com|wcpo.com
 @@||api.cxense.com/public/widget/data?$script
+@@||app.focalmark.com/bower_components/angulartics-google-analytics/$script,~third-party
 @@||arcgis.com^*/heatmap.js
 @@||arkadiumhosted.com^*/google-analytics-logger.swf$object-subrequest
 @@||arstechnica.com/services/incr.php?*=interactions.adblock-annoy.click$xmlhttprequest
@@ -122,7 +123,7 @@
 @@||cdn-redfin.com^*/page_analytics.xd.js
 @@||cdn-redfin.com^*/PixelTracking.js$domain=redfin.com
 @@||cdn.cxense.com/cx.js$domain=channelnewsasia.com
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|dramafever.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com
 @@||centurylink.net/images/track/track.gif?track=$xmlhttprequest
 @@||chanel.com/js/chanel-tracking.js$script
 @@||chartbeat.com/*/chartbeat/$~third-party
@@ -229,6 +230,7 @@
 @@||fifa.com^*/webanalytics.js?
 @@||firstdirect.com^*/logging-code.js
 @@||fitloop.co/packages/GAnalytics.js?
+@@||flagshipmerchantservices.com/clickpathmedia.js
 @@||flipps.com^*/page-tracking.js?
 @@||fls-*.amazon.com^*/aiv-web-player/$xmlhttprequest
 @@||flsenate.gov/Scripts/GoogleAnalytics.js$~third-party
@@ -261,7 +263,7 @@
 @@||go.com^*/analytics/tracker.otv.js
 @@||goldbet.com/Scripts/googleAnalytics.js
 @@||goldmansachs.com/a/pg/js/prod/gs-analytics-init.js
-@@||google-analytics.com/analytics.js$domain=afternic.com|amctv.com|bebo.com|bennysva.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|gamepix.com|greentoe.com|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
+@@||google-analytics.com/analytics.js$domain=afternic.com|allmusic.com|amctv.com|bebo.com|bennysva.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|gamepix.com|greentoe.com|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
 @@||google-analytics.com/collect$xmlhttprequest,domain=content.wargaming.net
 @@||google-analytics.com/cx/api.js?experiment=$domain=foxnews.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=lovehoney.co.uk|maxiclimber.com|opendns.com|openshift.com|vimeo.com|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg
@@ -324,14 +326,17 @@
 @@||krxd.net^$script,domain=nbcnews.com
 @@||l.yimg.com/g/combo/*/comscore.$script
 @@||latimes.com/hive/javascripts/loggingService.js
+@@||leeaws.com/api-cache/chartbeat/?host=$xmlhttprequest,domain=tucson.com
 @@||lenovo.com^*/GoogleAnalytics.js
 @@||leretourdelautruche.com/map/nuke/heatmap.js
 @@||lesacasino.com^*/EMERPEventCollector.$script,subdocument
 @@||lg.com^*/foresee/foresee-trigger.js
 @@||lightningmaps.org^*/piwik.js
 @@||lininteractive.com/chartbeat/$~third-party
+@@||lininteractive.com/chartbeat/mostPopular.php?host=$subdocument
 @@||link.theplatform.com/*/tracker.log?
 @@||link.theplatform.com/*?affiliate=
+@@||lipmonthly.com/js/angulartics-google-analytics/dist/angulartics-ga.min.js
 @@||live.indiatimes.com/trackjs.cms
 @@||lloydstsb.com/it/xslt/touchclarity/omtr_tc.js
 @@||loadus.exelator.com/load/?p=$script,domain=rrstar.com
@@ -410,6 +415,7 @@
 @@||netinsight.travelers.com/scripts/ntpagetaghttps.js
 @@||networkworld.com^*/demandbase.js
 @@||newrelic.com/nr-*.min.js$domain=play.spotify.com
+@@||newrelic.com/public/charts/$subdocument,xmlhttprequest
 @@||newsinc.com/getids?uid=$script,domain=ap.org
 @@||newsinc.com^*/getPlacements.js?pid=$xmlhttprequest,domain=ap.org|csmonitor.com
 @@||newyorker.com^*/cn-fe-stats/$script
@@ -503,7 +509,7 @@
 @@||sahibinden.com/assets/analytics*.js$script
 @@||samepage.io/assets/lib/google-analytics/GoogleAnalytics.js?
 @@||sbstatic.com.au/js/tealium.js$domain=sportsbet.com.au
-@@||scorecardresearch.com/beacon.js$domain=agame.com|ahmedabadmirror.com|allrecipes.com|amctv.com|apl.tv|babycenter.com|bonappetit.com|calgaryherald.com|canada.com|cbc.ca|dailymail.co.uk|deviantart.com|discovery.com|edmontonjournal.com|fastcompany.com|financialpost.com|firstwefeast.com|hitfix.com|huffingtonpost.com|indiatimes.com|landandfarm.com|last.fm|leaderpost.com|m.tmz.com|montrealgazette.com|nationalpost.com|newsday.com|ottawacitizen.com|outsideonline.com|radaronline.com|salon.com|sci2.tv|syfy.com|theprovince.com|thestar.com|thestarphoenix.com|thinkatheist.com|vancouversun.com|windsorstar.com
+@@||scorecardresearch.com/beacon.js$domain=agame.com|ahmedabadmirror.com|allmusic.com|allrecipes.com|amctv.com|apl.tv|babycenter.com|bonappetit.com|calgaryherald.com|canada.com|cbc.ca|dailymail.co.uk|deviantart.com|discovery.com|edmontonjournal.com|fastcompany.com|financialpost.com|firstwefeast.com|hitfix.com|huffingtonpost.com|indiatimes.com|landandfarm.com|last.fm|leaderpost.com|m.tmz.com|montrealgazette.com|nationalpost.com|newsday.com|ottawacitizen.com|outsideonline.com|radaronline.com|salon.com|sci2.tv|syfy.com|theprovince.com|thestar.com|thestarphoenix.com|thinkatheist.com|tmz.com|v3.co.uk|vancouversun.com|windsorstar.com
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_html5.js
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_theplatform.js
 @@||scorecardresearch.com/crossdomain.xml$domain=rte.ie
@@ -610,6 +616,7 @@
 @@||vidtech.cbsinteractive.com^*/AkamaiAnalytics.swf$domain=kuathletics.com|mutigers.com|okstate.com
 @@||view.atdmt.com^*/iview/$domain=starwoodhotels.com
 @@||view.atdmt.com^*/view/$domain=starwoodhotels.com
+@@||virtualearth.net/webservices/v1/LoggingService/$script
 @@||virtualearth.net^*/LoggingService.svc/Log?$script,domain=bing.com|spatialbuzz.com
 @@||visa.com^*/vendor/unica.js
 @@||visiblemeasures.com/crossdomain.xml$object-subrequest,domain=espn.go.com|live.indiatimes.com

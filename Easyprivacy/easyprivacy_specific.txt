@@ -3,6 +3,7 @@
 ||123greetings.com/usr-bin/view_sent.pl?
 ||123rf.com/j/ga.js
 ||123rf.com/tk/
+||1337x.to/ip.php
 ||192.com/log/
 ||198.105.253.2/lvl3/$image,domain=searchguide.level3.com
 ||1e400.net/tracking.js
@@ -11,6 +12,7 @@
 ||24hourfitness.com/includes/script/siteTracking.js
 ||37signals.com/ga.js
 ||3dcartstores.com/3droi/monstertrack.asp
+||3dmark.com^*/ruxitbeacon
 ||4hds.com/js/camstats.js
 ||4info.com/alert/listeners/
 ||5.153.4.92^$domain=spreaker.com
@@ -91,6 +93,8 @@
 ||allvoices.com/track_page
 ||alot.com/js/tracking.js
 ||alot.com/tb/cookiewriter.php?
+||amazon.*/action-impressions/
+||amazon.*/batch/*uedata=$image
 ||amazon.*/gp/r.html?
 ||amazon.*/uedata/
 ||amazon.com/clog/
@@ -257,6 +261,7 @@
 ||beacon.www.theguardian.com^
 ||beacons.helium.com^
 ||beacons.vessel-static.com/xff?
+||beacons.vessel-static.com^*/pageView?
 ||beap-bc.yahoo.com^
 ||bench.uc.cn^
 ||bermudasun.bm/stats/
@@ -523,7 +528,7 @@
 ||drpeterjones.com/stats/
 ||dslreports.com/tp?
 ||dsm.com^*/searchenginetracking.js
-||duckduckgo.com/t/iaui?$image
+||duckduckgo.com/t/
 ||dump8.com/js/stat.php
 ||dvdempire.com/images/empty2.asp
 ||dvdempire.com/include/user/empty2.asp?
@@ -696,6 +701,7 @@
 ||g.techweekeurope.co.uk^
 ||g2a-com.newsletter.com.pl^$image,third-party
 ||ga.canoe.ca^
+||ga.nsimg.net^
 ||gaiaonline.com/internal/mkt_t.php?
 ||galleries.bz/track/
 ||gallup.wn.com/1x1.gif
@@ -785,6 +791,7 @@
 ||gosanangelo.com/metrics/
 ||gov.in/js/ga.js
 ||gq-magazine.co.uk^*/LogPageView
+||groupon.*/tracky$xmlhttprequest
 ||groupon.com/analytic/
 ||groupon.com/tracking
 ||gumtree.com.au/?pc=
@@ -915,6 +922,7 @@
 ||intensedebate.com/empty.php
 ||intent.cbsi.com^
 ||intercom.io/gtm_tracking/
+||internetslang.com/jass/$script
 ||investegate.co.uk/Weblogs/IGLog.aspx?
 ||io9.com/at.js.php
 ||io9.com^*/trackers.html
@@ -1042,6 +1050,7 @@
 ||ly.lygo.com^*/jquery.lycostrack.js
 ||madthumbs.com/tlog.php
 ||mail.advantagebusinessmedia.com/open.aspx
+||mail.com/monitor/count?
 ||mail.yahoo.com/dc/rs?log=
 ||mailer.atlassian.com/open.aspx?
 ||mailings.gmx.net/action/view/$image
@@ -1141,6 +1150,7 @@
 ||multiply.com/common/dot_clear.gif
 ||multiupload.com/extreme/?*&ref=$subdocument
 ||musicstack.com/livezilla/server.php?request=track
+||myanimelist.net/static/logging.html
 ||myfitnesspal.com/assets/mfp_localytics.js
 ||mypaydayloan.com/setc.asp?
 ||mypoints.com/js/*ga.js?
@@ -1277,6 +1287,7 @@
 ||partners.badongo.com^
 ||partners.mysavings.com^
 ||paypal.com/webapps/beaconweb/
+||paypal.com/webapps/hermes/api/log?
 ||paypalobjects.com/*/m/mid.swf$domain=paypal.com
 ||pbsrc.com/common/pixel.png
 ||pch.com^*/scripts/Analytics/
@@ -1348,6 +1359,7 @@
 ||popcap.com^*/interstitial_zones.js
 ||porndoo.com/lib/ajax/track.php
 ||pornhd.com/api/user/tracking
+||porntube.com^*/track
 ||potterybarn.com/pbimgs/*/external/thirdparty.js
 ||potterybarnkids.com/pkimgs/*/external/thirdparty.js
 ||pound.buzzfeed.com^
@@ -1464,6 +1476,7 @@
 ||rs.mail.ru^
 ||rsscache.com/Section/Stats/
 ||rsys2.net/pub/as?
+||rt.imgur.com^
 ||rt.prnewswire.com^
 ||rt.rakuten.co.jp^
 ||rta.dailymail.co.uk^
@@ -2047,6 +2060,7 @@
 ||whatcar.com/Client/Stats/
 ||whoson.smcorp.com^
 ||whstatic.com^*/ga.js?
+||wikihow.com/visit_info
 ||wikihow.com/x/collect?
 ||wikimedia.org/wiki/Special:RecordImpression?
 ||wikinvest.com/plugin/api.php?*=metricld&
@@ -2086,6 +2100,7 @@
 ||wzus1.reference.com^
 ||wzus1.thesaurus.com^
 ||xbox.com^*/vortex_tracking.js
+||xda-cdn.com/analytics.js
 ||xhamster.com/ajax.php?act=track_event
 ||xhamster.com/cnt.php?
 ||xhamster.com/embed.log/

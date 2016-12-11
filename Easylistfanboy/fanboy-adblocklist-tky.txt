@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: /oBZmMEsJQ3WdK5Y+j/k+Q
+! Checksum: K3P5BLS/GK6O66C49aIsmQ
 ! Title: Fanboy's Turkish
-! Updated: 9 Dec 2012
+! Updated: 24 Oct 2016
 ! This list expires after 4 days
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: fanboyadblock@googlegroups.com
@@ -73,6 +73,7 @@ _reklam_125_
 ||adv.letitbit.net^
 ||ahmetturan.org/splash.
 ||akademikles.org/omur/
+||akamaihd.net/hphotos-ak-xtf1/$image,domain=altyazilifilmizle.org
 ||akilli.tv^*/banner/
 ||aksam.com.tr/images/banner_
 ||alacaknevar.com/banner/
@@ -83,6 +84,7 @@ _reklam_125_
 ||aslanlar.tv/js/popup.js
 ||azginvideoo.com/vpillsss.gif
 ||azgnvideo.com/vidust.gif
+||bicaps.net/bicaps-bg*.jpg
 ||bitturk.net/banner.gif
 ||bitturk.net/pasta_tarifleri.gif
 ||bitturk.net/Vpills.swf
@@ -104,6 +106,7 @@ _reklam_125_
 ||diziizleyelim.com/forumlar1.htm
 ||diziizleyelim.com/sbanner.gif
 ||diziizleyelim.com/yenibanner.htm
+||dizilab.com/v/page_skin.jpg
 ||donanimhaber.com/ads/
 ||e-pornolar.com/popup.php
 ||e-pornolar.com/splash.php
@@ -115,6 +118,7 @@ _reklam_125_
 ||enguzelpornolari.biz/splash.php
 ||enguzelpornolarii.biz/1pop.js
 ||enguzelpornolarii.biz/1splash.php
+||eniyifilmizle.com/wp-content/uploads/*_1807x807-
 ||evrenselfilm.com/css/ad.js
 ||filminiizle.com/reklamigec.html
 ||filmizlettir.net/*.swf
@@ -282,6 +286,7 @@ _reklam_125_
 ||ad.wslinx.com^$third-party
 ||adcater.com^$third-party
 ||admax.com.tr^$third-party
+||admdspc.com^$third-party
 ||admost.com^$third-party
 ||adnet.com.tr^$third-party
 ||adport.com.tr^$third-party
@@ -298,6 +303,7 @@ _reklam_125_
 ||altinpiyasa.com^*-banner.swf$third-party
 ||arabam.com^$third-party
 ||arealistikmanken.net^$third-party
+||artemisaffiliates.com^$third-party
 ||bakire.ws^$third-party
 ||baskentmedya.com^$object,third-party
 ||boldserver.net^$third-party
@@ -325,6 +331,7 @@ _reklam_125_
 ||orjinalmarket.net^$third-party
 ||orjinalshop.net^$third-party
 ||oyunsayar.com^$third-party
+||partnermatrix.com^$third-party
 ||penisbuyutucuhaplari.com^$third-party
 ||penisbuyutucum.org^$third-party
 ||rdrtr.com^$third-party
@@ -334,6 +341,7 @@ _reklam_125_
 ||reklamsoft.com^$third-party
 ||reklamstore.com^$third-party
 ||saglik.meltemhastanesi.com^$third-party
+||savoy.cubecdn.net^
 ||sikisizlex.org^$third-party
 ||sikispornosextv.com^$third-party
 ||softreklam.com^$third-party
@@ -372,6 +380,7 @@ _reklam_125_
 @@||ad.e-kolay.net/vast.a2?target$domain=milliyet.com.tr|shiftdelete.net
 @@||ad.e-kolay.net/xmlad.a2?target$domain=medyafaresi.com
 @@||ad.e-kolay.net^*.swf^$object,domain=ekolay.net
+@@||advert.gittigidiyor.com^$domain=gittigidiyor.com
 @@||cdntr.com/ntvspor/reklam_playlist.asp
 @@||delivery.reklamz.com/please/showit/$domain=xdiziizle.com
 @@||mynet.com.tr/ads/*/clientAds-devel.js$domain=video.mynet.com
@@ -403,14 +412,13 @@ samanyoluhaber.com##[style="position: absolute; text-align: center; left: 55px; 
 !
 !---------- Turkish Generic Element Hiding Rules ----------
 !
-###PopWin
-###Ust-Reklam-Piyasa
 ###kayan_reklam
 ###kayan_reklam_sol
 ###kayan_reklamsag
 ###kayan_reklamsol
 ###leftreklam1div
 ###leftreklam2div
+###PopWin
 ###rectangleBannerJack
 ###reklam2
 ###reklam300x250
@@ -424,27 +432,24 @@ samanyoluhaber.com##[style="position: absolute; text-align: center; left: 55px; 
 ###reklamlar
 ###reklamm
 ###rightreklam2div
-###sagReklamAlani
 ###sagreklam
+###sagReklamAlani
 ###sol_kayan_reklam
 ###sreklam
 ###tatiladvertorial
-###ustReklam
+###Ust-Reklam-Piyasa
 ###ust_ara_reklam
+###ustReklam
 ###ustreklam
 ###ustreklamlar
 ###video_reklam2
 ###video_reklam3
-##.Reklam-Alani-300x250
-##.ReklamBandi
-##.ReklamBandi2
-##.ReklamBir
-##.adnetDetay
 ##.adnet_baslik
-##.adsVideo
-##.adsVideoAlti
+##.adnetDetay
 ##.adsindirim
 ##.adsortalaindirim
+##.adsVideo
+##.adsVideoAlti
 ##.degisenalti_reklam
 ##.detayreklam
 ##.dikeyreklam
@@ -457,24 +462,28 @@ samanyoluhaber.com##[style="position: absolute; text-align: center; left: 55px; 
 ##.reklam-2
 ##.reklam-3
 ##.reklam-4
+##.Reklam-Alani-300x250
 ##.reklam-ucuzu
 ##.reklam1
 ##.reklam2
 ##.reklam728x90
-##.reklamDiv
-##.reklamUst
 ##.reklam_300_250
 ##.reklam_300_250_Ana
 ##.reklam_300x250
 ##.reklam_728_90
+##.ReklamBandi
+##.ReklamBandi2
+##.ReklamBir
+##.reklamDiv
 ##.reklamlar
 ##.reklamoynama
+##.reklamUst
 ##.reklamyatay
-##.sRightAdSpace
-##.sagReklam300x250
 ##.sag_reklam
 ##.sag_reklam2
 ##.sagreklam
+##.sagReklam300x250
+##.sRightAdSpace
 ##.start__advertising_container
 ##.ustOrtaSolReklam
 ##.vSagReklam-1
@@ -491,7 +500,7 @@ mackolik.com###fancybox-wrap
 milliyet.com.tr##.ipad
 tamindir.com###begen_kutusu
 !
-!---------- Generic Turkish Element Hiding Rules ----------
+!---------- Turkish Site Specific Element Hiding Rules ----------
 !
 ##a[href^="http://adserv.ontek.com.tr/"]
 ##a[href^="http://www.adhood.com"]
@@ -499,61 +508,60 @@ tamindir.com###begen_kutusu
 ##a[href^="http://www.seslial.com/default.asp?git="]
 ##a[href^="http://www.ucuzingilizce.com/?referer="]
 ##a[href^="http://www.uzunpenisler.com/?ref="]
-!
-!---------- Turkish Site Specific Element Hiding Rules ----------
-!
 365gunspor.com##table[width="620"][bgcolor="white"]
+720pizle.com##.reklamlink
 acunn.com##.banner-300X250
 aksam.com.tr###has-banner300x250
-aksam.com.tr##.banner
-aksam.com.tr##.banner_300
-aktifhaber.com##.banner
-aktifhaber.com##.banner_728
+aksam.com.tr,aktifhaber.com,cnnturk.com,haberfx.net,medya73.com,medyafaresi.com,milliyet.com.tr,sacitaslan.com,sanliurfa.com,timeturk.com##.banner
+aksam.com.tr,ligtv.com.tr##.banner_300
 aktifhaber.com##.banner_728_container
 aktifhaber.com##.left_banner
 aktifhaber.com##.logo_banner
 aktifhaber.com##.text_banner
 aktifhaber.com##div[style="width: 300px; height: 250px; z-index: 2000;"]
+aktifhaber.com,ligtv.com.tr##.banner_728
 alkislarlayasiyorum.com###sagPromo
-aofdersler.com###orderbar
+altyazilifilmizle.org###psreklama
+altyazilifilmizle.org##a[href^="http://med4ad.com/"]
+altyazilifilmizle.org,fotospor.com##.banneritem
 aofdersler.com##.myBox
 aofdersler.com##img[width="557"]
-aofforum.com###orderbar
+aofdersler.com,aofforum.com###orderbar
 aofforum.com##table[width="150"][height="70"]
 arabam.com###pageskin_right
 arabam.com##.tk-banner
-arabam.com##.topBanner
+arabam.com,milliyet.com.tr##.topBanner
 azgnvideo.com##td[width="891"]
 ballikaymak.com###hjframe
-batangemi.com###fancybox-overlay
+batangemi.com,ulusoy.com.tr###fancybox-overlay
 beyazgazete.com##[style="float:left;margin-top:15px;width:322px;height:309px;background:url(/yimages/reklam_300x250.png)"]
 beyazgazete.com##[style="float:left;width:250px;margin-top:5px;height:250px;border:1px solid #000000"]
 beyazgazete.com##[style="float:right;height:380px;width:120px;"]
 beyazgazete.com##[style="float:right;width:728px;height:90px;border:5px solid #cccccc"]
+bicaps.net##.bireklam
+bicaps.net##.external
+bicaps.net,derinport.in,eniyifilmizle.com,tcdownload.org,yabancidiziizle.com###toolbar
 bitturk.net###sagSwfReklam
 bitturk.net###solSwfReklam
-bitturk.net###topbar
+bitturk.net,cinemekan.com###topbar
 bizimkocaeli.com##.asag_anket_alti
 blog.milliyet.com.tr##td[width="728"][height="90"]
-bolpornoizle.com###reklam
-bolumsonucanavari.com##.reklam
+bolpornoizle.com,hdsikisizle.info,inilti.com,silentall.com,trf1.net###reklam
+bolumsonucanavari.com,pckoloji.com,samanyoluhaber.com,scroll.com.tr##.reklam
 bugun.com.tr##.griDiv
 burclar.gen.tr###yanreklamkismi
 burclar.gen.tr##a[href^="/reklam.asp?"]
 burclar.gen.tr##div[style="margin:10px;height:280px;width:336px;text-align:justify;float:left;background-color:#fff;"]
 buyuyenturkiye.com##div[style="background: #edeff4; width: 292px; height: 292px; margin-bottom: 5px;"]
 canli-tvizle.me###faebegald
-cinemekan.com###topbar
-cnnturk.com##.adnet
-cnnturk.com##.banner
 cnnturk.com##.bnr
+cnnturk.com,milliyet.com.tr##.adnet
 computerworld.com.tr##.kenar_banner160
 computerworld.com.tr##div[style="width:965px; height:90px; background-color:#ffffff; text-align:center; margin-top: 0px; margin-bottom: 0px; padding-top:10px; padding-bottom:10px;"]
 cumhuriyet.com.tr###ilan_4_1
 cumhuriyet.com.tr###ilan_4_3
 cumhuriyet.com.tr###ilan_7_3
 cumhuriyet.com.tr##td[style="padding:4px;"]
-derinport.in###toolbar
 digiturkwebtv.com###jquery-lightbox
 digiturkwebtv.com###jquery-overlay
 dikeygecis.org##.cms_widget_content
@@ -564,55 +572,54 @@ direkizle.net##a[onmousedown="toggleDiv('toolbar');"]
 dizihd.com###begen-orta-reklam
 dizihd.com##.alttaraf
 dizihd.com##.alttaraf-icerik
-dizihd.com##.videobilgi
 dizihd.com##div[style="width:100%; font-size:11pt; color:#C0C0C0; font-weight: bold;"]
+dizihd.com,dizihdtv.com##.videobilgi
 diziizleyelim.com###iframediv_0
+dizilab.com###reklam
+dizilab.com##.advert
+dizilab.com##.banner
+dizilab.com##.prevideo-link
+dizilab.com##.video-link
+dizilab.com##A[href][rel="nofollow"][style][target="_blank"]
+dizilab.com##DIV[style="text-align: center; height: 90px; margin-bottom: 15px;"]
 diziport.com###reklam300
 donanimhaber.com###DHTEXT
 donanimhaber.com###Table2
-donanimhaber.com###catfish
 donanimhaber.com##.cat[bgcolor="F1F1F1"]
-donanimhaber.com##.forumSponsor
-donanimhaber.com##.konulisteTextReklam
 donanimhaber.com##[width="135"]
 donanimhaber.com##td[align="right"][width="125"]
-donanimhaber.com.tr###catfish
-donanimhaber.com.tr##.forumSponsor
-donanimhaber.com.tr##.konulisteTextReklam
+donanimhaber.com,donanimhaber.com.tr###catfish
+donanimhaber.com,donanimhaber.com.tr##.forumSponsor
+donanimhaber.com,donanimhaber.com.tr##.konulisteTextReklam
 donanimhaber.com.tr##a[href^="http://ad.donanimhaber.com/"]
 downsen.net###backgroundPopup
 downsen.net###popupContact
-dunya.com###FullBanner
-dunya.com###leaderTop
-dunya.com###rectHome
-dunya.com###rectHome2
-dunya.com###rectangleBanner
-dunyagazetesi.com.tr###FullBanner
-dunyagazetesi.com.tr###leaderTop
-dunyagazetesi.com.tr###rectHome
-dunyagazetesi.com.tr###rectHome2
-dunyagazetesi.com.tr###rectangleBanner
+dunya.com,dunyagazetesi.com.tr###FullBanner
+dunya.com,dunyagazetesi.com.tr###leaderTop
+dunya.com,dunyagazetesi.com.tr###rectangleBanner
+dunya.com,dunyagazetesi.com.tr###rectHome
+dunya.com,dunyagazetesi.com.tr###rectHome2
 ekoayrinti.com##.banner1
 ekolay.net###ekolay_anasayfa_300x250
 ekolay.net##.ContentMagazinMainRight_Banner
 ekolay.net##.HD_ContentRightBanner
-ekolay.net##.banner300x250
 ekolay.net##.textlink_cont
+ekolay.net,mynet.com,sacitaslan.com##.banner300x250
 ekolhoca.com##td[height="106"]
 ekonomi.milliyet.com.tr###\5f Middle2.colB
 eksisozluk.com###rklk
 enguzelpornolari.biz##a[href="http://www.liselimbenim.com/"]
 enguzelpornolari.biz##img[width="569"][height="450"]
 enguzelpornolarii.biz##div[style="width:201px; height:116px; position:fixed; bottom:0; right:0;"]
+eniyifilmizle.com##div[id^="reklam"]
 etutodasi.biz##span[style="margin: 10px; float: left; width: 301px; height: 251px;"]
 fanatik.com.tr##.linksHead
 forum.donanimhaber.com.tr###Table5
-forumgaleri.com###tamindir_topbar
+forumgaleri.com,sinesalon.com,zehirli.net###tamindir_topbar
 fotospor.com###logoaltinew_banner
-fotospor.com##.banneritem
 fotospor.com##.module-hilite2a
 frmtr.com###ftrfr
-fuckyurt.gen.tr##div[style="position:fixed;top:0;left:0;width:100%;height:100px;text-align:center"]
+fuckyurt.gen.tr,inilti.com##div[style="position:fixed;top:0;left:0;width:100%;height:100px;text-align:center"]
 gazetevatan.com###divKisisel
 gazetevatan.com###vatan_anasayfa_728x90
 gazetevatan.com##.adnetDetay
@@ -633,6 +640,7 @@ gercekgundem.com##div[style="width: 250px;height:240px;float:left;"]
 gercekgundem.com##div[style="width:980px;height:90px;padding:5px 0;background:#dfdfdf;"]
 gezginler.net###reklam-sol160
 gezginler.net##.resimler
+gittigidiyor.com##.HomePageBanners
 google.com.tr###pmocntr2
 google.com.tr###tads
 google.com.tr##.ra[align="right"]
@@ -642,16 +650,15 @@ haber.ekolay.net##div[style="height: 200px; overflow: hidden; width: 300px; marg
 haber.turk.net###top_banner
 haber365.com###BN_SayfaOrta
 haber365.com###BN_SayfaUst
-haber365.com###PrestitialArka
 haber365.com###dvAdvertorial
 haber365.com###floating
+haber365.com###PrestitialArka
 haber365.com###wallPaper[style="top: 0px;left: 934px; height:600px; width:160px; position:fixed; _overflow:hidden;"]
 haber365.com##div[style="width:300px; height:250px;"]
 haber50.com##.banner_logo_top
 haber50.com##.right_banner
 haberciniz.biz##.top_banner
 haberdiyarbakir.com##.part_2
-haberfx.net##.banner
 haberler.com###UstReklam
 haberler.com##table[height="252"][bgcolor="#FFFFFF"]
 haberrus.com###b-banner-34
@@ -659,7 +666,6 @@ haberrus.com###b-banner-7
 haberrus.com##.l-footer-rt
 haberrus.com##.l-top_banner
 haberturk.com###EkonomiTepe
-hdsikisizle.info###reklam
 htspor.com##.NewsDetail300x100
 htspor.com##.NewsDetail300x250
 htspor.com##.NewsDetail300x60
@@ -667,24 +673,22 @@ htspor.com##.NewsDetailKuleBanner
 hurriyet.com.tr###banner
 hurriyet.com.tr###staticbuttons
 hurriyet.com.tr##.AdvHaberDot
-hurriyet.com.tr##.MainRightBannerHold
-hurriyet.com.tr##.WebtvFavoriteBanner
 hurriyet.com.tr##.arama_kutu_bg
 hurriyet.com.tr##.header_right
+hurriyet.com.tr##.MainRightBannerHold
 hurriyet.com.tr##.ototextlink
-hurriyet.com.tr##div[style="WIDTH: 130px; float: right"]
+hurriyet.com.tr##.WebtvFavoriteBanner
 hurriyet.com.tr##div[style="float:left; width:300px; height:250px; "]
 hurriyet.com.tr##div[style="float:left; width:300px; height:250px; background:#ededed"]
+hurriyet.com.tr##div[style="WIDTH: 130px; FLOAT: right"]
 hurriyet.com.tr##div[style="width:885px; height:180px;"]
 hurriyet.com.tr##div[style="width:890px; height:150px; text-align:center; background-color:#f1f1f1;"]
 hurriyet.com.tr##div[style="width:890px;float:left"]
 iload.to##div[style="display: block; width: 950px; top: 35px; left: 0px; height: 540px; margin-left: 23%;"]
 indirmedenfilmizleseyret.com###kayan_reklam
-inilti.com###reklam
 inilti.com##a[href="http://www.cicikedi.com"]
 inilti.com##a[href="http://www.cicikedi.com/"]
 inilti.com##a[href="http://www.kiztelefonu.org/"]
-inilti.com##div[style="position:fixed;top:0;left:0;width:100%;height:100px;text-align:center"]
 inilti.in###kayan_reklamalt
 internethaber.com##.left_content
 kanald.com.tr##.adn
@@ -699,42 +703,34 @@ kraloyun.com##.game__adv_containerLeaderboard
 kraloyun.com##.instructionAdvContent
 kraloyun.com##.instructionAdvHeadline
 lg.web.tr##table[width="100%"][height="60"]
-ligtv.com.tr##.banner_300
-ligtv.com.tr##.banner_728
 linkcenneti.net##table[height="280"]
 linkcenneti.net##table[width="750"]
 mackolik.com###dvTopBanner
 mailce.com##.sponsorlar
 mailce.com##div[style="float:right;margin-top:-35px;margin-right:0px;"]
 mailce.com##div[style="float:right;margin-top:10px;margin-right:0px;"]
-medya73.com##.banner
-medyafaresi.com##.banner
 medyafaresi.com##.banneralan
 milliyet.com.tr###milliyet_ekonomi_728x90
 milliyet.com.tr###milliyet_spor_300x150
 milliyet.com.tr###sagbanner
-milliyet.com.tr##.KirmiziCerceve
-milliyet.com.tr##.adnet
-milliyet.com.tr##.banner
 milliyet.com.tr##.banner150
 milliyet.com.tr##.datas
 milliyet.com.tr##.detayfirsat
 milliyet.com.tr##.etiket
 milliyet.com.tr##.headerMiddle
+milliyet.com.tr##.KirmiziCerceve
 milliyet.com.tr##.markaponPollDiv3
-milliyet.com.tr##.pageSkin
 milliyet.com.tr##.pageSkinLink
 milliyet.com.tr##.photosCover
 milliyet.com.tr##.sBant
 milliyet.com.tr##.sizden
-milliyet.com.tr##.topBanner
+milliyet.com.tr##a.pageSkin
 milliyet.com.tr##a[href^="http://ad.e-kolay.net/redir.a2"]
 morbiber.com###myModal
 morbiber.com##.modal-overlay
 motordelisi.com##div[style="padding: 6px 0px 0px 0px"]
 mynet.com###atpsl
 mynet.com##.aidxcrBanner
-mynet.com##.banner300x250
 mynet.com##.detay250x250
 mynet.com##.myBanner250
 mynet.com##.onAdvert300x250
@@ -764,11 +760,13 @@ odatv.com##div[style="background-color: rgb(255, 255, 255);  padding-top: 25px; 
 odatv.com##div[style="background-color: rgb(255, 255, 255); margin-top: 35px; width: 775px; height: 90px; margin-left: 10px;"]
 odatv.com##div[style="background-color: rgb(255, 255, 255); width: 775px; height: 90px; margin-left: 10px;margin-top:35px; margin- bottom:10px;"]
 odatv.com##div[style="background-color: rgb(255,255,255); width: 775px; height: 90px; margin-left: 10px;"]
+odatv.com##div[style="background-color: rgb(255,255,255); width: 775px; height: 90px; margin-left: 10px;padding-bottom:10px;padding-top:5px;"]
+odatv.com##div[style="background-color: rgb(255,255,255); width: 775px; height: 90px; margin: 10px;"]
 odatv.com##div[style="margin-left:25px"]
+odatv.com##div[style="width:300px;height:250px;"]
 oyunuoyna.com##.bg-728
 pckoloji.com##.icerik-tablo-forum-icerik-sag-reklam
 pckoloji.com##.kreklam2
-pckoloji.com##.reklam
 pckoloji.com##.sm2
 pckoloji.com##.sm3
 pckoloji.com##.topbanner
@@ -780,24 +778,17 @@ rokettube.me##a[href^="http://www.peniskaldiricihaplar.com/?ref="]
 ruyatabirleri1.com##div[style="position:absolute;top:5px;left:735px;width:160px;height:610px;background-color:#fff;"]
 sabah.com.tr##.vimjo
 sabah.com.tr##[width="430"][height="50"]
-sacitaslan.com##.banner
-sacitaslan.com##.banner300x250
 sacitaslan.com##.gy_banner
 sacitaslan.com##.reklam300
 sacitaslan.com##.tepebanner
 sadecegir.com##a[href="http://www.ashaber.com/"]
 sadecegir.com##a[href="http://www.websiteyapma.com/"]
 samanyoluhaber.com###SamanyoluHaber-Sagreklam
-samanyoluhaber.com##.reklam
 samanyoluhaber.com##[style="position:absolute; text-align: center; left:55px; height:90px;  border-style:solid; border-width:1px; border-color:Black; top:9px; bottom:2px; width:728px; clear:left; "]
 samanyoluhaber.com##div[style="width:310px; height:120px; text-align:center; margin-top:5px; padding-top:5px;"]
-sanliurfa.com##.banner
 sanliurfa.com##[style="height: 183px; width: 265px; float: left;"]
-scroll.com.tr##.reklam
 shiftdelete.net###bannerbuyuk
 shiftdelete.net##.bannerkucuk
-silentall.com###reklam
-sinesalon.com###tamindir_topbar
 siyaset.milliyet.com.tr##div[style="height:95px"]
 sondakika.com##.sagSutunReklam
 sondakika.com##br + .kutu
@@ -813,20 +804,17 @@ tamindir.com##.reklam_sag
 tamindir.com##div[style="margin:0 auto; width:853px; height:105px; overflow:hidden;"]
 tamindir.com##td[style="padding-bottom:10px;"]
 taraf.com.tr##.taraf_inf_com
-tcdownload.org###toolbar
 techno-labs.com##[height="100"][width="738"]
 techno-labs.com##td[width="738"]
 teknomobil.org##.banner_box
 teknomobil.org##a[href^="http://www.kralprogram.net/git/"]
-tiklaveizle.net###fadeinbox
-timeturk.com##.banner
+tiklaveizle.net,videonette.com###fadeinbox
 tividizi.com##a[href^="http://www.turkpartnerim.net/referans.php"]
 tividizi.com##div[style="position: fixed; bottom: 105px;  right: 900px;"]
-trf1.net###reklam
 trf1.net##.banner_code
 ttnetmuzik.com.tr###flash_container3
 tumgazeteler.com##div[id$="Reklam"]
-turizmhaberleri.com##.banner
+turizmhaberleri.com##div.banner
 turkeydailynews.com##table[width="100%"][cellpadding="2"][border="1"]
 turkeydailynews.com##table[width="216"][cellspacing="2"]
 turkhackteam.net##a[href^="http://www.wardom.com.tr/bilgisayar.php?"]
@@ -834,22 +822,15 @@ turkmmo.com###template01_border
 turkmmo.com##div[style="position:relative;width:600px;height:60px;background-image:url(OpenMembership600x60.jpg);overflow:hidden;"]
 turkmmo.com##img[width="728"][height="90"]
 uludagsozluk.com###fragmanizle1
-ulusoy.com.tr###fancybox-overlay
 ulusoy.com.tr###fancybox-wrap
 uyesiz.org###sponsor
 vakit.com.tr###pa
-videonette.com###fadeinbox
 webrazzi.com##.sads
 wmaraci.com###header_right_cell
-yabancidiziizle.com###toolbar
 yabancidiziizle.com##.videotextreklam
 yildiz.tv##div[style="padding:10px; margin-top:0px; margin-bottom:10px; "]
 yildiz.tv##div[style="padding:10px; margin-top:35px; margin-bottom:10px; "]
 zaman.com.tr###news-detail-bottom-banner
-zehirli.net###tamindir_topbar
-!
-!---------- Hiding Rules With Exceptions ----------
-!
 ~peniskaldiricihaplar.com##a[href="http://www.peniskaldiricihaplar.com "]
 !
 !---------- Easylist-specific ----------
