@@ -1,9 +1,12 @@
 .link/$popup,domain=bigfile.to
 /sendspace-pop.$popup,domain=sendspace.com
-^utm_source=$popup,domain=exashare.com|sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
-|data^$popup,domain=gorillavid.in|nowvideo.to
-|http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extreme-board.com|eztv.ag|fastspics.net|filepost.com|filmovizija.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|openload.co|pic2pic.site|pixsense.net|pornparadise.org|projectfreetv.at|promptfile.com|thevideo.me|twer.info|uptobox.com|uptostream.com|vid.ag|vidspot.net|vidzi.tv|watchcartoononline.com|xtshare.com|youwatch.org|yts.ag
-|https:$popup,third-party,domain=eztv.ag|flashx.tv|imagerar.com|thevideo.me|uptobox.com|uptostream.com|yts.ag
+:text^$popup,domain=zippyshare.com
+^utm_source=$popup,domain=exashare.com|sex.com
+|data^$popup,domain=gorillavid.in|nowvideo.to|zippyshare.com
+|http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extreme-board.com|eztv.ag|fastspics.net|filepost.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|nowvideo.li|openload.co|pic2pic.site|pixsense.net|pornparadise.org|projectfreetv.at|promptfile.com|sendvid.com|streamcloud.eu|streamin.to|thevideo.me|twer.info|uptobox.com|uptostream.com|vid.ag|vidabc.com|vidspot.net|vidzi.tv|vshare.eu|watchcartoononline.com|xtshare.com|youwatch.org|yts.ag
+|http:*=$popup,domain=grammarist.com
+|https:$popup,third-party,domain=eztv.ag|flashx.tv|imagerar.com|imgbox.com|sendvid.com|thevideo.me|uptobox.com|uptostream.com|yts.ag
+|javascript^$popup,domain=biology-online.org|bitvid.sx|cloudtime.to|eztv.ag|eztv.tf|eztv.yt|flashx.tv|gorillavid.in|letwatch.us|movpod.in|nowvideo.sx|nowvideo.to|wholecloud.net
 ||104.198.221.99^$popup
 ||104.239.139.5/display/$popup
 ||130.211.198.219^$popup
@@ -19,11 +22,12 @@
 ||allmyvideos.net/*?$popup
 ||amazonaws.com^$popup,domain=ndtv.com
 ||avalanchers.com/out/$popup
+||ay8ou8ohth.com/info.html$popup
+||ay8ou8ohth.com/moda1.html$popup
 ||bangstage.com^$popup,domain=datacloud.to
 ||batmanstream.com/*.html?$popup
 ||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
-||bit.ly^$popup,domain=fastvideo.eu|rapidvideo.org|sh.st
-||bojem3a.info^$popup,domain=bojem3a.info
+||bit.ly^$popup,domain=eurogamer.net|fastvideo.eu|kitguru.com|nintendolife.com|rapidvideo.org|rockpapershotgun.com|sh.st|usgamer.net|vg247.com
 ||casino-x.com^*&promo$popup
 ||channel4.com/ad/$popup
 ||click.aliexpress.com^$popup,domain=multiupfile.com
@@ -53,7 +57,7 @@
 ||fullonsms.com/quikrad.html$popup
 ||fullonsms.com/sid.html$popup
 ||gamezadvisor.com/popup.php$popup
-||goo.gl^$popup,domain=amaderforum.com|jumbofile.net|videomega.tv
+||goo.gl^$popup,domain=amaderforum.com|jumbofile.net|videomega.tv|vidup.me
 ||google.com.eg/url?$popup,domain=hulkload.com
 ||gorillavid.in/_$popup
 ||gratuit.niloo.fr^$popup,domain=simophone.com
@@ -66,6 +70,7 @@
 ||imagepearl.com/view/$popup,~third-party
 ||imageshack.us/ads/$popup
 ||imageshack.us/newuploader_ad.php$popup
+||imgbox.com/*.html$popup
 ||intradayfun.com/news_intradayfun.com.html$popup
 ||jizz.best^$popup,domain=vivo.sx
 ||jokertraffic.com^$popup,domain=4fuckr.com
@@ -81,11 +86,11 @@
 ||newsgate.pw^$popup,domain=adjet.biz
 ||nosteam.ro/pma/$popup
 ||oddschecker.com/clickout.htm?type=takeover-$popup
+||oogh8ot0el.com/*.html$popup
 ||openload.co^*/_$popup
 ||pamaradio.com^$popup,domain=secureupload.eu
 ||park.above.com^$popup
 ||pasted.co/*.php$popup
-||photo4sell.com^$popup,domain=filmovizija.com
 ||plarium.com/play/*adCampaign=$popup
 ||playhd.eu/test$popup
 ||pop.billionuploads.com^$popup
@@ -109,6 +114,7 @@
 ||thevideo.me/*:$popup
 ||thevideo.me/*_$popup
 ||thevideo.me/mpaabp/$popup
+||thevideo.me^$popup,domain=thevideo.me|vidup.me
 ||titanbrowser.com^$popup,domain=amaderforum.com
 ||titanshare.to/download-extern.php?type=*&n=$popup
 ||tny.cz/red/first.php$popup
@@ -131,6 +137,7 @@
 ||vodu.ch/play_video.php$popup
 ||watch-movies.net.in/popup.php$popup
 ||watchclip.tv^$popup,domain=hipfile.com
+||watchseries-online.nl/sp1^$popup
 ||wegrin.com^$popup,domain=watchfreemovies.ch
 ||whies.info^$popup
 ||yasni.ca/ad_pop.php$popup

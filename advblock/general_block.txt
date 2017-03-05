@@ -54,6 +54,7 @@
 /admixermonitorstorage.
 /AdotubeYouTubePlayer.
 /Ads.asmx/GetInfo?
+/ads?*mxttrf_
 /adsnews.
 /adstil.
 /adv-out/?$script
@@ -98,6 +99,9 @@
 /bshow.php?dimension=$third-party,script
 /bstats.ashx?ck=*&rnd=
 /by.banclk?
+/cdn-cgi/pe/bag2?r*adplus.io
+/cdn-cgi/pe/bag2?r*rtl.info
+/cdn-cgi/pe/bag2?r*tlr1.biz
 /cdn-cgi/pe/bag2?r[]=*an.yandex.ru
 /cgi-bin/adt.fcgi?
 /cgi-bin/adv.fcgi?
@@ -210,9 +214,6 @@
 /rcl/all/*
 /rcl/ban/*
 /redtram.$domain=~redtram.com|~redtram.fm
-/reklama1.
-/reklama3.
-/reklama4.
 /reklama6.
 /reklama_
 /richarbuz.
@@ -232,6 +233,7 @@
 /show_adv.php?page_id=
 /showf.php?u=$subdocument
 /slatefp.asp
+/smartrotator.js?referrer=$third-party,script
 /sovetnik.webpartner.
 /sphinx_*.gif|
 /splash/page_header/*
@@ -244,7 +246,7 @@
 /swf/tionline/*
 /t.bbn?$third-party
 /talky3d.gif
-/teaser.$~object-subrequest
+/teaser.$~object-subrequest$domain=~insomnihack.ch
 /teaser2.
 /teaser_klubnika/*
 /teasers.
@@ -330,7 +332,7 @@ _tizers.
 ||ru/tiz_show.php?id=$script
 ||ru/uploads/banners/
 ||ua/banner/
-||ua/banners/
+||ua/banners/$domain=~newauction.com.ua
 ||ua/i/banner/
 ||ua/i/banners/
 ||ua/upload/jackets/
@@ -352,6 +354,6 @@ _tizers.
 ||pl/rtr/$script
 ||ro/rtr/$script
 ||ru/rtr/$script
-||su/rtr/$script
+||su/rtr/$script,domain=~oczuevka.moy.su
 ||tv/rtr/$script
 ||ua/rtr/$script

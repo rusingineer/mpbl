@@ -17,6 +17,7 @@
 @@||complexmedianetwork.com/js/cmnUNT.js
 @@||config.parsely.com/config/$script,domain=dailystar.co.uk|express.co.uk
 @@||cookielawinfo.com^$~third-party
+@@||dhl.com/js/cookieGatekeeper/cookieGatekeeper.js
 @@||disqus.com^*/social-icons.png
 @@||eblogx.com/js/jquery.cookiebar.js
 @@||ebuddy.com/website/*social-icons.png
@@ -48,7 +49,7 @@
 @@||newsgator.com/ngbuzz/load.ashx/$script,domain=cbsnews.com
 @@||odnoklassniki.ru/share/odkl_share.js$domain=ivi.ru
 @@||outbrain.com/outbrain.js$domain=cnn.com|damnyouautocorrect.com|ninemsn.com.au|slate.com
-@@||parastorage.com^*/rssButton.min.js$domain=cupidsthemovie.com|ilovesmj.com
+@@||parastorage.com^*/rssButton.min.js
 @@||presse-citron.net/wordpress_prod/wp-content/plugins/uk-cookie-consent/$script
 @@||redditarchive.com^
 @@||rentalsystems.com/advert_price_imbed.asp

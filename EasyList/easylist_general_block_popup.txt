@@ -42,6 +42,8 @@
 /promoredirect?*&campaign=*&zone=$popup
 /punder.php$popup
 /realmedia/ads/*$popup
+/Redirect.*&dcid=$popup
+/Redirect.*MediaSegmentId=$popup
 /Redirect.a1b?$popup
 /Redirect.eng?$popup
 /Redirect.engine$popup
@@ -64,5 +66,9 @@
 ?iiadext=$popup
 ?zoneid=*_bannerid=$popup
 _popunder+$popup
+! Commonly used popup scripts on movie/tv streaming sites
+|javascript:*setTimeout*location.href$popup
 ! Used with many websites to generate multiple popups
+|blob:$popup
 |data:text$popup
+|dddata:text$popup

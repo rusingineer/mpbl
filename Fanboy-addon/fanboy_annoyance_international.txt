@@ -41,12 +41,14 @@ sme.sk###js-top-info-bar
 hrportfolio.hr###kolac
 goodtimes.dk###modalBackdrop
 goodtimes.dk###modalContent
+bpostbank.be###notificationpanel
 egmont.cz###nrlskswidget
 nooz.gr###right_popout
 computerworld.dk###rolloverBanner
 delfi.lv###sbookmarks_left
 zena.hr###serviceBar
 apartmanija.hr###site_nt
+selexion.be###splash_footer
 soeren-hentzschel.at###storage-notice
 blogdeputaria.net###sub
 ethias.be###tab_ck
@@ -54,11 +56,13 @@ i.ua##.Disclaimer
 adevarul.ro##.abonare
 delfi.lv##.after_body
 zaycev.net##.bookmarks
+dalmatinskiportal.hr##.cookie
 totalmoney.sk##.cookies
+airbnb.be##.flash-container
 poba.hr##.meerkat
 weltwoche.ch##.navInner.fixed
 delo.si,deloindom.si,pogledi.si,polet.si,slovenskenovice.si##.notice
-trazi.hr##.notification
+postimees.ee,trazi.hr##.notification
 delfi.lv##.notification-widget
 uitinvlaanderen.be##.noty_bar
 delfi.lv##.sbookmarks
@@ -76,6 +80,7 @@ dba.dk##div[style^="position: fixed; bottom: 0px;"]
 nzz.ch###articleMore
 androidnext.de###c4a_box
 hosteurope.de###cche
+happy-spots.de###cono
 agynamix.de###cookie
 handelsblatt.com###divStickyLayerWrapper
 focus.de###flying_mbox
@@ -92,6 +97,7 @@ netzwelt.de##.ckch
 zentrum-der-gesundheit.de##.component-recommended-products
 stern.de##.fixedHomeLink
 focus.de##.fixed_home_link
+auto-motor-und-sport.de##.j34
 kleiderkreisel.de,mamikreisel.de##.js-notification
 cushmanwakefield.de##.m-warning
 ifun.de,iphone-ticker.de##.mail
@@ -128,10 +134,12 @@ hbo.hu###overlay
 althir.org,nemzeti.net###suti_figyelmeztetes
 allattartas.hu###suti_figyelmeztetes_ablak_fix
 erkel.hu###suti_info
+tarhely.eu###sutik
 ezermester.hu##.alert
 almaimotthona.hu##.aszfLayerContent
-bestmarkt.hu,bestsellers.hu,bevachip.hu,hirek24.hu,logmein.hu,workforce.hu##.cookie
+bestmarkt.hu,bestsellers.hu,bevachip.hu,hirek24.hu,logmein.hu,work-force.hu,workforce.hu##.cookie
 aig.hu##.copyright-text-header
+hrportal.hu##.fixedbox
 tesco.hu##.infoBarClosable
 roly.hu##.jq-toast-wrap
 eloben.hu##.law-accept
@@ -139,6 +147,7 @@ mercedes-benz.hu##.mainpage_popup
 conrad.hu##.page-warning
 vilaglato.info##.pea_cook_more_info_popover
 vilaglato.info##.pea_cook_wrapper
+bestdoor.hu##.rstbox
 gyakorikerdesek.hu##body > div[style^="text-align: left;"]
 filmkatalogus.hu##table[width="870"][cellspacing="3"]
 !
@@ -161,10 +170,10 @@ home.pl###box_policies
 kolejeslaskie.com###c_m
 darksiders.pl###callout
 lot.com###cc
-newseria.pl###cokPyt
+haldon.pl,newseria.pl###cokPyt
 bstorun.pl###comm_info
-gov.pl,osnews.pl,pracuj.pl,xfutbol.pl###cookie
-bankmillennium.pl,dobreprogramy.pl,generali.pl,newsweek.pl,play.pl,tripolo.pl###cookies
+gov.pl,hemp.pl,osnews.pl,pracuj.pl,weller.com.pl,xfutbol.pl###cookie
+bankmillennium.pl,dobreprogramy.pl,generali.pl,hi-tec.com.pl,newsweek.pl,play.pl,tripolo.pl###cookies
 drony.net,gadzetomania.pl,komorkomania.pl,otabletach.pl###cop
 regenersis.pl###ctl00_cpanel
 benchmark.pl###document_modal
@@ -196,7 +205,7 @@ gornikzabrze.pl###sliding-popup
 lodz.pl###stpdueckmsg
 filmweb.pl###topBar
 mikos.com.pl,negrasport.pl###topInfoContainer0
-lunamarket.pl,negrasport.pl###topInfoContainer1
+herba-farm.pl,lunamarket.pl,negrasport.pl###topInfoContainer1
 goldenline.pl###topReminder
 skapiec.pl###uclaInfo
 votepush.com##.alert
@@ -210,6 +219,7 @@ policja.pl##.informationBar
 interia.pl##.inplCCA
 vectra.pl##.jqmAlertWindow
 salon404.pl##.jqmOverlay
+hebe.pl##.legal-info
 merlin.pl##.merlin-legal-note
 merixstudio.pl##.message
 pepper.pl##.messages
@@ -275,6 +285,7 @@ vertaa.fi##div[data-bind*="!$data.isOpen()"]
 t-mobile.nl###exposeMask
 mobil-1.nl###fancybox-overlay
 mobil-1.nl###fancybox-wrap
+hardloopkalender.nl###interVeil
 techzine.nl###scrollbuddy[style="top: -20px; position: fixed;"]
 bestsellers.eu###site-optin-header
 xs4all.nl###xs4all-cookieWall
@@ -284,6 +295,7 @@ boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl#@#.Cookies
 vergelijk.nl##.cg-82
 salusi.nl##.cookies
 hepatitiscgids.nl##.modal-backdrop
+hardloopkalender.nl##.modal-cookie
 3dtvmagazine.nl,gadgetsmagazine.nl,homecinemamagazine.nl,tabletsmagazine.nl##.opt-in
 t-mobile.nl##.overlay
 @@||studentenwoningweb.nl/KRN/Scripts/jquery.cookiecuttr.js
@@ -374,7 +386,7 @@ marmottons.net###ck
 francetvsport.fr,pourquoidocteur.fr###colorbox
 paconsulting.com###cookPop
 cartezero.fr,gmf.fr,grillofrance.fr,havas-voyages.fr,materiel.net,paris.fr,societe.com,sportetstyle.fr###cookie
-brain-magazine.fr,colissimo.fr,gentside.com,jules.com,laposte.fr,maxisciences.com,mybiclighter.com,ohmymag.com,showroomprive.com###cookies
+4clik.com,brain-magazine.fr,colissimo.fr,gentside.com,jules.com,laposte.fr,maxisciences.com,mybiclighter.com,ohmymag.com,showroomprive.com###cookies
 materiel-velo.com###downbar
 biomet.fr,closermag.fr,illicopharma.com###fancybox-overlay
 biomet.fr,closermag.fr,illicopharma.com###fancybox-wrap
@@ -426,7 +438,7 @@ ddb.fr,pmu.fr,regionguadeloupe.fr##.cnil
 aso.fr,letour.fr##.confidentialite
 rueducommerce.fr##.confidentialite_header
 6play.fr,aquellefrequence.fr,midilibre.fr,migreat.fr,sudouest.fr##.cookie
-118000.fr,communauto.com,ouestjob.com##.cookies
+118000.fr,clique.tv,communauto.com,ouestjob.com##.cookies
 creavea.com##.creavea-banner-cookie-consent
 lexus.fr##.disclaimer
 luminaire.fr##.dnt-dialog
@@ -437,6 +449,7 @@ bouyguestelecom.fr##.hfc--nc
 bwin.fr##.info-message
 mercialys.fr##.info-top
 vinted.fr##.js-notification
+4clik.com##.kHolder
 lesechos.fr##.liennavigation
 minutebuzz.com##.likePopin
 lecho.be##.linkWithinBlock
@@ -451,6 +464,7 @@ fourchette-et-bikini.fr##.newsBloc
 cuisineetvinsdefrance.com,leparisien.fr,phonandroid.com##.newsletter
 lepoint.fr##.newsletter-form
 20minutes.fr##.notice
+zepass.com##.notification
 landrover.ch##.notificationBars
 nouvelobs.com##.obs-article-boutils
 nouvelobs.com##.obs-follow-nl
@@ -462,7 +476,7 @@ e-leclerc.com##.popover
 metairie.fr##.popup-notification
 korben.info##.post-subscribe
 stihl.fr##.privacyTop
-ca-anjou-maine.fr,ca-briepicardie.fr,ca-cb.fr,ca-nord-est.fr##.recocliv2
+##.recocliv2
 radins.com##.reveal-modal
 radins.com##.reveal-modal-bg
 vertbaudet.fr##.stickybar
@@ -475,6 +489,7 @@ e-leclerc.com##.top_banner
 le-dictionnaire.com##.topdisclaimer
 larousse.fr##.ui-dialog
 larousse.fr##.ui-widget-overlay
+hautetfort.com##div[data-cookie]
 tf1.fr##div[id^="msgctrw"]
 video-buzz.eu##div[style="position:fixed;top:220px;left:0px;width:110px;-moz-border-radius:0px 5px 5px 0px;-webkit-border-radius:0px 5px 5px 0px;background-color:#ffffff;z-index:50;padding:10px;padding-left:0px;padding-top:50px;border:1px solid #000000;border-left:0px solid #000000;box-shadow: 1px 1px 4px #aaa;"]
 video-buzz.eu##div[style="position:relative;height:335px;background-color:#ebebeb;overflow:hidden;border:2px solid #222222;"]
@@ -505,6 +520,7 @@ colorobbia.pt###barraaceptacion
 cincodias.com,meristation.com###capaAvisoPoliticaCookies_superior_mensajes
 aristeguinoticias.com###comparte
 cliper.pt###cook
+moviles.com###cookies
 clementoni.pt###disclaimer
 leroymerlin.es###divFlotante
 biomet.pt###fancybox-overlay
@@ -542,6 +558,7 @@ enel.it###contenitoredisclaimer
 wd40.it###cookie
 euronics.it###note
 cinquantamila.it###privacy
+farmacieaperte.it###warning-popup
 elettrocasa.it##.bottomBarMessage
 tomshw.it##.content-autopromo
 radioitalia.it##.cookies

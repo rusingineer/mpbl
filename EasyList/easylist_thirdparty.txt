@@ -195,8 +195,6 @@
 ||amazonaws.com/wafmedia6.com/
 ||amazonaws.com/widgets.youcompare.com.au/
 ||amazonaws.com/youpop/
-||amazonaws.com^$script,domain=forbes.com|globes.co.il|mp3goo.com|streamplay.to|uplod.ws|usersfiles.com
-||amazonaws.com^$third-party,xmlhttprequest,domain=bdupload.info|bigfile.to|frendz4m.com|fullstuff.co|imgchili.net|mirrorcreator.com|nachostime.net|sadeempc.com|thevideobee.to|uplod.ws|vidshare.us|watchers.to|yourvideohost.com
 ||analytics.disneyinternational.com^
 ||ancestrydata.com/widget.html?$domain=findagrave.com
 ||angelbc.com/clients/*/banners/$third-party
@@ -268,7 +266,6 @@
 ||banners.smarttweak.com^$third-party
 ||banners.videosz.com^$third-party
 ||banners.webmasterplan.com^$third-party
-||bannersnack.com/iframe/$third-party
 ||bbcchannels.com/workspace/uploads/
 ||bc.coupons.com^$third-party
 ||bc.vc/js/link-converter.js$third-party
@@ -312,6 +309,7 @@
 ||blocks.ginotrack.com^$third-party
 ||blogatus.com/images/banner/$third-party
 ||bloodstock.uk.com/affiliates/
+||bluehost-cdn.com/media/partner/images/
 ||bluepromocode.com/images/widgets/$third-party
 ||bluesattv.net/bluesat.swf
 ||bluesattv.net/bluesattvnet.gif
@@ -343,6 +341,7 @@
 ||burst.net/aff/
 ||burstnet.akadns.net^$image
 ||businessnewswatch.ca/images/nnwbanner/
+||butter.to^$subdocument,third-party
 ||buy.com^*/affiliate/
 ||buyhatke.com/widgetBack/
 ||buzina.xyz^$script
@@ -389,6 +388,7 @@
 ||cdnprk.com/scripts/js3.js
 ||cdnprk.com/scripts/js3caf.js
 ||cdnservices.net/megatag.js
+||centauro.net^*/banners/$third-party
 ||centralmediaserver.com^*_side_bars.jpg
 ||centralscotlandjoinery.co.uk/images/csj-125.gif$third-party
 ||centrora.com//store/image/$third-party
@@ -399,6 +399,7 @@
 ||cgmlab.com/tools/geotarget/custombanner.js
 ||chacsystems.com/gk_add.html$third-party
 ||challies.com^*/wtsbooks5.png$third-party
+||chameleon.ad/banner/$third-party
 ||charlestondealstoday.com/aux/ux/_component/ss_dealrail/$subdocument,third-party
 ||choices.truste.com^$third-party
 ||chriscasconi.com/nostalgia_ad.
@@ -416,20 +417,17 @@
 ||cloudbet.com/ad/
 ||cloudfront.net/?tid=
 ||cloudfront.net/dfpd.js
-||cloudfront.net/images/amazon/$domain=slader.com
 ||cloudfront.net/nimblebuy/
 ||cloudfront.net/scripts/js3caf.js
 ||cloudfront.net/st.js
 ||cloudfront.net/tie.js
-||cloudfront.net^$script,domain=4archive.org|4chanarchives.cu.cc|addic7ed.com|animeflv.net|bdupload.info|chronos.to|coreimg.net|dailyuploads.net|divxatope.com|downloadming.io|extratorrent.cc|extremetech.com|eztv.ag|frendz4m.com|fullstuff.co|goodvideohost.com|imgchili.net|jpost.com|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|multiup.org|mystream.la|nachostime.net|nitroflare.com|omghype.com|onhax.me|openload.co|reevown.com|sadeempc.com|scambiofile.info|sparknotes.com|streamplay.to|thevideobee.to|torrentproject.se|tubeoffline.com|upload.so|uplod.ws|usersfiles.com|vidshare.us|vshare.eu|watchers.to|watchfomny.tv|world4ufree.be|yahmaib3ai.com|yourvideohost.com
-||cloudfront.net^*ad$domain=fiaformulae.com
-||cloudfront.net^*banner$domain=fiaformulae.com
 ||cloudzer.net/ref/
 ||cloudzer.net^*/banner/$third-party
 ||cngroup.co.uk/service/creative/
 ||cnhionline.com^*/rtj_ad.jpg
 ||cnnewmedia.co.uk/locker/
 ||code.popup2m.com^$third-party
+||codeartlove.com/clients/
 ||colmwynne.com^$image,third-party
 ||colorlabsproject.com^*/banner_
 ||complexmedianetwork.com/cdn/agenda.complex.com/$domain=~complex.com
@@ -452,6 +450,7 @@
 ||coxnewsweb.com^*/ads/
 ||cplayer.blinkx.com^$third-party
 ||cpm.amateurcommunity.de^
+||cq.com/pub/
 ||creativecdn.com/creatives?
 ||creatives.inmotionhosting.com^
 ||creatives.summitconnect.co.uk^
@@ -474,6 +473,7 @@
 ||d17f2fxw547952.cloudfront.net^
 ||d19972r8wdpby8.cloudfront.net^
 ||d1ade4ciw4bqyc.cloudfront.net^
+||d1aezk8tun0dhm.cloudfront.net^
 ||d1cl1sqtf3o420.cloudfront.net^
 ||d1d43ayl08oaq2.cloudfront.net^
 ||d1d95giojjkirt.cloudfront.net^
@@ -491,6 +491,7 @@
 ||d1vbm0eveofcle.cloudfront.net^
 ||d1wa9546y9kg0n.cloudfront.net/index.js
 ||d1zgderxoe1a.cloudfront.net^
+||d21j20wsoewvjq.cloudfront.net^
 ||d23guct4biwna6.cloudfront.net^
 ||d23nyyb6dc29z6.cloudfront.net^
 ||d25ruj6ht8bs1.cloudfront.net^
@@ -527,6 +528,7 @@
 ||d2omcicc3a4zlg.cloudfront.net^
 ||d2pgy8h4i30on1.cloudfront.net^
 ||d2plxos94peuwp.cloudfront.net^
+||d2qz7ofajpstv5.cloudfront.net^
 ||d2r359adnh3sfn.cloudfront.net^
 ||d2s64zaa9ua7uv.cloudfront.net^
 ||d2szg1g41jt3pq.cloudfront.net^
@@ -574,6 +576,7 @@
 ||d5pvnbpawsaav.cloudfront.net^
 ||d6bdy3eto8fyu.cloudfront.net^
 ||d8qy7md4cj3gz.cloudfront.net^
+||da5w2k479hyx2.cloudfront.net^
 ||dailydealstwincities.com/widgets/$subdocument,third-party
 ||dal9hkyfi0m0n.cloudfront.net^
 ||dapatwang.com/images/banner/
@@ -586,6 +589,7 @@
 ||daterly.com/*.widget.php$third-party
 ||dawanda.com/widget/$third-party
 ||dbam.dashbida.com^
+||dcdevtzxo4bb0.cloudfront.net^
 ||ddwht76d9jvfl.cloudfront.net^
 ||dealextreme.com/affiliate_upload/$third-party
 ||dealplatform.com^*/widgets/$third-party
@@ -595,6 +599,7 @@
 ||dealswarm.com^$subdocument,third-party
 ||dealtoday.com.mt/banners/
 ||dealzone.co.za^$script,third-party
+||delivery-dev.thebloggernetwork.com^
 ||delivery.importantmedia.org^$third-party
 ||delivery.thebloggernetwork.com^
 ||dennis.co.uk^*/siteskins/
@@ -618,6 +623,7 @@
 ||disy2s34euyqm.cloudfront.net^
 ||dizixdllzznrf.cloudfront.net^
 ||djlf5xdlz7m8m.cloudfront.net^
+||djr4k68f8n55o.cloudfront.net^
 ||dkd69bwkvrht1.cloudfront.net^
 ||dkdwv3lcby5zi.cloudfront.net^
 ||dl392qndlveq0.cloudfront.net^
@@ -654,6 +660,7 @@
 ||droidnetwork.net/img/vendors/
 ||dropbox.com^*/aff-resources/$domain=gramfeed.com
 ||dsh7ky7308k4b.cloudfront.net^
+||dtrk.slimcdn.com^
 ||dttek.com/sponsors/
 ||du2uh7rq0r0d3.cloudfront.net^
 ||duct5ntjian71.cloudfront.net^
@@ -719,6 +726,7 @@
 ||extras.mnginteractive.com^*/todaysdeals.gif
 ||exwp.org/partners/
 ||eyetopics.com/content_images/$third-party
+||facebook.com/audiencenetwork/
 ||facebook.com^*/instream/vast.xml?
 ||fairfaxregional.com.au/proxy/commercial-partner-solar/
 ||familytreedna.com/img/affiliates/
@@ -746,7 +754,6 @@
 ||fileserver.mode.com^$third-party
 ||fileserver1.net/download
 ||filmehd.net/imagini/banner_$third-party
-||filmreel.tv^$domain=thepiratebay.si
 ||filterforge.com/images/banners/
 ||fimserve.myspace.com^$third-party
 ||firecenter.pl/banners/
@@ -877,6 +884,7 @@
 ||healthtrader.com/banner-$third-party
 ||heidiklein.com/media/banners/
 ||hexero.com/images/banner.gif
+||heyoya.com^*&aff_id=
 ||hide-my-ip.com/promo/
 ||highepcoffer.com/images/banners/
 ||hitleap.com/assets/banner-
@@ -890,6 +898,7 @@
 ||hostinger.nl/banners/
 ||hostmonster.com/src/js/izahariev/$third-party
 ||hotelsbycity.com^*/bannermtg.php?$third-party
+||hotelscombined.com/SearchBox/$third-party
 ||hoteltravel.com/partner/$third-party
 ||hotlinking.dosmil.imap.cc^$third-party
 ||hqfootyad4.blogspot.com^$third-party
@@ -938,6 +947,7 @@
 ||img.servint.net^$third-party
 ||imgdino.com/gsmpop.js
 ||imgehost.com^*/banners/$third-party
+||imgix.net/sponsors/
 ||imgpop.googlecode.com^$third-party
 ||imgur.com^$image,domain=filerev.cc|talksport.com
 ||imptestrm.com/rg-main.php?
@@ -1012,6 +1022,7 @@
 ||leadintelligence.co.uk/in-text.js$third-party
 ||leadsleap.com/images/banner_
 ||leadsleap.com/widget/
+||leanpub.com^*/embed$subdocument,third-party
 ||legaljobscentre.com/feed/jobad.aspx
 ||legitonlinejobs.com/images/$third-party
 ||lego.com^*/affiliate/
@@ -1106,6 +1117,7 @@
 ||mediaserver.digitec.ch^$subdocument,third-party
 ||mediaspanonline.com^*-Takeover-
 ||mediaspanonline.com^*-Takeover_
+||medrx.telstra.com.au^
 ||megalivestream.net/pub.js
 ||memepix.com/spark.php?
 ||meraad2.blogspot.com^$third-party
@@ -1139,6 +1151,7 @@
 ||moneycontrol.com/share-market-game/$third-party
 ||moneywise.co.uk/affiliate/
 ||moosify.com/widgets/explorer/?partner=
+||morningpost.dk^*/bildele.gif
 ||mosso.com^*/banners/
 ||movie4all.co^$third-party
 ||mozo-widgets.f2.com.au^
@@ -1168,6 +1181,7 @@
 ||myfreeshares.com/120x60b.gif
 ||myhpf.co.uk/banners/
 ||mylife.com/partner/$third-party
+||mynativeplatform.com/pub2/
 ||myspace.com/play/myspace/*&locationId$third-party
 ||mytrafficstrategy.com/images/$third-party
 ||myusenet.net/promo.cgi?
@@ -1338,7 +1352,6 @@
 ||pubexchange.com/modules/display/$script,third-party
 ||public.porn.fr^$third-party
 ||publicidees.com/banner.php$third-party
-||publicidees.com/showbanner.php$third-party
 ||pubs.hiddennetwork.com^
 ||puntersparadise.com.au/banners/
 ||purevpn.com/affiliates/
@@ -1377,6 +1390,7 @@
 ||rentalcars.com/affxml/$domain=news-headlines.co.za
 ||res3.feedsportal.com^
 ||resources.heavenmedia.net/selection.php?
+||rethinkbar.azurewebsites.net^*/ieflyout.js
 ||revealads.appspot.com^
 ||rewards1.com/images/referralbanners/$third-party
 ||ribbon.india.com^$third-party
@@ -1447,6 +1461,7 @@
 ||shareflare.net/images/$third-party
 ||shariahprogram.ca/banners/
 ||sharingzone.net/images/banner$third-party
+||shink.in/js/script.js$third-party
 ||shop-top1000.com/images/
 ||shop4tech.com^*/banner/
 ||shopbrazos.com/widgets/
@@ -1478,7 +1493,6 @@
 ||smblock.s3.amazonaws.com^
 ||smilepk.com/bnrsbtns/
 ||snacktools.net/bannersnack/
-||snapapp.com^$third-party,domain=bostonmagazine.com
 ||snapdeal.com^*.php$third-party
 ||sndkorea.nowcdn.co.kr^$third-party
 ||socialmonkee.com/images/$third-party
@@ -1570,12 +1584,14 @@
 ||tcmwebcorp.com/dtm/tc_global_dtm_delivery.js
 ||techbargains.com/inc_iframe_deals_feed.cfm?$third-party
 ||techbargains.com/scripts/banner.js$third-party
+||techkeels.com/creatives/
 ||tedswoodworking.com/images/banners/
 ||textlinks.com/images/banners/
 ||thaiforlove.com/userfiles/affb-
 ||thatfreething.com/images/banners/
 ||theatm.info/images/$third-party
 ||thebigchair.com.au^$subdocument,third-party
+||thebloggernetwork.com/demandfusion.js
 ||thefreesite.com/nov99bannov.gif
 ||themes420.com/bnrsbtns/
 ||themify.me/banners/$third-party
@@ -1667,6 +1683,7 @@
 ||usersfiles.com/images/72890UF.png
 ||usfine.com/images/sty_img/usfine.gif
 ||ussearch.com/preview/banner/
+||utility.rogersmedia.com^
 ||valuechecker.co.uk/banners/$third-party
 ||vapeworld.com^*/banners/$third-party
 ||vaporizor.com^*/banners/$third-party

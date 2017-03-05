@@ -241,6 +241,7 @@
 ###Adsense300x250
 ###Adtag300x250Bottom
 ###Adtag300x250Top
+###Adv-div
 ###Adv10
 ###Adv11
 ###Adv8
@@ -298,6 +299,7 @@
 ###BigboxAdUnit
 ###BillBoardAdd
 ###BodyAd
+###BodyTopAds
 ###BotAd
 ###Bottom468x60AD
 ###BottomAd0
@@ -328,6 +330,7 @@
 ###ContentPlaceHolder1_advertControl3_advertLink
 ###ContentPlaceHolder1_pnlGoogleAds
 ###ContentPolepositionAds_Result
+###Content_CA_AD_0_BC
 ###Content_CA_AD_1_BC
 ###ConversationDivAd
 ###CornerAd
@@ -443,6 +446,7 @@
 ###JuxtapozAds
 ###KH-contentAd
 ###LB_Row_Ad
+###LS-google-ad
 ###LargeRectangleAd
 ###LeaderTop-ad
 ###LeaderboardAdvertising
@@ -565,6 +569,8 @@
 ###Tadspacehead
 ###Tadspacemrec
 ###TextLinkAds
+###ThemeSection_adbanner2
+###ThemeSection_adbanner3
 ###ThreadAd
 ###TipTopAdSpace
 ###TitleAD
@@ -684,6 +690,7 @@
 ###ad-300-additional
 ###ad-300-detail
 ###ad-300-sidebar
+###ad-300X250-2
 ###ad-300a
 ###ad-300b
 ###ad-300x-container
@@ -822,6 +829,7 @@
 ###ad-container-mpu
 ###ad-container-outer
 ###ad-container-overlay
+###ad-container1
 ###ad-contentad
 ###ad-cube-Bottom
 ###ad-cube-Middle
@@ -973,6 +981,7 @@
 ###ad-placeholder
 ###ad-placement
 ###ad-plate
+###ad-popup
 ###ad-popup1
 ###ad-position-a
 ###ad-post
@@ -1254,6 +1263,7 @@
 ###adBanner9
 ###adBannerBottom
 ###adBannerBreaking
+###adBannerHeader
 ###adBannerSpacer
 ###adBannerTable
 ###adBannerTop
@@ -1278,9 +1288,11 @@
 ###adBox390
 ###adBoxUpperRight
 ###adBrandDev
+###adBrandingStation
 ###adBreak
 ###adCENTRAL
 ###adCTXSp
+###adCarousel
 ###adChannel
 ###adChoiceFooter
 ###adChoices
@@ -1381,6 +1393,7 @@
 ###adMPU
 ###adMPUHolder
 ###adMagAd
+###adMain
 ###adMarketplace
 ###adMed
 ###adMedRect
@@ -1420,6 +1433,8 @@
 ###adPosition9
 ###adPush
 ###adRContain
+###adRectangleFooter
+###adRectangleHeader
 ###adRight
 ###adRight1
 ###adRight2
@@ -1460,8 +1475,11 @@
 ###adSlot02
 ###adSlot1
 ###adSlot2
+###adSlot2_grid
 ###adSlot3
+###adSlot3_grid
 ###adSlot4
+###adSlot4_grid
 ###adSlug
 ###adSpace
 ###adSpace0
@@ -1530,6 +1548,7 @@
 ###adTag2
 ###adTeaser
 ###adText
+###adText2
 ###adTextCustom
 ###adTextLink
 ###adTextRt
@@ -1938,6 +1957,7 @@
 ###ad_mrec
 ###ad_mrec1
 ###ad_mrec2
+###ad_msgplus-gallery-5
 ###ad_myFrame
 ###ad_netpromo
 ###ad_new
@@ -2277,6 +2297,7 @@
 ###adhead_g
 ###adheader
 ###adheadhubs
+###adhesionAdSlot
 ###adhide
 ###adholder
 ###adhome
@@ -2358,6 +2379,7 @@
 ###admod2
 ###admon-300x250
 ###admon-728x90
+###admputop
 ###admsg
 ###admulti520
 ###adnet
@@ -2532,7 +2554,6 @@
 ###ads160_600-widget-7
 ###ads160left
 ###ads2
-###ads250_250-widget-2
 ###ads3
 ###ads300
 ###ads300-250
@@ -2572,6 +2593,13 @@
 ###adsBox-dynamic-right
 ###adsBoxResultsPage
 ###adsCTN
+###adsCombo02_1
+###adsCombo02_2
+###adsCombo02_3
+###adsCombo02_4
+###adsCombo02_5
+###adsCombo02_6
+###adsCombo02_7
 ###adsContainer
 ###adsContent
 ###adsDisplay
@@ -2955,6 +2983,7 @@
 ###adstuff
 ###adswidget1-quick-adsense
 ###adswidget2-quick-adsense
+###adswidget2-quick-adsense-reloaded-2
 ###adswizzBanner
 ###adsxpls2
 ###adszed-728x90
@@ -3334,6 +3363,7 @@
 ###advertising-top
 ###advertising2
 ###advertising3
+###advertising300x250
 ###advertisingBlocksLeaderboard
 ###advertisingBottomFull
 ###advertisingHrefTop
@@ -3345,8 +3375,14 @@
 ###advertisingRightRight
 ###advertisingTop
 ###advertisingTopWrapper
+###advertising_1
+###advertising_2
 ###advertising_300
+###advertising_300_under
+###advertising_300x105
+###advertising_320
 ###advertising_728
+###advertising_728_under
 ###advertising_btm
 ###advertising_column
 ###advertising_container
@@ -3483,6 +3519,7 @@
 ###amazon_bsa_block
 ###ami_ad_cntnr
 ###amsSparkleAdFeedback
+###amsSparkleAdWrapper
 ###amzn-native-ad-0
 ###amzn_assoc_ad_div_adunit0_0
 ###anAdScGame300x250
@@ -3652,6 +3689,7 @@
 ###bannerAd_ctr
 ###bannerAd_rdr
 ###bannerAds
+###bannerAdsense
 ###bannerAdvert
 ###bannerGoogle
 ###banner_280_240
@@ -3791,6 +3829,7 @@
 ###block-ex_dart-ex_dart_sidebar_ad_block_top
 ###block-fan-ad-fan-ad-front-leaderboard-bottom
 ###block-fan-ad-fan-ad-front-medrec-top
+###block-fcc-advertising-first-sidebar-ad
 ###block-google-ads
 ###block-ibtimestv-player-companion-ad
 ###block-localcom-localcom-ads
@@ -3916,6 +3955,7 @@
 ###bottomAdvBox
 ###bottomBannerAd
 ###bottomContentAd
+###bottomDDAd
 ###bottomFullAd
 ###bottomGoogleAds
 ###bottomLeftAd
@@ -3968,6 +4008,7 @@
 ###box-ad-sidebar
 ###box-ads-small-1
 ###box-ads-small-2
+###box-ads-tr
 ###box-ads300-picture-detail
 ###box-content-ad
 ###box-googleadsense-1
@@ -4001,6 +4042,7 @@
 ###boxes-box-ad300x250set2block
 ###boxes-box-ad_300x250_1
 ###boxes-box-ad_728x90_1
+###boxes-box-ad_mpu
 ###boxtube-ad
 ###bpAd
 ###bps-header-ad-container
@@ -4008,6 +4050,8 @@
 ###br_ad
 ###brand-box-ad
 ###brand-box-ad-1-container
+###branding_ad_comment
+###branding_ad_header
 ###branding_click
 ###browse-ad-container
 ###browse_ads_ego_container
@@ -4370,6 +4414,8 @@
 ###ctl00_headerAdd
 ###ctl00_m_skinTracker_m_adLBL
 ###ctl00_mainContent_lblSponsor
+###ctl00_phContents_ctlNewsPanel_rptMainColumn_ctl02_ctlLigatusAds_pnlContainer
+###ctl00_phContents_ctlNewsPanel_rptMainColumn_ctl02_pnlLigatusAds
 ###ctl00_phCrackerMain_ucAffiliateAdvertDisplayMiddle_pnlAffiliateAdvert
 ###ctl00_phCrackerMain_ucAffiliateAdvertDisplayRight_pnlAffiliateAdvert
 ###ctl00_pnlAdTop
@@ -4607,6 +4653,7 @@
 ###div-ad-coupon_8
 ###div-ad-coupon_9
 ###div-ad-flex
+###div-ad-inread
 ###div-ad-leaderboard
 ###div-ad-r
 ###div-ad-r1
@@ -4621,6 +4668,7 @@
 ###div-id-for-interstitial-ad
 ###div-insticator-ad-1
 ###div-insticator-ad-2
+###div-social-ads
 ###div-vip-ad-banner
 ###div-web-ad-billboard
 ###div-web-ad-content-article
@@ -4683,6 +4731,7 @@
 ###dlads
 ###dni-advertising-skyscraper-wrapper
 ###dni-header-ad
+###dnn_AdBannerPane
 ###dnn_Advertisement
 ###dnn_adSky
 ###dnn_adTop
@@ -4728,6 +4777,7 @@
 ###dvAd5Data
 ###dvAd5Main
 ###dvAdHead
+###dvCenterAd
 ###dvad2
 ###dvad2main
 ###dvad5
@@ -4832,6 +4882,7 @@
 ###floating-ads
 ###floating-advert
 ###floatingAd
+###floatingAdContainer
 ###floatingAds
 ###floating_ad
 ###floating_ad_container
@@ -4955,6 +5006,7 @@
 ###g_adsense
 ###ga_300x250
 ###gad300x250
+###gads-pub
 ###gads300x250
 ###gads_middle
 ###galleries-tower-ad
@@ -4989,6 +5041,7 @@
 ###getUnderplayerIDAd
 ###gf-mrecs-ads
 ###gft-adChoicesCopy
+###ggl-ad
 ###gglads
 ###gglads213A
 ###gglads213B
@@ -5154,6 +5207,7 @@
 ###halfPageAd
 ###halfe-page-ad-box
 ###hb-header-ad
+###hcf-ad-wrapper
 ###hd-ads
 ###hd-banner-ad
 ###hd_ad
@@ -5489,6 +5543,7 @@
 ###insideCubeAd
 ###insidearticleBodyAd
 ###insider_ad_wrapper
+###insticator-container
 ###instoryad
 ###instoryadtext
 ###instoryadwrap
@@ -5721,6 +5776,7 @@
 ###li-right-geobooster-oas
 ###ligatus
 ###ligatusdiv
+###lightboxAd
 ###lilo_imageAd
 ###linebreak-ads
 ###linkAdSingle
@@ -5783,6 +5839,7 @@
 ###main-content-adcontent1
 ###main-header-ad-wrap
 ###main-header-ad-wrap-home
+###main-header-advertisement
 ###main-middle-ad
 ###main-right-ad-tray
 ###main-tj-ad
@@ -6016,6 +6073,7 @@
 ###my-medium-rectangle-ad-1-container
 ###my-medium-rectangle-ad-2-container
 ###myAd
+###myElementAd
 ###myads_HeaderButton
 ###mydfpad
 ###n_sponsor_ads
@@ -6098,6 +6156,7 @@
 ###oas_Middle
 ###oas_Middle1
 ###oas_Right
+###oas_Right1
 ###oas_Right2
 ###oas_Top
 ###oas_Top1
@@ -6153,7 +6212,9 @@
 ###pageAdsDiv
 ###pageAdvert
 ###pageBannerAd
+###pageLeftAd
 ###pageOwnershipAd_side
+###pageRightAd
 ###page_ad
 ###page_ad_top
 ###page_content_top_ad
@@ -6322,6 +6383,9 @@
 ###qm-dvdad
 ###qpon_big_ad-teaser
 ###qtopAd-graybg
+###quads-ad2
+###quads-ad2_widget
+###quads-ad4
 ###quick_ads_frame_bottom
 ###quidgetad
 ###quigo
@@ -6530,6 +6594,7 @@
 ###ringtone-ad-top
 ###rm_ad_text
 ###rmx-ad-cta-box
+###roadsheet-advertising
 ###rockmelt-ad-top
 ###rolldown-ad
 ###ros_ad
@@ -6677,6 +6742,7 @@
 ###side-skyscraper-ad
 ###sideABlock
 ###sideABlockHeader
+###sideAD
 ###sideAd
 ###sideAd1
 ###sideAd2
@@ -6822,12 +6888,14 @@
 ###sitemap_ad_left
 ###skcolAdSky
 ###skin-ad
+###skinTopAd
 ###skin_ADV_DIV
 ###skin_adv
 ###skinad-left
 ###skinad-right
 ###skinmid-ad
 ###skinmid-ad_iframe
+###skinningads
 ###sky-ad
 ###sky-ads
 ###sky-left
@@ -6847,6 +6915,8 @@
 ###skyline_ad
 ###skyscrapeAd
 ###skyscraper-ad
+###skyscraper-ad-1
+###skyscraper-ad-2
 ###skyscraperAd
 ###skyscraperAdContainer
 ###skyscraperAdWrap
@@ -6914,6 +6984,7 @@
 ###sponseredlinks
 ###sponsor-flyout-wrap
 ###sponsor-links
+###sponsor-sidebar-container
 ###sponsorAd
 ###sponsorAd1
 ###sponsorAd2
@@ -7063,6 +7134,7 @@
 ###stationad
 ###sticky-ad
 ###sticky-ad-container
+###sticky-top-ad-spacer
 ###sticky-top-ad-wrap
 ###stickyAdBlock
 ###stickyBottomAd
@@ -7070,6 +7142,8 @@
 ###sticky_adv_container
 ###stickyad
 ###stickyads
+###stickyleftad
+###stickyrightad
 ###stopAdv
 ###stopAdvt
 ###story-90-728-area
@@ -7119,6 +7193,7 @@
 ###table_ads
 ###taboola-ad
 ###taboola-adverts
+###taboola-below
 ###taboola-below-article-thumbnails-3rd
 ###taboola-content
 ###taboola-footer-ad
@@ -7214,6 +7289,7 @@
 ###top-ad-container
 ###top-ad-content
 ###top-ad-desktop
+###top-ad-google
 ###top-ad-left-spot
 ###top-ad-menu
 ###top-ad-position-inner
@@ -7239,6 +7315,7 @@
 ###top-right-ad
 ###top-search-ad-wrapper
 ###top-sidebar-ad-300x250
+###top-sponsor-ad
 ###top-story-ad
 ###top100_ad300right
 ###top100_ad300rightbottom
@@ -7764,6 +7841,7 @@
 ##.AdHolder
 ##.AdIndicator
 ##.AdInfo
+##.AdInjectContainer
 ##.AdInline
 ##.AdInline_left
 ##.AdLeft1
@@ -7961,6 +8039,7 @@
 ##.HomeAd1Label
 ##.HomeAds
 ##.HomeContentAd
+##.HomePageAD
 ##.HomeSidebarAd
 ##.Hotels-Results-InlineAd
 ##.IABAdSpace
@@ -7977,6 +8056,7 @@
 ##.LazyLoadAd
 ##.LeaderAd
 ##.LeaderAdvertisement
+##.LeaderBoardAd
 ##.LeaderboardAdTagWidget
 ##.LeftAd
 ##.LeftButtonAdSlot
@@ -8014,6 +8094,7 @@
 ##.MspAd
 ##.NAPmarketAdvert
 ##.NGOLocalFooterAd
+##.NavBarAd
 ##.NewsAds
 ##.OAS_position_TopLeft
 ##.OSOasAdModule
@@ -8261,6 +8342,7 @@
 ##.ad-300x250-first
 ##.ad-300x250-home
 ##.ad-300x250-right0
+##.ad-300x250-section
 ##.ad-300x250-singlepost
 ##.ad-300x250_600x250
 ##.ad-300x600
@@ -8325,6 +8407,7 @@
 ##.ad-adsense-block-250
 ##.ad-after-content
 ##.ad-alsorectangle
+##.ad-alternative
 ##.ad-amongst-container
 ##.ad-area
 ##.ad-area-small
@@ -8394,7 +8477,9 @@
 ##.ad-box1
 ##.ad-box2
 ##.ad-box3
+##.ad-boxbottom
 ##.ad-boxes
+##.ad-boxtop
 ##.ad-break
 ##.ad-breaker
 ##.ad-breakout
@@ -8512,6 +8597,8 @@
 ##.ad-hdr
 ##.ad-head
 ##.ad-header
+##.ad-header-container
+##.ad-header-pencil
 ##.ad-header-sidebar
 ##.ad-heading
 ##.ad-headliner-container
@@ -8539,6 +8626,7 @@
 ##.ad-imagehold
 ##.ad-img
 ##.ad-img300X250
+##.ad-in-300x250
 ##.ad-in-content-300
 ##.ad-in-post
 ##.ad-in-results
@@ -8583,7 +8671,10 @@
 ##.ad-leaderboard-companion
 ##.ad-leaderboard-container
 ##.ad-leaderboard-marquee
+##.ad-leaderboard-top
 ##.ad-leaderboard_river
+##.ad-leaderbody
+##.ad-leaderheader
 ##.ad-leadtop
 ##.ad-left
 ##.ad-left3
@@ -8599,6 +8690,8 @@
 ##.ad-location
 ##.ad-location-container
 ##.ad-location-header
+##.ad-lock
+##.ad-lock-content
 ##.ad-lower_rec
 ##.ad-lower_river
 ##.ad-lowerboard
@@ -8625,6 +8718,7 @@
 ##.ad-megaboard
 ##.ad-message
 ##.ad-messaging
+##.ad-mid-article-container
 ##.ad-midleader
 ##.ad-mobile
 ##.ad-mobile-banner
@@ -8661,6 +8755,7 @@
 ##.ad-output-middle
 ##.ad-output-wrapper
 ##.ad-outside
+##.ad-overlay
 ##.ad-packs
 ##.ad-padding
 ##.ad-page-leader
@@ -8702,6 +8797,7 @@
 ##.ad-rect-top-right
 ##.ad-rectangle
 ##.ad-rectangle-banner
+##.ad-rectangle-container
 ##.ad-rectangle-long
 ##.ad-rectangle-long-sky
 ##.ad-rectangle-text
@@ -8731,6 +8827,7 @@
 ##.ad-scl
 ##.ad-script-processed
 ##.ad-scroll
+##.ad-scrollpane
 ##.ad-search-grid
 ##.ad-section
 ##.ad-section-body
@@ -8851,10 +8948,12 @@
 ##.ad-topbanner
 ##.ad-topleader
 ##.ad-topright
+##.ad-total
 ##.ad-total1
 ##.ad-tower
 ##.ad-towers
 ##.ad-txt
+##.ad-type
 ##.ad-type1
 ##.ad-type10
 ##.ad-type2
@@ -8864,6 +8963,7 @@
 ##.ad-unit-300-wrapper
 ##.ad-unit-anchor
 ##.ad-unit-container
+##.ad-unit-horisontal
 ##.ad-unit-inline-center
 ##.ad-unit-label
 ##.ad-unit-medium-retangle
@@ -8897,6 +8997,7 @@
 ##.ad-with-us
 ##.ad-wrap
 ##.ad-wrap--leaderboard
+##.ad-wrap--mrec
 ##.ad-wrapper
 ##.ad-x10x20x30
 ##.ad-x31-full
@@ -9067,6 +9168,7 @@
 ##.ad728x90WithLabel
 ##.ad728x90_2
 ##.ad728x90_container
+##.ad728x90_wrap
 ##.ad728x90box
 ##.ad728x90btf
 ##.ad728x90container
@@ -9360,6 +9462,8 @@
 ##.adSidebarButtons
 ##.adSidetileplus
 ##.adSize_MedRec
+##.adSkin
+##.adSkinLayerConfig
 ##.adSky
 ##.adSky600
 ##.adSkyOrMpu
@@ -9391,6 +9495,7 @@
 ##.adStatementText
 ##.adStyle
 ##.adStyle1
+##.adSub
 ##.adSubColPod
 ##.adSummary
 ##.adSuperboard
@@ -9407,6 +9512,7 @@
 ##.adTiler
 ##.adTitle
 ##.adTitleR
+##.adTop
 ##.adTopBanner_nomobile
 ##.adTopBk
 ##.adTopHome
@@ -9534,6 +9640,7 @@
 ##.ad_925x90
 ##.ad_954-60
 ##.ad_960
+##.ad_970_2
 ##.ad_970x90_prog
 ##.ad_980x260
 ##.ad_CustomAd
@@ -9543,6 +9650,7 @@
 ##.ad__container
 ##.ad__in-loop
 ##.ad__in-loop--desktop
+##.ad__inline
 ##.ad__label
 ##.ad__leaderboard
 ##.ad__mpu
@@ -9716,6 +9824,7 @@
 ##.ad_holder
 ##.ad_home_block
 ##.ad_honcode_label
+##.ad_horizontal_marker
 ##.ad_hpm
 ##.ad_hr
 ##.ad_hyper_wrap
@@ -9726,6 +9835,7 @@
 ##.ad_image_container
 ##.ad_img
 ##.ad_imgae_150
+##.ad_in_column
 ##.ad_in_head
 ##.ad_index02
 ##.ad_indicator
@@ -9748,6 +9858,7 @@
 ##.ad_label2a
 ##.ad_label_long
 ##.ad_label_method
+##.ad_label_top
 ##.ad_large
 ##.ad_launchpad
 ##.ad_leader
@@ -9775,6 +9886,7 @@
 ##.ad_lrec
 ##.ad_lt
 ##.ad_main
+##.ad_maintopad
 ##.ad_margin
 ##.ad_masthead
 ##.ad_med
@@ -9783,12 +9895,14 @@
 ##.ad_medrect
 ##.ad_megabanner
 ##.ad_message
+##.ad_microlen
 ##.ad_middle
 ##.ad_middle_banner
 ##.ad_middle_hub_page
 ##.ad_mobile
 ##.ad_mod
 ##.ad_module
+##.ad_movFocus
 ##.ad_mp
 ##.ad_mpu
 ##.ad_mpu_top
@@ -9904,6 +10018,7 @@
 ##.ad_square_r
 ##.ad_square_r_top
 ##.ad_square_top
+##.ad_station
 ##.ad_story_island
 ##.ad_stream_hd
 ##.ad_strip_noline
@@ -10005,6 +10120,7 @@
 ##.adblock-header
 ##.adblock-header1
 ##.adblock-main
+##.adblock-popup
 ##.adblock-top
 ##.adblock-top-left
 ##.adblock-wide
@@ -10017,6 +10133,8 @@
 ##.adblocks-topright
 ##.adboard
 ##.adborder
+##.adborderbottom
+##.adbordertop
 ##.adbot
 ##.adbot_postbit
 ##.adbot_showthread
@@ -10169,6 +10287,7 @@
 ##.adhref_box_ads
 ##.adical_contentad
 ##.adiframe
+##.adiframe250x250
 ##.adinfo
 ##.adinjwidget
 ##.adinner
@@ -10177,8 +10296,11 @@
 ##.adinsert-bdr
 ##.adinsert160
 ##.adinside
+##.adintext
+##.adintext-unten
 ##.adintro
 ##.adits
+##.adjimage2
 ##.adjlink
 ##.adkicker
 ##.adkit
@@ -10350,6 +10472,7 @@
 ##.ads-btm
 ##.ads-by
 ##.ads-by-google-0
+##.ads-callback
 ##.ads-card
 ##.ads-cars-larger
 ##.ads-cars-top2
@@ -10358,6 +10481,7 @@
 ##.ads-container-mediumrectangle
 ##.ads-content
 ##.ads-custom
+##.ads-div
 ##.ads-divider
 ##.ads-express
 ##.ads-favicon
@@ -10484,7 +10608,6 @@
 ##.ads24Block
 ##.ads250
 ##.ads250-250
-##.ads250_250-widget
 ##.ads250_96
 ##.ads3
 ##.ads300
@@ -10531,15 +10654,25 @@
 ##.adsBottom
 ##.adsBox
 ##.adsBoxTop
+##.adsByTJ
 ##.adsCap
 ##.adsCategoryIcon
 ##.adsCategoryTitleLink
 ##.adsCell
+##.adsCombo02_1
+##.adsCombo02_2
+##.adsCombo02_3
+##.adsCombo02_4
+##.adsCombo02_5
+##.adsCombo02_6
+##.adsCombo02_7
+##.adsConfig
 ##.adsCont
 ##.adsDef
 ##.adsDetailsPage
 ##.adsDisclaimer
 ##.adsDiv
+##.adsFixed
 ##.adsFull
 ##.adsHeader
 ##.adsHeaderFlog
@@ -10670,6 +10803,7 @@
 ##.ads_leader
 ##.ads_leaderboard
 ##.ads_left
+##.ads_linkb_728
 ##.ads_loc_bottom
 ##.ads_loc_side
 ##.ads_lr_wrapper
@@ -10726,6 +10860,8 @@
 ##.ads_top_both
 ##.ads_top_promo
 ##.ads_topbanner
+##.ads_topic_300
+##.ads_topic_after
 ##.ads_topleft
 ##.ads_topright
 ##.ads_tower
@@ -10764,6 +10900,7 @@
 ##.adsbox_300x250
 ##.adsboxitem
 ##.adsbttmpg
+##.adsbycircumventioncentral
 ##.adsbygoogle
 ##.adsbygoogle-box
 ##.adsbygoogle2
@@ -10898,11 +11035,14 @@
 ##.adseparator
 ##.adserve_728
 ##.adserver_zone
+##.adserving
 ##.adset
 ##.adsforums
 ##.adsghori
 ##.adsgrd
 ##.adsgvert
+##.adsh
+##.adshl
 ##.adshome
 ##.adshowcase
 ##.adshp
@@ -10960,6 +11100,8 @@
 ##.adsoptimal-slot
 ##.adspace
 ##.adspace-300x600
+##.adspace-336x280
+##.adspace-728x90
 ##.adspace-MR
 ##.adspace-leaderboard
 ##.adspace-mpu
@@ -11107,8 +11249,10 @@
 ##.adv-label
 ##.adv-leaderboard
 ##.adv-leaderboard-banner
+##.adv-lshaped-wrapper
 ##.adv-mid-rect
 ##.adv-mpu
+##.adv-mpu-shoulder
 ##.adv-outer
 ##.adv-p
 ##.adv-right
@@ -11123,6 +11267,7 @@
 ##.adv-top-container
 ##.adv-top-page
 ##.adv-under-video
+##.adv-videoad
 ##.adv-x61
 ##.adv200
 ##.adv200_border
@@ -11177,6 +11322,7 @@
 ##.adv__container--728x90
 ##.adv__text
 ##.adv_aff
+##.adv_amazon_single
 ##.adv_banner
 ##.adv_banner_hor
 ##.adv_bg
@@ -11217,6 +11363,7 @@
 ##.adv_standard_d
 ##.adv_title
 ##.adv_top
+##.adv_txt
 ##.adv_under_menu
 ##.adv_underpost
 ##.adv_x_1
@@ -11373,6 +11520,7 @@
 ##.advertTh
 ##.advertThInnBg
 ##.advertTitleSky
+##.advertWrapper
 ##.advert_300x250
 ##.advert_336
 ##.advert_468x60
@@ -11460,6 +11608,7 @@
 ##.advertisement-160-600
 ##.advertisement-2
 ##.advertisement-234-60
+##.advertisement-250
 ##.advertisement-300
 ##.advertisement-300-250
 ##.advertisement-300x250
@@ -11477,11 +11626,13 @@
 ##.advertisement-bottom
 ##.advertisement-caption
 ##.advertisement-cell
+##.advertisement-comment
 ##.advertisement-container
 ##.advertisement-content
 ##.advertisement-copy
 ##.advertisement-dashed
 ##.advertisement-header
+##.advertisement-information-link
 ##.advertisement-label
 ##.advertisement-label-up-white
 ##.advertisement-layout
@@ -11530,6 +11681,7 @@
 ##.advertisementTop
 ##.advertisement_160x600
 ##.advertisement_300x250
+##.advertisement__label
 ##.advertisement_article_center_bottom_computer
 ##.advertisement_article_center_middle1_computer
 ##.advertisement_article_center_middle4_computer
@@ -11540,6 +11692,7 @@
 ##.advertisement_below_news_article
 ##.advertisement_block_234_60
 ##.advertisement_block_468_60
+##.advertisement_box
 ##.advertisement_btm
 ##.advertisement_caption
 ##.advertisement_container
@@ -11668,7 +11821,9 @@
 ##.advt
 ##.advt-banner-3
 ##.advt-block
+##.advt-box
 ##.advt-sec
+##.advt-text
 ##.advt300
 ##.advt720
 ##.advtBlock
@@ -11676,6 +11831,7 @@
 ##.advt_468by60px
 ##.advt_indieclick
 ##.advt_single
+##.advt_title
 ##.advt_widget
 ##.advtext
 ##.advtimg
@@ -11710,6 +11866,7 @@
 ##.adz728x90
 ##.adzone
 ##.adzone-footer
+##.adzone-preview
 ##.adzone-sidebar
 ##.adzone_ad_5
 ##.adzone_ad_6
@@ -11758,6 +11915,8 @@
 ##.alt-ad-box
 ##.alt_ad
 ##.alternatives_ad
+##.am-adContainer
+##.am-articleItem--bodyAds
 ##.amAdvert
 ##.am_ads
 ##.amp-ad-container
@@ -11786,6 +11945,9 @@
 ##.area1_2_ad1
 ##.area5_ad
 ##.areaAd
+##.area_ad03
+##.area_ad07
+##.area_ad09
 ##.aroundAdUnit
 ##.artAd
 ##.artAdInner
@@ -11797,6 +11959,7 @@
 ##.artcl_promo_ad
 ##.article-ad
 ##.article-ad-300x250
+##.article-ad-align-left
 ##.article-ad-blk
 ##.article-ad-bottom
 ##.article-ad-box
@@ -11815,6 +11978,8 @@
 ##.article-google-adsense
 ##.article-header-ad
 ##.article-inline-ad
+##.article-news-videoad
+##.article-sidebar__advert
 ##.article-v2-rail__advert
 ##.articleAd
 ##.articleAd300x250
@@ -11856,6 +12021,7 @@
 ##.as-admedia
 ##.as_ad
 ##.aseadn
+##.aside-ad
 ##.aside-ad-wrapper
 ##.aside-ads
 ##.asideAd
@@ -12038,6 +12204,7 @@
 ##.bannergroup-ads
 ##.banneritem-ads
 ##.banneritem_ad
+##.bannerplace728
 ##.bar_ad
 ##.barkerAd
 ##.barstool_ad_floater
@@ -12068,6 +12235,7 @@
 ##.between_page_ads
 ##.bex_ad
 ##.bg-ad-link
+##.bg-ad-top
 ##.bg-ads
 ##.bgAdBlue
 ##.bgadgray10px
@@ -12079,6 +12247,7 @@
 ##.big-right-ad
 ##.bigAd
 ##.bigAdContainer
+##.bigAds
 ##.bigAdvBanner
 ##.bigBoxAdArea
 ##.bigCubeAd
@@ -12128,7 +12297,9 @@
 ##.block-ad
 ##.block-ad-header
 ##.block-ad-leaderboard
+##.block-ad-masthead
 ##.block-ad-middle
+##.block-ad-mpu
 ##.block-ad-wrapper
 ##.block-ad300
 ##.block-ad_injector
@@ -12169,7 +12340,10 @@
 ##.block-eg_adproxy
 ##.block-fan-ad
 ##.block-fc_ads
+##.block-fcc-advertising
+##.block-fcc-advertising-first-sidebar-ad
 ##.block-featured-sponsors
+##.block-first-sidebar-ad
 ##.block-gc_ad
 ##.block-gg_ads
 ##.block-google-admanager
@@ -12250,6 +12424,9 @@
 ##.bn_advert
 ##.bn_textads
 ##.bnr_ad
+##.bo-top-ad-bottom
+##.bo-top-left-ad
+##.bo-top-right-ad
 ##.bodaciousad
 ##.body-ads
 ##.body-adzone
@@ -12297,6 +12474,7 @@
 ##.bottom-large-google-ad
 ##.bottom-leaderboard-adslot
 ##.bottom-left-ad
+##.bottom-main-adsense
 ##.bottom-mpu-ad
 ##.bottom-right-advert
 ##.bottom-rightadvtsment
@@ -12488,6 +12666,11 @@
 ##.bxad
 ##.bz-ad
 ##.bzads-ic-ad-300-250-600
+##.c-adunit
+##.c-adunit--billboard
+##.c-adunit--first
+##.c-adunit__container
+##.c-advert-superbanner
 ##.c-res-ad
 ##.c300x250-advert
 ##.c3_adverts
@@ -12610,6 +12793,7 @@
 ##.cn24-ads-300x250
 ##.cn24-ads-600x290
 ##.cnAdContainer
+##.cnAdDiv
 ##.cnAdzerkDiv
 ##.cnIframeAdvertisements
 ##.cn_ad_placement
@@ -12654,6 +12838,7 @@
 ##.colRightAd
 ##.col_ad
 ##.col_header_ads_300x250
+##.colads
 ##.colombiaAd
 ##.column-ad
 ##.column2-ad
@@ -12722,6 +12907,7 @@
 ##.content-footer-ad-block
 ##.content-header-ad
 ##.content-item-ad-top
+##.content-list__ad-label
 ##.content-result-ads
 ##.content-unit-ad
 ##.contentAd
@@ -12750,6 +12936,7 @@
 ##.content_advertising
 ##.content_bottom_adsense
 ##.content_column2_ad
+##.content_inner_ad
 ##.content_middle_adv
 ##.content_tagsAdTech
 ##.contentad
@@ -12811,6 +12998,7 @@
 ##.ctnAdSquare300
 ##.ctn_ads_rhs
 ##.ctn_ads_rhs_organic
+##.ctpl-duplicated-ad
 ##.ctr-tss-ads
 ##.cube-ad
 ##.cubeAd
@@ -12862,7 +13050,7 @@
 ##.dd-ad
 ##.dd-ad-container
 ##.dda-ad
-##.ddb
+##.ddc-table-ad
 ##.deckAd
 ##.deckads
 ##.demo-advert
@@ -12894,6 +13082,7 @@
 ##.dfads-javascript-load
 ##.dfp-ad
 ##.dfp-ad-advert_mpu_body_1
+##.dfp-ad-container
 ##.dfp-ad-full
 ##.dfp-ad-rect
 ##.dfp-ad-unit
@@ -12964,8 +13153,11 @@
 ##.dmRosMBAdBox
 ##.dm_ad-container
 ##.dmco_advert_iabrighttitle
+##.dn-ad-small
+##.dn-ad-wide
 ##.dod_ad
 ##.double-ad
+##.double-ads
 ##.double-click-ad
 ##.double-square-ad
 ##.doubleGoogleTextAd
@@ -13020,6 +13212,7 @@
 ##.east_ad_bg
 ##.east_ad_block
 ##.easy-ads
+##.easyAdsBox
 ##.easyAdsSinglePosition
 ##.easyazon-block
 ##.eb_ad280
@@ -13073,6 +13266,7 @@
 ##.exec-advert-flash
 ##.expanding-ad
 ##.expertsAd
+##.ext-ad
 ##.external-add
 ##.externalAdComponent
 ##.extrasColumnFuseAdLocal
@@ -13106,6 +13300,7 @@
 ##.featured_ad_item
 ##.featured_advertisers_box
 ##.featuredadvertising
+##.feed-ad
 ##.feedBottomAd
 ##.feeds-adblade
 ##.ffz_bottom_ad
@@ -13120,6 +13315,7 @@
 ##.first-ad
 ##.first-ad-wrap
 ##.first_ad
+##.first_post_ad
 ##.firstad
 ##.firstpost_advert
 ##.firstpost_advert_container
@@ -13212,6 +13408,8 @@
 ##.footeradspace
 ##.footertextadbox
 ##.for-taboola
+##.foreign-ad01
+##.foreign-ad02
 ##.forex_ad_links
 ##.fortune-ad-unit
 ##.forum-ad-2
@@ -13254,12 +13452,14 @@
 ##.ftv-ad-sumo
 ##.full-ad
 ##.full-width-ad
+##.full-width-ad-container
 ##.fullSizeAd
 ##.full_ad_box
 ##.full_ad_row
 ##.full_width_ad
 ##.fulladblock
 ##.fullbannerad
+##.fusion-advert
 ##.fusionAd
 ##.fusionAdLink
 ##.future_dfp-inline_ad
@@ -13341,6 +13541,7 @@
 ##.gbl_advertisement
 ##.gdgt-header-advertisement
 ##.gdgt-postb-advertisement
+##.gdm-ad
 ##.geeky_ad
 ##.gels-inlinead
 ##.gemini-ad
@@ -13373,6 +13574,7 @@
 ##.gn_ads
 ##.go-ad
 ##.go-ads-widget-ads-wrap
+##.goglad
 ##.goog_ad
 ##.googad
 ##.googads
@@ -13657,6 +13859,7 @@
 ##.headerAdspace
 ##.headerAdvert
 ##.headerTextAd
+##.headerTopAd
 ##.headerTopAds
 ##.header_ad
 ##.header_ad_2
@@ -13690,6 +13893,7 @@
 ##.hidden-ad
 ##.hide-ad
 ##.hideAdMessage
+##.hideIfEmptyAd
 ##.hidePauseAdZone
 ##.hide_ad
 ##.hide_internal_ad
@@ -13699,6 +13903,7 @@
 ##.hioxInternalAd
 ##.hl-ads-holder-0
 ##.hl-post-center-ad
+##.hm-sec-ads
 ##.hm_advertisment
 ##.hm_top_right_google_ads
 ##.hm_top_right_google_ads_budget
@@ -13720,6 +13925,7 @@
 ##.home-area3-adv-text
 ##.home-body-ads
 ##.home-features-ad
+##.home-sidebar-ad
 ##.home-sidebar-ad-300
 ##.home-slider-ads
 ##.home-sponsored-links
@@ -13793,6 +13999,7 @@
 ##.horisont_ads
 ##.horiz_adspace
 ##.horizontal-ad-holder
+##.horizontal-ad2
 ##.horizontalAd
 ##.horizontalAdText
 ##.horizontalAdvert
@@ -13860,6 +14067,7 @@
 ##.icon-myindependentad
 ##.iconAdChoices
 ##.icon_ad_choices
+##.iconads
 ##.id-Advert
 ##.id-Article-advert
 ##.idGoogleAdsense
@@ -14018,6 +14226,7 @@
 ##.islandAd
 ##.islandAdvert
 ##.island_ad
+##.island_ad_right_top
 ##.islandad
 ##.isocket_ad_row
 ##.item-ad
@@ -14029,6 +14238,7 @@
 ##.item-housead-last
 ##.itemAdvertise
 ##.item_ads
+##.itinerary-index-advertising
 ##.ja-ads
 ##.jalbum-ad-container
 ##.jam-ad
@@ -14067,6 +14277,7 @@
 ##.js-gptAd
 ##.js-header-ad
 ##.js-native-ad
+##.js-outbrain-container
 ##.js-slim-nav-ad
 ##.js-sticky-ad
 ##.js-stream-ad
@@ -14077,6 +14288,10 @@
 ##.jsx-adcontainer
 ##.juicyads_300x250
 ##.jumboAd
+##.jw-ad
+##.jw-ad-label
+##.jw-ad-media-container
+##.jw-ad-visible
 ##.kads-main
 ##.kd_ads_block
 ##.kdads-empty
@@ -14133,6 +14348,7 @@
 ##.lazyload_ad
 ##.lazyload_ad_article
 ##.lb-ad
+##.lb-adhesion-unit
 ##.lbc-ad
 ##.lbl-advertising
 ##.lblAdvert
@@ -14183,6 +14399,7 @@
 ##.leaderboardadmiddle
 ##.leaderboardadtop
 ##.leaderboardadwrap
+##.leadgenads
 ##.left-ad
 ##.left-ad180
 ##.left-ads
@@ -14303,6 +14520,7 @@
 ##.luma-ad
 ##.luxeAd
 ##.lx_ad_title
+##.m-ContentAd
 ##.m-ad
 ##.m-ad--open
 ##.m-ad-tvguide-box
@@ -14314,6 +14532,7 @@
 ##.m-sponsored
 ##.m4-adsbygoogle
 ##.mTopAd
+##.m_ad1
 ##.m_ad300
 ##.m_banner_ads
 ##.macAd
@@ -14466,6 +14685,7 @@
 ##.mid_right_inner_id_ad
 ##.midad
 ##.middle-ad
+##.middle-ads
 ##.middle-ads728
 ##.middle-footer-ad
 ##.middleAd
@@ -14519,6 +14739,7 @@
 ##.mobile_featuredad
 ##.mobile_featuredad_article
 ##.mobileadbig
+##.mobilesideadverts
 ##.mod-ad
 ##.mod-ad-1
 ##.mod-ad-2
@@ -14640,6 +14861,7 @@
 ##.mpuad
 ##.mpuads
 ##.mpuholderportalpage
+##.mr-dfp-ad
 ##.mrec_advert
 ##.ms-ad-superbanner
 ##.ms-ads-link
@@ -14748,6 +14970,7 @@
 ##.newsvinemsn_adtype
 ##.nexusad
 ##.nf-adbox
+##.ngs-adv-async
 ##.ninemsn-footer-ad
 ##.ninth-box-ad
 ##.nl2ads
@@ -14969,6 +15192,7 @@
 ##.pb-mod-ad-flex
 ##.pb-mod-ad-leaderboard
 ##.pc-ad
+##.pcads_widget
 ##.pd-ads-mpu
 ##.peg_ad
 ##.pencil-ad
@@ -14976,6 +15200,7 @@
 ##.pencil_ad
 ##.performancingads_region
 ##.pfAd
+##.pf_content_ad
 ##.pf_sky_ad
 ##.pf_top_ad
 ##.pfimgAds
@@ -14991,6 +15216,7 @@
 ##.pics_footer_ad
 ##.picto_ad
 ##.pin-ad
+##.pixtrack-adcode
 ##.pkgTemplateAdWrapper
 ##.pl_adv1
 ##.pl_adv1_t
@@ -15129,12 +15355,15 @@
 ##.promoad
 ##.promoboxAd
 ##.promotionTextAd
+##.promotional-feature-ads
 ##.proof_ad
+##.propel-ad
 ##.proper-ad-unit
 ##.ps-ad
 ##.ps-ligatus_placeholder
 ##.pt_ad03
 ##.pt_col_ad02
+##.pubDesk
 ##.pub_300x250
 ##.pub_300x250m
 ##.pub_728x90
@@ -15147,6 +15376,7 @@
 ##.publicidade-full-banner
 ##.puff-ad
 ##.puff-advertorials
+##.pull-ad
 ##.pull_top_ad
 ##.pullad
 ##.pulse360ad
@@ -15167,6 +15397,10 @@
 ##.qm-ad
 ##.qm-ad-content
 ##.qm-ad-content-news
+##.quads-ad2
+##.quads-ad2_widget.first
+##.quads-ad4
+##.quads-location
 ##.quick-tz-ad
 ##.quicklinks-ad
 ##.quigo
@@ -15177,6 +15411,7 @@
 ##.quigoads
 ##.quotead
 ##.qzvAdDiv
+##.r-ad
 ##.r7ad
 ##.r_ad
 ##.r_ad_1
@@ -15202,6 +15437,7 @@
 ##.rc_ad_300x250
 ##.rd_header_ads
 ##.rdio-homepage-widget
+##.re-Ads-l
 ##.readerads
 ##.readermodeAd
 ##.realtor-ad
@@ -15361,6 +15597,7 @@
 ##.rightAdContainer
 ##.rightAd_bottom_fmt
 ##.rightAd_top_fmt
+##.rightAds
 ##.rightAds_ie_fix
 ##.rightAdvert
 ##.rightAdverts
@@ -15435,6 +15672,7 @@
 ##.rightcol-block-ads
 ##.rightcol_boxad
 ##.rightcol_div_openx2
+##.rightcolads
 ##.rightcoladvert
 ##.rightcoltowerad
 ##.rightmenu_ad
@@ -15443,6 +15681,7 @@
 ##.rightrail-ad-block
 ##.rightrail_ads
 ##.rightsideAd
+##.righttop-advt
 ##.ringtone-ad
 ##.risingstar-ad
 ##.risingstar-ad-inner
@@ -15509,6 +15748,7 @@
 ##.sb-ad-sq-bg
 ##.sb-ad2
 ##.sb-ad3
+##.sb-ads
 ##.sb-ads-here
 ##.sb-top-sec-ad
 ##.sbAd
@@ -15595,6 +15835,7 @@
 ##.serp-adv__head
 ##.serp_sponsored
 ##.servedAdlabel
+##.serviceAd
 ##.servsponserLinks
 ##.set_ad
 ##.sex-party-ad
@@ -15633,6 +15874,7 @@
 ##.side-ad-big
 ##.side-ad-blocks
 ##.side-ad-container
+##.side-ad-inner
 ##.side-ads
 ##.side-ads-block
 ##.side-ads-wide
@@ -15687,6 +15929,7 @@
 ##.sideadsbox
 ##.sideadtable
 ##.sideadvert
+##.sideadverts
 ##.sidebar--mps_ad
 ##.sidebar-350ad
 ##.sidebar-above-medium-rect-ad-unit
@@ -15708,6 +15951,7 @@
 ##.sidebar-ad-slot
 ##.sidebar-adbox
 ##.sidebar-ads
+##.sidebar-adv-container
 ##.sidebar-advertisement
 ##.sidebar-atf-ad-wrapper
 ##.sidebar-below-ad-unit
@@ -15822,6 +16066,7 @@
 ##.skin_ad_638
 ##.skinad-l
 ##.skinad-r
+##.skinny-sidebar-ad
 ##.sky-ad
 ##.sky-ad1
 ##.skyAd
@@ -15878,6 +16123,8 @@
 ##.small-ads
 ##.smallAd
 ##.smallAdContainer
+##.smallAds
+##.smallAdsContainer
 ##.smallAdvertisments
 ##.smallSkyAd1
 ##.smallSkyAd2
@@ -15949,6 +16196,7 @@
 ##.sponsor-728
 ##.sponsor-ad
 ##.sponsor-ad-wrapper
+##.sponsor-ads
 ##.sponsor-area
 ##.sponsor-block
 ##.sponsor-bottom
@@ -15969,6 +16217,7 @@
 ##.sponsor-text-container
 ##.sponsor120x600
 ##.sponsor728x90
+##.sponsorAd
 ##.sponsorArea
 ##.sponsorBannerWrapper
 ##.sponsorBlock
@@ -16155,6 +16404,7 @@
 ##.squareAddtwo
 ##.squareAds
 ##.square_ad
+##.square_ad_wrap
 ##.square_ads
 ##.square_advert_inner
 ##.square_banner_ad
@@ -16288,6 +16538,7 @@
 ##.taboola-left-rail-wrapper
 ##.taboola-partnerlinks-ad
 ##.taboola-unit
+##.taboola-widget
 ##.taboola_advertising
 ##.taboola_blk
 ##.taboola_lhs
@@ -16308,9 +16559,11 @@
 ##.td-TrafficWeatherWidgetAdGreyBrd
 ##.td-a-rec-id-custom_ad_1
 ##.td-a-rec-id-custom_ad_2
+##.td-a-rec-id-custom_ad_3
 ##.td-a-rec-id-event_bottom_ad
 ##.td-a-rec-id-h12_obj_bottom_ad
 ##.td-a-rec-id-h3_object_bottom_ad
+##.td-ad
 ##.td-adspot-title
 ##.td-header-ad-wrap
 ##.td-header-sp-ads
@@ -16364,6 +16617,7 @@
 ##.text_ad_website
 ##.text_ads
 ##.text_ads_2
+##.text_linkad_wrapper
 ##.textad
 ##.textadContainer
 ##.textad_headline
@@ -16410,7 +16664,9 @@
 ##.thumbnailad
 ##.tibu_ad
 ##.ticket-ad
+##.tile--ad
 ##.tile-ad
+##.tile-ad-container
 ##.tileAdContainer
 ##.tileAdWrap
 ##.tileAds
@@ -16437,6 +16693,7 @@
 ##.tmz-dart-ad
 ##.tncms-region-ads
 ##.tnt-ads-container
+##.toggle-adinmap
 ##.toolad
 ##.toolbar-ad
 ##.toolsAd
@@ -16455,6 +16712,7 @@
 ##.top-ad-multiplex
 ##.top-ad-right
 ##.top-ad-sidebar
+##.top-ad-slot
 ##.top-ad-space
 ##.top-ad-sticky
 ##.top-ad-unit
@@ -16480,10 +16738,12 @@
 ##.top-bar-ad-related
 ##.top-box-right-ad
 ##.top-content-adplace
+##.top-half-page-ad
 ##.top-header-ad
 ##.top-horiz-ad
 ##.top-item-ad
 ##.top-large-google-ad
+##.top-leaderboard-ad
 ##.top-left-nav-ad
 ##.top-menu-ads
 ##.top-outer-ad-container
@@ -16627,12 +16887,16 @@
 ##.trc-content-sponsored
 ##.trc-content-sponsoredUB
 ##.treeAdBlockWithBanner_right
+##.trending__ad
 ##.tribal-ad
 ##.trip_ad_center
 ##.trueads
+##.ts-ad
+##.ts-ad-leaderboard
 ##.ts-ad_unit_bigbox
 ##.ts-banner_ad
 ##.ts-featured_ad
+##.ts-sponsored-links
 ##.ts-top-most-ads
 ##.tsmAd
 ##.tt_ads
@@ -16697,7 +16961,9 @@
 ##.vAds
 ##.v_ad
 ##.vadvert
+##.variableHeightAd
 ##.vbox-verticalad
+##.vce-header-ads
 ##.ve2_post_adsense
 ##.vert-ad
 ##.vert-ad-ttl
@@ -16725,6 +16991,7 @@
 ##.videoBoxAd
 ##.videoPauseAd
 ##.video_ad
+##.video_ad_fadein
 ##.video_ads
 ##.video_ads_overdiv
 ##.video_ads_overdiv2
@@ -16766,6 +17033,7 @@
 ##.views-field-field-adbox-1
 ##.views-field-field-adbox-2
 ##.views-field-field-advertisement-image
+##.views-field-field-image-ad
 ##.vip-club-ad
 ##.virgin-mpu
 ##.visor-breaker-ad
@@ -16903,9 +17171,11 @@
 ##.widget_customad_widget
 ##.widget_customadvertising
 ##.widget_cxad
+##.widget_dfp
 ##.widget_dfp_lb-widget
 ##.widget_econaabachoadswidget
 ##.widget_emads
+##.widget_etcenteredadwidget
 ##.widget_evolve_ad_gpt_widget
 ##.widget_fearless_responsive_image_ad
 ##.widget_googleads
@@ -16919,6 +17189,7 @@
 ##.widget_new_sponsored_content
 ##.widget_openxwpwidget
 ##.widget_plugrush_widget
+##.widget_postmedia_layouts_ad
 ##.widget_sdac_bottom_ad_widget
 ##.widget_sdac_companion_video_ad_widget
 ##.widget_sdac_footer_ads_widget
@@ -16932,6 +17203,7 @@
 ##.widget_supernews_ad
 ##.widget_taboola
 ##.widget_text_adsense
+##.widget_thesun_dfp_ad_widget
 ##.widget_uds-ads
 ##.widget_vb_sidebar_ad
 ##.widget_wnd_ad_widget
@@ -16980,14 +17252,21 @@
 ##.wrapper-ad
 ##.wrapper-ad-sidecol
 ##.wrapper-google-ads
+##.wrapper-sidebar_ads_box
+##.wrapper-sidebar_ads_half-page
 ##.wrapper_ad
 ##.wrb1_x1_adv
 ##.wrb1_x7_adv
 ##.wrb2_ls1_adv
+##.wrb2_ls3_adv
+##.wrb2_x1_adv
+##.wrb3_ls1_adv
+##.wrb6_x1_adv
 ##.ws-ad
 ##.wsSearchResultsRightSponsoredLinks
 ##.wsSponsoredLinksRight
 ##.wsTopSposoredLinks
+##.ws_contentAd660
 ##.wsj-ad:not(.adActivate)
 ##.wx-adchoices
 ##.wx-gptADS
@@ -17072,8 +17351,6 @@
 ##.zerg-colm
 ##.zerg-widget
 ##.zeti-ads
-##A[href*="=Adtracker"]
-##A[href^="http://duckcash.eu/AF_"]
 ##[lazy-ad="lefttop_banner"]
 ##[onclick^="window.open('http://adultfriendfinder.com/search/"]
 ##a[data-obtrack^="http://paid.outbrain.com/network/redir?"]
@@ -17086,9 +17363,12 @@
 ##a[href*=".adsrv.eacdn.com/"] > img
 ##a[href*=".qertewrt.com/"]
 ##a[href*="/adrotate-out.php?"]
+##a[href*="/cmd.php?ad="]
+##a[href*="=Adtracker"]
 ##a[href*="ad2upapp.com/"]
 ##a[href*="emprestimo.eu"]
 ##a[href*="friendlyduck.com"]
+##a[href*="googleme.eu"]
 ##a[href*="letsadvertisetogether.com"]
 ##a[href^=" http://ads.ad-center.com/"]
 ##a[href^=" http://n47adshostnet.com/"]
@@ -17115,6 +17395,7 @@
 ##a[href^="http://adlev.neodatagroup.com/"]
 ##a[href^="http://admingame.info/"]
 ##a[href^="http://adprovider.adlure.net/"]
+##a[href^="http://adrunnr.com/"]
 ##a[href^="http://ads.activtrades.com/"]
 ##a[href^="http://ads.ad-center.com/"]
 ##a[href^="http://ads.affbuzzads.com/"]
@@ -17155,6 +17436,7 @@
 ##a[href^="http://c.actiondesk.com/"]
 ##a[href^="http://c.ketads.com/"]
 ##a[href^="http://callville.xyz/"]
+##a[href^="http://campaign.bharatmatrimony.com/cbstrack/"]
 ##a[href^="http://campaign.bharatmatrimony.com/track/"]
 ##a[href^="http://casino-x.com/?partner"]
 ##a[href^="http://cdn.adsrvmedia.net/"]
@@ -17185,6 +17467,7 @@
 ##a[href^="http://dftrck.com/"]
 ##a[href^="http://down1oads.com/"]
 ##a[href^="http://download-performance.com/"]
+##a[href^="http://duckcash.eu/AF_"]
 ##a[href^="http://dwn.pushtraffic.net/"]
 ##a[href^="http://easydownload4you.com/"]
 ##a[href^="http://eclkmpsa.com/"]
@@ -17205,6 +17488,7 @@
 ##a[href^="http://gca.sh/user/register?ref="]
 ##a[href^="http://get.slickvpn.com/"]
 ##a[href^="http://getlinksinaseconds.com/"]
+##a[href^="http://go.ad2up.com/"]
 ##a[href^="http://go.mobisla.com/"]
 ##a[href^="http://go.oclaserver.com/"]
 ##a[href^="http://go.seomojo.com/tracking202/"]
@@ -17262,6 +17546,7 @@
 ##a[href^="http://sharesuper.info/"]
 ##a[href^="http://srvpub.com/"]
 ##a[href^="http://stateresolver.link/"]
+##a[href^="http://t.mdn2015x1.com/"]
 ##a[href^="http://t.mdn2015x2.com/"]
 ##a[href^="http://t.mdn2015x3.com/"]
 ##a[href^="http://t.wowtrk.com/"]
@@ -17354,6 +17639,8 @@
 ##a[href^="http://www.roboform.com/php/land.php"]
 ##a[href^="http://www.seekbang.com/cs/"]
 ##a[href^="http://www.sex.com/?utm_"]
+##a[href^="http://www.sex.com/pics/?utm_"]
+##a[href^="http://www.sex.com/videos/?utm_"]
 ##a[href^="http://www.sexgangsters.com/?pid="]
 ##a[href^="http://www.sfippa.com/"]
 ##a[href^="http://www.socialsex.com/"]
@@ -17370,6 +17657,7 @@
 ##a[href^="http://www.usearchmedia.com/signup?"]
 ##a[href^="http://www.wantstraffic.com/"]
 ##a[href^="http://www.webtrackerplus.com/"]
+##a[href^="http://www.xmediaserve.com/"]
 ##a[href^="http://www.yourfuckbook.com/?"]
 ##a[href^="http://www1.clickdownloader.com/"]
 ##a[href^="http://wxdownloadmanager.com/dl/"]
@@ -17385,6 +17673,7 @@
 ##a[href^="https://bs.serving-sys.com"]
 ##a[href^="https://dediseedbox.com/clients/aff.php?"]
 ##a[href^="https://dltags.com/"]
+##a[href^="https://go.ad2up.com/"]
 ##a[href^="https://paid.outbrain.com/network/redir?"]
 ##a[href^="https://secure.eveonline.com/ft/?aid="]
 ##a[href^="https://trackjs.com/?utm_source"]
@@ -17395,6 +17684,7 @@
 ##a[href^="https://www.oboom.com/ad/"]
 ##a[href^="https://www.secureupload.eu/suprerefid="]
 ##a[href^="https://www.share-online.biz/affiliate/"]
+##a[onmousedown^="this.href='/wp-content/embed-ad-content/"]
 ##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
 ##a[onmousedown^="this.href='http://staffpicks.outbrain.com/network/redir?"][target="_blank"]
@@ -17405,12 +17695,15 @@
 ##a[target="_blank"][href^="http://api.taboola.com/"]
 ##a[target="_blank"][onmousedown="this.href^='http://paid.outbrain.com/network/redir?"]
 ##aside[id^="div-gpt-ad"]
+##bottomadblock
 ##div[class^="gemini-ad"]
 ##div[id^="ADV-SLOT-"]
 ##div[id^="MarketGid"]
 ##div[id^="YFBMSN"]
 ##div[id^="acm-ad-tag-"]
+##div[id^="ad_script_"]
 ##div[id^="adrotate_widgets-"]
+##div[id^="ads250_250-widget"]
 ##div[id^="cns_ads_"]
 ##div[id^="dfp-ad-"]
 ##div[id^="dfp-slot-"]
@@ -17433,6 +17726,7 @@
 ##input[onclick^="window.open('http://www.friendlyduck.com/AF_"]
 ##p[id^="div-gpt-ad-"]
 ##script[src^="http://free-shoutbox.net/app/webroot/shoutbox/sb.php?shoutbox="] + #freeshoutbox_content
+##topadblock
 ! Anti-adblock (https://forums.lanik.us/viewtopic.php?f=62&t=32738)
 ###\5f _nq__hh[style="display:block!important"]
 ! Trust zone
@@ -17462,6 +17756,10 @@
 ##div[class$="dealnews"] > .dealnews
 ! Genric mobile element
 ###mobile-swipe-banner
+! komonews.com / ktul.com / etc
+##.component-ddb-300x250-v2
+##.component-ddb-728x90-v2
+##.ddb
 ! Yavli
 ##.gbfwa > div[class$="_item"]
 ! Mozo widget
@@ -17527,6 +17825,7 @@
 ##.ch[onclick="ga(this,event)"]
 ##.commercial-unit-desktop-rhs
 ##.commercial-unit-desktop-top
+##.commercial-unit-mobile-bottom
 ##.commercial-unit-mobile-top
 ##.lads[width="100%"][style="background:#FFF8DD"]
 ##.mod > ._jH + .rscontainer
@@ -17569,6 +17868,7 @@
 ##.jobs-information-call-to-action + .jobs-information-call-to-action div[class$="_item"]
 ! zergnet
 ###boxes-box-zergnet_module
+###right_rail-zergnet
 ###zergnet
 ###zergnet-widget
 ###zergnet-wrapper

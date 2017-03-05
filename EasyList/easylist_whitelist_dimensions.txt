@@ -12,9 +12,8 @@
 @@||arnhemland-safaris.com/images/*_480_80_
 @@||artserieshotels.com.au/images/*_460_60.
 @@||assets.vice.com^*_120x60.jpg
-@@||assets1.plinxmedia.net^*_300x250.
-@@||assets2.plinxmedia.net^*_300x250.
-@@||bettermarks.com/media$~third-party
+@@||babyhit.pl/images/*-120x60-$image,domain=babyhit.pl
+@@||bettermarks.com/static/media$~third-party
 @@||bexio.com/files/content/*160x600.$domain=bexio.com
 @@||bizquest.com^*_img/_franchise/*_120x60.$image
 @@||canada.com/news/*-300-250.gif
@@ -38,9 +37,11 @@
 @@||freeshipping.com^*_120x60.$image,domain=shopsmarter.com
 @@||freetvhub.com/ad1_300x250.html
 @@||google.com/uds/modules/elements/newsshow/iframe.html?*=300x250&
+@@||gujaratsamachar.com/thumbprocessor/cache/300x250-
 @@||harpers.co.uk/pictures/300x250/
 @@||heathceramics.com/media/300x250/$image,~third-party
 @@||hortifor.com/images/*120x60$~third-party
+@@||hoyts.com.ar/uploads/destacado/*_300x250_$image,domain=hoyts.com.ar
 @@||imagehost123.com^*_300x250_$image,domain=wealthymen.com
 @@||images*.roofandfloor.com^$image,domain=roofandfloor.com
 @@||images.itreviews.com/*300x250_$domain=itreviews.com
@@ -51,7 +52,7 @@
 @@||imperialwonderservices.ie/images/banner/*-468x60.$~third-party
 @@||komikslandia.pl/environment/cache/images/300_250_
 @@||la-finca-distribution.de/wp-content/uploads/*-120x240.$image
-@@||maps.google.*/staticmap*^size=300x250^$image
+@@||maps.google.*/staticmap*^size=300x250^$image,domain=~calcalist.co.il|~gaytube.com|~mako.co.il|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~walla.co.il|~xtube.com|~ynet.co.il|~youjizz.com|~youporn.com|~youporngay.com
 @@||maps.googleapis.com/maps/api/*=300x250&$image
 @@||marketing.beatport.com.s3.amazonaws.com^*/728x90_
 @@||metrics.target.com/b/ss/*_300x250_$image
@@ -84,7 +85,7 @@
 @@||union.edu/media/galleryPics/400x250/$~third-party
 @@||usanetwork.com/sites/usanetwork/*300x250
 @@||usopen.org/images/pics/misc/*.300x250.jpg
-@@||viamichelin.*&size=728x90,$subdocument
+@@||viamichelin.*&size=728x90,$subdocument,domain=~calcalist.co.il|~gaytube.com|~mako.co.il|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~walla.co.il|~xtube.com|~ynet.co.il|~youjizz.com|~youporn.com|~youporngay.com
 @@||vortex.accuweather.com^*_120x60_bg.jpg
 @@||vortex.accuweather.com^*_160x600_bg.jpg
 @@||vortex.accuweather.com^*_300x250_bg.jpg

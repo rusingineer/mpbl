@@ -41,6 +41,8 @@
 @@||ivwextern.prosieben.de^*/ivw_flashscript.php?$script
 @@||jetztspielen.de^*/EventTracker.js
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
+@@||lablue.at/js/geo.php$~third-party,xmlhttprequest
+@@||lablue.de/js/geo.php$~third-party,xmlhttprequest
 @@||levexis.com/clients/planetsports/1.js$domain=planet-sports.de
 @@||longtailvideo.com/5/googlytics/googlytics-1.js$domain=arte.tv
 @@||maxmind.com^*/geoip.js$domain=automatensuche.de
@@ -72,6 +74,7 @@
 @@||swr3.de/static/swrplayer/web/plugins/ivw/ivw.js
 @@||t-online.de/js/xtcore_t_online.js?$xmlhttprequest
 @@||thebrighttag.com/tag?site=$script,domain=oralb.de
+@@||tvnow.de/bugsnag-3.min.js
 @@||uim.tifbs.net/js/$script,domain=gewinnspiel.gmx.de|gewinnspiel.web.de|top.de
 @@||video.oms.eu/crossdomain.xml$object-subrequest,domain=badische-zeitung.de
 @@||video.oms.eu/projekt/download/OMSComponent.swf$object-subrequest,domain=badische-zeitung.de
@@ -88,12 +91,14 @@
 @@||boutiqueducourrier.laposte.fr/_ui/eboutique/scripts/xiti/part/xtcore.js
 @@||cache2.delvenetworks.com/crossdomain.xml$domain=lapresse.ca
 @@||cache2.delvenetworks.com/ps/c/v1/$object-subrequest,domain=lapresse.ca
+@@||cbc.ca/g/stats/videoheartbeat/v1/cbc-videoheartbeat.js$script,domain=radio-canada.ca
 @@||diwancorp.fr^*/angular-google-analytics.min.js
 @@||easypari.fr^*/sitestat.js
 @@||estat.com/js/$script,domain=francetvsport.fr
 @@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr
 @@||leboncoin.fr/js/xiti.js
 @@||lesinrocks.com/min/?f=*/chartbeat.js
+@@||lprs1.fr/assets/js/lib/squid/smarttag.js$domain=leparisien.fr
 @@||matvpratique.com/tools/min/index.php?f=*/xtclicks.js
 @@||omnitagjs.com/fo-*/captcha/$domain=dl.free.fr
 @@||omnitagjs.com/fo-api/omniTag?$xmlhttprequest,domain=dl.free.fr
@@ -123,6 +128,7 @@
 @@||pingjs.qq.com/ping_tcss_ied.js$domain=dnf.qq.com
 @@||s-msn.com^*/udctrack*.js$domain=ynet.com
 @@||streaming.cri.com.hk/geo.php?
+@@||tongji.baidu.com/analytics/js/$script,domain=tongji.baidu.com
 @@||uwants.com/include/*/swfaddress.js
 @@||v.blog.sohu.com/dostat.do?*&n=videoList_vids&$script
 @@||vanclimg.com/js.ashx?*/google-analytics.js$domain=vancl.com
@@ -212,6 +218,7 @@
 ! Polish
 @@||gemius.pl/gstream.js
 @@||kropka.onet.pl^*/onet.js$domain=tvnwarszawa.pl
+@@||ninja.onap.io/ninja-cee.js$domain=olx.pl
 @@||stat24.com/crossdomain.xml$domain=ipla.tv
 @@||wp.pl^*/dot.gif?$xmlhttprequest,domain=open.fm|wp.tv
 ! Portuguese
@@ -235,7 +242,7 @@
 ! Russian
 @@||afisha.ru/proxy/videonetworkproxy.ashx?$xmlhttprequest
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
-@@||google-analytics.com/analytics.js$domain=poiskstroek.ru
+@@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru
 @@||google-analytics.com/ga.js$domain=carambatv.ru
 @@||itv.1tv.ru/stat.php?
 @@||k12-company.ru^*/statistics.js$script
@@ -246,7 +253,7 @@
 @@||swa.mail.ru/cgi-bin/counters?$script
 @@||wargag.ru/public/js/counter.js?
 @@||widget.myrentacar.me^$script,subdocument
-@@||yandex.ru/metrika/watch.js$domain=alean.ru|anoncer.net|tv.yandex.ru
+@@||yandex.ru/metrika/watch.js$domain=alean.ru|anoncer.net|nabortu.ru|tv.yandex.ru|tvrain.ru
 @@||yandex.ru/watch/$xmlhttprequest,domain=anoncer.net
 @@||yandex.ru/webvisor/$xmlhttprequest,domain=anoncer.net
 ! Spanish

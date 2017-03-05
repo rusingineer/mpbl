@@ -12,7 +12,12 @@
 @@/cdn-cgi/pe/bag2?*skimlinks.js$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs$domain=amazingpics.net
 @@/cdn-cgi/pe/bag2?*yieldbot.intent.js$domain=droid-life.com
+@@/wp-content/mu-plugins/google-analytics-for-wordpress/*$~third-party
+@@/wp-content/mu-plugins/google-analytics-premium/*$~third-party
 @@/wp-content/plugins/google-analytics-dashboard-for-wp/*$~third-party
+@@/wp-content/plugins/google-analytics-for-wordpress/*$~third-party
+@@/wp-content/plugins/google-analytics-premium/*$~third-party
+@@||1dmp.io/pixel.gif$image,domain=overclockers.co.uk
 @@||247sports.com/site/minify.js?*/scripts/stats/$script
 @@||4game.com^*/yandex-metrika.js
 @@||a.visualrevenue.com/vrs.js$domain=ebaumsworld.com|nydailynews.com
@@ -60,6 +65,7 @@
 @@||api.chartbeat.com^$script,domain=betabeat.com|couriermail.com.au|financialpost.com|wcpo.com
 @@||api.cxense.com/public/widget/data?$script
 @@||app.focalmark.com/bower_components/angulartics-google-analytics/$script,~third-party
+@@||app.instapage.com/ajax/$xmlhttprequest
 @@||arcgis.com^*/heatmap.js
 @@||arkadiumhosted.com^*/google-analytics-logger.swf$object-subrequest
 @@||arstechnica.com/services/incr.php?*=interactions.adblock-annoy.click$xmlhttprequest
@@ -69,6 +75,8 @@
 @@||atpworldtour.com/assets/js/util/googleAnalytics.js
 @@||att.com/webtrends/scripts/dcs_tag.js
 @@||autoscout24.net/unifiedtracking/ivw.js
+@@||azure.com/api/*/analytics/$~third-party,xmlhttprequest
+@@||azureedge.net/trackmeet-profilepicture/$image,domain=gotrackmeet.com
 @@||azureedge.net^*/eventtracking.js$domain=crimemapping.com
 @@||b-europe.com/HttpHandlers/httpCombiner.ashx?*/xiti.js$script
 @@||bam.nr-data.net^$script,domain=play.spotify.com
@@ -123,7 +131,7 @@
 @@||cdn-redfin.com^*/page_analytics.xd.js
 @@||cdn-redfin.com^*/PixelTracking.js$domain=redfin.com
 @@||cdn.cxense.com/cx.js$domain=channelnewsasia.com
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|dramafever.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|dramafever.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|planetromeo.com|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com
 @@||centurylink.net/images/track/track.gif?track=$xmlhttprequest
 @@||chanel.com/js/chanel-tracking.js$script
 @@||chartbeat.com/*/chartbeat/$~third-party
@@ -140,7 +148,7 @@
 @@||cloudflare.com/analytics?$domain=cloudflare.com
 @@||cloudflare.com^*/angulartics-google-analytics.min.js$domain=chromeexperiments.com
 @@||cloudfront.net/assets/js/comscore_beacon.js?$domain=zap2it.com
-@@||cloudfront.net/atrk.js$domain=karnaval.com|livestream.com|luxuryrealestate.com
+@@||cloudfront.net/atrk.js$domain=eatthis.com|karnaval.com|livestream.com|luxuryrealestate.com
 @@||cloudfront.net/bugsnag-*.min.js$domain=splice.com|storenvy.com|tvguide.com
 @@||cloudfront.net/js/reach.js$domain=zap2it.com
 @@||cloudfront.net/mngr/$script,domain=theladbible.com
@@ -220,6 +228,7 @@
 @@||estat.com/js/*.js?$domain=entertainmentwise.com
 @@||everestjs.net/static/st.js$domain=ford.com
 @@||evernote.com^*/google-analytics-util.js
+@@||evestment.com/api/analytics/$domain=evestment.com
 @@||expedia.com/minify/siteAnalytics-$script
 @@||expedia.com/static/default/default/scripts/siteAnalytics.js
 @@||expedia.com/static/default/default/scripts/TealeafSDK.js
@@ -250,6 +259,7 @@
 @@||geoplugin.net/json.gp?jsoncallback=$script,domain=worldc.am
 @@||georiot.com/snippet.js$domain=bound2hiphop.com|itproportal.com
 @@||getclicky.com/ajax/marketshare?$script
+@@||getclicky.com/js|$script,domain=rsaconference.com
 @@||getsmartcontent.com/gateway/?callback$domain=visitpa.com
 @@||getsmartcontent.com/gsc.js$domain=visitpa.com
 @@||ggwebcast.com^*/urchin.js$script
@@ -263,7 +273,7 @@
 @@||go.com^*/analytics/tracker.otv.js
 @@||goldbet.com/Scripts/googleAnalytics.js
 @@||goldmansachs.com/a/pg/js/prod/gs-analytics-init.js
-@@||google-analytics.com/analytics.js$domain=afternic.com|allmusic.com|amctv.com|bebo.com|bennysva.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|gamepix.com|greentoe.com|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
+@@||google-analytics.com/analytics.js$domain=afternic.com|allmusic.com|amctv.com|bebo.com|bennysva.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|easyjet.com|firehousesubs.com|gamepix.com|greentoe.com|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
 @@||google-analytics.com/collect$xmlhttprequest,domain=content.wargaming.net
 @@||google-analytics.com/cx/api.js?experiment=$domain=foxnews.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=lovehoney.co.uk|maxiclimber.com|opendns.com|openshift.com|vimeo.com|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg
@@ -275,7 +285,7 @@
 @@||google.com/js/gweb/analytics/$domain=google.com
 @@||google.com/js/gweb/analytics/autotrack.js$domain=gradleplease.appspot.com
 @@||google.com/js/gweb/analytics/doubletrack.js$domain=android.com
-@@||googletagmanager.com/gtm.js?$domain=bhaskar.com|broadcom.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|jobs.net|keygames.com|nestio.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com
+@@||googletagmanager.com/gtm.js?$domain=bhaskar.com|broadcom.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|jobs.net|keygames.com|moviefone.com|nestio.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com
 @@||googletagservices.com/tag/js/gpt.js$domain=speedtest.net
 @@||gorillanation.com/js/triggertag.js$domain=comingsoon.net|playstationlifestyle.net
 @@||grapeshot.co.uk/image-resize/$image
@@ -313,6 +323,7 @@
 @@||itworld.com/elqnow/elq*.js
 @@||jackjones.com^*/google-analytics-tagging.js
 @@||jeevansathi.com/minify.php?files=$script,stylesheet
+@@||jimmyjohns.com/Scripts/angularytics.$script
 @@||js.dmtry.com/channel.js$domain=zillow.com
 @@||js.vpro.nl/vpro/*/statcounter.js?
 @@||juxtacommons.org^*/heatmap.js
@@ -323,6 +334,7 @@
 @@||keremerkan.net/wp-content/plugins/wp-minify/min/*/google-analyticator/
 @@||koalabeast.com/stats?$script
 @@||koldcast.tv/mint/*/tracker.php?
+@@||krxd.net/controltag?$script,domain=eatthis.com
 @@||krxd.net^$script,domain=nbcnews.com
 @@||l.yimg.com/g/combo/*/comscore.$script
 @@||latimes.com/hive/javascripts/loggingService.js
@@ -404,12 +416,15 @@
 @@||mybuys.com/webrec/wr.do?
 @@||mycokerewards.com^*/webtrends/mcr3-webtrends_POST_$script
 @@||mycommunitynow.com/includes/JI_trafficTracking.js$domain=mycommunitynow.com
+@@||myqnapcloud.com^*.angular-google-analytics.js$script
 @@||narf-archive.com^*/clickstream.js
+@@||nasa.gov/js/libraries/angulartics/angulartics-google-analytics.js
 @@||nationalgeographic.com/assets/scripts/utils/event-tracking.js
 @@||nationaljournal.com/js/bizo.js
 @@||nationalreview.com^*/chartbeat.js
 @@||nationwide.co.uk/_/js/webAnalytics.js
 @@||ncbi.nlm.nih.gov/stat?
+@@||necn.com/includes/AppMeasurement.js
 @@||nerdwallet.com/lib/dist/analytics.min.js
 @@||netdna-ssl.com/lib/jquery-google-analytics/jquery.google-analytics.js$domain=homepath.com
 @@||netinsight.travelers.com/scripts/ntpagetaghttps.js
@@ -462,7 +477,7 @@
 @@||pillsbury.com/Shared/StarterKit/Javascript/UnicaTag.js
 @@||ping.hellobar.com/?*&_e=click&$image
 @@||piwik.pro/images/
-@@||pixel.condenastdigital.com/sparrow.min.js$domain=video.wired.com
+@@||pixel.condenastdigital.com/sparrow.min.js$domain=video.epicurious.com|video.gq.com|video.wired.com
 @@||pixel.facebook.com/ajax/gigaboxx/endpoint/UpdateLastSeenTime.php?$image
 @@||pixel.facebook.com/ajax/notifications/mark_read.php?*&alert_ids%$image
 @@||pixel.fetchback.com^$subdocument,domain=sears.com
@@ -487,6 +502,9 @@
 @@||quantcast.com/wp-content/themes/quantcast/$domain=quantcast.com
 @@||quantserve.com/quant.js$domain=apps.facebook.com|caranddriver.com|g4tv.com|nymag.com|salon.com|theblaze.com
 @@||query.petametrics.com^
+@@||qz.com^*/tracking/bizo.js
+@@||qz.com^*/tracking/chartbeat.js
+@@||qz.com^*/tracking/comscore.js
 @@||radio.com/player/javascript/tracking.js$domain=player.radio.com
 @@||randomhouse.com/book/css/certona.css
 @@||rawgit.com^*/heatmap.js
@@ -520,6 +538,7 @@
 @@||segment.io/analytics.js/*/analytics.min.js$script
 @@||segment.io/v1/$xmlhttprequest,domain=greentoe.com|thescene.com
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
+@@||sergent-major.com^*/js/tracking.js$domain=sergent-major.com
 @@||service.collarity.com/cust/nbcu/ucs.js$xmlhttprequest
 @@||services.fliqz.com/metrics/*/applications/$object-subrequest,domain=leftlanenews.com
 @@||setelia.com*/page-tracking.js?$script,~third-party
@@ -585,6 +604,7 @@
 @@||trackjs.com^$~third-party
 @@||trc.taboola.com/*/log/3/available|$subdocument,domain=globes.co.il
 @@||trc.taboolasyndication.com^$domain=bloomberg.com|breitbart.com|breitbart.tv|nme.com|slatev.com
+@@||trustedreviews.com^*/google/analytics.js
 @@||trutv.com/ui/scripts/coffee/modules/analytics/click-tracker.js$script
 @@||turner.com/cnn/*/video/chartbeat.js$domain=cnn.com
 @@||turner.com^*/aspenanalytics.xml$domain=cnn.com
@@ -653,6 +673,7 @@
 @@||wp.com/_static/*/criteo.js
 @@||wp.com/_static/*/gaAddons.js
 @@||wp.com/_static/*/vip-analytics.js?$domain=time.com
+@@||wp.com^*/google-analytics-for-wordpress/$domain=wordpress.org
 @@||wp.com^*/time-tracking.js?$domain=time.com
 @@||wrap.tradedoubler.com/wrap?$script,domain=desigual.com
 @@||wwe.com/sites/all/modules/wwe/wwe_analytics/s_wwe_code.js
@@ -666,6 +687,7 @@
 @@||ynet.co.il/Common/App/Video/Gemius/gstream.js
 @@||ynetnews.com/Common/App/Video/Gemius/gstream.js
 @@||youtube.com/api/analytics/$~third-party
+@@||youtube.com/api/stats/watchtime?$image,domain=youtube.com
 @@||zappos.com/js/trackingPixel/mercentTracker.js
 @@||zillowstatic.com/c/*/linktrack.js$domain=zillow.com
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
@@ -673,7 +695,7 @@
 ! Chrome bug (Endless loading causing site to crash https://forums.lanik.us/viewtopic.php?f=64&t=25152)
 @@||aplus.com/p.gif?$~third-party
 ! Preliminarily whitelisting Omniture s_code tracking pixels (script versions H.25 - H.25.2) due to breakage (https://adblockplus.org/forum/viewtopic.php?f=10&t=11378) if blocking the script causes issues
-@@||112.2o7.net/b/ss/$image,domain=espn.com.br
+@@||112.2o7.net/b/ss/$image,domain=espn.com.br|nissan-global.com
 @@||122.2o7.net/b/ss/$image,domain=billetnet.dk|billettservice.no|citibank.co.in|goal.com|lippupalvelu.fi|pcworld.com|riverisland.com|techhive.com|ticketmaster.ae|ticketmaster.co.uk|ticketmaster.de|ticketmaster.ie|ticketmaster.nl|ticnet.se
 @@||amazoncustomerservice.d2.sc.omtrdc.net/b/ss/*/H.25.1/$image
 @@||castorama.fr/b/ss/$image
@@ -684,6 +706,7 @@
 @@||kohls.com/b/ss/$image
 @@||metrics.ancestry.com/b/ss/$image
 @@||metrics.brooksbrothers.com/b/ss/$image
+@@||metrics.consumerreports.org/b/ss/$image
 @@||metrics.nationwide.co.uk/b/ss/$image
 @@||metrics.target.com/b/ss/$image
 @@||metrics.thetrainline.com/b/ss/$image
@@ -695,6 +718,7 @@
 @@||simyo.de/b/ss/$image
 @@||smetrics.target.com/b/ss/$image
 @@||smetrics.ticketmaster.com/b/ss/$image
+@@||smetrics.walmartmoneycard.com/b/ss/$image
 @@||stat.safeway.com/b/ss/$image
 @@||walmart.com/b/ss/$image
 ! Whitelists to fix broken pages of tracking companies

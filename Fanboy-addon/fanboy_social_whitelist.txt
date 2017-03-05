@@ -1,3 +1,4 @@
+/youtube.svg
 @@/followbutton.js$domain=instagram.com
 @@/share-sprite-$domain=askubuntu.com|mathoverflow.net|serverfault.com|stackapps.com|stackexchange.com|stackoverflow.com|superuser.com
 @@/socialmedia_$domain=defacto.expert
@@ -63,6 +64,7 @@
 @@||autorepairconnect.com/static/images/from_facebook.png$domain=autorepairconnect.com
 @@||avgthreatlabs.com^*/facebook-logo.png
 @@||azurewebsites.net/Plugins/ExternalAuth.Facebook/Content/images/facebook-signing.png
+@@||bdstatic.com^*/share_$script,domain=baidu.com
 @@||bento.de/upload/images/_*-Instagram.$domain=bento.de
 @@||bento.de/upload/images/_*/facebook-$domain=bento.de
 @@||bestof.s3.amazonaws.com/linkedin.png$domain=makeuseof.com
@@ -76,6 +78,7 @@
 @@||breakoutlist.com/assets/twitter-logo.png
 @@||bronchiectasisandntminitiative.org^*/SocialLibrary/$image
 @@||bshare.cn/b/buttonLite.js$domain=sina.com.cn
+@@||bsvideos.com/uploads/image/file/$image
 @@||buzzfeed.com/buzzfeed-static/static/$image,third-party
 @@||buzzfeed.com/wd/UserWidget?$script,domain=salon.com
 @@||buzzfeed.com^*?callback=*&cb=$script,domain=salon.com
@@ -105,6 +108,7 @@
 @@||cloudfront.net^*/signin_with_facebook.png
 @@||cloudfront.net^*/social-buttons.png$domain=socialreader.com
 @@||clubs.nfl.com/nfl-assets/js/social-buttons.js
+@@||cnn.com/cnnnext/*-social-$image
 @@||comcastnets.net/thyme/img/button-login-facebook.png$domain=eonline.com
 @@||comcastnets.net/thyme/img/button-login-twitter.png$domain=eonline.com
 @@||copdfoundation.org/Portals/_default/Skins/COPDF/images/social-1.jpg
@@ -131,10 +135,13 @@
 @@||downloads.2kgames.com^*/images/$image,third-party
 @@||dpd.co.uk/apps/tracking/images/google-$~third-party
 @@||draw.io/images/google-drive-logo.svg
+@@||droid-life.com/wp-content/uploads/*-logo.$image,domain=droid-life.com
+@@||droid-life.com/wp-content/uploads/*-twitter.$image,domain=droid-life.com
 @@||dropbox.com/sm/share_link/$xmlhttprequest
 @@||eceplayground.com^*/plugins/sociable/
 @@||edgesuite.net^*/sharrre.min.js$domain=jules.com
 @@||eff.org/sites/$image
+@@||egotastic.com^*/images/$image
 @@||eleximg.com/*/tmp/hot/Facebook.gif
 @@||elle.com/cm/elle/images/Zd/elle-01-trail-by-twitter-tweet-h-lgn.jpg
 @@||elliegoulding.com/images/home/tweetButton.png
@@ -187,6 +194,7 @@
 @@||google.com/analytics/images/*_social.png
 @@||google.com/analytics/images/social.png
 @@||google.com/js/platform.js$domain=hiphopwired.com|listenonrepeat.com|log84.de
+@@||googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google-$domain=blog.google
 @@||googleapis.com/hiveweb/img/icon_facebook.svg$domain=hive.im
 @@||googleapis.com/hiveweb/img/icon_google.svg$domain=hive.im
 @@||googlecode.com/hg/icons/$image,domain=enjoyfreeware.org
@@ -233,6 +241,7 @@
 @@||kpopstarz.com^*/ic_comment_facebook.png
 @@||kw.cx^*/connector_facebook.png$domain=kwick.de
 @@||last.fm/flatness/partners/facebook_32x32.png
+@@||last.fm/static/images/icons/social_$image,domain=last.fm
 @@||lastmenonearth.com/wp-content/*-social-$image
 @@||lastpass.com/images/vault/share.png
 @@||lemaker.org/uploadfile/icon/google.jpg
@@ -286,6 +295,7 @@
 @@||origin.com/views/socialmedia.html$xmlhttprequest,domain=origin.com
 @@||ostroh.info/wp-content/plugins/wp-rocket/min/?*/easy-social-share-buttons.min.js$script,~third-party
 @@||panzi.github.io/SocialSharePrivacy/
+@@||parastorage.com^*/packages-bin/facebookShare/facebookShare.min.js
 @@||passets-cdn.pinterest.com^
 @@||patreon.com/images/fb_login_large.png
 @@||pcinpact.com/js/socialbar.js
@@ -315,6 +325,7 @@
 @@||popsters.us/assets/images/graph/share.png
 @@||popsters.us/assets/landing/images/logos/fb.png
 @@||prism-break.org/assets/img/$image,~third-party
+@@||profile.getyounity.com^$image,~third-party
 @@||projectevolove.com/application/themes/clean/images/with_facebook.png
 @@||quilt.janrain.com/*/linkedin.png
 @@||qz.com/images/buttons/sign-in-with-twitter.png
@@ -328,6 +339,8 @@
 @@||reformgovernmentsurveillance.com/images/resized-icons/
 @@||ren-tv.com/img/images/social/icoFb.png
 @@||ren-tv.com/img/images/social/icoVk.png
+@@||restream.io/img/$image
+@@||restream.io^$generichide
 @@||rfi.fr/sites/all/modules/maison/aef_boulangerie/$image
 @@||robinlinus.github.io/socialmedia-leak/demo.js
 @@||rorr.im/static/images/reddit-icon.png
@@ -378,6 +391,7 @@
 @@||stackexchange.com/content/img/share-sprite-new.png
 @@||stackoverflow.com/content/img/share-sprite-new.png
 @@||stadt-bremerhaven.de/wp-content/themes/*-facebook.$image
+@@||stadt-bremerhaven.de/wp-content/uploads/*/facebook-logo-$image,domain=stadt-bremerhaven.de
 @@||stadt-bremerhaven.de/wp-content/uploads/*/Facebook_$image
 @@||stadt-bremerhaven.de/wp-content/uploads/*_twitter-$image
 @@||static.canva.com/designThumbnails/pinterest.png
@@ -415,6 +429,8 @@
 @@||twimg.com^*/img/twitter_web_sprite_$domain=twitter.com
 @@||twimg.com^*/tweets.js$domain=twitter.com
 @@||twitlonger.com/images/sign-in-with-twitter.png
+@@||twofactorauth.org^$generichide
+@@||twofactorauth.org^*/social/
 @@||underverse.su/min/index.php*/js/share42.js
 @@||upwork.com^*/logo-pinterest.svg
 @@||vice.com/images/*-social-media-$image

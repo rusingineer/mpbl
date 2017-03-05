@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
 ! Title: Makani Private Block List Incremental Update
-! Last modified: 11 Dec 2016 13:00 UTC
+! Last modified: 05 Mar 2017 12:00 UTC
 ! Homepage: https://github.com/rusingineer/mpbl
 !  This is a private list,
 !  will not provide any technical support
@@ -174,6 +174,7 @@ cdn1ht.traffichaus.com
 .ru/news.js
 .com/news.js
 .tv/news.js
+.top/news.js
 aenjj.com^$script
 xexyc.com^$script
 wjzvx.com^$script
@@ -216,7 +217,6 @@ rxtbb.top^$script
 qcjam.top^$script
 tggay.top^$script
 oogzc.top^$script
-nenrk.us^$script
 dlski.space^$script
 aoodw.top^$script
 jaqmk.top^$script
@@ -237,6 +237,17 @@ nxstx.top^$script
 clhko.top^$script
 ozdau.top^$script
 fmhcj.top^$script
+gsnnx.top^$script
+wksym.top^$script
+mybce.top^$script
+ugyfw.top^$script
+rclmc.top^$script
+mqpte.top^$script
+dtwpb.xyz^$script
+ghyrqvw.xyz^$script
+ynfolstw.xyz^$script
+cgfleuvly.xyz^$script
+tmuurnthtf.xyz^$script
 /TotemTools/PModelsEngine.swf
 rustorka.com##[href*="pidaras"]
 rustorka.com##[gandon]
@@ -328,7 +339,6 @@ network-t.net^$script
 profitwizard.net
 hhit.xyz/js-sync.js
 xcadr.com/tds/
-v.actionteaser.ru/news.js
 tizerlink.com/show/out.php
 ads.exoclick.com/ad_track.js
 syndication.exoclick.com
@@ -373,6 +383,15 @@ lriver.ru
 google.megapost.org
 /exo/frontend_loader.js
 /exo/backend_loader.php
+/ts/block_script.php
+clck.ru/AKjQii
+115.236.4.14:8016/show.php^$script
+v.hr41.cn/showpage2.asp^$script
+rjs.niuxgame77.com/r/f.php^$script
+8ox.cn/pge/^$script
+russia-mvd.flnet.org
+www.gismeteo.ru##.horizontal.pageblock
+www.gismeteo.ru##.pageblock
 !  Anti-Adblock Killer
 caminspector.net^$inline-script
 ! Google specific

@@ -62,6 +62,7 @@
 ||sheknows.com/api/module?id=follow_social
 ||social.dw.de^
 ||sourceforge.net/social/
+||static2.stuff.co.nz^$subdocument
 ||store.yahoo.net/lib/directron/icons-test02.jpg
 ||theecologist.org/siteimage/scale/0/0/132471.gif
 ||theecologist.org/siteimage/scale/0/0/132472.gif
@@ -74,8 +75,14 @@
 ||wordpress.com^*/facebook.png
 ||wordpress.com^*/twitter1.png
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
+/fb_likegate.$domain=focus.de
+/likebox.$domain=focus.de
 ||addthis.com^$domain=thewatchseries.to
+||facebook.com*/plugins/like.php?$domain=autobild.de|focus.de|transfermarkt.de
 ||facebook.com/plugins/like.php$domain=tellows.de|thewatchseries.to
 ||facebook.com^*/plugins/page.php$domain=thewatchseries.to
-||google.com^*/fastbutton?$domain=tellows.de
-||platform.twitter.com/js/button.$domain=thewatchseries.to
+||facebook.com^*/plugins/page.php?$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+||google.com^*/fastbutton?$domain=autobild.de|tellows.de
+||platform.twitter.com/js/button.$domain=focus.de|spiegel.de|thewatchseries.to|transfermarkt.de
+||twitter.com/js/timeline.$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+||xing-share.com^$domain=focus.de

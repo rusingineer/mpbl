@@ -1,4 +1,5 @@
 .serialu.tv^$third-party
+/lentainform_widget.json
 |http://*.vzlomko.ru^$third-party
 |http://u.to/$third-party,script,subdocument
 ||003.ua^$third-party
@@ -9,6 +10,7 @@
 ||24au.ru/auctioninformer/
 ||24new.ru^$third-party
 ||24s.ru^
+||24smi.net^$third-party
 ||2baksa.net^$third-party
 ||2da2.ru^$third-party
 ||2vs2.ru^$third-party
@@ -88,7 +90,6 @@
 ||agitmedia.com^
 ||agrotv.ru^$third-party
 ||akabo.ru^
-||akavita.com^$third-party
 ||alawar.ru/onlinegames/*&link=
 ||alfainternet.su^
 ||allnews24.me^$third-party
@@ -109,6 +110,7 @@
 ||anyfiles.ru^$domain=~moi-progi.ru
 ||anyreads.com^$third-party
 ||ap-jam.com^$third-party
+||api.hh.ru/widgets/$third-party
 ||app4u.today^$third-party
 ||arsfu.ru^$third-party
 ||artbanner.com.ua^
@@ -127,6 +129,7 @@
 ||avazone.ru^$third-party
 ||aviasales.ru/promo/
 ||avifilm.ru^
+||avtovod.org.ua^$third-party,script
 ||azartaffiliates.com^
 ||azartcash.com^$third-party
 ||azbukasexa.ru^$third-party
@@ -145,6 +148,7 @@
 ||babyzone.ua^*/bmn/
 ||baks-mail.ru^$third-party
 ||bambun.ru/images/$object
+||ban.mchost.ru^$third-party
 ||banage.ru^$third-party
 ||banner-storage.fo.ru^
 ||banner-viewers.com^
@@ -164,6 +168,7 @@
 ||be-mine.ru^$third-party
 ||bepartner.ru^
 ||beseed.ru^$third-party,domain=~facebook.com|~ok.ru|~twitter.com|~vk.com
+||beseva.ru^$third-party
 ||bestclick.ru^
 ||bestexotic.com^
 ||betfaq.ru^$third-party
@@ -242,6 +247,7 @@
 ||csht.ru^
 ||cszz.ru^
 ||culpainnata.ru^
+||curk.ru^$third-party
 ||cyberstyle.ru^$third-party
 ||cykahax.net^
 ||dating-exchange.com^
@@ -273,6 +279,7 @@
 ||effad.ru^
 ||elektronauka.ru^$third-party
 ||elfmoney.ru^$third-party
+||elvengold.com/images/banner$third-party
 ||emnodar.ru^
 ||entercash.ru^
 ||eogli.biz^$third-party
@@ -293,6 +300,7 @@
 ||exo.kiev.ua^$third-party
 ||exteriormedia.ru^$third-party
 ||extool.biz/banners/
+||extstat.info^$third-party
 ||factor-vesa.net/enter/?url=dont_go_away/
 ||fairlink.ru^
 ||fanat.kz^$third-party
@@ -303,6 +311,7 @@
 ||fast-anime.ru^$third-party
 ||fatal.ru/adfatal.js
 ||fbs.for-ua.org.ua^
+||fedsp.com/showcase/banner?$third-party
 ||feed.teasermaster.ru^
 ||fermasosedi.biz/reflink/
 ||fermasosedi.ru^$third-party
@@ -323,6 +332,7 @@
 ||fooder.ru^$third-party
 ||forex-i-love-you.ru/files/
 ||forex4you.org/flash/partners/
+||forexstart.org/banner$third-party
 ||forsage.biz^$third-party
 ||forumrpg.ru^$third-party,subdocument
 ||fotkidepo.ru^$third-party,script
@@ -330,6 +340,7 @@
 ||freeavalanche.ru^
 ||freehd.com.ua^$third-party
 ||freewm.ru^
+||fresher.ru/widget/$third-party
 ||freshmac.ru^$third-party
 ||frogadvert.ru^
 ||fsimg.ru/elephant/
@@ -349,6 +360,7 @@
 ||gde-luchshe.ru/widget/
 ||get-click.net^
 ||getb.7ya.ru^
+||getta.top^$third-party
 ||gettraf.org^
 ||ggsaffiliates.com^
 ||gigamega.ru^
@@ -380,6 +392,7 @@
 ||gzonline.ru//upload/iblock/
 ||hata.nikolaev.ua^$third-party
 ||hd-tube.ru^$third-party
+||hdkinoshka.net^$third-party
 ||heroeswm.ru/some_junk/
 ||hideme.ru/images/static-$third-party
 ||highflyers.ru^$third-party
@@ -423,7 +436,6 @@
 ||inmoment.ru^$third-party
 ||inoe.name^$third-party
 ||insalea.ru/bannerfans_
-||inst.letitbit.net^
 ||instantcash.ru^$third-party
 ||internalinspector.com^
 ||internet-russia.info^$third-party
@@ -437,7 +449,6 @@
 ||invitemaster.ru/widget.js
 ||ipgold.ru^$third-party
 ||iphone10gs.com^$third-party
-||iphones.ru^$third-party
 ||ipru.ru^$third-party
 ||ipz.ru/cgi-bin/
 ||iso100.ru^$third-party
@@ -478,6 +489,7 @@
 ||kolobok.us/button/
 ||komisite.ru/images/ban*.gif
 ||komok.com^$third-party
+||korrespondent.net^$third-party,script
 ||kpdn.ru^$third-party
 ||kpk.me^$third-party
 ||kredit.beregu.ru^$third-party
@@ -488,11 +500,12 @@
 ||kupitraff.ru^$third-party
 ||kv.by/img/$object
 ||kvasu.net/*/$object
+||l2top.ru^$third-party
 ||labirint.ru/design/partner/
 ||ladyshopping.ru^$third-party
 ||ladytrack.net^
-||lakidar.net^$third-party,subdocument
 ||laser44.ru^$third-party
+||leetero.ru^$third-party
 ||lenty.ru^$third-party
 ||leporno.org/img/
 ||letitbit-porno.com^$third-party
@@ -520,6 +533,7 @@
 ||loadpays.com^*/images/banners/
 ||loadserial.ru^
 ||loftlm.ru^$third-party,script
+||loksly.io^$third-party
 ||looksmile.ru^$third-party
 ||lopuer.biz^
 ||loveadvert.ru^
@@ -618,6 +632,7 @@
 ||n.vipadvert.net^
 ||nadavi.com.ua^$third-party
 ||nadavi.ru^$third-party
+||nanoav.ru^*/banner$third-party
 ||nasf.ru/ad/
 ||nclick.ru^
 ||need2buy.1gb.ru^
@@ -648,7 +663,9 @@
 ||oberegi-runi.ru/assets/
 ||oberegi-runi.ru^*partnership/
 ||obmenki.ru.com^$third-party
+||ogorodniki.com/banner$third-party
 ||oiya.ru^
+||oliliga.ru^$third-party
 ||onban.ru^
 ||ongm.net^*/images/banner.png
 ||onlineresume.ru/banner*?
@@ -696,6 +713,7 @@
 ||penza-online.ru/cgi-bin/userstats.pl?
 ||penzensky.ru^$third-party
 ||personalspy.ru^$third-party
+||photoshop-master.org^$third-party
 ||picbay.ru^$third-party
 ||pickegg.com^
 ||picturer.xyz^$third-party
@@ -732,6 +750,8 @@
 ||privatteaser.ru
 ||privatzone.biz^
 ||prizma.kz^
+||pro100news.ru^$third-party
+||probestfilm.com^$third-party
 ||prodnepr.dp.ua/informermp.php
 ||profit-partner.ru^$third-party
 ||profitwizard.net^
@@ -769,6 +789,7 @@
 ||rax.ru^$third-party
 ||rb.rfn.ru^
 ||rb.sport-express.ru^
+||rbkgames.com^$third-party,script
 ||realfuckdates.net^$third-party,image,object
 ||rec2000.at.ua^$third-party
 ||recreativ.com.ua^
@@ -799,6 +820,7 @@
 ||rookee.ru^$third-party
 ||rorer.ru^$third-party
 ||rosban.su^
+||rosladi.ru^$third-party
 ||rosphoto.com/img/
 ||rot.rusoul.ru/rotator/
 ||rotapost.ru^$third-party
@@ -878,20 +900,25 @@
 ||slimp.net^$third-party
 ||smart-soft.ru^$third-party
 ||smartbucks.ru^
-||smi2.ru/data/$third-party
+||smi2.net^$third-party,domain=~smi2.ru
+||smi2.ru^$third-party
+||smi2.tv^$third-party
 ||smiar.ru^
 ||smigid.ru^$third-party
 ||smile32.ru^$third-party
 ||smsconvertv3.ru^$third-party
 ||smsfiles.ru/ban*.gif
 ||smsvcash.ru^
+||snyviza.ru^$third-party
 ||socialmart.ru/widget/
 ||soft-teleport.ru/uploads/ad/
 ||softbn.ru^$third-party
+||somon.tj^$third-party
 ||sorcerers.net/includes/butler/butler.php?
 ||sovetnik.yandex.net^$third-party
 ||spbland.ru/bban/
 ||spitter.pauk.ru^
+||sponsor.gazeta.ru^$third-party
 ||sport-fitnes.ru^$third-party
 ||sportoboz.ru^$third-party
 ||sppromo.com/feed.php?$third-party
@@ -914,9 +941,11 @@
 ||steptocash.ru^$third-party
 ||sterno.ru/widget/
 ||strana.az/banners/
+||strichka.com^*/informer/$third-party
 ||stripvidz.com^$third-party
 ||strobist.ua/strobist_
 ||strogonet.ru^$third-party
+||stroy-birzha.ru^$third-party
 ||stroyka-direct.ru^
 ||studio-moderna.com/upload/uploadTopshop
 ||submitter.ru*/i.php
@@ -973,6 +1002,8 @@
 ||topwot.ru^$third-party
 ||torgnn.ru^$third-party
 ||torrent-windows.net^$third-party
+||torrentum.ru/images/brand/$third-party
+||torrentum.ru^*/tiser/$third-party
 ||trade7.ru^$third-party
 ||tradelinks.$third-party
 ||tradeone.com.ua^
@@ -990,6 +1021,7 @@
 ||trafogon.ru^
 ||trafunder.$third-party
 ||travelpayouts.com/content?promo_id=$third-party,image,object
+||tremona.ru^$third-party
 ||trening-maximum.ru^$third-party
 ||trusearch.net/affblock/
 ||trustlink.ru^$third-party
@@ -1012,6 +1044,7 @@
 ||ujav.net^
 ||ukrbanner.net^$third-party
 ||ukrbuy.com/partner/
+||ukrmedia.center^$third-party,script
 ||ulitka.ru/logo$image
 ||umatno.ru/mm/
 ||uniq-ip.com/via/np?
@@ -1095,6 +1128,8 @@
 ||westbyte.com/scripts/bs/bc.php?bi=
 ||wewonurgold.ws^$third-party
 ||win2profit1.com/upload_dynamics/
+||windbet1.com^$third-party
+||windbet2.com^$third-party
 ||winlinebet.com^$third-party
 ||wizzzards.com^
 ||wm-goldenclick.ru^
@@ -1128,6 +1163,7 @@
 ||yottos.com$third-party
 ||yournewhosting.com/images/$third-party
 ||yousticker.com/load/$third-party
+||yuga.ru^$third-party
 ||zamok911.com^$third-party
 ||zapato.ru/upload/affiliate_pics/
 ||zez.su/ban/

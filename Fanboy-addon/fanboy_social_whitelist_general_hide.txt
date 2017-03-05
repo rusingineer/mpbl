@@ -18,6 +18,7 @@ digg.com#@##module_digg
 linkedin.com#@##share-box
 code2flow.com#@##share-button
 competitor.com#@##share-links
+voicethread.com#@##share-menu
 reddit.com#@##share-reddit
 tomshardware.com#@##shareBar
 getpocket.com#@##shareMenu
@@ -43,6 +44,7 @@ base.de#@##social_footer
 ghostery.com#@##social_media
 nextinpact.com#@##socialbar
 lenta.ru#@##socials
+youtube.com#@##subscribe-button
 feedburner.com#@##subscribe-options
 24matins.fr#@##top_share
 socket.io,strim.io,twitter.com#@##tweets
@@ -61,7 +63,7 @@ banki.ru,neowin.net#@#.article-share
 nbcnews.com#@#.article_share
 opposingviews.com#@#.block-socialmedia
 kcrw.com#@#.bottom-social
-adespresso.com,airbnb.cat,airbnb.com,airbnb.de,aplus.com,appspot.com,crowdin.net,deezer.com,foodit.com,magine.com,meetme.com,nexoneu.com,setlist.fm,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
+adespresso.com,airbnb.cat,airbnb.com,airbnb.de,aplus.com,appspot.com,crowdin.net,deezer.com,eventim.de,foodit.com,help.getadblock.com,magine.com,meetme.com,nexoneu.com,setlist.fm,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
 nexoneu.com,secure.allocine.fr,techinasia.com#@#.btn-fb
 foodit.com,theoldreader.com#@#.btn-google-plus
 secure.allocine.fr#@#.btn-gplus
@@ -70,7 +72,7 @@ appspot.com,foodit.com#@#.btn-linkedin
 appspot.com#@#.btn-reddit
 azlyrics.com,theoldreader.com#@#.btn-share
 appspot.com#@#.btn-social-icon
-appspot.com,crowdin.net,magine.com,qz.com,setlist.fm,younow.com#@#.btn-twitter
+appspot.com,crowdin.net,help.getadblock.com,magine.com,qz.com,setlist.fm,younow.com#@#.btn-twitter
 rockstargames.com#@#.btnFacebook
 rockstargames.com#@#.btnTwitter
 nationalgeographic.com#@#.btn_fb
@@ -88,12 +90,11 @@ delicious.com#@#.delicious
 post.com.tr#@#.detail-share-item
 digg.com#@#.digg-button
 digg.com#@#.digg_button
-tvline.com,usatoday.com#@#.embed-twitter
 science-et-vie.com#@#.entry-share
 azurewebsites.net#@#.facebook-btn
-bitbucket.org,ebuddy.com,geekli.st,globalcitizen.org,musixmatch.com,plug.dj#@#.facebook-button
+bitbucket.org,ebuddy.com,foodora.at,foodora.ca,foodora.com.au,foodora.de,foodora.fi,foodora.fr,foodora.it,foodora.nl,foodora.no,foodora.se,geekli.st,getyounity.com,globalcitizen.org,musixmatch.com,plug.dj#@#.facebook-button
 twitter.com#@#.facebook-container
-vimeo.com#@#.facebook-icon
+getyounity.com,vimeo.com#@#.facebook-icon
 thehunt.com#@#.facebook-link
 facebook.com#@#.facebook-widget
 modhoster.com,mozillamessaging.com,pinterest.com#@#.facebook.icon
@@ -137,7 +138,7 @@ academia.edu#@#.google-btn
 google.com,inoreader.com#@#.google_plus
 youtube.com#@#.gplus-icon
 vk.com#@#.group_share
-airbnb.cat,airbnb.com,airbnb.de,aitnews.com,comicbook.com,di.fm,fastcompany.com,gleam.io,imgur.com,shared.com,songkick.com,squidoo.com,theoldreader.com,yourstory.com#@#.icon-facebook
+airbnb.cat,airbnb.com,airbnb.de,aitnews.com,comicbook.com,di.fm,eventim.de,fastcompany.com,gleam.io,imgur.com,oneplus.net,shared.com,songkick.com,squidoo.com,theoldreader.com,yourstory.com#@#.icon-facebook
 lockerdome.com#@#.icon-facebook2
 secure.allocine.fr#@#.icon-fb
 imgur.com#@#.icon-google
@@ -257,7 +258,7 @@ wat.tv#@#.social-block
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 buzzerie.com,gog.com,udemy.com#@#.social-btn
 fastcompany.com,golem.de#@#.social-button
-adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,cheezburger.com,musixmatch.com,ozy.com,tipranks.com#@#.social-buttons
+adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,bilingua.io,cheezburger.com,musixmatch.com,ozy.com,tipranks.com#@#.social-buttons
 cheezburger.com#@#.social-container
 github.com#@#.social-count
 golem.de#@#.social-counter
@@ -272,6 +273,7 @@ deathandtaxesmag.com,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
 accountkiller.com#@#.social-image
 asos.com#@#.social-link
 airbnb.cat,airbnb.com,airbnb.de,deathfromabove1979.com,squarespace.com,time.com#@#.social-links
+getyounity.com#@#.social-login
 technorati.com#@#.social-media
 f-secure.com#@#.social-media-buttons
 linkis.com#@#.social-panel
@@ -300,7 +302,7 @@ neoseeker.com#@#.social_share
 meilleurmobile.com#@#.social_tabs
 leica-camera.com#@#.social_toolbar
 ruliweb.com#@#.social_wrapper
-web2.0calc.com#@#.socialbar
+0calc.es,0calc.fr,0calc.in,0calc.ru,0rechner.de,web2.0calc.com#@#.socialbar
 wuala.com#@#.socialbox
 wuala.com#@#.socialboxp
 jobs.jnj.com#@#.socialbutton
@@ -312,7 +314,7 @@ listenonrepeat.com#@#.ssk-facebook
 cbsnews.com#@#.std-social
 stumbleupon.com#@#.stumble-button
 amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr,gitlab.com,reddit.com,twitch.tv#@#.subscribe-button
-geekgamer.tv#@#.subscribe-widget
+first-class-and-more.de,geekgamer.tv#@#.subscribe-widget
 twitter.com#@#.tweet-btn
 socket.io,twitter.com#@#.tweets
 bitbucket.org,geekli.st,plug.dj,twitter.com#@#.twitter-button
@@ -372,14 +374,14 @@ linkedin.com#@#a[href^="https://www.linkedin.com/cws/share?"]
 reddit.com#@#a[href^="https://www.reddit.com/submit?"]
 stumbleupon.com#@#a[href^="https://www.stumbleupon.com/submit?url="]
 allestörungen.de,encyclopediadramatica.se,facebook.com,foodit.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,inmotionhosting.com,jetpack.wordpress.com,kingswiki.com,ludins.fr,maxthon.com,megabus.com,opendatacity.de,pcgames.de,theoldreader.com,twitter.com,wikipedia.org,youtube.com#@#a[title="Facebook"]
-encyclopediadramatica.se,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org#@#a[title="Google Plus"]
-encyclopediadramatica.se,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org,youtube.com#@#a[title="Google+"]
-allestörungen.de,encyclopediadramatica.se,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,linkedin.com,wikipedia.org#@#a[title="LinkedIn"]
+encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org#@#a[title="Google Plus"]
+encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org,youtube.com#@#a[title="Google+"]
+allestörungen.de,encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,linkedin.com,wikipedia.org#@#a[title="LinkedIn"]
 pinterest.com#@#a[title="Pin it!"]
-encyclopediadramatica.se,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org#@#a[title="Pinterest"]
-allestörungen.de,encyclopediadramatica.se,google.co.nz,google.co.uk,google.com,google.com.au,google.de,jetpack.wordpress.com,kingswiki.com,live.com,maxthon.com,megabus.com,opendatacity.de,outlook.com,twitter.com,wikipedia.org,youtube.com#@#a[title="Twitter"]
-allestörungen.de,encyclopediadramatica.se,google.co.nz,google.co.uk,google.com,google.com.au,google.de,heise.de,maxthon.com,opendatacity.de,pcgameshardware.de,wikipedia.org#@#a[title="Youtube"]
-aliexpress.com#@#a[title="facebook"]
+encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org#@#a[title="Pinterest"]
+allestörungen.de,encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,jetpack.wordpress.com,kingswiki.com,live.com,maxthon.com,megabus.com,opendatacity.de,outlook.com,twitter.com,wikipedia.org,youtube.com#@#a[title="Twitter"]
+allestörungen.de,encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,heise.de,maxthon.com,opendatacity.de,pcgameshardware.de,wikipedia.org#@#a[title="Youtube"]
+aliexpress.com,github.com#@#a[title="facebook"]
 digg.com#@#div[id^="digg-widget-"]
 disqus.com,eff.org,facebook.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,heise.de,hockeyapp.net,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,maxthon.com,microsoft.com,opendatacity.de,playboy.com,sky.com,t3n.de,thoughtcatalog.com,twitter.com,udacity.com,vvhp.net,whatthetech.com#@#img[alt="Facebook"]
 google.co.nz,google.co.uk,google.com,google.com.au,google.de,vvhp.net,xkcd.com,youtube.com#@#img[alt="Google+"]
@@ -390,7 +392,7 @@ acceptableads.org,breakoutlist.com,easyicon.net,microsoft.com,rantlifestyle.com#
 breakoutlist.com,disqus.com,eff.org,gitlab.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,hackerone.com,incgamers.com,maxthon.com,microsoft.com,opendatacity.de,thoughtcatalog.com,twitter.com,vvhp.net,whatculture.com,whatthetech.com#@#img[alt="Twitter"]
 mezzacotta.net,theverge.com,twitter.com#@#img[alt="Vine"]
 maxthon.com,opendatacity.de,whatculture.com#@#img[alt="Youtube"]
-megabus.com,uservoice.com#@#img[alt="facebook"]
+facebook.com,megabus.com,uservoice.com#@#img[alt="facebook"]
 discourse.org,megabus.com#@#img[alt="twitter"]
 allestörungen.de,marketplace.firefox.com,vvhp.net#@#img[title="Facebook"]
 allestörungen.de,whatismyip.com#@#img[title="LinkedIn"]

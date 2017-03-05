@@ -136,6 +136,7 @@
 /js-mobile-*/header_$script
 /leadin-subscribe.
 /logo_eskup.
+/mailchimp-iframe/*
 /mobile-welcome-overlay/*$script
 /mobile_top_icon.
 /modals/newsletters/*
@@ -163,6 +164,7 @@
 /plugins/flattr/*
 /plugins/let-it-snow/*
 /plugins/mega-subscribe-popup/*
+/plugins/NKS-subscription/*
 /plugins/nrelate-related-content/*$~stylesheet
 /plugins/optin-monster/*$script
 /plugins/popup-maker/*$script,domain=~tracktion.com
@@ -292,7 +294,7 @@ _social_rss.
 -cookie-consent/
 -cookie-filter/$script
 -cookie-law-popup.
--cookie-law.js
+-cookie-law.$script
 -cookie-law/$script
 -cookie-message.js
 -cookie-msg-bar.
@@ -302,6 +304,7 @@ _social_rss.
 -cookieconsent-
 -CookieInfo.
 -cookiePolicy.
+-cookies-notice/
 -cookies-policy.
 -eu-cookies/$script
 -eucookie.
@@ -412,6 +415,7 @@ _social_rss.
 /cookiebanner.
 /cookiebar-
 /cookiebar.
+/CookieBar/*
 /cookieBox.js
 /cookiec.json
 /cookiechoice.js
@@ -543,6 +547,7 @@ _social_rss.
 /jquery.cookie.js$domain=password-decryptor.com
 /jqueryCookieGuard.
 /js-cookie-master/*$script
+/layer-cookienotice.
 /legal/cookies/?
 /legalcookie.
 /lma-cookie.
@@ -578,6 +583,7 @@ _cookie_cnil.
 _cookie_compliance.
 _cookie_consent/
 _cookie_law.js
+_cookie_notice-
 _cookie_notice.
 _cookie_policy.
 _cookie_policy_
@@ -593,3 +599,4 @@ _cookiewarn.
 _eu_cookie_
 _eucookie_compliance_
 _europecookielaw.
+_site_cookie_

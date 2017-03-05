@@ -14,6 +14,7 @@
 ||aol.de/track/
 ||arlt.com^*/econda/
 ||arte.tv^*=countstats,
+||as.base.de^
 ||banner.t-online.de^$image
 ||baur.de/servlet/LandmarkServlet?
 ||beacon.gutefrage.net^
@@ -109,6 +110,7 @@
 ||homepage-baukasten.de/cookie.php?
 ||horizont.net/stats/
 ||ht4u.net^*/blackpixel2.php
+||is.base.de^
 ||jobanova.de/stats.php?
 ||jolie.de^*/pic.gif?
 ||k-files.de/screen.js
@@ -213,6 +215,7 @@
 ||textundblog.de/powercounter.js
 ||topnews.de/aws.js
 ||topnews.de^*/aws.cgi?
+||tp.deawm.com^
 ||tr.werkenntwen.de^
 ||track.cinestar.de^
 ||trackerstatistik.init-ag.de^
@@ -280,6 +283,7 @@
 ||lecho.be/fb/?
 ||lemde.fr^*/metrics/
 ||lemde.fr^*/tracking/
+||logs-qos.tf1.fr^
 ||nouvelobs.com/scripts/stats.php?
 ||nouvelobs.com/tools/csrum.php
 ||nouvelobs.com/trafiz-
@@ -288,7 +292,8 @@
 ||p.pagesjaunes.fr^
 ||pagesjaunes.fr/bva/track.js
 ||pagesjaunes.fr/crmmetrix/
-||pim.nextinpact.com^
+||pam.nextinpact.com^
+||pwa.telephoneannuaire.fr^
 ||r.orange.fr^
 ||rtl.be^*/trkfblk.js
 ||rtl.fr/stats/
@@ -338,7 +343,8 @@
 ||cast.ra.icast.cn^
 ||cdn.baidupcs.com/monitor.jpg?
 ||clkstat.qihoo.com^
-||cnzz.com/stat.
+||cmstool.youku.com^
+||collect.tianya.cn^
 ||count.joy.cn^
 ||count.kandian.com^$object-subrequest
 ||count.newhua.com^
@@ -350,6 +356,7 @@
 ||counter.sina.com.cn/moodq?
 ||cri.cn/a1.js
 ||cri.cn/wrating.js
+||cupid.iqiyi.com^
 ||dayoo.com/sta/da.js
 ||dc.letv.com^
 ||dj.renren.com^
@@ -363,6 +370,8 @@
 ||eclick.baidu.com^
 ||firefoxchina.cn/*/trac.js
 ||fls-cn.amazon.cn^
+||ftchinese.com/js/log.js
+||funshion.com/interface/
 ||hdslb.com/images/isptrack.js
 ||his.tv.sohu.com/his/ping.do?
 ||hk.ndx.nextmedia.com^
@@ -372,6 +381,8 @@
 ||js.soufunimg.com/count/
 ||jscss.kdslife.com/club/html/count/PChome_Count.js
 ||ku6.com/ku6.gif?
+||le.com/op/
+||letv.com/op?
 ||log*.ku6.com^
 ||log.51cto.com^
 ||log.kuwo.cn^
@@ -391,6 +402,9 @@
 ||pb.i.sogou.com^
 ||pingback.sogou.com^
 ||pingjs.qq.com^
+||pptv.com/stg/add?
+||pptv.com/webdelivery/
+||pv.ltn.com.tw^
 ||qq.com/p?
 ||ranking.ynet.com^
 ||rcgi.video.qq.com^
@@ -454,9 +468,12 @@
 ||youdao.com/cf.gif?
 ||youdao.com/imp/cac.js
 ||youku.com/compvlog?
+||youku.com/recikupushshow?
 ||youku.com/ykvvlog?
 ||youku.com/yplaylog?
+||youku.com/ypvlog?
 ||youku.com^*/click.php?
+||zhihu-web-analytics.zhihu.com^
 ! Croatian
 ||dnevnik.hr/bin/usrtrck-new.php?
 ||jutarnji.hr/template/js/eph_analytics.js
@@ -569,6 +586,9 @@
 ||goo.ne.jp^*/vltracedmd.js
 ||i2i.jp/bin/
 ||mainichi.jp^*/null.gif?
+||mtc.nhk.or.jp^
+||nhk.or.jp^*/bc.js
+||sankei.co.jp/js/analytics/
 ||seesaawiki.jp/img/rainman.gif?
 ||visit.geocities.jp^
 ||yahoo.co.jp/b?p=
@@ -578,9 +598,11 @@
 ||count.munhwa.com^
 ||gather.hankyung.com^
 ||hits.zdnet.co.kr^
-||hitweb2.chosun.com^
 ||lcs.naver.com^
 ||naver.com/PostView.nhn?$image
+||seoul.co.kr/weblog/
+||track.tiara.daum.net^
+||veta.naver.com^
 ||ytn.co.kr/_comm/ylog.php?
 ! Latvian
 ||cv.ee/static/stat.php
@@ -640,22 +662,46 @@
 ||uol.com.br/stats?
 ||urchin.estadao.com.br^
 ! Russian
+||2ch.hk^*/tracker.js?
+||4pda.ru/stat/
 ||ad7.bigmir.net^
+||agroserver.ru/ct/
 ||analytics.carambatv.ru^
+||avito.ru/stat/
+||babyblog.ru/pixel?
+||consultant.ru/js/counter.js
+||cosmo.ru/*/.js?i=*&r=
+||counter.drom.ru^
+||dot-stat.radikal.ru^
+||fb.ru/stat/
+||fotostrana.ru/start/
+||irecommend.ru/collect/
+||kiks.auto.ru^
 ||kommersant.ru/a.asp?p=
+||lamoda.ru/z?
+||lmcdn.ru^*/statistics.js
+||log.ren.tv^
 ||mail.ru/count/
 ||mail.ru/counter?
 ||montblanc.lenta.ru^
+||ngs.ru/s/
+||ozon.ru/tracker/
 ||rbc.ru/click?
 ||rbc.ru/count/
+||rt.ru/proxy?
 ||rutube.ru/counters.html?
 ||rutube.ru/dbg/player_stat?
-||rutube.ru/img/playerstats.gif?
 ||ssp.rambler.ru^
+||stat.api.2gis.ru^
 ||stat.lenta.ru^
+||stat.russianfood.com^
+||stat.woman-announce.ru^
 ||stats.lifenews.ru^
+||superjob.ru/ws/
 ||sync.rambler.ru^
+||tracker.tiu.ru^
 ||vedomosti.ru/boom?
+||vesti.ru/counter/
 ||yast.rutube.ru^
 ! Serbian
 ||trak-analytics.blic.rs^
@@ -680,7 +726,6 @@
 ||terra.com^*/td.asp?bstat
 ||trrsf.com/metrics/
 ! Swedish
-||analytics.codigo.se^
 ||beacon.mtgx.tv^
 ||blocket.se/js/trafikfonden.js
 ||falkenbergtorget.se/sc.gif?
