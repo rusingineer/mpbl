@@ -3,6 +3,7 @@
 ||777livecams.com/?id=$popup,third-party
 ||adultfriendfinder.com/banners/$popup,third-party
 ||adultfriendfinder.com/go/$popup,third-party
+||aff.camplace.com^$popup,third-party
 ||amarotic.com/?$popup,third-party
 ||amarotic.com^*?wmid=$popup,third-party
 ||babecams.net/landing/$popup,third-party
@@ -14,6 +15,7 @@
 ||chaturbate.com/*/?join_overlay=$popup
 ||chaturbate.com/sitestats/openwindow/$popup
 ||cpm.amateurcommunity.*?cp=$popup,third-party
+||crcom.livejasmin.com^$popup,third-party
 ||devilsfilm.com/track/go.php?$popup,third-party
 ||epornerlive.com/index.php?*=punder$popup
 ||exposedwebcams.com/?token=$popup,third-party
@@ -30,6 +32,7 @@
 ||fucktapes.org/fucktube.htm$popup
 ||get-a-fuck-tonight.com^$popup
 ||hazeher.com/t1/pps$popup
+||hdporn.to^$popup,third-party
 ||hqtubevideos.com/play.html$popup,third-party
 ||icgirls.com^$popup
 ||imlive.com/wmaster.ashx?$popup,third-party
@@ -43,11 +46,12 @@
 ||linkfame.com^*/go.php?$popup,third-party
 ||livecams.com^$popup
 ||livejasmin.com^$popup,third-party
+||mafia-linkz.to^$popup,third-party
 ||media.campartner.com/index.php?cpID=*&cpMID=$popup,third-party
 ||media.campartner.com^*?cp=$popup,third-party
 ||meetlocals.com^*popunder$popup
 ||mjtlive.com/exports/golive/?lp=*&afno=$popup,third-party
-||mydirtyhobby.com/?$popup,third-party
+||mydirtyhobby.com/*?$popup,third-party
 ||myfreecams.com/?co_id=$popup
 ||online.mydirtyhobby.com^*?naff=$popup,third-party
 ||pomnach.ru^$popup

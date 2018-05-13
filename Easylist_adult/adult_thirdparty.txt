@@ -1,5 +1,6 @@
 .php?pub=*&trw_adblocker=$subdocument
 /exports/livemodel/?$subdocument
+/shantii.php?$xmlhttprequest
 ||193.34.134.18^*/banners/
 ||193.34.134.74^*/banners/
 ||204.140.25.247/ads/
@@ -26,6 +27,7 @@
 ||adsrv.bangbros.com^$third-party
 ||adtools.gossipkings.com^$third-party
 ||adtools2.amakings.com^$third-party
+||adult.xyz^$script,third-party
 ||adultdvd.com/plugins/*/store.html$third-party
 ||adultfax.com/service/vsab.php?
 ||adultfriendfinder.com/go/$third-party
@@ -62,6 +64,7 @@
 ||avatraffic.com/b/
 ||b.turbo.az^$third-party
 ||babes.picrush.com^$third-party
+||bangdom.com^$third-party
 ||banner.69stream.com^$third-party
 ||banner.gasuki.com^$third-party
 ||banner.resulthost.org^$third-party
@@ -99,6 +102,7 @@
 ||br.realitykings.com^
 ||brasileirinhas.com.br/banners/
 ||brazzers.com/ads/
+||bulkhentai.com^$script,third-party
 ||bullz-eye.com/pictureofday/$third-party
 ||cache.worldfriends.tv^$third-party
 ||camelmedia.net/thumbs/$third-party
@@ -106,22 +110,24 @@
 ||cams.com/p/cams/cpcs/streaminfo.cgi?$third-party
 ||cams.enjoy.be^$third-party
 ||cams.spacash.com^$third-party
+||camsoda.com/promos/$third-party
 ||camsrule.com/exports/$third-party
 ||cartoontube.com^$subdocument,third-party
 ||cash.femjoy.com^$third-party
 ||cdn.epom.com^*/940_250.gif
+||cdn13.com^$script,third-party,domain=~leafy.pro
 ||cdn77.org/images/userbanners/$domain=topescortbabes.com
 ||cdncache2-a.akamaihd.net^$third-party
 ||cdnjke.com^$third-party
 ||chaturbate.com/affiliates/
 ||chaturbate.com/creative/
+||chaturbate.com/in/?track=$subdocument,third-party
 ||click.absoluteagency.com^$third-party
 ||click.hay3s.com^
 ||click.kink.com^$third-party
 ||clickz.lonelycheatingwives.com^$third-party
 ||clipjunkie.com/sftopbanner$third-party
 ||closepics.com/media/banners/
-||cloudfront.net^$script,domain=pornve.com
 ||cmix.org/teasers/?
 ||cockfortwo.com/track/$third-party
 ||content.liveuniverse.com^$third-party
@@ -130,6 +136,7 @@
 ||cp.intl.match.com^$third-party
 ||cpm.amateurcommunity.com^
 ||creamgoodies.com/potd/
+||creative.stripchat.com^$third-party
 ||crocogirls.com/croco-new.js
 ||cs.celebbusters.com^$third-party
 ||cs.exposedontape.com^$third-party
@@ -183,6 +190,7 @@
 ||galleries.videosz.com^$object,third-party
 ||gallery.deskbabes.com^*.php?dir=*&ids=$third-party
 ||gammasites.com/pornication/pc_browsable.php?
+||gashot.yurivideos.com^
 ||gateway-banner.eravage.com^$third-party
 ||geo.camazon.com^$third-party
 ||geo.cliphunter.com^
@@ -196,6 +204,7 @@
 ||geobanner.socialflirt.com^
 ||gfrevenge.com/vbanners/
 ||girls-home-alone.com/dating/
+||girlsfuck-tube.com/js/aobj.js
 ||go2cdn.org/brand/$third-party
 ||graphics.pop6.com/javascript/$script,third-party,domain=~adultfriendfinder.co.uk|~adultfriendfinder.com
 ||graphics.streamray.com^*/cams_live.swf$third-party
@@ -228,6 +237,7 @@
 ||in.zog.link^
 ||interracialbangblog.info/banner.jpg
 ||interracialbangblog.info^*-ban.png
+||ipornia.com/*=*&$third-party
 ||ipornia.com/frends/$subdocument
 ||istripper.com^$third-party,domain=~istripper.eu
 ||ivitrine.buscape.com^$third-party
@@ -333,12 +343,14 @@
 ||ptcdn.mbicash.nl^$third-party
 ||punterlink.co.uk/images/storage/siteban$third-party
 ||pussycash.com/content/banners/$third-party
+||pussysaga.com/gb/$third-party
 ||putana.cz/banners/
 ||rabbitporno.com/friends/
 ||rabbitporno.com/iframes/$third-party
 ||rawtubelive.com/exports/$third-party
 ||realitykings.com/vbanners/
 ||red-tube.com/dynbanner.php?
+||redzxxxtube.com^$third-party
 ||resimler.randevum.com^$third-party
 ||rexcams.com/misc/iframes_new/
 ||rotci.com/images/rotcibanner.png
@@ -377,6 +389,7 @@
 ||spacash.com/popup/$third-party
 ||spacash.com/tools/peel/
 ||sponsor4cash.de/script/
+||st.ipornia.com^$third-party
 ||steadybucks.com^*/banners/
 ||streamen.com/exports/$third-party
 ||streamray.com/images/cams/flash/cams_live.swf
@@ -385,6 +398,7 @@
 ||swurve.com/affiliates/
 ||target.vivid.com^$third-party
 ||teendaporn.com/rk.js
+||theporndude.com/img/planetsuzy.png
 ||thrixxx.com/affiliates/$image
 ||thrixxx.com/scripts/show_banner.php?
 ||thumbs.sunporno.com^$third-party

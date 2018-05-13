@@ -4,6 +4,7 @@
 @@_120x60.$image,domain=2dayshippingbymastercard.com|catalogfavoritesvip.com|chase.com|deliverydeals.co.uk|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|sunsteps.org|theperfectsaver.com|travelplus.com
 @@_120x60_$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|theperfectsaver.com|travelplus.com
 @@_300x250.$image,domain=affrity.com|lockd.co.uk
+@@||adnews.com.br^*/300x250/$image,domain=adnews.com.br
 @@||ajax.googleapis.com/ajax/services/search/news?*-728x90&$script
 @@||amazonaws.com/content-images/article/*_120x60$domain=vice.com
 @@||amazonaws.com^*-300x250_$image,domain=snapapp.com
@@ -16,9 +17,11 @@
 @@||bettermarks.com/static/media$~third-party
 @@||bexio.com/files/content/*160x600.$domain=bexio.com
 @@||bizquest.com^*_img/_franchise/*_120x60.$image
+@@||breakingisraelnews.com/wp-content/uploads/*-300x250-
 @@||canada.com/news/*-300-250.gif
-@@||cbsistatic.com/img/*/300x250/$image
+@@||cbsistatic.com/img/*/300x250/$image,xmlhttprequest
 @@||cinemanow.com/images/banners/300x250/
+@@||cnsm.com.br/wp-content/uploads/*/468x60_$image,domain=cnsm.com.br
 @@||consumerist-com.wpengine.netdna-cdn.com/assets/*300x250
 @@||crowdignite.com/img/upload/*300x250
 @@||cubeecraft.com/images/home/features/300x250/$image,~third-party
@@ -32,6 +35,7 @@
 @@||film.com/plugins/*-300x250
 @@||findafranchise.com/_img/*_120x60.$image
 @@||firestormgames.co.uk/image/*-120x60.
+@@||flii.by/thumbs/image/*_300x250.$domain=flii.by
 @@||flumotion.com/play/player?*/300x250-$subdocument,domain=flaixfm.cat
 @@||framestr.com^*/300x250/$image,~third-party
 @@||freeshipping.com^*_120x60.$image,domain=shopsmarter.com
@@ -70,11 +74,11 @@
 @@||quisqualis.com/QBanner_760x100.jpg
 @@||rackcdn.com/LN_AH_Sweep_300x250_$image,domain=accesshollywood.com
 @@||rackcdn.com^*_120x60_$image,domain=shopsmarter.com
+@@||ragnsells.se/globalassets/sverige/inspireras/*1160x600.$domain=ragnsells.se
 @@||rehabs.com^*/xicons_social_sprite_400x60.png
 @@||roofandfloor.com/listing_$image,~third-party
 @@||russia-direct.org/custom_ajax/widget?*=300x250&$script
 @@||static-origin.openedition.org^*-120x240.jpg
-@@||stickam.com/wb/www/category/300x250/$image
 @@||swansuk.co.uk^*/300x250/$image,~third-party
 @@||target.122.2o7.net/b/ss/*_300x250_$image,domain=target.com
 @@||techpakistani.com/wp-content/uploads/*-300x100.$image
@@ -91,6 +95,7 @@
 @@||vortex.accuweather.com^*_300x250_bg.jpg
 @@||w3easy.org/templates/*_120x60.
 @@||w3easy.org/templates/*_120x60_
+@@||wavepc.pl/wp-content/*-500x100.png$image
 @@||weather.craven.net.au/weather/products/300x250.asp?$image
 @@||weatherbug.com/desktop-weather/*=728x90&
 @@||weatherbug.com/images/stickers/*/728x90/

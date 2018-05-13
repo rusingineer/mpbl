@@ -1,17 +1,18 @@
 ! German
 @@||a.visualrevenue.com/vrs.js$domain=t-online.de
 @@||a.wikia-beacon.com/__track/view?v=v1&c=*&lc=de&lid=62&x=devroniplag&y=$script,domain=vroniplag.wikia.com
-@@||ad.de.doubleclick.net/imp;$object-subrequest,domain=clipfish.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||ad.de.doubleclick.net/imp;$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adclear.teufel.de^*/acv?*&ms=http$image,domain=gewinnspiele.freenet.de
 @@||addicted-sports.com/piwik/piwik.js
+@@||adobedtm.com^*/satelliteLib-$script,domain=sbb.ch
 @@||alternate.de/js/emos2.js
+@@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=br.de
 @@||analytics.edgesuite.net/html5/akamaihtml5-min.js?$domain=ardmediathek.de
 @@||belboon.de/adtracking/$subdocument,domain=gutscheindoktor.de|preis-vergleich.tv|preismafia.com
 @@||belboon.de/clickout.php?$subdocument,domain=preis-vergleich.tv
 @@||billiger.de/js/emos2.js
 @@||btstatic.com/tag.js$domain=oralb.de
 @@||classistatic.de^*/hitcounter.js$domain=mobile.de
-@@||cloudfront.net/bugsnag-$script,domain=tvnow.de
 @@||code.etracker.com/t.js?et=$script,domain=apotheken-umschau.de|compo-hobby.de|diabetes-ratgeber.net|giz.de|kaguma.com|krombacher.de
 @@||computer-bild.de/imgs/*/Google-Analytics-$image,domain=computerbild.de
 @@||count.rtl.de/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -20,18 +21,21 @@
 @@||darmstadt.ui-traffic.de/mobile/webapp/bower_components/heatmap.js$domain=darmstadt.ui-traffic.de
 @@||eltern.de/min.php?*/clickTracking.js
 @@||email.1und1.de/appsuite/api/*/1and1_integration/tracking/tracking.js$domain=email.1und1.de
+@@||energy.de^*/ivw.js?$domain=energy.de
 @@||eventim.de/obj/global/feature/tagCommander/tc_header.min.$script
 @@||getgoods.de^*/emstrack.js
 @@||giga.de/wp-content/plugins/econa-stats/log/video-views/log.php?id=$object-subrequest
 @@||gls.de^*/emos2.js
+@@||google-analytics.com/analytics.js$domain=schweizerfleisch.ch
 @@||google-analytics.com/siteopt.js?$domain=chip.de
-@@||googletagmanager.com/gtm.js?$domain=finanzen.net
+@@||googletagmanager.com/gtm.js?$domain=bunte.de|finanzen.net
 @@||hach.de^*/emstrack.js
 @@||hammonline.de/statistik/piwik.js
 @@||hermesworld.com/tracking/urchin.js
 @@||heute.de/zdf/flash/eplayer/player.swf?*/cgi-bin/ivw/
+@@||honeybadger.io^*/honeybadger.min.js$domain=clark.de
 @@||hse24.de^*/emos2.js
-@@||imrworldwide.com/novms/*/ggcm*.js$domain=ndr.de
+@@||imrworldwide.com/novms/*/ggcm*.js$domain=ndr.de|tvnow.de|watchbox.de
 @@||ing-diba.de^*/sitestat.js
 @@||iocdn.coremetrics.com^*.js?V=$script,domain=adidas.de
 @@||iocdn.coremetrics.com^*/io_config.js?ts=$domain=adidas.de
@@ -41,6 +45,8 @@
 @@||ivwextern.prosieben.de^*/ivw_flashscript.php?$script
 @@||jetztspielen.de^*/EventTracker.js
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
+@@||ksta.de^*/api/tracking/service/ksta/templateclient.js$domain=ksta.de
+@@||ksta.de^*/tracking/tracking.js$domain=ksta.de
 @@||lablue.at/js/geo.php$~third-party,xmlhttprequest
 @@||lablue.de/js/geo.php$~third-party,xmlhttprequest
 @@||levexis.com/clients/planetsports/1.js$domain=planet-sports.de
@@ -62,6 +68,7 @@
 @@||scorecardresearch.com/crossdomain.xml$object-subrequest,domain=web.de
 @@||scorecardresearch.com/p?$object-subrequest,domain=web.de
 @@||sitestat.com/europcar/europcar-de/*&ns_url=http://microsite.europcar.com/deutschebahn/$subdocument,domain=bahn.de
+@@||skoda-auto.de^*/angulartics-google-analytics.min.js$domain=skoda-auto.de
 @@||sparkasse.de/if/resources/js/urchin.js
 @@||spatialbuzz.com/piwik/piwik.js$domain=spatialbuzz.com
 @@||spiegel.de/layout/js/http/netmind-$script
@@ -74,7 +81,6 @@
 @@||swr3.de/static/swrplayer/web/plugins/ivw/ivw.js
 @@||t-online.de/js/xtcore_t_online.js?$xmlhttprequest
 @@||thebrighttag.com/tag?site=$script,domain=oralb.de
-@@||tvnow.de/bugsnag-3.min.js
 @@||uim.tifbs.net/js/$script,domain=gewinnspiel.gmx.de|gewinnspiel.web.de|top.de
 @@||video.oms.eu/crossdomain.xml$object-subrequest,domain=badische-zeitung.de
 @@||video.oms.eu/projekt/download/OMSComponent.swf$object-subrequest,domain=badische-zeitung.de
@@ -85,17 +91,21 @@
 ! French
 @@||actiris.be/urchin.js
 @@||actiris.be^*/urchin.js
+@@||adobedtm.com^*/satelliteLib-$script,domain=icimusique.ca|laredoute.be|laredoute.ch|laredoute.fr|nrj.fr
 @@||adyoulike.omnitagjs.com^$script,domain=dl.free.fr
 @@||analytics.belgacom.be/tms/loader.js$domain=proximus.be
 @@||analytics.ladmedia.fr/parismatch/xtcore_mod2.js$domain=parismatch.com
 @@||boutiqueducourrier.laposte.fr/_ui/eboutique/scripts/xiti/part/xtcore.js
 @@||cache2.delvenetworks.com/crossdomain.xml$domain=lapresse.ca
 @@||cache2.delvenetworks.com/ps/c/v1/$object-subrequest,domain=lapresse.ca
-@@||cbc.ca/g/stats/videoheartbeat/v1/cbc-videoheartbeat.js$script,domain=radio-canada.ca
+@@||cdscdn.com/Js/external/tagcommander/tc_nav.js$domain=cdiscount.com
+@@||cmcm.com^*/googleanalytics.js
 @@||diwancorp.fr^*/angular-google-analytics.min.js
 @@||easypari.fr^*/sitestat.js
 @@||estat.com/js/$script,domain=francetvsport.fr
-@@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr
+@@||evidal.fr/scripts/stats/evidal/s_code.js
+@@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr|viandesuisse.ch
+@@||hello.distribeo.com/atconnect/*?duration=$script,domain=laposte.fr
 @@||leboncoin.fr/js/xiti.js
 @@||lesinrocks.com/min/?f=*/chartbeat.js
 @@||lprs1.fr/assets/js/lib/squid/smarttag.js$domain=leparisien.fr
@@ -106,9 +116,13 @@
 @@||orange.fr^*/wtinit.js
 @@||ricardocuisine.com/noel/js/google_analytics.js
 @@||rtl.be^*/vp_webanalytics.js?
+@@||script.ownpage.fr/v1/ownpage.js?$script,domain=lci.fr
 @@||sosh.fr^*/wtbase.js
 @@||sosh.fr^*/wtinit.js
 @@||stat.prsmedia.fr/tag/stat.js$domain=bienpublic.com
+@@||static.lci.fr/assets/scripts/common/tracker.js?$script,~third-party
+@@||tf1.fr/assets/js/build/lib/smarttag.js$domain=tf1.fr
+@@||tf1.fr/assets/js/build/lib/xiti.js$domain=tf1.fr
 @@||tv5.org/cms/javascript/*/sitestat.js
 @@||tv5monde.com/cms/javascript/*/sitestat.js
 @@||ubicast.tv/statics/mediaserver/player/statistics.js
@@ -118,6 +132,7 @@
 @@||amazonaws.com^*-google-analytics.js$domain=dcard.tw
 @@||aolcdn.com/js/mg2.js$domain=engadget.com
 @@||aolcdn.com/omniunih_int.js$domain=engadget.com
+@@||count.taobao.com^*_feedcount-$script
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
 @@||hk.on.cc/hk/bkn/hitcount/web/js/hitCount_$~third-party,xmlhttprequest
 @@||ijinshan.com/static/js/analyse.js
@@ -140,6 +155,9 @@
 @@||csfd.cz/log?
 @@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|sportrevue.cz|zive.cz
 ! Danish
+@@||adobedtm.com^*/satelliteLib-$script,domain=elgiganten.dk
+@@||advertisers.dk/wp-content/uploads/*/google-analytics-$image,domain=advertisers.dk
+@@||advertisers.dk/wp-content/uploads/*/google-analytics.$image,domain=advertisers.dk
 @@||bilka.dk/assets/ext/adobe/VisitorAPI.js
 @@||cxense.com/cx.js$domain=common.tv2.dk
 @@||dbastatic.dk/Content/scripts/analytics.js$script
@@ -158,6 +176,7 @@
 @@||vplayer.ilsemedia.nl/swf/im_player.swf?$object
 @@||vpro.nl/vpro/htmlplayer/0.3-snapshot/statcounter.js?
 ! Finnish
+@@||adobedtm.com^*/satelliteLib-$script,domain=gigantti.fi|markantalo.fi
 @@||emediate.se/EAS_tag*.js$domain=forssanlehti.fi
 @@||ensighten.com^*/Bootstrap.js$domain=mikrobitti.fi
 @@||googletagmanager.com/gtm.js?$domain=cdon.fi
@@ -165,15 +184,18 @@
 @@||hise.spring-tns.net^*^cp=$image,domain=hintaseuranta.fi
 @@||k-ruokakauppa.fi/fi/static/js/counter.js$domain=k-ruokakauppa.fi
 @@||lekane.net/lekane/dialogue-tracking.js$domain=sonera.fi
+@@||op.fi/creditcalculator/js/analytics.js?$script
+@@||qbrick.com^*/ga.min.js$domain=iltalehti.fi
 ! Greek
 @@||stats.e-go.gr/rx.asp?$object-subrequest,domain=megatv.com
 ! Hebrew
 @@||amazonaws.com/static.madlan.co.il/*/heatmap.json?$xmlhttprequest
+@@||cloudvideoplatform.com/scripts/WebAnalytics.js$script
 @@||googletagmanager.com/gtm.js?$domain=feex.co.il|reshet.tv
 @@||haaretz.co.il/logger/p.gif?$image,xmlhttprequest
-@@||haaretz.com/logger/p.gif?$image,xmlhttprequest
 @@||mixpanel.com/track/?data=$xmlhttprequest,domain=eloan.co.il
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=eloan.co.il
+@@||player.bizportal.co.il/scripts/GoogleAnalytics.js$domain=bizportal.co.il
 @@||player.flix.co.il/scripts/GoogleAnalytics.js
 @@||stats.g.doubleclick.net/dc.js$domain=reshet.tv
 @@||tapuz.co.il/general/dotomi/statistics.js?$~third-party
@@ -183,23 +205,29 @@
 ! Hungarian
 @@||argep.hu/googleanalytics.js
 @@||clicktale.net/WRc5.js$domain=telefonkonyv.hu
-@@||cloudfront.net/bugsnag-2.min.js$domain=miutcank.hu
 @@||rtl.hu/javascripts/UserTracking.js
+@@||rtl.hu^*/gemius_id.js?
 ! Italian
+@@||adobedtm.com^*/satelliteLib-$script,domain=laredoute.it
 @@||adobetag.com/d2/telecomitalia/live/Aggregato119TIM.js$domain=tim.it
 @@||androidgalaxys.net/wp-content/plugins/*/google-analyticator/$script
 @@||beppegrillo.it/mt-static/js/ga_social_tracking.js
 @@||codicebusiness.shinystat.com/cgi-bin/getcod.cgi?$script,domain=grazia.it|panorama-auto.it|panorama.it
 @@||codicefl.shinystat.com/cgi-bin/getserver.cgi?$script,domain=3bmeteo.com|quotidiano.net|radioitalia.it
 @@||codicefl.shinystat.com/cgi-bin/getswf.cgi?*PolymediaShow$object-subrequest,domain=corriereadriatico.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
-@@||corriereobjects.it^*/tracking/s_code.js
-@@||corriereobjects.it^*/tracking/TrackFunctions.js
-@@||imrworldwide.com/novms/*/ggcm*.js$domain=la7.it|sky.it
+@@||ensighten.com^*/Bootstrap.js$domain=williamhill.it
+@@||google-analytics.com/analytics.js$domain=carnesvizzera.ch
+@@||googletagmanager.com/gtm.js?$domain=la7.it
+@@||imrworldwide.com/novms/*/ggcm*.js$domain=la7.it|sky.it|video.corriere.it
 @@||imrworldwide.com/v60.js$domain=corriereadriatico.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
+@@||kataweb.it/wt/wt.js?http$domain=video.repubblica.it
 @@||lastampa.it/modulo/tracciatori/js/nielsen.js
 @@||maxmind.com^*/geoip.js$domain=sportube.tv
+@@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=vodafone.it
 @@||paginegialle.it/js/shinystat.js
+@@||panorama.it/wp-content/themes/panorama/js/google-nielsen-analytics.js?
 @@||repstatic.it^*/Nielsen.js
+@@||scripts.repubblica.it/pw/pw.js?deskurl=$domain=messaggeroveneto.gelocal.it
 @@||timvision.it/libs/fingerprint/fingerprint.js
 @@||tiscali.it/js/webtrends/$script,domain=mail.tiscali.it
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it|ubibanca.com
@@ -208,48 +236,72 @@
 ! Indonesian
 @@||detik.com/urchin.js
 ! Japanese
+@@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
 @@||chancro.jp/assets/lib/googleanalytics-$script
+! Korean
+@@||naver.net/wcslog.js$domain=m.tv.naver.com
 ! Latvian
 @@/webtracking/*$domain=pasts.lv
+@@||eveselibaspunkts.lv/js/global/fingerprint2.min.js?
+@@||gemius.pl/gplayer.js$domain=skaties.lv
+@@||gjensidige.lv/Content/dev/scripts/analytics.js
+@@||gjensidige.lv/Content/dev/scripts/analytics.min.js
 @@||google-analytics.com/analytics.js$domain=skaties.lv
 ! Norwegian
+@@||adobedtm.com^*/satelliteLib-$script,domain=elkjop.no
 @@||cloudfront.net/autoTracker.min.js$domain=direkte.vg.no
 @@||google-analytics.com/analytics.js$domain=tv3play.no
 ! Polish
+@@||adobedtm.com^*/satelliteLib-$script,domain=laredoute.pl
 @@||gemius.pl/gstream.js
 @@||kropka.onet.pl^*/onet.js$domain=tvnwarszawa.pl
+@@||login.ingbank.pl^*/satelliteLib-$script
 @@||ninja.onap.io/ninja-cee.js$domain=olx.pl
+@@||olx.pl^*/js/tracking/ninja.js$domain=olx.pl
 @@||stat24.com/crossdomain.xml$domain=ipla.tv
 @@||wp.pl^*/dot.gif?$xmlhttprequest,domain=open.fm|wp.tv
 ! Portuguese
 @@||77.91.202.130/js/20050/xiti.js$domain=custojusto.pt
+@@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.br|laredoute.pt
 @@||chiptec.net/skin/*/GoogleAnalyticsPlus/$script
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/IbtRealTimeSJ/IbtRealTimeSJ.js?$domain=social.economico.pt
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/IbtRealTimeSJ/IbtRealTimeSJCore.js?$domain=social.economico.pt
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/ortc.js$domain=social.economico.pt
 @@||google-analytics.com/urchin.js$domain=record.xl.pt
-@@||googletagmanager.com/gtm.js?$domain=netcombo.com.br|tugatech.com.pt
+@@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|tugatech.com.pt
+@@||habibs.com.br/build/assets/js/tracking.js$domain=habibs.com.br
 @@||hit.gemius.pl/xlgemius.js$script,domain=ojogo.pt
+@@||jsonip.com/?callback=$script,domain=pagtel.com.br
 @@||laredoute.pt/js/byside_webcare.js
 @@||marktest.pt/netscope-gemius.js$script,domain=ojogo.pt
 @@||nostv.pt^*/angulartics-google-analytics.js?
 @@||siteapps.com^$script,domain=netcombo.com.br
 @@||stats.g.doubleclick.net/dc.js$domain=netcombo.com.br
-! Indian
-@@||playwire.com/bolt/js/zeus/$script,domain=desi-tashan.com
 ! Romanian
 @@||homebank.ro/public/HomeBankLogin/js/fingerprint/fingerprint.js
 ! Russian
+@@||adobedtm.com^*/satelliteLib-$script,domain=laredoute.ru
 @@||afisha.ru/proxy/videonetworkproxy.ashx?$xmlhttprequest
+@@||alfadirect.ru/api/analytics/latest?$~third-party,xmlhttprequest
+@@||boxberry.ru/bitrix/templates/main.adaptive/js/tracking.js
+@@||boxberry.ru/tracking.service/
+@@||crazypanda.ru/m/js/social-$script,domain=crazypanda.ru
+@@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
 @@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru
 @@||google-analytics.com/ga.js$domain=carambatv.ru
+@@||googletagmanager.com/gtm.js?$domain=sportmaster.ru
 @@||itv.1tv.ru/stat.php?
 @@||k12-company.ru^*/statistics.js$script
 @@||labrc.pw/advstats/$xmlhttprequest
 @@||matchid.adfox.yandex.ru/?url=$script,domain=ctc.ru
 @@||megafon.ru/static/?files=*/tealeaf.js
+@@||mts.ru/app/vendor/angular-google-analytics.min.js
+@@||online.bcs.ru^*/piwik.bcs.js$script
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
+@@||player.vgtrk.com/js/stat.js?
+@@||ssp.rambler.ru/acp/capirs_main.$script,domain=afisha.ru
+@@||ssp.rambler.ru/capirs.js$domain=afisha.ru
 @@||swa.mail.ru/cgi-bin/counters?$script
 @@||wargag.ru/public/js/counter.js?
 @@||widget.myrentacar.me^$script,subdocument
@@ -258,11 +310,21 @@
 @@||yandex.ru/webvisor/$xmlhttprequest,domain=anoncer.net
 ! Spanish
 @@||acb.com/javascripts/jv_feeder_stats.js
+@@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.ar|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|laredoute.es
+@@||ara.cat/static/BB3Core/images/pixel.gif?hash=$image,domain=ara.cat
 @@||c5n.com^*/angulartics-google-analytics.min.js
+@@||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com
+@@||eldiario.es/static/BBTCore/images/pixel.gif?hash=$image,domain=eldiario.es
 @@||estafeta.com/shared/js/tracking.js
+@@||gruposantander.es^*/scripts/log.js
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
+@@||playty.com/bower_components/angulartics-google-analytics/dist/angulartics-ga.min.js
+@@||portalbici.es/lib/angulartics-google-analytics/dist/angulartics-ga.min.js
 @@||segundamano.mx^*/tealium.js
+@@||vodgc.net/js/genoa-event-tracking.min.js
 ! Swedish
+@@||adobedtm.com^*/satelliteLib-$script,domain=elgiganten.se
+@@||burt.io^$script,domain=gp.se
 @@||google-analytics.com/analytics.js$domain=tradera.com|xxl.se
 @@||google-analytics.com/plugins/ua/ec.js$domain=xxl.se
 @@||googletagmanager.com/gtm.js?id=$domain=tradera.com|xxl.se
@@ -279,5 +341,6 @@
 @@||bemobile.ua/lib/lib.js$domain=tsn.ua
 @@||gemius.pl/gplayer.js$domain=tsn.ua
 @@||uaprom.net/image/blank.gif?$image
+@@||ukrposhta.ua/js/tracking.js
 ! Anti-Adblock
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
