@@ -1,9 +1,10 @@
 [Adblock Plus 1.1]
-! Checksum: OZLJC0hPV5OS1ZzlI+Hytg
+! Checksum: 80ISzJXSG5hOjsL+pyNdMg
 ! Title: Fanboy's Turkish
-! Updated: 19 Feb 2017
+! Updated: 17 Dec 2019
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: http://www.fanboy.co.nz/
+! Expires: 90 days
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!! Officially unsupported !!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -584,7 +585,6 @@ dizilab.com##A[href][rel="nofollow"][style][target="_blank"]
 dizilab.com##DIV[style="text-align: center; height: 90px; margin-bottom: 15px;"]
 diziport.com###reklam300
 donanimhaber.com###DHTEXT
-donanimhaber.com###Table2
 donanimhaber.com##.cat[bgcolor="F1F1F1"]
 donanimhaber.com##[width="135"]
 donanimhaber.com##td[align="right"][width="125"]
@@ -614,7 +614,6 @@ enguzelpornolarii.biz##div[style="width:201px; height:116px; position:fixed; bot
 eniyifilmizle.com##div[id^="reklam"]
 etutodasi.biz##span[style="margin: 10px; float: left; width: 301px; height: 251px;"]
 fanatik.com.tr##.linksHead
-forum.donanimhaber.com.tr###Table5
 forumgaleri.com,sinesalon.com,zehirli.net###tamindir_topbar
 fotospor.com###logoaltinew_banner
 fotospor.com##.module-hilite2a

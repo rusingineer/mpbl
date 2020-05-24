@@ -1,1 +1,1 @@
-Gythialy's List
+Gythialy's List https://github.com/gythialy/chinalist

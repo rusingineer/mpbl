@@ -5,12 +5,11 @@ newrezume.org###all > #popup
 newrezume.org###all > div[style="padding:1px;width:100%"]
 bankdirect.pro###bdp_ad_container
 bankdirect.pro###bdp_shadow
-hdkinoshka.net,kino-go.co,timeallnews.ru###bg_popup
-goblin-online.ru###bg_popup-social
+hdkinoshka.net,timeallnews.ru###bg_popup
 theonion.ru###bodypopup
-062.in.ua,062.in.ua.,goodhouse.ru###cboxOverlay
+062.in.ua,062.in.ua.,goodhouse.ru,samsebevoin.ru###cboxOverlay
 fishki.net###chrome_popup
-062.in.ua,062.in.ua.,dnepr24.com.ua,gazeta.zp.ua,goodhouse.ru,kherson.net.ua,kr24.com.ua,nikolaev24.com.ua,odessa.net.ua###colorbox
+062.in.ua,062.in.ua.,dnepr24.com.ua,gazeta.zp.ua,goodhouse.ru,kherson.net.ua,kr24.com.ua,nikolaev24.com.ua,odessa.net.ua,samsebevoin.ru###colorbox
 tengrinews.kz###container > div[id^="search_"]
 olx.ua###div-gpt-listing-full-screen-container
 gitarkin.ru###dropin
@@ -23,7 +22,7 @@ sovkusom.ru###facebook_popup
 porjati.ru###facebook_videoboom
 davichto.ru,vashapanda.ru###facebookpopup-fanback
 galinfo.com.ua,vgolos.com.ua###fader
-cinema-hd.ru,mult-online.net,tvnet.lv###fancybox-overlay
+megomult.ru,mult-online.net,tvnet.lv###fancybox-overlay
 tvnet.lv###fancybox-wrap
 econet.ru,formulalubvi.com,humor.fm###fb-popup
 humor.fm###fb-popup-bg
@@ -33,21 +32,22 @@ ok.ru###hook_Block_TopContent
 turkca.0pk.ru###hoverprompt
 games-on-pc.ru###html-footer > .container > :not(center)
 gazeta-severny.ru,morediva.ru,navkolonas.com,video.az,vseprynosti.ru,zdrava2015.net.ua###js-dialog-social-overlay
-lifehacker.ru###lh-facebook-popup__root
-lifehacker.ru###lh_fullscreen_sub__root
+versii.if.ua###lightb_fb_page_like_baner,.overlay_fon
+inforeactor.ru###like_box
 galinfo.com.ua,kurs.if.ua,vgolos.com.ua###likesplash
-torrent-filmi.net###loading
+torrent-filmi.net,torrent-filmi.xyz###loading
 tackler.ru###mask
 tvrain.ru###milk
+funtik.tv,magicfilm.net###mod_fav
 dt.ua,zn.ua###modal_window
 autocad-master.ru###myID
 delfi.lv###nagger-wrap
+clubvolvo.ru###notices > ol
 hetaqrqire.ru###onload_popup
 dentaltechnic.info,itcrumbs.ru,life.ck.ua###openModal
 blogspot.com###overlay
-gorod.cn.ua###overlay-soc
+mynizhyn.com###overlay-soc,#socials_popup
 dt.ua,zn.ua###overlay_fb_modal
-onlinegdz.net###page > .share
 vinbazar.com###parent-popup
 bigkiev.com.ua,flb.ru,kaifzona.ru,shkolapola.ru,sovsekretno.ru,xhamster-pic.com,znaj.ua,zvamynews.blogspot.com###parent_popup
 easypronunciation.com###please_share
@@ -56,10 +56,10 @@ amn.com.ua###popmake-overlay
 tvrain.ru###popup
 pinu.com.ua###popup-message-background
 pinu.com.ua###popup-message-window
+novostionline.net###popup-wrap
 womansay.net###popup.modal-box
 advis.ru###popup3
 cluber.com.ua,dictat.net,fithacker.ru,megatest.online,storyfox.ru###popup_bg
-rbc.ru,rbcdaily.ru,utro.ru###popup_box
 muz-tv.ru###popup_overlay
 funnymir.net,intersnoznat.ru###popupwindow
 rusmonitor.com###ppsPopupBgOverlay
@@ -79,12 +79,13 @@ charter97.org###smo_modal
 via-midgard.info###snsocial_modal_jic
 sport-express.ru###socgroup
 edablog.ru,inforesist.org###social-community-popup
+muz-tv.ru###social_popup_window
 062.in.ua,062.in.ua.###socialpopup
-gorod.cn.ua###socials_popup
 audiobook.rmail.pro###somewin
 mul-tor.ru###stickymsg
 lentainform.com###subscribeForm
 macilove.com###subscribePopup
+rebenok.by###testWarp
 wildo.ru###vk_wiget_popup
 sdelalremont.ru###wbounce-modal
 fit4brain.com###welcomepopup_overlay
@@ -95,8 +96,8 @@ bugaga.ru,funpress.ru###z_social
 bugaga.ru,funpress.ru###z_socialBg
 glavbukh.ru##.GbShadow
 all.biz##.ab-fade
-film.ru,piratbit.net##.arcticmodal-container
-film.ru,piratbit.net##.arcticmodal-overlay
+film.ru##.arcticmodal-container
+film.ru##.arcticmodal-overlay
 esetnod32.ru##.b-fade
 pdalife.ru##.b-mask
 esetnod32.ru##.b-mdl
@@ -105,24 +106,22 @@ tvc.ru##.b-overlay-soc
 izum.ua,pdalife.ru##.b-popup
 takiedela.ru##.b-social-popup
 vashgorod.ru##.c-popup
+games-two.su##.ckf-box
 reaction.org.ua##.cp-modal-popup-container
 jurnalu.ru##.demo
-onlinemultfilmy.ru##.dialog-bg
 trashbox.ru##.div_modal_like
 elhow.ru##.extra-banner
 great.az##.facebook-bg,.facebook-window
 sovsport.ru,teleprogramma.pro##.facebook-bn_site-overlay
 nur.kz##.facebook__modal
 advis.ru,xakep.ru##.fancybox-overlay
-cinema-hd.ru,mult-online.net,xakep.ru##.fancybox-wrap
+fedpress.ru,megomult.ru,mult-online.net,xakep.ru##.fancybox-wrap
 cosmo.ru##.fb-popup-overlay
 milliarderr.com##.fb-window-wrap
 championat.asia##.fbOverlay
+iguides.ru##.fly-button
 lingvo.ua##.g-popup-bg
 brutaljack.ru##.in.fade.modal
-kanobu.ru##.informer-popup
-maxpark.com##.innerActsWrapper
-maxpark.com##.innerOverlay
 voprosov-net.ru##.isShow.popup
 justcoolidea.ru##.is_visible.like_wall
 wildberries.ru##.jqmOverlay
@@ -136,8 +135,8 @@ krugo.ru##.lwsoc
 ##.min-width-normal > #popup_container ~ #fade
 top.thepo.st##.modal-backdrop
 svadbavo.ru##.modal-baner + .mask,.modal-baner
+wotexpress.info##.modal-block-hide-twitch
 womenzone.org##.modalFacebook
-kinokong.net##.no_ampr
 videokaif.ru##.onp-sl-overlap-background
 arduino-project.net,mirkrasoty.life,women-page.ru##.onp-sl-overlap-box
 online-fotoshop.ru,videokaif.ru##.onp-sl-overlap-locker-box
@@ -155,24 +154,26 @@ lolzona.ru##.stb-container
 sravni.ru##.subscription-popup
 sputnikipogrom.com##.tp-overlay
 povar.ru##.vk.soc-banner
+f1comp.ru##.webnavoz_notificationbox
 blogspot.ru##.widget-content > #overlay
-rbc.ru##.win-subscribe-popup-box
+inforeactor.ru##.yandex-widget
 /build/js/base-modal-*.js|$script,domain=interesno.cc|obaldenno.com|pomada.cc|prikolno.cc
 /build/js/popup-*js|$script,domain=obaldenno.com|pomada.cc
 /chat_box.$domain=kinogo720p.org|kinozubr.net
 /eagle.autostart.$script,domain=gazeta.ru|lenta.ru|rambler.ru
-/easy-social-share-$script,domain=101covet.com
 /facebook_popup.js$script,domain=study.ru
-/jquery.arcticmodal$script,stylesheet,domain=dokpro.club|iz.com.ua|smiruponitke.info|stranadetstva.ru|sud.ua
+/jquery.arcticmodal$script,stylesheet,domain=amedia.online|dokpro.club|iz.com.ua|rusvesna.su|smiruponitke.info|stranadetstva.ru|sud.ua
 /jquery.simplemodal.js$script,domain=holod72.ru|xn--80aa4argm.xn--p1ai|партак.рф
 /plugins/wordpress-popup/*$~stylesheet,domain=o-nedvizhke.ru
-/plusonet$script,domain=bigcinema-hd.tv|electorat.info|ironfriends.ru
+/plusonet$script,domain=bigcinema-hd.tv|electorat.info|gipnomag.ru|ironfriends.ru
+/proxy/check/popup/popup.js$domain=xn--90adear.xn--p1ai|гибдд.рф
 /smart-facebook-page-like-overlay-pro/$domain=coocook.me|ekola2015.net.ua
 /sociallocker-$domain=online-fotoshop.ru|reaction.org.ua|samiysok.com|sshut.ru|videokaif.ru
 /wp-content/plugins/*jqModal$script,stylesheet,domain=akvus35.ru|lenovo-smart.ru
 /wp-content/plugins/my-popup/$domain=aeslib.ru|interesnoiveselo.ru
-/wp-content/plugins/popup$domain=bbcccnn.com.ua|davichto.ru|de-facto.cc|elise.com.ua|happymodern.ru|ifyouknow.ru|info-life.in.ua|intermarium.com.ua|nl24.in.ua|online-mahjong.net|paragraf.net.ua|rusmonitor.com|serfery.ru|svoimi-rykami.ru|tvoy-smartphone.com|uanews24.info|unn24.com.ua|v7v7v7.com|varota.com.ua|yodnews.ru|zvistka24.in.ua
+/wp-content/plugins/popup$domain=bbcccnn.com.ua|davichto.ru|de-facto.cc|elise.com.ua|happymodern.ru|ifyouknow.ru|info-life.in.ua|intermarium.com.ua|nl24.in.ua|online-mahjong.net|paragraf.net.ua|rusmonitor.com|serfery.ru|svoimi-rykami.ru|tvoy-smartphone.com|uanews24.info|unn24.com.ua|varota.com.ua|yodnews.ru|zvistka24.in.ua
 /wp-content/plugins/smart-facebook-page-like$domain=gazeta-severny.ru|morediva.ru|vseprynosti.ru|zdrava2015.net.ua
+/wp-content/plugins/socialer/$domain=podelki-doma.ru|psysovet24.ru
 9111.ru##[id^="site-welcome"]
 profbuh8.ru##body > #TB_overlay,body > #TB_window
 gavag.ru##body > #bodypopup
@@ -189,11 +190,10 @@ liga.net##body > .show.overlay
 bs-life.ru##body > .ui-widget.ui-dialog
 dowlatow.ru##body > .wid-fb
 gosvopros.ru##body > div[class$="-subscr"]
-onlinemultfilmy.ru##body > div[class*="dialog-"]
 factroom.ru##body > div[class^="facebook-"]
-dom25.tv##body > div[class^="modal"][class*="fade"]
 roscontrol.com##body > div[class^="promo"]
 bomba.co##body > div[class^="remodal"]
+ladyclub.org##body > div[class^="revelation"]
 zismo.biz##body > div[class^="simplemodal"]
 moypodval.ru##body > div[class^="tccSm"]
 professionali.ru##body > div[data-control="dialog"]
@@ -201,20 +201,19 @@ pollee.org##body > div[data-mg-c]
 glianec.com##body > div[id$="Media"][style*="display: block"]
 kinogo-720.co,kinogo720p.org,kinozubr.net##body > div[id][class*="box"]
 tonnews.ru##body > div[id^="fancybox"]
-euro-football.ru##body > div[id^="fancybox-"]
 supertabak.ru##body > div[id^="jBox"]
 ruskline.ru##body > div[id^="money"]
 dnpmag.com,trendymen.ru##body > div[id^="popup-"]
+daz3d.ru##body > span[id^="s"][style]
 pinterest.com##div[class*="ScreenBanner"]
 snob.ru##div[class*="popup-eventSubscribe"]
 muzofon.com##div[class*="simplemodal"]
 5sfer.com##div[class^="charlotte-"]
 kinodub.tv,ufacitynews.ru##div[class^="mfp-"]
-aeslib.ru,interesnoiveselo.ru##div[class^="mypopup"]
+aeslib.ru,interesnoiveselo.ru,vkazivka.com##div[class^="mypopup"]
 shkolapola.ru##div[class^="popmake"]
 simplewine.ru##div[class^="popup"]
-mail.ru##div[class^="rb"][class*="notify"]
-comments.ua,davichto.ru,ifyouknow.ru,lechenieus-varikozus.ru,online-mahjong.net,politeka.net,v7v7v7.com,vashapanda.ru,yodnews.ru##div[class^="spu-"]
+comments.ua,davichto.ru,ifyouknow.ru,online-mahjong.net,politeka.net,vashapanda.ru,yodnews.ru##div[class^="spu-"]
 rutvet.ru##div[data-type="anti-abp"]
 kinobb.net##div[id$="odalWin"]
 pornhub.com##div[id^="age-verification"]
@@ -228,6 +227,7 @@ amn.com.ua##div[id^="popmake"]
 izvestia.ru##div[style*="/popup-banner/"]
 kurs.if.ua##iframe[src="/init.htm"] ~ #fader
 inforesist.org##tqwidget[style^="position: fixed"]
+||5skyrim.com/js/showcur.js
 ||alibabaru.com/wp-content/plugins/elegance-modal-box/
 ||api.traq.li^$domain=champion.com.ua|epravda.com.ua|eurointegration.com.ua|pravda.com.ua
 ||autonews.com.ua/modalwin$script,stylesheet
@@ -238,8 +238,6 @@ inforesist.org##tqwidget[style^="position: fixed"]
 ||citysmileorg.push.world/
 ||comprofit.ru/popup/
 ||computer-genius.ru/wp-content/plugins/subscribermagnet/$script
-||connect.facebook.net/ru_RU/sdk.js$script,domain=the-fun.tv
-||crashkino.net/femf*.js
 ||creu.ru/wp-content/plugins/adv-popup-plugin/
 ||dailyhoro.ru/static/subscription/
 ||davichto.ru/wp-content/plugins/like-fb/
@@ -247,10 +245,10 @@ inforesist.org##tqwidget[style^="position: fixed"]
 ||dopestory.ru/wp-content/themes/yelly/Popup/
 ||dsvload.net/engine/modules/ed-shortbar/
 ||eventsfolder.ru/templates/ef/js/lockers-ru$script
-||exfs.to^*/pandalocker.
 ||factsinter.com/wp-content/plugins/custom-fan-gate-plugin/
 ||fishing-mr.ru/modal/
 ||free-software.com.ua/wp-content/plugins/fancybox-for-wordpress/
+||galka.if.ua/wp-content/plugins/itro-popup/
 ||gdz-free.ru/files/stuHover$script
 ||gidmed.com/wp-content/plugins/social-community-popup/
 ||glazey.info/template/js/popup-mail.js$script
@@ -280,20 +278,21 @@ inforesist.org##tqwidget[style^="position: fixed"]
 ||myfishka.com/templates/js/jquery.smartbanner.js$script
 ||ndv.ru/css/callback-fix.css
 ||nlo-mir.ru/templates/nlo-mir/js/jquery.modal.min.js
+||nurtv.kz^$script,xmlhttprequest,domain=www.nur.kz
 ||ofigenno.com/js/social$script
 ||photo-monster.ru/plugins/subscribermagnet/
-||podelki-doma.ru/wp-content/plugins/socialer/
 ||podrobnosti.ua/js/jqModal.js
 ||popupfiles.makedreamprofits$third-party
 ||posobaby.com/wp-content/plugins/social-community-popup/
 ||pravda.press^*/custom-fan-gate/
 ||pravpiter.ru/splash_wind/s_dialog/
-||psjailbreak.ru/q5vmdu3.js
 ||radioroks.ua^$domain=megatrack.top
 ||reaction.org.ua/wp-content/plugins/convertplug/modules/modal/
 ||riafan.ru/template/pc/assets/*popUp$script,stylesheet
+||russia.tv/js/modules/social-subscriber.js
 ||sendpulse.com^$domain=reaction.org.ua
 ||shokru.com/wp-content/plugins/elegance-modal-box/
+||sim-portal.ru/jfbe7r9.js
 ||slovoidilo.ua/cp/css/reminder.css$stylesheet
 ||sovkusom.ru/wp-content/plugins/as-social-popup/
 ||static.riafan.ru/assets/js/push.js
@@ -309,7 +308,6 @@ inforesist.org##tqwidget[style^="position: fixed"]
 ||unn.com.ua^*/jqModal.
 ||usocial.pro/usocial/usocial.pp$script,domain=informburo.kz
 ||vashapanda.ru/wp-content/plugins/like-fb/
-||viks.tv/templates/Default/js/soclock.js
 ||visagistprofi.ru/wp-content/plugins/wpt-tea-coffee-dance/
 ||vitaportal.ru^*/new_popup$script,stylesheet
 ||web2edu.ru/script/leaves.js
@@ -321,3 +319,4 @@ inforesist.org##tqwidget[style^="position: fixed"]
 ||xvatit.com/fbxv/
 ||yablyk.com/wp-content/plugins/facebook-page-promoter-lightbox/
 ||yandex.ru/browser-updater/
+||youtube.com/embed/*youtebem.com&widgetid=$domain=youtebem.com
