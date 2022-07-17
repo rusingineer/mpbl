@@ -16,7 +16,7 @@
 %include easylist:easylist/easylist_general_block_popup.txt%
 !------------------------General element hiding rules-------------------------!
 %include easylist:easylist/easylist_general_hide.txt%
-%include easylist:easylist/easylist_whitelist_general_hide.txt%
+%include easylist:easylist/easylist_allowlist_general_hide.txt%
 !---------------------------Third-party advertisers---------------------------!
 %include easylist:easylist/easylist_adservers.txt%
 %include easylist:easylist/easylist_adservers_popup.txt%
@@ -34,13 +34,31 @@
 %include easylist:easylist_adult/adult_specific_block_popup.txt%
 !------------------------Specific element hiding rules------------------------!
 %include easylist:easylist/easylist_specific_hide.txt%
+%include easylist:easylist/easylist_specific_hide_abp.txt%
 %include easylist:easylist_adult/adult_specific_hide.txt%
-!-----------------------Whitelists to fix broken sites------------------------!
-%include easylist:easylist/easylist_whitelist.txt%
-%include easylist:easylist/easylist_whitelist_dimensions.txt%
-%include easylist:easylist/easylist_whitelist_popup.txt%
-%include easylist:easylist_adult/adult_whitelist.txt%
-%include easylist:easylist_adult/adult_whitelist_popup.txt%
+!-----------------------Allowlists to fix broken sites------------------------!
+%include easylist:easylist/easylist_allowlist.txt%
+%include easylist:easylist/easylist_allowlist_dimensions.txt%
+%include easylist:easylist/easylist_allowlist_popup.txt%
+%include easylist:easylist_adult/adult_allowlist.txt%
+%include easylist:easylist_adult/adult_allowlist_popup.txt%
+!--------------------------General blocking rules-----------------------------!
+%include easylist:easylist_cookie/easylist_cookie_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include easylist:easylist_cookie/easylist_cookie_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include easylist:easylist_cookie/easylist_cookie_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include easylist:easylist_cookie/easylist_cookie_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include easylist:easylist_cookie/easylist_cookie_specific_hide.txt%
+%include easylist:easylist_cookie/easylist_cookie_specific_ABP.txt%
+!------------------------Rules for international sites------------------------!
+%include easylist:easylist_cookie/easylist_cookie_international_specific_hide.txt%
+%include easylist:easylist_cookie/easylist_cookie_international_specific_block.txt%
+!---------------------------------Allowlists----------------------------------!
+%include easylist:easylist_cookie/easylist_cookie_allowlist_general_hide.txt%
+%include easylist:easylist_cookie/easylist_cookie_allowlist.txt%
 !-----------------General tracking systems-----------------!
 %include easylist:easyprivacy/easyprivacy_general.txt%
 !-----------------Third-party tracking domains-----------------!
@@ -53,66 +71,65 @@
 %include easylist:easyprivacy/easyprivacy_thirdparty_international.txt%
 !-----------------Individual tracking systems-----------------!
 %include easylist:easyprivacy/easyprivacy_specific.txt%
+!-----------------Individual cname tracking systems-----------------!
+%include easylist:easyprivacy/easyprivacy_specific_cname.txt%
 !-----------------International individual tracking systems-----------------!
 %include easylist:easyprivacy/easyprivacy_specific_international.txt%
-!-----------------------Whitelists to fix broken sites------------------------!
-%include easylist:easyprivacy/easyprivacy_whitelist.txt%
-!----------------Whitelists to fix broken international sites-----------------!
-%include easylist:easyprivacy/easyprivacy_whitelist_international.txt%
+!-----------------------Allowlists to fix broken sites------------------------!
+%include easylist:easyprivacy/easyprivacy_allowlist.txt%
+!----------------Allowlists to fix broken international sites-----------------!
+%include easylist:easyprivacy/easyprivacy_allowlist_international.txt%
 !--------------------------General blocking rules-----------------------------!
 %include easylist:fanboy-addon/fanboy_annoyance_general_block.txt%
+%include easylist:fanboy-addon/fanboy_notifications_general_block.txt%
+%include easylist:fanboy-addon/fanboy_newsletter_general_block.txt%
 %include easylist:fanboy-addon/fanboy_social_general_block.txt%
+%include easylist:easylist_cookie/easylist_cookie_general_block.txt%
 !------------------------General element hiding rules-------------------------!
 %include easylist:fanboy-addon/fanboy_annoyance_general_hide.txt%
+%include easylist:fanboy-addon/fanboy_notifications_general_hide.txt%
+%include easylist:fanboy-addon/fanboy_newsletter_general_hide.txt%
 %include easylist:fanboy-addon/fanboy_social_general_hide.txt%
+%include easylist:easylist_cookie/easylist_cookie_general_hide.txt%
 !-------------------------Third-party blocking rules--------------------------!
 %include easylist:fanboy-addon/fanboy_annoyance_thirdparty.txt%
+%include easylist:fanboy-addon/fanboy_notifications_thirdparty.txt%
+%include easylist:fanboy-addon/fanboy_newsletter_thirdparty.txt%
 %include easylist:fanboy-addon/fanboy_social_thirdparty.txt%
+%include easylist:fanboy-addon/fanboy_sounds_thirdparty.txt%
+%include easylist:easylist_cookie/easylist_cookie_thirdparty.txt%
 !--------------------------Specific blocking filters--------------------------!
 %include easylist:fanboy-addon/fanboy_annoyance_specific_block.txt%
+%include easylist:fanboy-addon/fanboy_notifications_specific_block.txt%
+%include easylist:fanboy-addon/fanboy_newsletter_specific_block.txt%
 %include easylist:fanboy-addon/fanboy_social_specific_block.txt%
+%include easylist:easylist_cookie/easylist_cookie_specific_block.txt%
 !------------------------Specific element hiding rules------------------------!
 %include easylist:fanboy-addon/fanboy_annoyance_specific_hide.txt%
+%include easylist:fanboy-addon/fanboy_notifications_specific_hide.txt%
+%include easylist:fanboy-addon/fanboy_newsletter_specific_hide.txt%
+%include easylist:fanboy-addon/fanboy_newsletter_specific_ABP.txt%
 %include easylist:fanboy-addon/fanboy_social_specific_hide.txt%
+%include easylist:easylist_cookie/easylist_cookie_specific_hide.txt%
+%include easylist:easylist_cookie/easylist_cookie_specific_ABP.txt%
 !------------------------Rules for international sites------------------------!
 %include easylist:fanboy-addon/fanboy_annoyance_international.txt%
 %include easylist:fanboy-addon/fanboy_social_international.txt%
-!---------------------------------Whitelists----------------------------------!
-%include easylist:fanboy-addon/fanboy_annoyance_whitelist_general_hide.txt%
-%include easylist:fanboy-addon/fanboy_social_whitelist_general_hide.txt%
-%include easylist:fanboy-addon/fanboy_annoyance_whitelist.txt%
-%include easylist:fanboy-addon/fanboy_social_whitelist.txt%
-!--------------------------General blocking rules-----------------------------!
-%include easylist:fanboy-addon/fanboy_social_general_block.txt%
-!------------------------General element hiding rules-------------------------!
-%include easylist:fanboy-addon/fanboy_social_general_hide.txt%
-!-------------------------Third-party blocking rules--------------------------!
-%include easylist:fanboy-addon/fanboy_social_thirdparty.txt%
-!--------------------------Specific blocking filters--------------------------!
-%include easylist:fanboy-addon/fanboy_social_specific_block.txt%
-!------------------------Specific element hiding rules------------------------!
-%include easylist:fanboy-addon/fanboy_social_specific_hide.txt%
-!------------------------Rules for international sites------------------------!
-%include easylist:fanboy-addon/fanboy_social_international.txt%
-!---------------------------------Whitelists----------------------------------!
-%include easylist:fanboy-addon/fanboy_social_whitelist_general_hide.txt%
-%include easylist:fanboy-addon/fanboy_social_whitelist.txt%
-!--------------------------General blocking rules-----------------------------!
-%include easylist:easylist_cookie/easylist_cookie_general_block.txt%
-!------------------------General element hiding rules-------------------------!
-%include easylist:easylist_cookie/easylist_cookie_general_hide.txt%
-!-------------------------Third-party blocking rules--------------------------!
-%include easylist:easylist_cookie/easylist_cookie_thirdparty.txt%
-!--------------------------Specific blocking filters--------------------------!
-%include easylist:easylist_cookie/easylist_cookie_specific_block.txt%
-!------------------------Specific element hiding rules------------------------!
-%include easylist:easylist_cookie/easylist_cookie_specific_hide.txt%
-!------------------------Rules for international sites------------------------!
+%include easylist:fanboy-addon/fanboy_newsletter_international_block.txt%
+%include easylist:fanboy-addon/fanboy_newsletter_international_hide.txt%
 %include easylist:easylist_cookie/easylist_cookie_international_specific_hide.txt%
 %include easylist:easylist_cookie/easylist_cookie_international_specific_block.txt%
-!---------------------------------Whitelists----------------------------------!
-%include easylist:easylist_cookie/easylist_cookie_whitelist_general_hide.txt%
-%include easylist:easylist_cookie/easylist_cookie_whitelist.txt%
+!---------------------------------Allowlists----------------------------------!
+%include easylist:fanboy-addon/fanboy_annoyance_allowlist_general_hide.txt%
+%include easylist:fanboy-addon/fanboy_notifications_allowlist_general_hide.txt%
+%include easylist:fanboy-addon/fanboy_social_allowlist_general_hide.txt%
+%include easylist:fanboy-addon/fanboy_newsletter_allowlist.txt%
+%include easylist:fanboy-addon/fanboy_newsletter_allowlist_general_hide.txt%
+%include easylist:easylist_cookie/easylist_cookie_allowlist_general_hide.txt%
+%include easylist:fanboy-addon/fanboy_annoyance_allowlist.txt%
+%include easylist:fanboy-addon/fanboy_notifications_allowlist.txt%
+%include easylist:easylist_cookie/easylist_cookie_allowlist.txt%
+%include easylist:fanboy-addon/fanboy_social_allowlist.txt%
 !-----------------------General advert blocking filters China-----------------!
 %include Gythialy:Gythialy-s-List/my_custom_list.txt%
 %include Gythialy:Gythialy-s-List/my_custom_list_hide.txt%

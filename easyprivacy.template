@@ -7,7 +7,7 @@
 !
 ! Please report any unblocked tracking or problems
 ! in the forums (https://forums.lanik.us/)
-! or via e-mail (easylist.subscription@gmail.com).
+! or via e-mail (easylist@protonmail.com).
 !
 !-----------------General tracking systems-----------------!
 %include easylist:easyprivacy/easyprivacy_general.txt%
@@ -21,9 +21,11 @@
 %include easylist:easyprivacy/easyprivacy_thirdparty_international.txt%
 !-----------------Individual tracking systems-----------------!
 %include easylist:easyprivacy/easyprivacy_specific.txt%
+!-----------------Individual cname tracking systems-----------------!
+%include easylist:easyprivacy/easyprivacy_specific_cname.txt%
 !-----------------International individual tracking systems-----------------!
 %include easylist:easyprivacy/easyprivacy_specific_international.txt%
-!-----------------------Whitelists to fix broken sites------------------------!
-%include easylist:easyprivacy/easyprivacy_whitelist.txt%
-!----------------Whitelists to fix broken international sites-----------------!
-%include easylist:easyprivacy/easyprivacy_whitelist_international.txt%
+!-----------------------Allowlists to fix broken sites------------------------!
+%include easylist:easyprivacy/easyprivacy_allowlist.txt%
+!----------------Allowlists to fix broken international sites-----------------!
+%include easylist:easyprivacy/easyprivacy_allowlist_international.txt%

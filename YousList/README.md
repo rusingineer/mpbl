@@ -1,6 +1,6 @@
 # YousList
 
-[![Build Status](https://travis-ci.org/yous/YousList.svg?branch=master)](https://travis-ci.org/yous/YousList)
+[![Build Status](https://github.com/yous/YousList/workflows/CI/badge.svg?branch=master)](https://github.com/yous/YousList/actions?query=branch%3Amaster)
 
 Block filter for advertisements, mainly on Korean sites. This works with
 [Adblock Plus][], [uBlock Origin][], [1Blocker][], [AdAway][], and [AdGuard][].
@@ -27,9 +27,10 @@ Install the browser plugin of uBlock Origin and enable 'KOR: YousList' by checki
 
 ### 1Blocker
 
-Open [Rules.1blockpkg (v20191126)](https://cdn.jsdelivr.net/gh/yous/YousList@v20191126/Rules.1blockpkg)
-and select 1Blocker from the "Open In" menu. To update to the latest version,
-you have to remove previous rules and then import the new rules.
+Go to [the latest release page](https://github.com/yous/YousList/releases/latest)
+and click the "Download Rules.1blockpkg" link. Select 1Blocker from the "Open
+In" menu. To update to the newer version, you have to remove previous rules and
+then import the new rules.
 
 ### AdAway
 

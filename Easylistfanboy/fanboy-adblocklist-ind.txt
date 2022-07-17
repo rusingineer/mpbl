@@ -1,13 +1,10 @@
 [Adblock Plus 1.1]
-! Checksum: h6J3Ajl5wq7D47B3ENMrmA
+! Checksum: QMcrtzBEbCFynta2wA5ddA
 ! Title: Fanboy's Indian
-! Updated: 8 Feb 2019
+! Updated: 29 Jan 2021
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: http://www.fanboy.co.nz/
-! Expires: 90 days
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!! Officially unsupported !!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Expires: 7 days
 !
 !---------- Generic Blocking Rules ----------
 !
@@ -47,6 +44,7 @@
 ||behindwoods.com/images/tn-skin.
 ||bpoavenues.com/bpo/ads/
 ||business-standard.com/hin/ads/
+||contributor.google.com^*/loader.js
 ||dinakaran.com/images/ananthajyothi.
 ||dinakaran.com/images/Bharatmatrimony_
 ||dinakaran.com/images/christian_matrimony.
@@ -58,6 +56,7 @@
 ||economictimes.indiatimes.com/google_$subdocument
 ||expressnews.lk/ad$subdocument
 ||freshersworld.com/campus/ads/
+||fundingchoicesmessages.google.com^
 ||galatta.com/control/togglingimageadmin/bannerimages/
 ||hotbollywoodactress.net/angelina.
 ||hotbollywoodactress.net/banners.min.js
@@ -174,6 +173,8 @@
 !---------- Indian Whitelists ----------
 !
 @@||123musiq.com/DS/123Musiq.gif
+@@||foxnewsplayer-a.akamaihd.net/player/$domain=foxnews.com
+@@||hgbasics.com^$xmlhttprequest,domain=thodkyaat.com
 @@||thinakkural.com/images/stories/ADDZ/add-54.jpg
 @@||vdopia.com^*/resolver.php?$third-party,domain=bollywoodhungama.com
 @@||vdopia.com^*/vastxml/$third-party,domain=bollywoodhungama.com
@@ -200,6 +201,7 @@
 !---------- Indian Specific Element Hiding Rules ----------
 !
 123musiq.com##table[width="300"][height="250"]
+aajtak.in##.add-center-div
 andhra4you.com##.style14[align="center"]
 andhra4you.com##.style24
 andhra4you.com##.style47
@@ -213,6 +215,7 @@ athirvu.com##.clsR1C20
 behindwoods.com##table[width="120"][align="center"]
 behindwoods.com##td[height="95"]
 bhaskar.com##.tar.fs70
+bhaskar.com##div.d32a826e.bcb15fe6
 bhaskar.com,divyabhaskar.co.in##[style="font-size: 70%; text-align: right; padding-right: 135px; color: rgb(204, 204, 204);"]
 bollyclips.com##[width="755"][height="220"]
 business-standard.com##table[width="240"][style="border-top:#cecece solid 1px;border-bottom: #cecece solid 1px;border-right: #cecece solid 1px;border-left: #cecece solid 1px;"]
@@ -276,6 +279,12 @@ nakkheeran.in###Add6
 nakkheeran.in###Add8
 nakkheeran.in###ctl00_Add1
 nakkheeran.in##[style="background-color: rgb(239, 239, 239); width: 128px; vertical-align: top;"]
+news18.com###__next > div
+news18.com##.Article_article_mad__1sOil
+news18.com##.n18thder
+news18.com##.phtadd
+news18.com##div[class^="Article_article_mad_"]
+news18.com##div[id^="W18_ENG_"]
 oneindia.in###a4p1
 oneindia.in##[style="width:300px;float:left;"]
 oneindia.in##[style="width:300px;float:left;padding-top:5px;padding-bottom:1px;"]
@@ -349,4 +358,17 @@ raaga.com##[style="width: 300px; height: 250px; margin-top: 5px; margin-bottom: 
 !
 !---------- Temporary Filters ----------
 !
+deccanchronicle.com##.horiAd
+financialexpress.com##.dfpAds
+financialexpress.com##div[id^="gpt_ad_"]
+hindustantimes.com###ampPush
+hindustantimes.com##.new_ads_unit
+indianexpress.com##.hide_utm_paytm_phonepe
+indianexpress.com##.top-ads-mobile
+jansatta.com##.pageadd
+m.economictimes.com###appinstall_bnr
+m.timesofindia.com##.adplaceholder
+moneycontrol.com###download_app_banner_btn
+timesnownews.com##div[id^="amp-btf-"]
+timesofindia.com##.dfp_ATF_wrapper
 ||murasu.tv/diwali-gifts.

@@ -1,2 +1,2 @@
-[ruadlist](https://hg.adblockplus.org/ruadlist/file/tip/advblock)
+[ruadlist](https://github.com/easylist/ruadlist)
 =========================
